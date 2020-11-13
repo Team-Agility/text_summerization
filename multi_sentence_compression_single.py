@@ -13,8 +13,11 @@ output (grid search csv):
 results/tixier_params_MSC_development.csv
 """
 import os
-path_to_root = '/data/gshang/acl2018_abssumm/'
-os.chdir(path_to_root)
+import sys
+# path_to_root = '/data/gshang/acl2018_abssumm/'
+path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
+# os.chdir(path_to_root)
+sys.path.append(path_to_root)
 import time
 import string
 import re
