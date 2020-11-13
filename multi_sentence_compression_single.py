@@ -29,7 +29,8 @@ import copy
 from language_model import LanguageModel
 from data.meeting import meeting_lists
 from sklearn.model_selection import ParameterGrid
-
+import nltk
+nltk.download('wordnet')
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
 language = 'en'     # en, fr
