@@ -4,8 +4,11 @@ copy human-written abstract to rouge2.0-distribution/test-summarization/referenc
 import os
 import re
 import shutil
-path_to_root = '/data/gshang/acl2018_abssumm/'
-os.chdir(path_to_root)
+import sys
+# path_to_root = '/data/gshang/acl2018_abssumm/'
+path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
+# os.chdir(path_to_root)
+sys.path.append(path_to_root)
 
 import string
 from data.meeting import meeting_lists
