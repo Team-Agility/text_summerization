@@ -1,0 +1,10 @@
+index,extra_features,min_words,algorithm,lsa,feature,aware,ngram_range,w,overspanning,min_elt,lsa_n_components,n_comms
+0,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,20
+1,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,25
+2,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,30
+3,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,35
+4,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,40
+5,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,45
+6,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,50
+7,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,55
+8,[],3,kmeans,True,tfidf,none,"(1, 1)",3,True,1,30,60

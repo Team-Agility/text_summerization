@@ -17,19 +17,24 @@ output (grid search csv):
 data/ami_params_create_community.csv'
 """
 import os
-path_to_root = '/data/gshang/acl2018_abssumm/'
-os.chdir(path_to_root)
+import sys
+# path_to_root = '/data/gshang/acl2018_abssumm/'
+path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
+# os.chdir(path_to_root)
+sys.path.append(path_to_root)
+
 import string
 import core_rank
 from data import utils
 from data import clustering
 from data.meeting import meeting_lists
 from collections import Counter
+import nltk
 from nltk import PerceptronTagger
 from nltk import TweetTokenizer
 from dictionary_tokenizer import DictionaryTokenizer
 from sklearn.model_selection import ParameterGrid
-
+nltk.download('averaged_perceptron_tagger')
 
 domain     = 'meeting' # meeting
 dataset_id = 'ami'     # ami, icsi
