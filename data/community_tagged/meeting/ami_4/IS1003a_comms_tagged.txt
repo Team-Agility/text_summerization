@@ -1,0 +1,84 @@
+User/NNP interface/NN design/NN to/TO you/PRP that's/VB a/DT design/NN
+
+I/PRP they/PRP use/VBP it/PRP the/DT user/JJ interface/NN didn't/NN use/VB your/PRP$ design/NN how/WRB the/DT user/JJ mean/NN you/PRP use/VBP it/PRP is/VBZ in/IN between/IN the/DT user/NN and/CC you/PRP don't/VBP want/VB that/DT so/RB
+
+It/PRP be/VB An/DT international/JJ remote/NN control/NN as/IN we/PRP want/VBP
+you/PRP really/RB the/DT remote/JJ control/NN to/TO be/VB international/JJ and/CC not/RB too/RB
+
+As/IN you/PRP will/MD discuss/VB about/IN the/DT remote/JJ control/NN you/PRP would/MD have/VB to/TO experience/VB here/RB with/IN the/DT remote/JJ control/NN
+
+id/NN that/IN the/DT use/NN of/IN user/JJ interface/NN you/PRP do/VBP that/IN the/DT function/NN
+
+and/CC as/IN you/PRP may/MD know/VB there's/VB a/DT lot/NN of/IN industrials/NNS interesting/VBG in/IN creating/VBG and/CC a/DT remote/JJ control/NN so/IN the/DT
+
+just/RB maybe/RB be/VB imagine/JJ it/PRP a/DT with/IN a/DT remote/JJ comes/VBZ from/IN controls/NNS try/VBP to/TO
+
+Maybe/RB if/IN you/PRP think/VBP that's/VB a/DT design/NN so/RB it's/VBZ a/DT function/NN tid/NN that/IN the/DT
+
+also/RB to/TO work/VB on/IN the/DT design/NN of/IN the/DT technical/JJ from/IN the/DT functions/NNS of/IN the/DT remote/JJ control/NN and/CC
+
+or/CC project/NN is/VBZ to/TO create/VB a/DT new/JJ remote/NN control/NN and/CC
+
+And/CC uid/NN for/IN the/DT user/JJ interface/NN design/NN
+it/PRP the/DT user/JJ interface/NN to/TO design/VB or/CC as/IN a/DT book/NN but/CC it/PRP would/MD be/VB
+
+And/CC to/TO be/VB that's/VBN really/RB people/NNS would/MD be/VB interested/JJ in/IN buying/VBG in/IN your/PRP$ remote/NN control/NN with/IN maybe/RB a/DT new/JJ functionalities/NNS that/WDT don't/VBP exist/VB in/IN the/DT existing/VBG remote/NN controls/NNS now/RB
+
+and/CC then/RB do/VB this/DT with/IN watch/NN tool/NN would/MD be/VB user/JJ interface/NN design/NN know/VBP and/CC then/RB industrial/JJ designer/NN
+
+And/CC when/WRB designing/VBG uv/JJ remote/JJ control/NN just/RB remember/VB that/IN so/IN it/PRP has/VBZ to/TO be/VB international/JJ product/NN so/IN you/PRP don't/VBP have/VB to/TO
+
+Ids/NNP for/IN the/DT industry/NN designer/NN
+
+you/PRP read/VBP that/IN user/JJ interface/NN do/VBP that/IN
+
+so/RB i/JJ make/VBP early/JJ user/NN interface/NN you/PRP
+
+it/PRP will/MD be/VB the/DT same/JJ for/IN the/DT conceptual/JJ design/NN and/CC also/RB the/DT same/JJ for/IN the/DT detailed/JJ design/NN
+
+from/IN controls/NNS try/VBP to/TO create/VB something/NN new/JJ and/CC people/NNS would/MD like/VB
+
+So/RB for/IN them/PRP the/DT u/JJ functional/JJ design/NN you/PRP have/VBP to/TO do/VB on/IN any/DT individual/JJ work/NN and/CC
+
+so/RB the/DT remote/JJ control/NN has/VBZ to/TO be/VB original/JJ trendy/JJ and/CC user-friendly/JJ
+
+you/PRP you/PRP the/DT minutes/NNS of/IN call/NN functions/NNS and/CC room/NN
+
+and/CC of/IN the/DT user/JJ requirement/NN specifications/NNS
+
+we/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN the/DT meeting/NN
+
+and/CC the/DT product/NN costs/NNS will/MD be/VB not/RB more/RBR than/IN twelve/VB euros/NNS and/CC fifty/JJ cents/NNS it/PRP is/VBZ So/RB
+And/CC you/PRP have/VBP to/TO keep/VB it/PRP under/IN twelve/NN euros/NN and/CC fifty/NNS so/RB
+you/PRP have/VBP to/TO keep/VB in/IN mind/NN that's/IN the/DT product/NN cost/NN want/VBP to/TO be/VB makes/VBZ more/JJR than/IN twelve/VB fifty/JJ euros/NNS
+
+Present/NNP project/NN discuss/VBZ a/DT little/JJ bit/NN
+
+and/CC you/PRP have/VBP to/TO take/VB care/NN of/IN thingy/JJ industrial/JJ wages/NNS for/IN me/PRP
+
+i/NN will/MD have/VB to/TO speak/VB about/IN send/PDT the/DT project/NN or/CC project/NN
+
+So/IN the/DT selling/NN price/NN of/IN the/DT project/NN will/MD be/VB twenty/JJ five/CD euros/NNS
+
+and/CC the/DT next/JJ meeting/NN will/MD start/VB in/IN thirty/NN minutes/NNS
+
+as/IN we/PRP want/VBP to/TO set/VB it's/NN in/IN the/DT enter/NN a/DT world/NN and/CC the/DT product/NN
+
+And/CC the/DT in/IN the/DT city/NN than/IN it/PRP is/VBZ house/NN a/DT object/NN we/PRP look/VBP like/IN
+
+You/PRP want/VBP me/PRP to/TO draw/VB something/NN But/CC data/NNS manager/NN
+
+Tool/NNP training/NN is/VBZ to/TO try/VB out/RP the/DT white/JJ board/NN so/RB
+
+Maybe/RB you/PRP can/MD draw/VB your/PRP$ favourite/NN animal/NN
+
+you/PRP have/VBP quality/VBN as/IN a/DT tv/NN french/NN and/CC uk/JJ keyboard/NN so/IN you/PRP really/RB
+
+So/RB i'm/VB the/DT marketing/NN expert/NN roo/NN
+
+No/DT mouse/NN is/VBZ not/RB so/RB difficult/JJ for/IN the/DT mouse/NN is/VBZ the/DT
+
+And/CC make/VB a/DT list/NN of/IN its/PRP$ favourite/NN characteristics/NNS
+
+job/NN cuts/NNS in/IN for/IN a/DT simple/NN i/NN
+
