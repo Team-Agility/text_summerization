@@ -1,5 +1,4 @@
 """
-Multi-Sentence Compression (MSC) （for test with a sigle combination of parameters）
 Generate results: tixier and its variations tixier[0-6],
 filippova, boudin and mehdad systems. [16G RAM required]
 
