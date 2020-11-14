@@ -7,6 +7,7 @@ I/PRP know/VBP from/IN because/IN that/DT nobody/NN has/VBZ colour/VBN for/IN a/
 but/CC i/NN know/VBP screens/NNS on/IN a/DT remote/JJ controls/NNS
 
 So/RB any/DT of/IN you/PRP have/VBP experience/VBN in/IN remote/NN controls/NNS
+
 a/DT remote/JJ controlled/VBN always/RB black/JJ but/CC this/DT one/CD could/MD
 Or/CC if/IN we/PRP should/MD have/VB a/DT target/NN the/DT remote/JJ control/NN
 
@@ -32,8 +33,6 @@ my/PRP$ daughter/NN likes/NNS yellow/JJ remote/NN controls/VBZ we/PRP
 
 one/CD thing/NN in/IN order/NN of/IN processing/VBG this/DT remote/JJ control/NN if/IN you/PRP remember/VBP when/WRB people/NNS use/VBP it/PRP to/TO be/VB a/DT bit/NN never/RB find/VB a/DT good/JJ but/CC the/DT right/JJ place/NN For/IN some/DT reason/NN
 
-Too/RB expensive/JJ for/IN twelve/NN euro/NN
-
 maybe/RB we/PRP can/MD change/VB the/DT colour/NN of/IN the/DT accused/VBN of/IN three/CD
 
 Just/RB to/TO try/VB to/TO who's/VB the/DT user/JJ interface/NN designer/NN According/VBG to/TO
@@ -42,15 +41,16 @@ but/CC process/NN when/WRB you/PRP change/VBP channels/NNS you/PRP can/MD have/V
 
 lake/VB the/DT phones/NNS and/CC these/DT things/NNS i/VBP at/IN least/JJS for/IN children/NNS
 
+And/CC for/IN a/DT production/NN cost/NN of/IN Twelve/NNP fifty/JJ euro/NN maximum/NN
+Too/RB expensive/JJ for/IN twelve/NN euro/NN
+
 the/DT important/JJ points/NNS we/PRP have/VBP to/TO talk/VB about/IN our/PRP$ it's/JJ functional/JJ design/NN it's/JJ conceptual/JJ design/NN and/CC do/VB you/PRP say/VB the/DT detailed/JJ design/NN
 
 it/PRP could/MD be/VB on/IN your/PRP$ screen/NN Which/NNP we/PRP changed/VBD depending/VBG on/IN the/DT user/NN or/CC even/RB the/DT user/NN Some/DT i/NN
 
-And/CC for/IN a/DT production/NN cost/NN of/IN Twelve/NNP fifty/JJ euro/NN maximum/NN
+i/JJ change/VBP channel/NNS ideas/NNS that/WDT
 
 and/CC We/PRP speak/VBP about/IN this/DT tool/NN would/MD going/VBG to/TO design/VB And/CC take/VB to/TO make/VB the/DT project/NN plan/NN Some/DT discussion/NN
-
-i/JJ change/VBP channel/NNS ideas/NNS that/WDT
 
 not/RB pretty/RB small/JJ a/DT colour/NN
 

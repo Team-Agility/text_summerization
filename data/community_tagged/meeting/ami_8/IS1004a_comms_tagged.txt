@@ -6,13 +6,14 @@ So/RB the/DT goal/NN this/DT project/NN used/VBN to/TO this/DT lot/NN is/VBZ a/D
 
 we/PRP discussed/VBD of/IN off/RP line/NN or/CC do/VB we/PRP do/VB it/PRP doesn't/VB meeting/VBG about/IN on/IN a/DT difference/NN
 
-is/VBZ more/RBR a/DT job/NN to/TO work/VB or/CC markets/NNS
-
 so/RB all/PDT the/DT while/NN going/VBG to/TO both/DT to/TO the/DT whiteboard/NN it/PRP takes/VBZ and/CC so/RB some/DT notes/NNS a/DT little/JJ some/DT drawings/NNS still/RB
+
+is/VBZ more/RBR a/DT job/NN to/TO work/VB or/CC markets/NNS
 
 and/CC then/RB we/PRP go/VBP to/TO will/MD depend/VB on/IN the/DT project/NN and/CC had/VBD discussions/NNS about/IN it/PRP
 
 sir/NN there's/NN draw/VB my/PRP$ favourite/JJ animal/JJ See/NN
+
 so/RB Not/RB the/DT favourite/JJ animal/NN but/CC now/RB draw/VBZ a/DT different/JJ i/NN tried/VBD
 
 first/RB the/DT functional/JJ design/NN the/DT seconds/NNS
@@ -35,9 +36,9 @@ you/PRP can/MD actually/RB draw/VB are/VBP pretty/RB in/IN the/DT corner/NN of/I
 
 should/MD shouldn't/VB be/VB specific/JJ remote/VB control/NN to/TO some/DT specific/JJ device/NN should/MD it/PRP
 
-and/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN all/PDT the/DT animals/NNS these/DT an/DT
-
 the/DT seconds/VBZ the/DT conceptual/JJ design/NN and/CC then/RB the/DT
+
+and/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN all/PDT the/DT animals/NNS these/DT an/DT
 
 so/IN it/PRP should/MD be/VB the/DT topic/NN of/IN maybe/NN of/IN the/DT next/JJ meeting/NN is/VBZ to/TO have/VB an/DT overview/NN of/IN these/DT and/CC in/IN which/WDT direction/NN we/PRP should/MD go/VB So/IN we/PRP
 
@@ -85,9 +86,9 @@ do/VBP we/PRP need/VB to/TO know/VB but/CC is/VBZ it/PRP acts/VBZ like/IN a/DT p
 
 I/PRP i/VBP was/VBD that/DT alliance/NN that/IN they/PRP do/VBP their/PRP$ hand/NN is/VBZ the/DT female/JJ lion/NN school/NN all/DT kinds/NNS of/IN
 
-it's/JJ black/JJ as/IN so/IN it/PRP can/MD He/PRP can/MD hide/VB it/PRP so/RB if/IN bit/VBN easily/RB and/CC
+when/WRB they/PRP come/VBP to/TO that/DT position/NN the/DT second/JJ the/DT court/NN feet/NNS would/MD be/VB there/RB that's/JJ
 
 Is/VBZ this/DT the/DT stand/NN alone/RB unit/NN that/IN we're/VBZ gonna/JJ be/VB selling/VBG so/RB it's/JJ gonna/NN be/VB
 
-when/WRB they/PRP come/VBP to/TO that/DT position/NN the/DT second/JJ the/DT court/NN feet/NNS would/MD be/VB there/RB that's/JJ
+it's/JJ black/JJ as/IN so/IN it/PRP can/MD He/PRP can/MD hide/VB it/PRP so/RB if/IN bit/VBN easily/RB and/CC
 

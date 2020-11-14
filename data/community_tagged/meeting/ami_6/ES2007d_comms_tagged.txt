@@ -37,11 +37,10 @@ Because/IN it/PRP is/VBZ more/RBR k/JJ to/TO lie/VB and/CC the/DT table/JJ left-
 
 this/DT is/VBZ fine/JJ a/DT small/JJ and/CC then/RB they/PRP say/VBP it's/JJ something/NN that's/JJ new/JJ looks/VBZ a/DT bit/NN kirk/JJ if/IN people/NNS want/VBP that/IN it's/NN
 
-That/DT was/VBD the/DT main/JJ criteria/NNS from/IN the/DT last/JJ meeting/NN you/PRP had/VBD to/TO teach/VB you/PRP proof/VB
-
 we/PRP wanna/VBP do/VBP we/PRP want/VB it/PRP to/TO be/VB ergonomic/JJ and/CC to/TO be/VB made/VBN out/IN of/IN rubber/NN very/RB simple/JJ and/CC easy/JJ
 not/RB made/VBN of/IN wood/NN or/CC titanium/NN rubber/VBP it/PRP just/RB simple/VB
-not/RB every/DT everything/NN else/RB is/VBZ fairly/RB simple/JJ but/CC the/DT fact/NN that/IN we/PRP use/VBP the/DT kinetic/JJ energy/NN was/VBD new/JJ
+
+That/DT was/VBD the/DT main/JJ criteria/NNS from/IN the/DT last/JJ meeting/NN you/PRP had/VBD to/TO teach/VB you/PRP proof/VB
 
 Plus/CC red/JJ which/WDT is/VBZ a/DT fruit/NN and/CC vegetable/JJ
 actually/RB in/IN wanna/JJ manager/NN of/IN this/DT is/VBZ that/IN after/IN the/DT after/IN this/DT fat/NN of/IN fruit/NN and/CC vegetables/NNS passes/VBZ this/DT will/MD still/RB be/VB remote/JJ we're/NN not/RB
@@ -49,14 +48,15 @@ actually/RB in/IN wanna/JJ manager/NN of/IN this/DT is/VBZ that/IN after/IN the/
 that/IN they/PRP get/VBP lost/VBN is/VBZ easy/JJ to/TO get/VB lost/VBN
 The/DT mobiles/NNS get/VBP lost/VBN all/PDT the/DT time/NN
 
+And/CC for/IN electronics/NNS we/PRP decided/VBD on/IN it/PRP being/VBG just/RB a/DT simple/JJ the/DT easiest/JJS Saying/VBG this/DT inside/NN and/CC
+not/RB every/DT everything/NN else/RB is/VBZ fairly/RB simple/JJ but/CC the/DT fact/NN that/IN we/PRP use/VBP the/DT kinetic/JJ energy/NN was/VBD new/JJ
+
 So/RB If/IN you/PRP hold/VBP it/PRP like/IN that/IN the/DT one/CD on/IN your/PRP$ thumb/NN the/DT thumb/JJ button/NN is/VBZ the/DT power/NN button/NN
 
 has/VBZ a/DT on/IN a/DT banana/NN them/PRP as/IN a/DT mute/NN button/NN
 banana/VB them/PRP as/IN a/DT mute/NN button/NN and/CC
 
 using/VBG the/DT pens/NNS and/CC writing/VBG on/IN these/DT special/JJ pads/NNS and/CC all/DT that/WDT
-
-And/CC for/IN electronics/NNS we/PRP decided/VBD on/IN it/PRP being/VBG just/RB a/DT simple/JJ the/DT easiest/JJS Saying/VBG this/DT inside/NN and/CC
 
 So/RB at/IN this/DT stage/NN this/DT is/VBZ the/DT last/JJ meeting/NN of/IN the/DT project/NN we/PRP don't/VBP have/VB another/DT
 No/DT when/WRB it's/JJ meetings/NNS finished/VBN but/CC officially/RB then/RB we'll/VB get/VB a/DT questionnaire/NN to/TO fill/VB in/IN a/DT Or/NNP or/CC six/CD
@@ -74,9 +74,9 @@ In/IN the/DT corporate/JJ that's/NN next/IN to/TO the/DT corporate/JJ simple/NN 
 
 Hold/VB on/IN folks/NNS We/PRP fit/VBP
 
-i'm/NN not/RB a/DT put/NN it/PRP in/IN one/CD of/IN my/PRP$ email/JJ side/NN percent/NN of/IN
-
 it's/NN got/VBD them/PRP the/DT black/JJ yellow/NN and/CC blue/NN
+
+i'm/NN not/RB a/DT put/NN it/PRP in/IN one/CD of/IN my/PRP$ email/JJ side/NN percent/NN of/IN
 
 Index/NN finger/NN is/VBZ channel/VBN up/RP know/JJ fingers/NNS channel/VBP down/RP ring/VBG fingers/NNS
 ring/VBG fingers/NNS volume/NN up/IN you/PRP think/VBP he's/JJ volume/NN down/RP
@@ -110,15 +110,15 @@ I/PRP see/VBP that/IN makes/VBZ sense/NN because/IN i/JJ remember/VBP like/IN Yo
 think/VB where/WRB the/DT envy/NN of/IN all/PDT the/DT whole/JJ wall/NN there/EX are/VBP teams/NNS
 
 so/RB it's/JJ really/RB basic/JJ functionality/NN is/VBZ as/RB far/RB as/IN what/WP keys/NNS are/VBP available/JJ but/CC we/PRP think/VBP it's/JJ very/RB
-
-it/PRP is/VBZ it/PRP colourwise/NN and/CC is/VBZ it/PRP spongy/VBZ so/RB what/WP mark/NN
-I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP and/CC have/VB five/CD minutes/NNS of/IN Sounds/NNS
-
-Lisa/NNP marie/NN you/PRP just/RB apply/VB to/TO that/DT one/NN
-
-It's/NNP not/RB the/DT thing/NN that's/NN gonna/VBP slip/NN like/IN between/IN couch/JJ cushion/NN
+It/PRP has/VBZ got/VBN as/IN the/DT corpus/NN course/NN gotten/JJ bass/NN if/IN you/PRP polls/VBP about/IN
 
 So/RB all/PDT that/DT important/JJ cues/NNS are/VBP ready/JJ you/PRP if/IN you're/RB right/JJ it/PRP convenient/JJ place/NN for/IN you/PRP to/TO access/NN them/PRP so/IN you/PRP don't/VBP you/PRP
 
-It/PRP has/VBZ got/VBN as/IN the/DT corpus/NN course/NN gotten/JJ bass/NN if/IN you/PRP polls/VBP about/IN
+I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP and/CC have/VB five/CD minutes/NNS of/IN Sounds/NNS
+
+it/PRP is/VBZ it/PRP colourwise/NN and/CC is/VBZ it/PRP spongy/VBZ so/RB what/WP mark/NN
+
+It's/NNP not/RB the/DT thing/NN that's/NN gonna/VBP slip/NN like/IN between/IN couch/JJ cushion/NN
+
+Lisa/NNP marie/NN you/PRP just/RB apply/VB to/TO that/DT one/NN
 

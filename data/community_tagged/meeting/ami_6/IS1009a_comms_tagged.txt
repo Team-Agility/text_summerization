@@ -12,17 +12,17 @@ and/CC my/PRP$ role/NN is/VBZ to/TO design/VB a/DT television/NN remote/NN contr
 
 here/RB is/VBZ what/WP the/DT functional/JJ design/NN is/VBZ supposed/VBN to/TO achieve/VB
 
-F/NNP to/TO finish/VB the/DT remote/JJ control/NN get/NN to/TO that/DT
-loses/NNS remote/VBP control/NN
-
 Now/RB the/DT discussion/NN i/NN it/PRP is/VBZ does/VBZ any/DT one/CD of/IN you/PRP would/MD have/VB experiences/NNS with/IN remote/JJ control/NN
+
+and/CC the/DT specifications/NNS of/IN user/JJ interface/NN and/CC it/PRP in/IN but/CC user/JJ interface/NN design/NN
 
 the/DT same/JJ goes/VBZ for/IN the/DT conceptual/JJ design/NN they/PRP will/MD be/VB individual/JJ
 
-and/CC my/PRP$ responsibilities/NNS are/VBP drop/JJ r/NN or/CC a/DT deal/NN but/CC a/DT lot/NN technical/JJ functional/JJ designs/NNS and/CC the/DT specifications/NNS
+F/NNP to/TO finish/VB the/DT remote/JJ control/NN get/NN to/TO that/DT
+loses/NNS remote/VBP control/NN
+Now/RB having/VBG using/VBG a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN its/PRP$ things/NNS you/PRP would/MD like/VB to/TO change/VB things/NNS would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN any/DT
 
-and/CC i/NN and/CC and/CC user/JJ interface/NN my/PRP$ role/NN is/VBZ
-and/CC the/DT specifications/NNS of/IN user/JJ interface/NN and/CC it/PRP in/IN but/CC user/JJ interface/NN design/NN
+and/CC my/PRP$ responsibilities/NNS are/VBP drop/JJ r/NN or/CC a/DT deal/NN but/CC a/DT lot/NN technical/JJ functional/JJ designs/NNS and/CC the/DT specifications/NNS
 
 Read/JJ different/JJ types/NNS of/IN design/NN we/PRP can/MD be/VB concerned/VBN
 
@@ -39,10 +39,9 @@ And/CC then/RB the/DT technical/JJ functions/NNS you'd/VBP the/DT technical/JJ f
 
 and/CC the/DT marketing/NN manager/NN is/VBZ coming/VBG up/RP with/IN some/DT user/NN requirements/NNS specification/VBP like/IN friendliness/NN
 
-Now/RB having/VBG using/VBG a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN its/PRP$ things/NNS you/PRP would/MD like/VB to/TO change/VB things/NNS would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN any/DT
-
 the/DT next/JJ meeting/NN will/MD be/VB in/IN thirty/JJ minutes/NNS you/PRP all/DT
 
+and/CC i/NN and/CC and/CC user/JJ interface/NN my/PRP$ role/NN is/VBZ
 the/DT main/JJ responsibilities/NNS user/VBP interface/NN and/CC my/PRP$
 
 like/IN friendliness/NN and/CC what/WP we/PRP just/RB discussed/VBD and/CC channel/NNS that/WDT would/MD be/VB you/PRP were/VBD
@@ -97,18 +96,19 @@ A/DT town/NN twelve/NN fifty/JJ euros/NNS per/IN
 
 And/CC piece/NN that/IN you/PRP will/MD get/VB specific/JJ key/JJ instructions/NNS for/IN that/DT that's/VBZ the/DT end/NN of/IN the/DT
 
+minutes/NNS any/DT questions/NNS at/IN this/DT point/NN four/CD
+
 my/PRP$ idea/NN is/VBZ maybe/RB that's/JJ the/DT main/JJ it/PRP really/RB hit/VB me/PRP in/IN other/JJ words/NNS if/IN it's/NNS like/IN in/IN a/DT dark/JJ spot/NN it/PRP mean/VBZ you're/NNS like/IN a/DT newspaper/NN is/VBZ on/IN top/NN a/DT sweater/NN is/VBZ on/IN top/NN or/CC it's/VB a/DT bit/NN behind/IN the/DT plant/NN at/IN that/DT moment/NN it's/NN like/IN it's/NN like/IN but/CC you/PRP call/VBP it/PRP the/DT lights/NNS at/IN the/DT sensors/NNS in/IN
 
 because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS use/VBP them/PRP they/PRP can't/VBP find/VB it/PRP
 
-to/TO move/VB a/DT lot/NN but/CC we/PRP have/VBP some/DT good/JJ points/NNS to/TO start/VB with/IN here/RB
-minutes/NNS any/DT questions/NNS at/IN this/DT point/NN four/CD
-
 to/TO materials/NNS cost/NN etcetera/NN
 
-right/RB no/DT like/JJ teeny/NN shape/NN for/IN a/DT spare/NN in/IN your/PRP$ hand/NN up/RP
+to/TO move/VB a/DT lot/NN but/CC we/PRP have/VBP some/DT good/JJ points/NNS to/TO start/VB with/IN here/RB
+
+hm/NN that/WDT should/MD keep/VB everybody/NN on/IN their/PRP$ toes/NNS and/CC challenge/NN
 
 See/VB if/IN i/JJ remember/VBP have/VBP to/TO draw/VB kitty/JJ cat/NN or/CC a/DT rabbit/NN
 
-hm/NN that/WDT should/MD keep/VB everybody/NN on/IN their/PRP$ toes/NNS and/CC challenge/NN
+right/RB no/DT like/JJ teeny/NN shape/NN for/IN a/DT spare/NN in/IN your/PRP$ hand/NN up/RP
 

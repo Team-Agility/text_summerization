@@ -43,9 +43,9 @@ you/PRP have/VBP a/DT meeting/NN individual/JJ work/NN meeting/NN and/CC at/IN t
 
 that/DT attack/VBZ the/DT phase/NN of/IN the/DT actor/NN for/IN a/DT specific/JJ functions/NNS i/VBP wasn't/VBP
 
-but/CC you/PRP and/CC you/PRP would/MD need/VB several/JJ other/JJ buttons/NNS for/IN a/DT video/NN player/NN you/PRP need/VBP a/DT play/NN
-
 that/IN this/DT is/VBZ from/IN your/PRP$ television/NN to/TO your/PRP$ remote/NN control/NN has/VBZ to/TO be/VB and/CC quite/VB a/DT big/JJ case/NN sense/NN
+
+but/CC you/PRP and/CC you/PRP would/MD need/VB several/JJ other/JJ buttons/NNS for/IN a/DT video/NN player/NN you/PRP need/VBP a/DT play/NN
 
 we/PRP have/VBP first/VBN to/TO start/VB the/DT basic/JJ functions/NNS and/CC
 so/RB you/PRP have/VBP some/DT basic/JJ starting/VBG point/NN then/RB you/PRP can/MD always/RB
@@ -85,10 +85,10 @@ points/NNS it/PRP use/VBP infrared/JJ light/NN to/TO communicate/VB a/DT signal/
 
 Move/NN to/TO the/DT meeting/NN room/NN i/NN
 
-if/IN different/JJ i/NN would/MD change/VB that/DT explain/VB why/WRB you/PRP drop/VBP that/IN to/TO take/VB your/PRP$ animal/NNS so/RB
 do/NNS have/VBP to/TO explain/VB know/JJ why/WRB it/PRP shows/VBZ is/VBZ is/VBZ animal/JJ
 
 and/CC you/PRP should/MD draw/VB an/DT animal/NN A/NNP sheep/NN explain/NN this/DT different/JJ colours/NNS and/CC if/IN different/JJ i/NN would/MD change/VB
+if/IN different/JJ i/NN would/MD change/VB that/DT explain/VB why/WRB you/PRP drop/VBP that/IN to/TO take/VB your/PRP$ animal/NNS so/RB
 
 we/PRP have/VBP a/DT financial/JJ aspect/NN to/TO this/DT project/NN
 we/PRP discussed/VBD and/CC put/VBD it/PRP in/IN the/DT project/NN folder/NN
@@ -124,9 +124,9 @@ Fox/NNP Fire/NNP fox/NN
 
 case/NN sense/NN has/VBZ to/TO be/VB cable/NN for/IN a/DT zapping/NN
 
+k/NN clear/JJ race/NN years/NNS or/CC
+
 they're/NNS cute/VBP they're/JJ independent/JJ and/CC cuddly/RB
 
 They/PRP will/MD look/VB like/IN mall/NN likes/NNS it's/VBP have/VBP nelson/NN
-
-k/NN clear/JJ race/NN years/NNS or/CC
 

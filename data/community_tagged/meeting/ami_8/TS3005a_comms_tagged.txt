@@ -1,3 +1,5 @@
+but/CC and/CC they/PRP don't/VBP use/VB the/DT same/JJ signal/NN a/DT remote/JJ control/NN because/IN you/PRP can/MD use/VB
+
 on/IN projects/NNS and/CC the/DT aim/NN for/IN the/DT project/NN is/VBZ to/TO create/VB a/DT to/TO design/VB a/DT new/JJ remote/NN control/NN which/WDT the/DT
 
 with/IN them/PRP the/DT most/RBS people/NNS than/IN will/MD buy/VB the/DT remote/JJ control/NN because/IN because/IN
@@ -8,16 +10,13 @@ the/DT main/JJ idea/NN of/IN this/DT remote/JJ controls/VBZ the/DT
 can/MD speak/VB about/IN what/WP your/PRP$ experience/NN with/IN remote/NN controls/NNS
 What's/VB your/PRP$ experience/NN with/IN remote/NN control/NN
 
-because/IN you/PRP can/MD use/VB a/DT panasonic/JJ your/PRP$ remote/JJ control/NN on/IN a/DT philips/NNS television/NN
-
-but/CC then/RB you/PRP have/VBP to/TO you/PRP to/TO find/VB rather/RB remote/JJ control/NN if/IN you/PRP want/VBP so/RB search/JJ it's/NN not/RB
-
 That's/NN that/IN you/PRP have/VBP a/DT lot/NN of/IN rhode/NN remotes/NNS row/VBP on/IN remote/JJ control/NN yes/NNS
 The/DT different/JJ remote/NN controls/NNS for/IN different/JJ devices/NNS yes/RB
 I/PRP i/VBP have/VBP a/DT cell/NN you/PRP get/VBP in/IN the/DT same/JJ size/NN remote/NN control/NN use/NN every/DT day/NN but/CC
 that/DT would/MD be/VB when/WRB the/DT customers/NNS will/MD buy/VB this/DT remote/JJ control/NN they/PRP already/RB have/VBP a/DT remote/JJ control/NN which/WDT the/DT company's/NN and/CC do/VB with/IN the/DT standards/NNS a/DT remote/JJ control/NN which/WDT comes/VBZ so/RB with/IN the/DT television/NN so/RB
-but/CC and/CC they/PRP don't/VBP use/VB the/DT same/JJ signal/NN a/DT remote/JJ control/NN because/IN you/PRP can/MD use/VB
-the/DT this/DT is/VBZ always/RB with/IN a/DT universal/JJ remotes/NNS have/VBP to/TO choose/VB to/TO go/VB to/TO use/VB which/WDT of/IN
+but/CC then/RB you/PRP have/VBP to/TO you/PRP to/TO find/VB rather/RB remote/JJ control/NN if/IN you/PRP want/VBP so/RB search/JJ it's/NN not/RB
+
+because/IN you/PRP can/MD use/VB a/DT panasonic/JJ your/PRP$ remote/JJ control/NN on/IN a/DT philips/NNS television/NN
 
 five/CD minutes/NNS and/CC the/DT meetings/NNS or/CC whether/IN a/DT while/NN control/NN
 
@@ -33,21 +32,22 @@ i'm/VB the/DT project/NN manager/NN of/IN this/DT project/NN and/CC
 i/NN said/VBD i'm/PDT the/DT project/NN manager/NN and/CC i'm/NN hoping/NN
 and/CC i/VB hope/VBP also/RB reach/VBP a/DT lot/NN of/IN what/WP this/DT project/NN so/RB
 
-and/CC i/JJ hope/VBP we/PRP have/VBP expertise/VBN to/TO create/VB such/JJ a/DT project/NN just/RB a/DT product/NN
-
 and/CC i'd/NN like/IN to/TO hear/VB where/WRB you/PRP are/VBP on/IN what/WP your/PRP$ functions/NNS are/VBP on/IN this/DT project/NN let's/NN
 
 but/CC not/RB the/DT buttons/NNS used/VBN to/TO search/VB on/IN the/DT the/DT channels/NNS on/IN your/PRP$ television/NN hearing/NN use/NN those/DT
 you/PRP don't/VBP have/VB to/TO integrate/VB the/DT buttons/NNS to/TO search/VB the/DT channels/NNS we/PRP television/NN in/IN those/DT
 
+we/PRP have/VBP to/TO discuss/VB because/IN we/PRP have/VBP to/TO create/VB a/DT product/NN and/CC then/RB
+and/CC i/JJ hope/VBP we/PRP have/VBP expertise/VBN to/TO create/VB such/JJ a/DT project/NN just/RB a/DT product/NN
+
 and/CC my/PRP$ function/NN is/VBZ user/JJ interface/NN design/NN so/RB
 the/DT user/JJ interface/NN designer/NN will/MD work/VB out/RP the/DT technical/JJ functions/NNS design/NN and/CC
+
+the/DT this/DT is/VBZ always/RB with/IN a/DT universal/JJ remotes/NNS have/VBP to/TO choose/VB to/TO go/VB to/TO use/VB which/WDT of/IN
 
 but/CC you/PRP shouldn't/VBP believe/VB and/CC buy/VB a/DT page/NN just/RB create/VB
 
 so/RB maybe/RB minimise/NN design/NN the/DT least/JJS impossible/JJ amount/NN of/IN buttons/NNS
-
-we/PRP have/VBP to/TO discuss/VB because/IN we/PRP have/VBP to/TO create/VB a/DT product/NN and/CC then/RB
 
 because/IN television/NN sifting/VBG the/DT teachers/NNS to/TO make/VB ultimate/JJ possible/JJ for/IN c/NN on/IN one/CD side/NN of/IN the/DT screen/NN and/CC teletext/NN on/IN the/DT other/JJ side/NN but/CC just/RB not/RB regular/JJ television/NN
 number/NN in/IN the/DT most/RBS television/NN is/VBZ the/DT middle/NN
@@ -77,14 +77,15 @@ but/CC like/IN the/DT two/CD pages/NNS on/IN the/DT same/JJ screen/NN like/IN te
 
 the/DT most/RBS functions/NNS we/PRP will/MD use/VB will/MD be/VB to/TO add/VB a/DT new/JJ page/NN
 
+So/RB you/PRP don't/VBP want/VB to/TO bother/VB people/NNS with/IN loads/NNS of/IN buttons/NNS but/CC on/IN the/DT other/JJ hand/NN they/PRP need/VBP
+
 My/PRP$ name's/PDT the/DT anymore/NN i'm/VBZ the/DT marketing/NN expert/NN My/NNP job/NN for/IN
 maybe/RB for/IN which/WDT market/NN segments/NNS it/PRP should/MD be/VB a/DT more/RBR should/MD be/VB in/IN all/DT segments/NNS
 
-So/RB you/PRP don't/VBP want/VB to/TO bother/VB people/NNS with/IN loads/NNS of/IN buttons/NNS but/CC on/IN the/DT other/JJ hand/NN they/PRP need/VBP
-We/PRP deciding/VBG market/NN will/MD be/VB all/DT people/NNS all/PDT the/DT pl/NN elderly/JJ young/JJ people/NNS so/RB
-
 and/CC the/DT way/NN we/PRP hope/VBP to/TO achieve/VB that/DT is/VBZ through/IN the/DT following/JJ that/IN it's/JJ consist/NN of/IN three/CD
 those/DT instructions/NNS will/MD be/VB in/IN the/DT email/NN you/PRP will/MD receive/VB shortly/RB i/JJ hope/VBP
+
+We/PRP deciding/VBG market/NN will/MD be/VB all/DT people/NNS all/PDT the/DT pl/NN elderly/JJ young/JJ people/NNS so/RB
 
 from/IN the/DT finance/NN department/NN i've/NN learned/VBD that/IN we're/NN aiming/VBG for/IN a/DT selling/NN price/NN of/IN twenty-five/JJ euros/NNS and/CC were/VBD hoping/VBG
 and/CC were/VBD hoping/VBG for/IN a/DT aim/NN of/IN fifty/JJ million/CD euros/NNS and/CC
@@ -122,11 +123,10 @@ it's/VB a/DT smartboard/NN but/CC also/RB a/DT slow/JJ board/NN but/CC
 
 animals/NNS as/IN words/NNS Sounds/NNP good/JJ
 
-and/CC it/PRP also/RB let's/VBD see/VB it's/NN here/RB change/VBP the/DT colour/NN of/IN your/PRP$ pen/NN they/PRP
-
 that/DT field/NN so/RB that/IN no/DT cameras/NNS can/MD see/VB your/PRP$ face/NN there/EX are/VBP cameras/NNS
 have/VB here/RB only/RB told/VBD about/IN the/DT cameras/NNS microphones/NNS but/CC
 
+and/CC it/PRP also/RB let's/VBD see/VB it's/NN here/RB change/VBP the/DT colour/NN of/IN your/PRP$ pen/NN they/PRP
 sheet/NN with/IN different/JJ colours/NNS showed/VBD
 colours/NNS showed/VBD you/PRP how/WRB to/TO pick/VB a/DT card/NN and/CC also/RB with/IN different/JJ
 

@@ -5,14 +5,14 @@ so/IN it/PRP doesn't/VBZ matter/RBR what/WP place/NN of/IN this/DT on/IN the/DT 
 control/VB what/WP do/VBP you/PRP need/VB a/DT new/JJ remote/NN control/NN i/NN already/RB
 
 my/PRP$ first/JJ question/NN was/VBD does/VBZ it/PRP have/VB to/TO be/VB universal/JJ remote/VB control/NN
-I/PRP don't/VBP think/VB you/PRP can/MD buy/VB universal/JJ remote/JJ control/NN for/IN twenty/JJ five/CD euros/NNS so/RB
-i/NN know/VBP where/WRB you/PRP can/MD buy/VB universal/JJ control/NN for/IN a/DT only/JJ twenty/NN use/NN h/NN
 so/RB you/PRP just/RB say/VBP it's/VBP a/DT universal/JJ remote/NN control/NN perfect/NN
 
 And/CC we/PRP have/VBP to/TO care/VB for/IN the/DT strength/NN of/IN the/DT remote/JJ control/NN because/IN
 if/IN you/PRP make/VBP the/DT folder/NN open/VB its/PRP$ or/CC also/RB the/DT strength/NN is/VBZ not/RB as/RB good/JJ as/IN a/DT normal/JJ remote/NN control/NN
 
 what/WP we/PRP know/VBP is/VBZ that/IN we/PRP have/VBP to/TO sell/VB this/DT is/VBZ remote/JJ control/NN for/IN about/IN twenty/NN five/CD euros/NNS
+I/PRP don't/VBP think/VB you/PRP can/MD buy/VB universal/JJ remote/JJ control/NN for/IN twenty/JJ five/CD euros/NNS so/RB
+i/NN know/VBP where/WRB you/PRP can/MD buy/VB universal/JJ control/NN for/IN a/DT only/JJ twenty/NN use/NN h/NN
 control/NN i/NN already/RB wrote/VBD some/DT know/JJ Twenties/NNS
 
 i'm/NN i/NN my/PRP$ expensive/JJ there/EX is/VBZ a/DT normal/JJ recharger/NN

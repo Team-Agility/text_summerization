@@ -21,16 +21,15 @@ then/RB it's/VBZ the/DT remote/JJ control/NN for/IN the/DT sound/NN system/NN mo
 remote/NN controls/VBZ children/NNS proof/NN of/IN
 lake/VB the/DT phones/NNS and/CC these/DT things/NNS i/VBP at/IN least/JJS for/IN children/NNS
 
+yes/RB we/PRP have/VBP plenty/VBN at/IN home/NN my/PRP$ daughter/NN
+my/PRP$ daughter/NN likes/NNS yellow/JJ remote/NN controls/VBZ we/PRP
+
 when/WRB you/PRP get/VBP to/TO have/VB the/DT kick-off/NN meeting/NN for/IN the/DT design/NN of/IN for/IN the/DT beginning/NN of/IN the/DT new/JJ project/NN remote/VBZ control/NN for/IN the/DT design/NN for/IN a/DT new/JJ remote/NN control/NN and/CC the/DT project/NN manager/NN
 and/CC the/DT project/NN manager/NN chris/VBP type/NN of/IN love/NN And/CC
 and/CC We/PRP speak/VBP about/IN this/DT tool/NN would/MD going/VBG to/TO design/VB And/CC take/VB to/TO make/VB the/DT project/NN plan/NN Some/DT discussion/NN
 
 And/CC for/IN a/DT production/NN cost/NN of/IN Twelve/NNP fifty/JJ euro/NN maximum/NN
 Too/RB expensive/JJ for/IN twelve/NN euro/NN
-
-yes/RB we/PRP have/VBP plenty/VBN at/IN home/NN my/PRP$ daughter/NN
-my/PRP$ daughter/NN likes/NNS yellow/JJ remote/NN controls/VBZ we/PRP
-So/IN she/PRP likes/VBZ the/DT buttons/NNS Which/NNP make/VBP kick/NN so/RB
 
 not/RB pretty/RB small/JJ a/DT colour/NN
 maybe/RB we/PRP can/MD change/VB the/DT colour/NN of/IN the/DT accused/VBN of/IN three/CD
@@ -43,14 +42,17 @@ one/CD thing/NN in/IN order/NN of/IN processing/VBG this/DT remote/JJ control/NN
 page/NN know/VB you/PRP people/NNS are/VBP very/RB a/DT left-handed/JJ so/IN you/PRP will/MD
 left-handed/JJ so/IN you/PRP will/MD assign/VB left/VBN today/NN is/VBZ like/IN these/DT save/NNS director/NN use/VBP like/IN this/DT so/RB
 
+has/VBZ to/TO be/VB original/JJ trendy/JJ and/CC user-friendly/JJ
 Just/RB to/TO try/VB to/TO who's/VB the/DT user/JJ interface/NN designer/NN According/VBG to/TO
 it/PRP could/MD be/VB on/IN your/PRP$ screen/NN Which/NNP we/PRP changed/VBD depending/VBG on/IN the/DT user/NN or/CC even/RB the/DT user/NN Some/DT i/NN
 the/DT user/JJ requirement/NN specification/NN it's/NN
 
 So/RB colour/JJ runs/NNS that's/VBP easy/JJ to/TO use/VB size/NN size/NN
 
-place/NN For/IN some/DT reason/NN ddv/JJ d/NN day/NN off/IN button/NN when/WRB they/PRP want/VBP to/TO use/VB do/VB So/RB there's/VB a/DT problem/NN
+So/IN she/PRP likes/VBZ the/DT buttons/NNS Which/NNP make/VBP kick/NN so/RB
 Some/DT i/NN prefer/VBP to/TO have/VB the/DT off/RP button/NN that/IN the/DT top/JJ right/NN so/RB i/JJ
+
+place/NN For/IN some/DT reason/NN ddv/JJ d/NN day/NN off/IN button/NN when/WRB they/PRP want/VBP to/TO use/VB do/VB So/RB there's/VB a/DT problem/NN
 
 characteristics/NNS of/IN this/DT animal/NN is/VBZ dangerous/JJ
 But/CC first/JJ ten/JJ detections/NNS you/PRP should/MD to/TO do/VB it/PRP change/VB channels/NNS you/PRP adjust/VBP volume/NN and/CC animals/NNS
@@ -66,8 +68,6 @@ for/IN favourite/JJ animals/NNS It's/NNP gonna/NN be/VB not/RB my/PRP$ favourite
 but/CC they/PRP keep/VBP generally/RB that/IN it's/NN less/JJR layers/NNS christine/VBP and/CC then/RB that's/VB better/JJR and/CC then/RB you/PRP can/MD put/VB you/PRP can/MD only/RB that/IN one/CD but/CC
 
 a/DT menu/NN you/PRP can/MD easily/RB moulded/VB the/DT frame/NN
-
-has/VBZ to/TO be/VB original/JJ trendy/JJ and/CC user-friendly/JJ
 
 a/DT given/VBN the/DT history/NN of/IN so/IN you/PRP could/MD like/VB it/PRP and/CC do/VB Present/NNP the/DT previous/JJ Then/RB
 

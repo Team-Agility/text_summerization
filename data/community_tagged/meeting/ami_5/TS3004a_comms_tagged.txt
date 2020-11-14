@@ -96,10 +96,10 @@ how/WRB much/JJ is/VBZ your/PRP$ standards/NNS a/DT mobile/JJ phone/NN the/DT ch
 
 but/CC i/VB what/WP the/DT project/NN the/DT production/NN costs/NNS are/VBP for/IN such/JJ a/DT thing/NN
 
-these/DT pens/NNS would/MD be/VB just/RB you/PRP write/VBP it/PRP down/RP a/DT downloaded/JJ to/TO work/VB you/PRP do/VB
-
 it/PRP out/RP and/CC we/PRP have/VBP to/TO you/PRP use/VBP a/DT different/JJ pen/NN colours/NNS and/CC different/JJ thickness/NN of/IN that/DT and/CC
 Maybe/RB if/IN you/PRP hold/VBP your/PRP$ pen/JJ bit/NN more/RBR to/TO the/DT back/NN so/RB
+
+these/DT pens/NNS would/MD be/VB just/RB you/PRP write/VBP it/PRP down/RP a/DT downloaded/JJ to/TO work/VB you/PRP do/VB
 
 this/DT is/VBZ the/DT these/DT are/VBP two/CD smartboards/NNS use/VBP a/DT few/JJ years/NNS and/CC introduction/NN of/IN that/DT one/CD
 

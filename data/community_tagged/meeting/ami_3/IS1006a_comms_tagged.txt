@@ -1,3 +1,5 @@
+I/PRP know/VBP from/IN because/IN that/DT nobody/NN has/VBZ colour/VBN for/IN a/DT remote/NN controlled/VBD
+
 So/RB there's/RB a/DT problem/NN in/IN the/DT design/NN of/IN that/DT remote/JJ controls/NNS so/IN we/PRP
 so/RB i/RB would/MD have/VB my/PRP$ own/JJ design/NN of/IN the/DT remote/JJ control/NN because/IN it/PRP seems/VBZ like/IN
 
@@ -19,13 +21,10 @@ that/DT state/NN aim/NN for/IN the/DT price/NN for/IN the/DT remote/JJ control/N
 
 then/RB it's/VBZ the/DT remote/JJ control/NN for/IN the/DT sound/NN system/NN more/RBR for/IN your/PRP$ offered/VBN you/PRP go/VBP Whatever/WDT
 
-my/PRP$ daughter/NN likes/NNS yellow/JJ remote/NN controls/VBZ we/PRP
-
-not/RB pretty/RB small/JJ a/DT colour/NN
-I/PRP know/VBP from/IN because/IN that/DT nobody/NN has/VBZ colour/VBN for/IN a/DT remote/NN controlled/VBD
-maybe/RB we/PRP can/MD change/VB the/DT colour/NN of/IN the/DT accused/VBN of/IN three/CD
-
 one/CD thing/NN in/IN order/NN of/IN processing/VBG this/DT remote/JJ control/NN if/IN you/PRP remember/VBP when/WRB people/NNS use/VBP it/PRP to/TO be/VB a/DT bit/NN never/RB find/VB a/DT good/JJ but/CC the/DT right/JJ place/NN For/IN some/DT reason/NN
+
+my/PRP$ daughter/NN likes/NNS yellow/JJ remote/NN controls/VBZ we/PRP
+So/IN she/PRP likes/VBZ the/DT buttons/NNS Which/NNP make/VBP kick/NN so/RB
 
 when/WRB you/PRP get/VBP to/TO have/VB the/DT kick-off/NN meeting/NN for/IN the/DT design/NN of/IN for/IN the/DT beginning/NN of/IN the/DT new/JJ project/NN remote/VBZ control/NN for/IN the/DT design/NN for/IN a/DT new/JJ remote/NN control/NN and/CC the/DT project/NN manager/NN
 and/CC the/DT project/NN manager/NN chris/VBP type/NN of/IN love/NN And/CC
@@ -39,6 +38,9 @@ lake/VB the/DT phones/NNS and/CC these/DT things/NNS i/VBP at/IN least/JJS for/I
 And/CC for/IN a/DT production/NN cost/NN of/IN Twelve/NNP fifty/JJ euro/NN maximum/NN
 Too/RB expensive/JJ for/IN twelve/NN euro/NN
 
+not/RB pretty/RB small/JJ a/DT colour/NN
+maybe/RB we/PRP can/MD change/VB the/DT colour/NN of/IN the/DT accused/VBN of/IN three/CD
+
 but/CC process/NN when/WRB you/PRP change/VBP channels/NNS you/PRP can/MD have/VB you/PRP can/MD just/RB go/VB to/TO the/DT next/JJ one/NN or/CC go/VB to/TO channel/VB twenty/CD five/CD
 And/CC that's/VB already/RB more/RBR complex/JJ to/TO go/VB to/TO channel/VB twenty/CD five/CD
 
@@ -48,8 +50,6 @@ i/JJ change/VBP channel/NNS ideas/NNS that/WDT
 So/RB colour/JJ runs/NNS that's/VBP easy/JJ to/TO use/VB size/NN size/NN
 
 yes/RB we/PRP have/VBP plenty/VBN at/IN home/NN my/PRP$ daughter/NN
-
-So/IN she/PRP likes/VBZ the/DT buttons/NNS Which/NNP make/VBP kick/NN so/RB
 
 it/PRP could/MD be/VB on/IN your/PRP$ screen/NN Which/NNP we/PRP changed/VBD depending/VBG on/IN the/DT user/NN or/CC even/RB the/DT user/NN Some/DT i/NN
 the/DT user/JJ requirement/NN specification/NN it's/NN

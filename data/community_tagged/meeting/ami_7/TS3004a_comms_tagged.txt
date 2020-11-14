@@ -21,6 +21,7 @@ what/WP we/PRP know/VBP is/VBZ that/IN we/PRP have/VBP to/TO sell/VB this/DT is/
 And/CC we/PRP have/VBP to/TO care/VB for/IN the/DT strength/NN of/IN the/DT remote/JJ control/NN because/IN
 
 I/PRP don't/VBP think/VB you/PRP can/MD buy/VB universal/JJ remote/JJ control/NN for/IN twenty/JJ five/CD euros/NNS so/RB
+
 i/NN know/VBP where/WRB you/PRP can/MD buy/VB universal/JJ control/NN for/IN a/DT only/JJ twenty/NN use/NN h/NN
 
 so/RB we're/JJ gonna/NN first/RB a/DT little/JJ discussion/NN about/IN but/CC experience/NN are/VBP the/DT remote/JJ control/NN first/JJ ideas/NNS and/CC everything/NN so/RB
@@ -66,8 +67,6 @@ and/CC a/DT lot/NN so/IN lots/NNS of/IN kids/NNS use/VBP it/PRP and/CC touch/JJ 
 
 so/IN we/PRP have/VBP to/TO use/VB a/DT big/JJ marketing/NN euro/NN
 
-you/PRP can/MD I/PRP have/VBP the/DT basic/JJ things/NNS on/IN the/DT same/JJ place/NN like/IN on/IN off/IN button/NN on/IN top/NN and/CC the/DT tv/NN channels/NNS one/CD two/CD three/CD four/CD as/IN a/DT block/NN and/CC the/DT volume/NN want/VBP on/IN top/NN so/IN you/PRP can/MD see/VB that/IN
-
 it's/NN out/RP there/RB on/IN top/JJ part/NN the/DT basic/JJ options/NNS on/IN top/JJ and/CC if/IN you/PRP follow/VBP that/IN
 
 we/PRP have/VBP to/TO close/VB to/TO sell/VB to/TO finish/VB you/PRP said/VBD meetings/NNS and/CC
@@ -75,6 +74,9 @@ we/PRP have/VBP to/TO close/VB to/TO sell/VB to/TO finish/VB you/PRP said/VBD me
 I/PRP if/IN you/PRP look/VBP at/IN the/DT market/NN it's/NN probably/RB it's/NN still/RB the/DT best/JJS way/NN just/RB to/TO put/VB batteries/NNS and/CC it/PRP was/VBD minutes/NNS to/TO expand/VB
 
 and/CC you/PRP just/RB have/VBP normal/JJ batteries/NNS that/IN you/PRP can/MD recharge/VB just/RB put/VB it/PRP in/IN station/NN or/CC
+
+something/NN on/IN top/JJ just/RB don't/NN in/IN general/JJ things/NNS like/IN volume/NN and/CC the/DT tv/NN channels/NNS and/CC inside/JJ things/NNS you/PRP don't/VBP use/VB that/DT often/RB
+you/PRP can/MD I/PRP have/VBP the/DT basic/JJ things/NNS on/IN the/DT same/JJ place/NN like/IN on/IN off/IN button/NN on/IN top/NN and/CC the/DT tv/NN channels/NNS one/CD two/CD three/CD four/CD as/IN a/DT block/NN and/CC the/DT volume/NN want/VBP on/IN top/NN so/IN you/PRP can/MD see/VB that/IN
 
 maybe/RB for/IN the/DT dvd/NN pe/NN pi/NN if/IN you/PRP just/RB
 
@@ -86,8 +88,6 @@ there's/NN also/RB about/RB strain/JJ parents/NNS five/CD reading/NN
 I/PRP i/VBP said/VBD something/NN on/IN paper/NN already/RB at/IN size/NN looks/NNS usable/JJ the/DT buttons/NNS on/IN use/NN
 
 So/RB you/PRP can't/VBP or/CC make/VB calculation/NN about/IN how/WRB many/JJ have/VBP to/TO sell/VB this/DT to/TO make/VB fifty/JJ million/CD
-
-something/NN on/IN top/JJ just/RB don't/NN in/IN general/JJ things/NNS like/IN volume/NN and/CC the/DT tv/NN channels/NNS and/CC inside/JJ things/NNS you/PRP don't/VBP use/VB that/DT often/RB
 
 Maybe/RB it's/JJ very/RB hard/JJ to/TO make/VB it/PRP fall/VB open/JJ and/CC to/TO that/DT look/NN like/IN it's/JJ very/RB a/DT scroll/NN
 

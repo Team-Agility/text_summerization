@@ -1,6 +1,7 @@
 Do/VBP we/PRP know/VB each/DT day/NN off/IN each/DT design/NN we/PRP you/PRP would/MD work/VB as/IN separately/RB in/IN dvd/NN really/RB on/IN your/PRP$ speech/NN tasks/NNS and/CC we/PRP and/CC
 do/VB So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN You/PRP have/VBP to/TO
 You/PRP have/VBP to/TO work/VB on/IN the/DT technical/JJ functions/NNS and/CC
+and/CC you/PRP have/VBP to/TO work/VB on/IN the/DT user/NN requirements/NNS specs/VBD right/JJ
 
 and/CC then/RB we/PRP go/VBP to/TO will/MD depend/VB on/IN the/DT project/NN and/CC had/VBD discussions/NNS about/IN it/PRP
 we/PRP discussed/VBD of/IN off/RP line/NN or/CC do/VB we/PRP do/VB it/PRP doesn't/VB meeting/VBG about/IN on/IN a/DT difference/NN
@@ -20,9 +21,6 @@ So/RB the/DT goal/NN this/DT project/NN used/VBN to/TO this/DT lot/NN is/VBZ a/D
 so/RB it's/JJ gonna/NN be/VB you/PRP ready/JJ have/VBP a/DT tv/NN but/CC you/PRP buying/VBG an/DT extra/JJ remote/NN control/NN for/IN something/NN
 should/MD shouldn't/VB be/VB specific/JJ remote/VB control/NN to/TO some/DT specific/JJ device/NN should/MD it/PRP
 
-michael/NN on/IN the/DT user/JJ interface/NN designer/NN
-and/CC you/PRP have/VBP to/TO work/VB on/IN the/DT user/NN requirements/NNS specs/VBD right/JJ
-
 first/RB the/DT functional/JJ design/NN the/DT seconds/NNS
 the/DT seconds/VBZ the/DT conceptual/JJ design/NN and/CC then/RB the/DT
 
@@ -39,6 +37,9 @@ is/VBZ more/RBR a/DT job/NN to/TO work/VB or/CC markets/NNS
 
 But/CC don't/JJ get/VB thing/NN it's/NN really/RB difficult/JJ to/TO draw/VB and/CC veg/VB
 
+michael/NN on/IN the/DT user/JJ interface/NN designer/NN
+And/CC it/PRP should/MD be/VB original/JJ trendy/NN And/CC that/IN also/RB user-friendly/JJ
+
 At/IN least/JJS if/IN you/PRP will/MD feel/VB hundred/CD years/NNS ago/RB and/CC there/EX was/VBD no/DT means/NN of/IN transportation/NN so/IN something/NN or/CC when/WRB they/PRP had/VBD a/DT kitty/JJ she/PRP would/MD you/PRP the/DT notes/NNS from/IN one/CD place/NN to/TO another/DT difference/NN whether/IN we/PRP use/VBP or/CC
 and/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN all/PDT the/DT animals/NNS these/DT an/DT
 
@@ -49,12 +50,11 @@ As/IN usual/JJ we/PRP folder/VBP the/DT project/NN may/MD tu-dum/VB But/CC for/I
 I/PRP i/VBP what's/VBP at/IN a/DT film/NN about/IN that/DT but/CC pounder/VBP what/WP i/NN would/MD have/VB time/NN
 time/NN i/NN was/VBD in/IN that/DT age/NN when/WRB anything/NN more/RBR shocking/VBG me/PRP out/IN
 
+it/PRP seems/VBZ that/IN the/DT elephants/NNS are/VBP pretty/RB friendly/JJ and/CC
+
 she/PRP has/VBZ some/DT time/NN there's/VB some/DT spot/NN is/VBZ it/PRP within/IN like/IN they/PRP have/VBP like/IN a/DT them/PRP a/DT big/JJ bowl/NN of/IN a/DT led/VBN
 
 bracket/NN so/RB I/PRP we/PRP don't/VBP need/VB to/TO find/VB out/RP what's/WP actually/RB what/WP people/NNS are/VBP willing/JJ to/TO pay/VB for/IN
-
-And/CC it/PRP should/MD be/VB original/JJ trendy/NN And/CC that/IN also/RB user-friendly/JJ
-it/PRP seems/VBZ that/IN the/DT elephants/NNS are/VBP pretty/RB friendly/JJ and/CC
 
 friendly/RB and/CC They/PRP they/PRP have/VBP one/CD maybe/RB important/JJ we/PRP a/DT different/JJ bill/NN walking/VBG so/RB when/WRB they/PRP walk/VBP
 so/RB when/WRB they/PRP walk/VBP that/DT would/MD be/VB i/JJ went/VBD to/TO put/VB their/PRP$ first/JJ feed/VB the/DT second/JJ people/NNS always/RB me/PRP when/WRB they/PRP
@@ -69,9 +69,9 @@ do/VBP we/PRP need/VB to/TO know/VB but/CC is/VBZ it/PRP acts/VBZ like/IN a/DT p
 
 I/PRP i/VBP was/VBD that/DT alliance/NN that/IN they/PRP do/VBP their/PRP$ hand/NN is/VBZ the/DT female/JJ lion/NN school/NN all/DT kinds/NNS of/IN
 
-when/WRB they/PRP come/VBP to/TO that/DT position/NN the/DT second/JJ the/DT court/NN feet/NNS would/MD be/VB there/RB that's/JJ
-
 Is/VBZ this/DT the/DT stand/NN alone/RB unit/NN that/IN we're/VBZ gonna/JJ be/VB selling/VBG so/RB it's/JJ gonna/NN be/VB
+
+when/WRB they/PRP come/VBP to/TO that/DT position/NN the/DT second/JJ the/DT court/NN feet/NNS would/MD be/VB there/RB that's/JJ
 
 it's/JJ black/JJ as/IN so/IN it/PRP can/MD He/PRP can/MD hide/VB it/PRP so/RB if/IN bit/VBN easily/RB and/CC
 

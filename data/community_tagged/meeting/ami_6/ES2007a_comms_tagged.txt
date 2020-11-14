@@ -23,8 +23,6 @@ at/IN the/DT end/NN of/IN the/DT day/NN if/IN it's/FW a/DT it's/NN just/RB tv/NN
 
 we're/NN doing/VBG before/IN we/PRP close/VBP the/DT meeting/NN was/VBD supposed/VBN to/TO come/VB up/RP with/IN some/DT ideas/NNS for/IN
 
-but/CC the/DT functions/NNS that/WDT were/VBD that/IN we/PRP want/VBP our/PRP$ that/IN it/PRP can/MD control/VB the/DT tv/NN but/CC also/RB devices/NNS
-
 of/IN tv/NN and/CC if/IN you/PRP have/VBP whatever/WDT associated/VBN with/IN the/DT tv/NN the/DT tvd/NN player/NN like/IN that/DT but/CC
 that's/NN true/JJ maybe/RB we/PRP should/MD just/RB concentrate/VB on/IN having/VBG it/PRP at/IN the/DT tv/NN remote/NN can/MD have/VB it/PRP be/VB
 
@@ -39,13 +37,16 @@ design/NN individual/JJ work/NN in/IN the/DT meeting/NN
 
 and/CC then/RB after/IN we/PRP want/VBP to/TO find/VB what/WP we/PRP can/MD like/VB some/DT different/JJ ideas/NNS we/PRP can/MD end/VB and/CC do/VB research/NN to/TO find/VB out/RP if/IN these/DT any/DT of/IN these/DT ideas/NNS or/CC feasible/JJ or/CC not/RB so/IN the/DT be/VB
 
-that/DT in/IN the/DT last/JJ slide/NN wanted/VBD us/PRP to/TO maybe/VB discuss/NN longer/RBR or/CC whatever/WDT What/WP ideas/VBZ where/WRB
-ideas/NNS where/WRB if/IN you/PRP wanna/VBP go/VB back/RB to/TO the/DT last/JJ slide/NN It's/NNP
+but/CC the/DT functions/NNS that/WDT were/VBD that/IN we/PRP want/VBP our/PRP$ that/IN it/PRP can/MD control/VB the/DT tv/NN but/CC also/RB devices/NNS
+v/NN but/CC also/RB devices/NNS connected/VBN to/TO the/DT tv/NN you/PRP mean/VBP be/VB able/JJ to/TO operate/VB
 
 a/DT user/NN name/NN it/PRP doesn't/VBZ have/VBP to/TO have/VB a/DT flip/JJ function/NN at/IN least/JJS have/VBP a/DT lock/NN functions/NNS so/IN that/DT it's/NN
 
 So/RB to/TO find/VB a/DT niche/NN for/IN our/PRP$ remote/VBP the/DT market/NN it/PRP to/TO a/DT certain/JJ people/NNS
 The/DT other/JJ one/CD is/VBZ gonna/VBN go/VB find/VBP that/WDT to/TO the/DT research/NN see/VB what/WP people/NNS want/VBP
+
+ideas/NNS where/WRB if/IN you/PRP wanna/VBP go/VB back/RB to/TO the/DT last/JJ slide/NN It's/NNP
+No/DT but/CC you/PRP would/MD slide/VB didn't/NN see/VB some/DT of/IN like/IN something/NN on/IN the/DT back/NN would/MD hold/VB like/IN to/TO
 
 hold/NN like/IN to/TO wouldn't/VB be/VB able/JJ to/TO press/VB the/DT buttons/NNS but/CC
 very/RB or/CC Big/JJ buttons/NNS for/IN a/DT touchy/NN buttons/NNS
@@ -54,6 +55,8 @@ causes/NNS so/RB you/PRP don't/VBP accidentally/RB press/VB a/DT button/NN or/CC
 i/NN by/IN the/DT end/NN of/IN this/DT meeting/NN we/PRP should/MD have/VB at/IN least/JJS A/DT rough/JJ conceptual/NN it/PRP was/VBD stage/NN
 
 Flip/IN it/PRP open/JJ and/CC you/PRP got/VBD all/PDT the/DT buttons/NNS or/CC you/PRP flip/VBP it/PRP closing/VBG you/PRP just/RB got/VBD there/RB Basic/JJ buttons/NNS on/IN the/DT outside/JJ maybe/NN
+
+that/DT in/IN the/DT last/JJ slide/NN wanted/VBD us/PRP to/TO maybe/VB discuss/NN longer/RBR or/CC whatever/WDT What/WP ideas/VBZ where/WRB
 
 Industrial/NNP design/NN you're/VBD the/DT one/CD of/IN you're/NN gonna/NN be/VB working/VBG out/IN box/NN it/PRP goes/VBZ in/IN i/NN so/RB
 
@@ -67,8 +70,6 @@ The/DT back/JJ end/NN of/IN an/DT awful/JJ
 it/PRP was/VBD stage/JJ one/CD was/VBD technical/JJ functions/NNS design/VBP what/WDT affect/VBP the/DT
 
 User/NNP interface/NN designer/NN that's/NN that's/NN
-
-No/DT but/CC you/PRP would/MD slide/VB didn't/NN see/VB some/DT of/IN like/IN something/NN on/IN the/DT back/NN would/MD hold/VB like/IN to/TO
 
 So/RB before/IN we/PRP close/VBP the/DT were/VBD expected/VBN that/IN in/IN the/DT last/JJ slide/NN
 
@@ -99,9 +100,6 @@ To/TO original/JJ trendy/JJ and/CC user-friendly/JJ Project/NN
 let's/JJ move/NN on/IN to/TO the/DT next/JJ but/CC it's/JJ project/NN finance/NN
 project/NN finance/NN selling/NN
 
-our/PRP$ we/PRP know/VBP saying/VBG in/IN something/NN that's/JJ got/VBD different/JJ but/CC maybe/RB at/IN And/CC lcd/JJ display/NN on/IN it/PRP that/IN to/TO a/DT different/JJ pages/NNS for/IN different/JJ devices/NNS
-v/NN but/CC also/RB devices/NNS connected/VBN to/TO the/DT tv/NN you/PRP mean/VBP be/VB able/JJ to/TO operate/VB
-
 are/VBP it/PRP is/VBZ a/DT car/NN cost/NN any/DT more/JJR than/IN twelve/VB fifty/JJ to/TO make/VB
 You/PRP get/VBP can/MD be/VB more/JJR than/IN twelve/VB fifty/JJ per/IN unit/NN
 
@@ -109,6 +107,8 @@ For/IN a/DT name/NN Fifty/NNP million/CD euros/NN
 
 it's/VB a/DT light/NN or/CC A/DT combination/NN of/IN a/DT line/NN
 A/DT combination/NN of/IN a/DT line/NN and/CC tiger/NN Do/VBP you/PRP have/VB
+
+our/PRP$ we/PRP know/VBP saying/VBG in/IN something/NN that's/JJ got/VBD different/JJ but/CC maybe/RB at/IN And/CC lcd/JJ display/NN on/IN it/PRP that/IN to/TO a/DT different/JJ pages/NNS for/IN different/JJ devices/NNS
 
 See/VB the/DT edges/NNS hours/NNS think/VBP than/IN a/DT mind/NN that/IN we/PRP got/VBD we/PRP have/VBP to/TO have/VB something/NN that/WDT cheap/VBZ to/TO make/VB
 

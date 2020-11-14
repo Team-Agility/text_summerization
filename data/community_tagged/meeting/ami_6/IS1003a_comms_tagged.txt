@@ -79,9 +79,9 @@ you/PRP have/VBP quality/VBN as/IN a/DT tv/NN french/NN and/CC uk/JJ keyboard/NN
 
 So/RB i'm/VB the/DT marketing/NN expert/NN roo/NN
 
-No/DT mouse/NN is/VBZ not/RB so/RB difficult/JJ for/IN the/DT mouse/NN is/VBZ the/DT
-
 And/CC make/VB a/DT list/NN of/IN its/PRP$ favourite/NN characteristics/NNS
+
+No/DT mouse/NN is/VBZ not/RB so/RB difficult/JJ for/IN the/DT mouse/NN is/VBZ the/DT
 
 job/NN cuts/NNS in/IN for/IN a/DT simple/NN i/NN
 

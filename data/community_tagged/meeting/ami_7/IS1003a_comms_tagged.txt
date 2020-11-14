@@ -2,9 +2,8 @@ User/NNP interface/NN design/NN to/TO you/PRP that's/VB a/DT design/NN
 
 I/PRP they/PRP use/VBP it/PRP the/DT user/JJ interface/NN didn't/NN use/VB your/PRP$ design/NN how/WRB the/DT user/JJ mean/NN you/PRP use/VBP it/PRP is/VBZ in/IN between/IN the/DT user/NN and/CC you/PRP don't/VBP want/VB that/DT so/RB
 
-you/PRP really/RB the/DT remote/JJ control/NN to/TO be/VB international/JJ and/CC not/RB too/RB
-
 It/PRP be/VB An/DT international/JJ remote/NN control/NN as/IN we/PRP want/VBP
+you/PRP really/RB the/DT remote/JJ control/NN to/TO be/VB international/JJ and/CC not/RB too/RB
 
 As/IN you/PRP will/MD discuss/VB about/IN the/DT remote/JJ control/NN you/PRP would/MD have/VB to/TO experience/VB here/RB with/IN the/DT remote/JJ control/NN
 

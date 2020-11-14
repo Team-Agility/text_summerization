@@ -32,21 +32,22 @@ there/EX are/VBP designer/NN there/EX are/VBP some/DT heated/JJ discussion/NN bu
 Poker/NN we/PRP design/VBP and/CC no/DT more/JJR believers/NNS But/CC
 design/NN to/TO put/VB that/DT we've/NN met/VBD we've/JJ got/VBD a/DT prototype/NN is/VBZ within/IN budget/NN
 
+we/PRP wanna/VBP do/VBP we/PRP want/VB it/PRP to/TO be/VB ergonomic/JJ and/CC to/TO be/VB made/VBN out/IN of/IN rubber/NN very/RB simple/JJ and/CC easy/JJ
+
 and/CC it's/NN also/RB can/MD for/IN mobile/NN to/TO the/DT size/NN of/IN your/PRP$ hand/NN i/NN
 
 this/DT is/VBZ fine/JJ a/DT small/JJ and/CC then/RB they/PRP say/VBP it's/JJ something/NN that's/JJ new/JJ looks/VBZ a/DT bit/NN kirk/JJ if/IN people/NNS want/VBP that/IN it's/NN
 
-we/PRP wanna/VBP do/VBP we/PRP want/VB it/PRP to/TO be/VB ergonomic/JJ and/CC to/TO be/VB made/VBN out/IN of/IN rubber/NN very/RB simple/JJ and/CC easy/JJ
-not/RB made/VBN of/IN wood/NN or/CC titanium/NN rubber/VBP it/PRP just/RB simple/VB
-
 That/DT was/VBD the/DT main/JJ criteria/NNS from/IN the/DT last/JJ meeting/NN you/PRP had/VBD to/TO teach/VB you/PRP proof/VB
+
+not/RB made/VBN of/IN wood/NN or/CC titanium/NN rubber/VBP it/PRP just/RB simple/VB
 
 Plus/CC red/JJ which/WDT is/VBZ a/DT fruit/NN and/CC vegetable/JJ
 actually/RB in/IN wanna/JJ manager/NN of/IN this/DT is/VBZ that/IN after/IN the/DT after/IN this/DT fat/NN of/IN fruit/NN and/CC vegetables/NNS passes/VBZ this/DT will/MD still/RB be/VB remote/JJ we're/NN not/RB
 
-not/RB every/DT everything/NN else/RB is/VBZ fairly/RB simple/JJ but/CC the/DT fact/NN that/IN we/PRP use/VBP the/DT kinetic/JJ energy/NN was/VBD new/JJ
-
 So/RB at/IN this/DT stage/NN this/DT is/VBZ the/DT last/JJ meeting/NN of/IN the/DT project/NN we/PRP don't/VBP have/VB another/DT
+
+not/RB every/DT everything/NN else/RB is/VBZ fairly/RB simple/JJ but/CC the/DT fact/NN that/IN we/PRP use/VBP the/DT kinetic/JJ energy/NN was/VBD new/JJ
 
 that/IN they/PRP get/VBP lost/VBN is/VBZ easy/JJ to/TO get/VB lost/VBN
 
@@ -77,9 +78,9 @@ Special/JJ form/NN they're/NN special/JJ form/NN they're/NN in/IN shapes/NNS and
 
 Hold/VB on/IN folks/NNS We/PRP fit/VBP
 
-and/CC then/RB you/PRP can/MD also/RB there's/VB a/DT numeric/JJ keypad/NN on/IN top/NN so/IN you/PRP can/MD keep/VB directly/RB to/TO the/DT channel/NN if/IN you/PRP want/VBP so/RB
-
 No/DT when/WRB it's/JJ meetings/NNS finished/VBN but/CC officially/RB then/RB we'll/VB get/VB a/DT questionnaire/NN to/TO fill/VB in/IN a/DT Or/NNP or/CC six/CD
+
+and/CC then/RB you/PRP can/MD also/RB there's/VB a/DT numeric/JJ keypad/NN on/IN top/NN so/IN you/PRP can/MD keep/VB directly/RB to/TO the/DT channel/NN if/IN you/PRP want/VBP so/RB
 
 it's/NN got/VBD them/PRP the/DT black/JJ yellow/NN and/CC blue/NN
 
@@ -92,23 +93,24 @@ and/CC i/VB might/MD just/RB wanna/VB put/RB in/IN as/IN project/NN manager/NN T
 
 The/DT case/NN we've/VBZ gone/VBN for/IN the/DT double/JJ curved/NN
 
-Just/RB that's/VBN read/VBP any/DT of/IN the/DT ornaments/NNS and/CC break/VB them/PRP
-
 and/CC everyone's/DT come/VBN up/RP with/IN our/PRP$ individual/JJ ideas/NNS in/IN there/EX and/CC different/JJ apartments/NNS and/CC
 
 The/DT wind/NN up/RB and/CC vibrating/VBG pen/NNS than/IN
 
 wee/NN which/WDT we/PRP had/VBD it/PRP As/NNP far/RB as/IN our/PRP$ financial/JJ goals/NNS we/PRP have/VBP a/DT specific/JJ number/NN for/IN profits/NNS that/IN we/PRP wanted/VBD us/PRP fifty/VB
 
-it's/NN not/RB a/DT speech/NN read/NN that/WDT will/MD come/VB up/RP on/IN the/DT computer/NN screen/NN is/VBZ a/DT picture/NN file/NN rather/RB than/IN actual/JJ text/NN
-
 It/PRP makes/VBZ watching/VBG tv/NN healthy/JJ
 and/CC if/IN i'm/VBN a/DT good/JJ time/NN with/IN the/DT tv/NN you/PRP can/MD start/VB about/RB your/PRP$ as/IN far/RB
+
+it's/NN not/RB a/DT speech/NN read/NN that/WDT will/MD come/VB up/RP on/IN the/DT computer/NN screen/NN is/VBZ a/DT picture/NN file/NN rather/RB than/IN actual/JJ text/NN
 
 that's/NN gonna/NN cost/NN ten/JJ euros/JJ seventy/NN cents/NNS seen/VBN it/PRP to/TO make/VB an/DT thought/NN
 
 It/PRP would/MD be/VB different/JJ if/IN it/PRP was/VBD of/IN handwriting/VBG recognition/NN but/CC it's/VBZ not/RB a/DT speech/NN
 Right/RB they/PRP do/VBP want/VB to/TO handwriting/VBG recognition/NN a/DT message/NN the/DT first/JJ step/NN
+
+Just/RB that's/VBN read/VBP any/DT of/IN the/DT ornaments/NNS and/CC break/VB them/PRP
+Or/CC you/PRP can/MD buy/VB delimiters/NNS but/CC you/PRP won't/VBP break/VB that/IN
 
 I/PRP see/VBP that/IN makes/VBZ sense/NN because/IN i/JJ remember/VBP like/IN You/PRP better/JJR off/RP my/PRP$ mom/NN over/IN there/EX i/JJ remember/VBP people's/JJ mom's/NN making/VBG like/IN a/DT play/NN doh/NN where/WRB you/PRP just/RB like/IN make/VBP the/DT you/PRP use/VBP colouring/VBG and/CC then/RB make/VB some/DT go/VB
 
@@ -116,19 +118,17 @@ so/RB it's/JJ really/RB basic/JJ functionality/NN is/VBZ as/RB far/RB as/IN what
 
 think/VB where/WRB the/DT envy/NN of/IN all/PDT the/DT whole/JJ wall/NN there/EX are/VBP teams/NNS
 
-I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP and/CC have/VB five/CD minutes/NNS of/IN Sounds/NNS
+It's/NNP not/RB the/DT thing/NN that's/NN gonna/VBP slip/NN like/IN between/IN couch/JJ cushion/NN
 
 So/RB all/PDT that/DT important/JJ cues/NNS are/VBP ready/JJ you/PRP if/IN you're/RB right/JJ it/PRP convenient/JJ place/NN for/IN you/PRP to/TO access/NN them/PRP so/IN you/PRP don't/VBP you/PRP
 
-Lisa/NNP marie/NN you/PRP just/RB apply/VB to/TO that/DT one/NN
+I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP and/CC have/VB five/CD minutes/NNS of/IN Sounds/NNS
 
 It/PRP has/VBZ got/VBN as/IN the/DT corpus/NN course/NN gotten/JJ bass/NN if/IN you/PRP polls/VBP about/IN
 
-It's/NNP not/RB the/DT thing/NN that's/NN gonna/VBP slip/NN like/IN between/IN couch/JJ cushion/NN
-
 it/PRP is/VBZ it/PRP colourwise/NN and/CC is/VBZ it/PRP spongy/VBZ so/RB what/WP mark/NN
 
-us/PRP fifty/VBP know/JJ fifty/CD million/CD
+Lisa/NNP marie/NN you/PRP just/RB apply/VB to/TO that/DT one/NN
 
-Or/CC you/PRP can/MD buy/VB delimiters/NNS but/CC you/PRP won't/VBP break/VB that/IN
+us/PRP fifty/VBP know/JJ fifty/CD million/CD
 

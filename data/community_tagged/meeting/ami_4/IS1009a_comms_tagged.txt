@@ -98,7 +98,7 @@ to/TO materials/NNS cost/NN etcetera/NN
 
 right/RB no/DT like/JJ teeny/NN shape/NN for/IN a/DT spare/NN in/IN your/PRP$ hand/NN up/RP
 
-hm/NN that/WDT should/MD keep/VB everybody/NN on/IN their/PRP$ toes/NNS and/CC challenge/NN
-
 See/VB if/IN i/JJ remember/VBP have/VBP to/TO draw/VB kitty/JJ cat/NN or/CC a/DT rabbit/NN
+
+hm/NN that/WDT should/MD keep/VB everybody/NN on/IN their/PRP$ toes/NNS and/CC challenge/NN
 

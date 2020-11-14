@@ -34,10 +34,11 @@ because/IN remote/NN controls/NNS are/VBP most/RBS things/NNS in/IN the/DT house
 
 very/RB important/JJ we/PRP have/VBP to/TO look/VB what/WP the/DT needs/JJ artifact/NN of/IN the/DT functional/JJ design/NN and/CC the/DT how/WRB the/DT the/DT remote/JJ control/NN works/VBZ so/RB it's/JJ very/RB going/VBG to/TO look/VB in/IN the/DT functional/JJ design/NN is/VBZ for/IN the/DT next/JJ meeting/NN
 
+that/DT often/RB so/RB if/IN you/PRP have/VBP a/DT clear/JJ button/NN with/IN and/CC a/DT good/JJ like/IN on/IN it/PRP should/MD be/VB clear/JJ as/IN so/RB
+
 And/CC also/RB for/IN the/DT vcr/NN and/CC a/DT dvd/NN player/NN and/CC
 If/IN we/PRP control/VBP the/DT vcr/NN and/CC dvd/NN player/NN they/PRP are/VBP within/IN it/PRP has/VBZ to/TO be/VB clear/JJ because/IN
-
-that/DT often/RB so/RB if/IN you/PRP have/VBP a/DT clear/JJ button/NN with/IN and/CC a/DT good/JJ like/IN on/IN it/PRP should/MD be/VB clear/JJ as/IN so/RB
+this/DT way/NN if/IN you/PRP have/VBP to/TO me/PRP know/VB if/IN it's/NN for/IN a/DT tva/NN dvd/NN player/NN all/PDT the/DT things/NNS also/RB
 
 i'm/NN i/NN my/PRP$ expensive/JJ there/EX is/VBZ a/DT normal/JJ recharger/NN
 
@@ -61,14 +62,14 @@ we/PRP have/VBP to/TO close/VB to/TO sell/VB to/TO finish/VB you/PRP said/VBD me
 And/CC what/WP we/PRP have/VBP to/TO think/VB about/IN two/CD ways/NNS a/DT buttons/NNS that/WDT you/PRP used/VBD often/RB are/VBP Maybe/RB like/IN when/WRB you/PRP fall/VBP it/PRP open/JJ when/WRB
 Maybe/RB it's/JJ very/RB hard/JJ to/TO make/VB it/PRP fall/VB open/JJ and/CC to/TO that/DT look/NN like/IN it's/JJ very/RB a/DT scroll/NN
 
-maybe/RB for/IN the/DT dvd/NN pe/NN pi/NN if/IN you/PRP just/RB
-this/DT way/NN if/IN you/PRP have/VBP to/TO me/PRP know/VB if/IN it's/NN for/IN a/DT tva/NN dvd/NN player/NN all/PDT the/DT things/NNS also/RB
+it's/NN out/RP there/RB on/IN top/JJ part/NN the/DT basic/JJ options/NNS on/IN top/JJ and/CC if/IN you/PRP follow/VBP that/IN
 
 I/PRP if/IN you/PRP look/VBP at/IN the/DT market/NN it's/NN probably/RB it's/NN still/RB the/DT best/JJS way/NN just/RB to/TO put/VB batteries/NNS and/CC it/PRP was/VBD minutes/NNS to/TO expand/VB
 
 something/NN on/IN top/JJ just/RB don't/NN in/IN general/JJ things/NNS like/IN volume/NN and/CC the/DT tv/NN channels/NNS and/CC inside/JJ things/NNS you/PRP don't/VBP use/VB that/DT often/RB
 you/PRP can/MD I/PRP have/VBP the/DT basic/JJ things/NNS on/IN the/DT same/JJ place/NN like/IN on/IN off/IN button/NN on/IN top/NN and/CC the/DT tv/NN channels/NNS one/CD two/CD three/CD four/CD as/IN a/DT block/NN and/CC the/DT volume/NN want/VBP on/IN top/NN so/IN you/PRP can/MD see/VB that/IN
-it's/NN out/RP there/RB on/IN top/JJ part/NN the/DT basic/JJ options/NNS on/IN top/JJ and/CC if/IN you/PRP follow/VBP that/IN
+
+maybe/RB for/IN the/DT dvd/NN pe/NN pi/NN if/IN you/PRP just/RB
 
 You/PRP you/PRP can/MD You/PRP can/MD tie/VB that/DT in/IN the/DT editing/NN read/NN
 there's/NN also/RB about/RB strain/JJ parents/NNS five/CD reading/NN
@@ -81,6 +82,7 @@ So/RB you/PRP can't/VBP or/CC make/VB calculation/NN about/IN how/WRB many/JJ ha
 and/CC you/PRP just/RB have/VBP normal/JJ batteries/NNS that/IN you/PRP can/MD recharge/VB just/RB put/VB it/PRP in/IN station/NN or/CC
 it/PRP in/IN station/NN or/CC you/PRP can/MD change/VB the/DT batteries/NNS so/RB
 
+it/PRP has/VBZ to/TO be/VB original/JJ trendy/JJ user/NNS friendly/RB now/RB that's/VBP
 is/VBZ what/WP it/PRP that/WDT so/RB that's/VBZ the/DT specifications/NNS of/IN the/DT components/NNS and/CC the/DT properties/NNS and/CC the/DT specifications/NNS of/IN the/DT user/JJ interface/NN we/PRP
 for/IN for/IN me/PRP the/DT marketing/NN expert/NN the/DT user/NN requirements/NNS specification/NN do/VBP i/RB need/VBP to/TO think/VB as/IN the/DT user/NN
 
@@ -89,8 +91,6 @@ but/CC i/VB what/WP the/DT project/NN the/DT production/NN costs/NNS are/VBP for
 
 we/PRP have/VBP to/TO make/VB something/NN Like/IN a/DT mobile/JJ phones/NNS that/IN you/PRP can/MD fold/VB it/PRP open/JJ Maybe/RB then/RB you/PRP can/MD
 how/WRB much/JJ is/VBZ your/PRP$ standards/NNS a/DT mobile/JJ phone/NN the/DT charger/NN
-
-it/PRP has/VBZ to/TO be/VB original/JJ trendy/JJ user/NNS friendly/RB now/RB that's/VBP
 
 it/PRP out/RP and/CC we/PRP have/VBP to/TO you/PRP use/VBP a/DT different/JJ pen/NN colours/NNS and/CC different/JJ thickness/NN of/IN that/DT and/CC
 Maybe/RB if/IN you/PRP hold/VBP your/PRP$ pen/JJ bit/NN more/RBR to/TO the/DT back/NN so/RB

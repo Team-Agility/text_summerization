@@ -1,9 +1,9 @@
+Experience/NN with/IN remote/NN control/NN first/JJ ideas/NNS Your/PRP$ remote/NNS so/RB
 the/DT remote/JJ so/IN we/PRP just/RB in/IN the/DT design/NN a/DT remote/JJ control/NN itself/PRP or/CC
 I'm/NNP not/RB it's/VBZ not/RB clear/JJ on/IN what/WP we/PRP design/VBP a/DT new/JJ remote/NN is/VBZ if/IN someone/NN
 
 so/IN we/PRP have/VBP the/DT project/NN in/IN which/WDT is/VBZ to/TO to/TO come/VB up/RP with/IN a/DT new/JJ remote/NN control/NN device/NN
 And/CC Or/NNP idea/NN is/VBZ to/TO To/TO make/VB a/DT new/JJ remote/NN control/NN device/NN so/RB more/RBR user/JJ friendly/RB than/IN the/DT previous/JJ one/CD and/CC two/CD
-Experience/NN with/IN remote/NN control/NN first/JJ ideas/NNS Your/PRP$ remote/NNS so/RB
 
 We/PRP have/VBP starting/VBG this/DT was/VBD the/DT original/JJ Which/NNP is/VBZ been/VBN in/IN existence/NN know/VBP for/IN a/DT period/NN of/IN time/NN And/CC
 to/TO me/PRP sensible/VB it/PRP as/IN you/PRP already/RB said/VBD Another/DT more/RBR annoying/NN than/IN having/VBG three/CD or/CC four/CD devices/NNS whatever/WDT they/PRP by/IN the/DT time/NN and/CC
@@ -40,6 +40,8 @@ but/CC this/DT because/IN you're/NN set/VBN in/IN a/DT chair/NN and/CC the/DT re
 whereas/NNS if/IN you/PRP a/DT fresh/JJ you/PRP just/RB gonna/VB put/VBD the/DT food/NN and/CC a/DT daughter/NN feed/NN which/WDT feeds/VBZ them/PRP over/RP the/DT a/DT couple/JJ weeks/NNS your/PRP$ way/NN and/CC
 and/CC Sometimes/RB the/DT weights/NNS of/IN remote/NN controls/NNS to/TO feed/VB them/PRP but/CC this/DT because/IN
 
+controls/NNS may/MD wish/VB to/TO stick/VB to/TO that/DT and/CC as/IN we/PRP get/VBP told/JJ otherwise/NN
+
 problems/NNS you/PRP designers/NNS america/VBP but/CC what/WP i/NN
 i'm/NN not/RB actually/RB had/VBD too/RB many/JJ pets/NNS a/DT problem/NN i/NN had/VBD time/NN
 
@@ -55,9 +57,6 @@ and/CC i/NN i'll/VBP try/NN and/CC write/VB up/RP some/DT minutes/NNS of/IN the/
 No/DT no/DT you're/NN you're/RB move/VBD out/RP from/IN the/DT microphone/NN and/CC the/DT camera/NN together/RB
 that/IN we/PRP need/VBP to/TO maybe/VB think/VB about/IN how/WRB to/TO we/PRP could/MD maybe/VB a/DT developer/NN of/IN the/DT control/NN which/WDT moves/VBZ around/IN i/NN don't/VBP
 
-As/IN you/PRP can/MD see/VB that/IN my/PRP$ are/VBP just/RB have/VBP to/TO stick/VB work/NN as/RB useless/JJ as/IN anyway/RB
-controls/NNS may/MD wish/VB to/TO stick/VB to/TO that/DT and/CC as/IN we/PRP get/VBP told/JJ otherwise/NN
-
 affectionate/VB some/DT people/NNS don't/VBP but/CC i/VBP know/VBP very/RB affectionate/JJ
 things/NNS we/PRP found/VBD in/IN the/DT market/NN research/NN is/VBZ that/IN people/NNS have/VBP to/TO get/VB confused/VBN by/IN the/DT number/NN of/IN buttons/NNS on/IN them/PRP as/IN this/DT
 
@@ -72,6 +71,8 @@ We/PRP all/DT clear/VBP what/WP object/NN is/VBZ willing/JJ to/TO me/PRP to/TO t
 
 But/CC is/VBZ it/PRP in/IN a/DT sense/NN is/VBZ to/TO mutually/RB exclusive/JJ you/PRP can't/VBP
 And/CC so/IN these/DT are/VBP probably/RB mutually/RB exclusive/JJ options/NNS that/WDT
+
+As/IN you/PRP can/MD see/VB that/IN my/PRP$ are/VBP just/RB have/VBP to/TO stick/VB work/NN as/RB useless/JJ as/IN anyway/RB
 
 because/IN a/DT lot/NN of/IN Systems/NNPS the/DT tv/NN video/NN combine/NN know/VBP a/DT tvd/NN v/NN
 a/DT tvd/NN vd/NN combine/NN
@@ -92,23 +93,22 @@ of/IN all/DT stuck/NN or/CC bits/NNS and/CC pieces/NNS that/WDT but/CC it's/VB
 had/VBD time/NN To/TO be/VB honest/VBN with/IN you/PRP where/WRB i'm/VB not/RB too/RB keen/VB on/IN them/PRP anyway/RB not/RB to/TO worry/VB so/RB what/WP
 not/RB to/TO worry/VB so/RB what/WP my/PRP$ boss/NN is/VBZ a/DT got/VBD a/DT moment/NN is/VBZ they've/JJ got/VBD to/TO a/DT few/JJ fish/NN and/CC so/RB hopefully/RB
 
-or/CC looking/VBG at/IN Having/VBG a/DT production/NN costs/NNS limited/VBD to/TO at/IN twelve/NN and/CC a/DT half/JJ euro/JJ per/IN unit/NN And/CC therefore/RB making/VBG a/DT
-
 The/DT lime/NN and/CC that's/VB nothing/NN like/IN that/DT because/RB and/CC As/IN a/DT maybe/RB the/DT same/JJ any/DT cartoon/NN characters/NNS may/MD the/DT past/JJ but/CC like/IN
 where/WRB we/PRP can/MD make/VB something/NN we/PRP have/VBP Easy/JJ to/TO press/VB past/NN as/IN the/DT main/JJ function/NN
 the/DT room/NN so/IN it/PRP was/VBD in/IN the/DT past/NN a/DT difficult/JJ to/TO change/VB the/DT channel/NN know/VBP you/PRP have/VBP to/TO
 
-can/MD make/VB a/DT roof/NN that/WDT was/VBD similar/JJ to/TO draw/VB
+so/RB does/VBZ anyone/NN have/VB any/DT thoughts/NNS Has/NNP to/TO the/DT tool/NN training/NN that/IN to/TO is/VBZ required/VBN
+
+or/CC looking/VBG at/IN Having/VBG a/DT production/NN costs/NNS limited/VBD to/TO at/IN twelve/NN and/CC a/DT half/JJ euro/JJ per/IN unit/NN And/CC therefore/RB making/VBG a/DT
+therefore/RB making/VBG a/DT profit/NN margin/NN of/IN your/PRP$ profit/NN margin/NN it's/NN Because/IN of/IN this/DT even/RB it's/VBZ an/DT this/DT other/JJ calls/VBZ to/TO a/DT take/NN from/IN From/IN that/DT to/TO give/VB your/PRP$ profit/NN margin/NN per/IN unit/NN
 
 at/IN the/DT very/RB intelligent/JJ compared/VBN to/TO dogs/NNS maybe/RB
 i'm/NN gonna/NN go/VBP for/IN the/DT dog/NN i'm/NN gonna/NN draw/VBZ one/CD partly/RB
 
-therefore/RB making/VBG a/DT profit/NN margin/NN of/IN your/PRP$ profit/NN margin/NN it's/NN Because/IN of/IN this/DT even/RB it's/VBZ an/DT this/DT other/JJ calls/VBZ to/TO a/DT take/NN from/IN From/IN that/DT to/TO give/VB your/PRP$ profit/NN margin/NN per/IN unit/NN
-
 but/CC like/IN jungle/NN could/MD write/VB this/DT like/IN that/DT correct/VBP
 
-so/RB does/VBZ anyone/NN have/VB any/DT thoughts/NNS Has/NNP to/TO the/DT tool/NN training/NN that/IN to/TO is/VBZ required/VBN
-for/IN i/NNS Are/VBP not/RB the/DT rr/NN result/NN panes/NNS in/IN that/DT they're/NN low/JJ maintenance/NN i/NN Right/NNP
+on/IN there/EX for/IN for/IN the/DT successful/JJ or/CC conclusion/NN to/TO the/DT ti/NN
+can/MD make/VB a/DT roof/NN that/WDT was/VBD similar/JJ to/TO draw/VB
 
 You/PRP just/RB click/VB return/NN it/PRP should/MD be/VB get/VB rid/JJ of/IN a/DT message/NN
 If/IN you/PRP hit/VBP it/PRP is/VBZ it/PRP an/DT issue/NN get/VBP rid/JJ of/IN a/DT message/NN
@@ -119,6 +119,6 @@ because/IN with/IN most/JJS of/IN the/DT animals/NNS if/IN you're/JJ gonna/NN wi
 couple/JJ months/NNS and/CC my/PRP$ nephew/NN plant/NN so/IN other/JJ
 if/IN you/PRP grab/VBP the/DT a/DT slide/NN to/TO the/DT left/NN to/TO pull/VB it/PRP out/RP
 
-on/IN there/EX for/IN for/IN the/DT successful/JJ or/CC conclusion/NN to/TO the/DT ti/NN
 so/RB whenever/WRB one/CD of/IN your/PRP$ feelings/NNS that/IN down/RB or/CC tie/VB it/PRP to/TO know/VB is/VBZ coming/VBG up/RB and/CC there/RB was/VBD a/DT quite/RB excited/VBN so/RB
+for/IN i/NNS Are/VBP not/RB the/DT rr/NN result/NN panes/NNS in/IN that/DT they're/NN low/JJ maintenance/NN i/NN Right/NNP
 

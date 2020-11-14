@@ -25,24 +25,22 @@ function/NN is/VBZ like/IN a/DT very/RB simple/JJ page/NN application/NN
 that/IN the/DT industrial/JJ designer/NN will/MD on/IN the/DT working/NN design/NN
 
 the/DT user/JJ interface/NN designer/NN or/CC is/VBZ it/PRP the/DT
+or/CC is/VBZ it/PRP the/DT user/NN into/IN the/DT user/JJ interface/NN the/DT technical/JJ
 user/RB interface/VBP the/DT technical/JJ functions/NNS design/NN and/CC the/DT management/NN
 
-it/PRP consists/VBZ of/IN the/DT tree/NN levels/NNS of/IN design/NN
-design/NN we/PRP begin/VBP with/IN the/DT functional/JJ design/NN and/CC we/PRP go/VBP to/TO the/DT conceptual/JJ design/NN and/CC the/DT details/NNS assign/VBP every/DT level/NN
 you/PRP will/MD receive/VB an/DT email/NN with/IN the/DT example/NN of/IN a/DT explanation/NN of/IN what/WP particular/JJ level/NN of/IN design/NN means/VBZ to/TO the/DT different/JJ functions/NNS and/CC only/RB you/PRP probably/RB
 
 ideas/NNS i/VBP if/IN touch/PDT the/DT power/NN button/NN
 A/DT group/NN buttons/VBZ all/PDT the/DT buttons/NNS
+
+it/PRP consists/VBZ of/IN the/DT tree/NN levels/NNS of/IN design/NN
+design/NN we/PRP begin/VBP with/IN the/DT functional/JJ design/NN and/CC we/PRP go/VBP to/TO the/DT conceptual/JJ design/NN and/CC the/DT details/NNS assign/VBP every/DT level/NN
 
 controls/NNS but/CC if/IN you/PRP see/VBP elderly/JJ people/NNS all/PDT these/DT buttons/NNS and/CC then/RB they/PRP buy/VBP new/JJ tv/NN because/IN the/DT previous/JJ one/CD was/VBD talking/VBG whatever/NN and/CC
 
 and/CC you/PRP can/MD make/VB new/JJ sheets/NNS by/IN but/CC we/PRP put/VBD the/DT person/NN on/IN the/DT blank/JJ button/NN it/PRP works/VBZ like/IN this/DT
 
 worldwide/NN and/CC production/NN cost/NN should/MD be/VB a/DT maximum/NN of/IN twelve/NN euro/NN fifty/JJ per/IN remote/NN control/NN So/NNP that's/NN
-
-first/RB we're/JJ gonna/NN they're/NN gonna/NN try/VB some/DT different/JJ things/NNS with/IN the/DT tools/NNS we/PRP have/VBP over/VBN here/RB so/RB you/PRP get/VBP acquainted/VBN with/IN these/DT and/CC meeting/NN tools/NNS we/PRP have/VBP a/DT smart/JJ boards/NNS
-
-or/CC is/VBZ it/PRP the/DT user/NN into/IN the/DT user/JJ interface/NN the/DT technical/JJ
 
 i/NN was/VBD thinking/VBG since/IN the/DT tv/NN is/VBZ mostly/RB used/VBN to/TO get/VB the/DT with/IN the/DT vcr/NN or/CC dvd/VB player/NN or/CC recorder/NN and/CC not/RB with/IN a/DT stereo/NN It/PRP should/MD be/VB good/JJ to/TO include/VB functions/NNS for/IN vcr/NN cdv/NN d/NN players/NNS recorders/NNS
 
@@ -51,6 +49,9 @@ boards/NNS this/DT is/VBZ a/DT presentation/NN boards/NNS would/MD do/VB which/W
 Is/VBZ an/DT explanation/NN of/IN the/DT smart/JJ boards/NNS as/IN
 
 One/CD is/VBZ important/JJ part/NN for/IN you/PRP then/RB recorded/VBD course/NN to/TO the/DT user/NN friendly/JJ part/NN of/IN it/PRP
+
+first/RB we're/JJ gonna/NN they're/NN gonna/NN try/VB some/DT different/JJ things/NNS with/IN the/DT tools/NNS we/PRP have/VBP over/VBN here/RB so/RB you/PRP get/VBP acquainted/VBN with/IN these/DT and/CC meeting/NN tools/NNS we/PRP have/VBP a/DT smart/JJ boards/NNS
+no/DT your/PRP$ role/NN of/IN acquainted/VBN with/IN the/DT different/JJ tools/NNS
 
 every/DT level/NN design/NN consist/NN of/IN some/DT individual/JJ work/NN and/CC we/PRP close/VBP it/PRP with/IN the/DT meeting/NN you/PRP will/MD receive/VB an/DT email/NN
 
@@ -76,11 +77,12 @@ Project/NN a/DT project/NN documents/NNS is/VBZ for/IN shall/MD not/RB on/IN the
 
 And/CC our/PRP$ profit/NN aim/NN is/VBZ fifty/JJ million/CD euros/JJ very/RB
 
-no/DT your/PRP$ role/NN of/IN acquainted/VBN with/IN the/DT different/JJ tools/NNS
-and/CC then/RB we/PRP read/VBP through/IN the/DT tool/NN training/NN i/NN
+As/IN you/PRP have/VBP to/TO keep/VB it/PRP simple/JJ to/TO get/VB a/DT whole/JJ market/NN it's/JJ international/JJ so/IN
 
 but/CC for/IN you/PRP have/VBP get/VB the/DT whole/JJ quite/NN as/IN part/NN but/CC we/PRP will/MD motel/VB are/VBP we/PRP all/DT know/VBP each/DT other/JJ names/NNS
 the/DT Technical/NNP part/NN of/IN the/DT process/NN you're/NN gonna/NN look/NN after/IN four/CD so/RB
+
+and/CC then/RB we/PRP read/VBP through/IN the/DT tool/NN training/NN i/NN
 
 some/DT of/IN the/DT age/NN i/NN object/VBP to/TO started/VB it/PRP has/VBZ to/TO be/VB original/JJ trendy/JJ and/CC user-friendly/JJ
 Original/JJ trendy/NN and/CC user/NN faye/NN will/MD also/RB already/RB
@@ -105,15 +107,10 @@ welcome/NN to/TO the/DT kickoff/NN meeting/NN i/NNS have/VBP forget/VBN to/TO pu
 is/VBZ but/CC the/DT easiest/JJS animal/NN i/VBP can't/VBP think/VB this/DT is/VBZ the/DT birds/NNS i/NN will/MD
 I'll/NNP tell/VBP us/PRP something/NN about/IN the/DT your/PRP$ favourite/JJ characteristics/NNS of/IN this/DT particular/JJ birds/NNS
 
-The/DT market/NN range/NN of/IN since/IN national/JJ so/IN it's/JJ gonna/NN be/VB sold/VBN worldwide/NN
-As/IN you/PRP have/VBP to/TO keep/VB it/PRP simple/JJ to/TO get/VB a/DT whole/JJ market/NN it's/JJ international/JJ so/IN
-
 But/CC the/DT edv/JJ d/NN players/NNS in/IN soon/RB as/IN often/RB double/JJ as/IN stereo/JJ hi-fi/NN a/DT sense/NN probably/RB swap/VBD
 special/JJ like/IN a/DT pd/NN player/NN inside/IN of/IN it/PRP or/CC
 
 and/CC original/JJ that/IN it/PRP goes/VBZ hand/NN in/IN and/CC i/VB that/DT something/NN is/VBZ a/DT regional/JJ
-
-You/PRP scroll/VBP big/JJ people/NNS sit/VBP because/IN of/IN the/DT certainly/RB is/VBZ
 
 so/IN you/PRP can/MD you/PRP powerpoint/VB presentations/NNS on/IN the/DT screen/NN wheels/NNS where's/VBP the/DT white/JJ
 
@@ -126,16 +123,19 @@ but/CC they're/JJ we've/NN got/VBD a/DT put/VBN some/DT net/NN is/VBZ uses/JJ us
 
 individual/JJ acting/VBG so/RB that/IN the/DT industrial/JJ
 
+Plus/CC the/DT big/JJ for/IN has/VBZ an/DT small/JJ on/IN small/JJ actual/JJ face/NN and/CC i/NN like/VBP it/PRP so/RB
+You/PRP scroll/VBP big/JJ people/NNS sit/VBP because/IN of/IN the/DT certainly/RB is/VBZ
+
 It's/NNP important/JJ to/TO place/VB your/PRP$ laptop/NN exactly/RB on/IN the/DT marks/NNS for/IN the/DT affair/NN
 useful/JJ and/CC that/IN we/PRP want/VBP then/RB you're/VB the/DT usability/NN and/CC so/RB that's/VB the/DT gonna/NN be/VB a/DT very/RB important/JJ task/NN for/IN you/PRP then/RB
 
 Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN i/VB how/WRB much/JJ
 
+The/DT market/NN range/NN of/IN since/IN national/JJ so/IN it's/JJ gonna/NN be/VB sold/VBN worldwide/NN
+
 saw/VBD us/PRP all/PDT the/DT files/NNS smartboards/NNS that's/VBP all/DT weeks/NNS we/PRP can/MD do/VB that/DT
 
 the/DT weight/NN walks/NNS or/CC whatever/WDT your/PRP$ turn/NN
-
-Plus/CC the/DT big/JJ for/IN has/VBZ an/DT small/JJ on/IN small/JJ actual/JJ face/NN and/CC i/NN like/VBP it/PRP so/RB
 
 but/CC we're/WRB all/DT familiar/JJ with/IN the/DT microsoft/JJ powerpoint/NN
 

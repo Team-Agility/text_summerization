@@ -11,9 +11,6 @@ it/PRP takes/VBZ too/RB much/JJ time/NN to/TO learn/VB how/WRB to/TO use/VB are/
 The/DT next/JJ remote/NN controls/NNS are/VBP bad/JJ for/IN rsg/NN
 and/CC an/DT lcd/NN on/IN the/DT remote/JJ control/NN we/PRP already/RB
 so/IN we/PRP just/RB can/MD skip/VB the/DT lcd/NN u/NN on/IN the/DT remote/JJ control/NN because/IN
-my/PRP$ point/NN is/VBZ if/IN we/PRP made/VBD make/VB remote/JJ control/NN for/IN only/JJ television/NN it's/RB hard/RB to/TO sell/VB it/PRP for/IN twenty/NN five/CD euros/NNS but/CC
-the/DT way/NN i/NN want/VBP to/TO keep/VB it/PRP simple/JJ is/VBZ to/TO use/VB to/TO send/VB the/DT standards/NNS So/NNP standardise/VB the/DT methods/NNS like/IN a/DT know/JJ remote/NN controls/VBZ not/RB
-what/WP i/NN was/VBD reading/VBG on/IN a/DT page/JJ remote/JJ control/NN just/RB sends/VBZ come/VBN on/IN space/NN six/CD months/NNS to/TO to/TO television/NN so/RB
 But/CC do/VBP we/PRP still/RB need/VB it/PRP to/TO level/VB a/DT remote/JJ control/NN because/IN
 but/CC just/RB in/IN a/DT row/NN you/PRP see/VBP All/PDT the/DT same/JJ a/DT remote/JJ controls/NNS
 You/PRP think/VBP you/PRP can't/VBP make/VB it/PRP a/DT few/JJ control/NN too/RB small/JJ then/RB you/PRP will/MD all/DT of/IN them/PRP always/RB lose/VB it/PRP
@@ -28,25 +25,19 @@ But/CC but/CC maybe/RB you/PRP can/MD put/VB the/DT good/JJ the/DT options/NNS o
 
 but/CC if/IN you/PRP could/MD make/VB a/DT new/JJ option/NN that/IN she/PRP uses/VBZ press/NN one/CD button/NN you/PRP get/VBP
 i/NN would/MD find/VB it/PRP and/CC it/PRP when/WRB you/PRP just/RB press/VB one/CD button/NN and/CC you/PRP get/VBP a/DT six/CD
-missed/VBN did/VBD i/VB miss/VBP any/DT other/JJ buttons/NNS those/DT buttons/NNS
-Like/IN a/DT web/NN browser/NN back/RB button/NN
 button/NN just/RB one/CD pressing/VBG on/IN quickly/RB of/IN each/DT other/JJ
 stripes/NNS so/RB you/PRP have/VBP like/VBN at/IN five/CD seconds/NNS period/NN to/TO press/VB those/DT two/CD buttons/NNS
 to/TO have/VB a/DT period/NN of/IN an/DT five/CD seconds/NNS to/TO press/VB the/DT buttons/NNS and/CC that/DT know/VBP for/IN elderly/JJ people/NNS to/TO look/VB one/CD to/TO press/VB and/CC a/DT man/NN
-you/PRP accepted/VBN use/IN a/DT mute/NN button/NN to/TO
 then/RB the/DT circuit/NN gets/VBZ close/RB by/IN pressing/VBG the/DT button/NN the/DT like/IN a/DT switch/NN And/CC
+And/CC by/IN closing/VBG that/DT certain/JJ circuit/NN chip/NN knows/VBZ what/WP button/NN is/VBZ pressed/VBN or/CC
 pressed/VBN or/CC like/IN you/PRP press/VBP the/DT one/NN that/WDT circuit/NN it's/NN clothes/NNS and/CC
 You/PRP have/VBP to/TO do/VB all/PDT the/DT whole/JJ remote/NN control/NN becomes/VBZ a/DT green/JJ if/IN you/PRP press/VBP a/DT button/NN that's/NN
 the/DT subcomponent/NN is/VBZ one/CD I/PRP it/PRP is/VBZ the/DT button/NN pressed/VBD so/RB
 when/WRB you/PRP press/VBP a/DT button/NN to/TO switch/VB get/VB close/JJ
 so/RB the/DT chip/NN knows/VBZ what/WP button/NN you/PRP pressed/VBD
 because/IN when/WRB you/PRP button/VBP to/TO press/VB a/DT button/NN and/CC it/PRP doesn't/VBZ work/NN you/PRP can/MD
-so/RB the/DT teletext/NN option/NN Maybe/RB we/PRP have/VBP to/TO skip/VB that/DT one/CD not/RB
-normal/JJ be/VB put/VBN in/IN the/DT simple/JJ buttons/NNS on/IN the/DT top/JJ i'm/NN probably/RB the/DT
+do/VB if/IN you/PRP press/VBP something/NN that/WDT lights/VBZ up/RP for/IN a/DT few/JJ seconds/NNS and/CC you/PRP can/MD see/VB what/WP
 you/PRP have/VBP the/DT use/NN teletext/IN you/PRP can/MD press/VB a/DT green/JJ a/DT red/JJ button/NN to/TO go/VB to/TO the/DT next/JJ one/CD or/CC two/CD ago/NNS could/MD prove/VB as/IN
-are/VBP very/RB easy/JJ that/IN goes/VBZ to/TO the/DT standard/JJ buttons/NNS we/PRP just/RB have/VBP so/RB little/JJ
-teletext/NN options/NNS are/VBP only/RB four/CD buttons/NNS
-Because/IN the/DT data/NNS simple/NN buttons/NNS if/IN you/PRP put/VBP the/DT one/CD above/NN
 
 coach/NN and/CC it/PRP should/MD be/VB a/DT tv/NN remote/NN control/NN only/RB so/RB
 but/CC only/RB if/IN they/PRP zap/VBP a/DT lot/NN and/CC the/DT watch/NN over/IN five/CD hours/NNS tv/NN i/VBP don't/NN
@@ -63,25 +54,46 @@ right/JJ moment/NN and/CC then/RB you/PRP say/VBP a/DT tv/NN channel/NN one/CD j
 
 people/NNS so/RB they're/IN all/DT and/CC not/RB younger/JJR people/NNS
 especially/RB all/DT people/NNS might/MD be/VB bigger/JJR buttons/NNS
-older/JJR people/NNS will/MD spend/VB more/JJR money/NN for/IN something/NN what's/RB good/JJ because/IN
-good/JJ because/IN the/DT younger/JJR people/NNS are/VBP more/RBR critical/JJ where/WRB they/PRP spend/VBP their/PRP$ money/NN at/IN
-And/CC older/JJR people/NNS want/VBP to/TO spend/VB the/DT more/JJR money/NN on/IN that/DT
 be/VB simple/JJ because/IN of/IN the/DT rid/JJ the/DT elderly/JJ people/NNS and/CC it's/NN to/TO use/VB it/PRP
 elderly/JJ people/NNS so/IN we/PRP need/VBP to/TO keep/VB it/PRP simple/VB the/DT way/NN i/NN want/VBP to/TO keep/VB
 and/CC for/IN other/JJ people/NNS big/JJ buttons/NNS and/CC
 a/DT way/NN to/TO find/VB out/RP what/WP people/NNS use/VBP maybe/RB just/RB use/NN questionnaires/NNS on/IN the/DT internet/NN or/CC
 Just/RB ask/VB some/DT random/NN people/NNS elderly/JJ people/NNS what/WP they/PRP use/VBP what/WP they/PRP want/VBP on/IN remote/NNS control/NN
 maybe/RB elderly/JJ people/NNS no/DT rights/NNS
-it/PRP a/DT special/JJ all/PDT the/DT plo/JJ eight/CD people/NNS use/VBP standard/JJ buttons/NNS are/VBP you/PRP have/VBP that/DT
 but/CC wouldn't/VB it/PRP be/VB a/DT problem/NN to/TO because/IN you/PRP have/VBP to/TO be/VB fast/RB enough/JJ maybe/RB the/DT elderly/JJ
 and/CC teletext/NN is/VBZ become/VBN outdated/JJ since/IN the/DT popularity/NN of/IN internet/NN so/IN the/DT
 but/CC the/DT younger/JJR people/NNS more/RBR often/RB used/VBD the/DT internet/NN and/CC elderly/JJ
 internet/NN and/CC elderly/JJ people/NNS often/RB use/VBP teletext/NNS so/RB
 
+the/DT way/NN i/NN want/VBP to/TO keep/VB it/PRP simple/JJ is/VBZ to/TO use/VB to/TO send/VB the/DT standards/NNS So/NNP standardise/VB the/DT methods/NNS like/IN a/DT know/JJ remote/NN controls/VBZ not/RB
+it/PRP a/DT special/JJ all/PDT the/DT plo/JJ eight/CD people/NNS use/VBP standard/JJ buttons/NNS are/VBP you/PRP have/VBP that/DT
+Just/RB skip/RB simple/JJ standards/NNS features/NNS
+we/PRP have/VBP to/TO make/VB as/IN a/DT bit/NN more/RBR intelligent/JJ chip/NN then/RB the/DT standard/NN one/CD because/IN
+so/RB the/DT teletext/NN option/NN Maybe/RB we/PRP have/VBP to/TO skip/VB that/DT one/CD not/RB
+normal/JJ be/VB put/VBN in/IN the/DT simple/JJ buttons/NNS on/IN the/DT top/JJ i'm/NN probably/RB the/DT
+are/VBP very/RB easy/JJ that/IN goes/VBZ to/TO the/DT standard/JJ buttons/NNS we/PRP just/RB have/VBP so/RB little/JJ
+Because/IN the/DT data/NNS simple/NN buttons/NNS if/IN you/PRP put/VBP the/DT one/CD above/NN
+
+i/NN i/NN had/VBD three/CD pages/NNS with/IN findings/NNS and/CC so/RB a/DT lot/NN of/IN a/DT lot/NN of/IN findings/NNS so/IN we/PRP can/MD use/VB this/DT
+me/PRP it's/VBP if/IN i/NN use/VBP my/PRP$ telephone/NN i/NN never/RB use/VBP those/DT buttons/NNS to/TO call/VB should/MD never/RB
+missed/VBN did/VBD i/VB miss/VBP any/DT other/JJ buttons/NNS those/DT buttons/NNS
+Like/IN a/DT web/NN browser/NN back/RB button/NN
+you/PRP accepted/VBN use/IN a/DT mute/NN button/NN to/TO
+Maybe/RB we/PRP can/MD give/VB it/PRP out/RP in/IN different/JJ colours/NNS you/PRP can/MD choose/VB blue/JJ
+you/PRP can/MD choose/VB blue/JJ or/CC yellow/JJ
+and/CC when/WRB it's/NNS switched/VBD off/IN you/PRP can/MD push/VB a/DT button/NN as/IN it's/JJ working/VBG now/RB so/RB and/CC then/RB you/PRP say/VBP
+if/IN the/DT battery's/NN low/JJ all/DT your/PRP$ homework/NN so/RB you/PRP have/VBP to/TO indicate/VB
+so/RB you/PRP see/VBP green/JJ if/IN you/PRP push/VBP the/DT button/NN
+Maybe/RB we'll/NN also/RB the/DT on/IN the/DT on/IN the/DT station/NN a/DT button/NN to/TO to/TO call/VB your/PRP$ remote/NN control/NN with/IN the/DT beeps/NNS
+to/TO work/VB them/PRP and/CC does/VBZ it/PRP have/VB to/TO work/VB only/RB in/IN english/JJ or/CC in/IN dutch/JJ do/VBP or/CC
+Maybe/RB just/RB as/IN an/DT optional/JJ like/IN we/PRP discussed/VBD like/IN ipod/JJ different/JJ colours/NNS
+teletext/NN options/NNS are/VBP only/RB four/CD buttons/NNS
+
 but/CC then/RB you/PRP have/VBP to/TO remember/VB what/WP favourite/VB it/PRP what/WDT channel/VBZ so/RB
 but/CC How/WRB can/MD you/PRP remember/VB what/WP channel/NN connects/VBZ to/TO what/WP favourite/VB but/CC
 but/CC it/PRP for/IN user/NN to/TO remember/VB if/IN i/JJ press/NN that/IN button/VBZ it/PRP goes/VBZ to/TO that/DT channel/NN
 but/CC isn't/VB it/PRP hard/JJ to/TO remember/VB like/IN favourite/JJ one/CD
+just/RB use/NN when/WRB you/PRP wanna/VBP switch/VB between/IN channels/NNS all/DT time/NN
 And/CC you're/NN at/IN a/DT really/RB have/VBP to/TO divide/VB between/IN functions/NNS you/PRP often/RB used/VBD like/IN maybe/RB switch/NN channels/NNS and/CC volume/NN and/CC that/IN things/NNS and/CC the/DT menu/NN button/NN because/IN you/PRP in/IN
 
 Yes/UH fifty/JJ percent/NN of/IN users/NNS say/VBP
@@ -99,21 +111,29 @@ and/CC if/IN you/PRP make/VBP favourites/NNS can/MD say/VB six/CD in/IN a/DT row
 Only/RB the/DT numbers/NNS only/RB numbers/NNS for/IN the/DT more/RBR nothing/NN but/CC only/RB the/DT numbers/NNS want/VBP to/TO twenty/VB that/DT should/MD be/VB
 to/TO put/VB on/IN do/NN we/PRP make/VB a/DT light/JJ under/IN the/DT and/CC the/DT numbers/NNS anything/NN do/VBP if/IN you/PRP press/VBP
 
-i/NN i/NN had/VBD three/CD pages/NNS with/IN findings/NNS and/CC so/RB a/DT lot/NN of/IN a/DT lot/NN of/IN findings/NNS so/IN we/PRP can/MD use/VB this/DT
-that/DT and/CC it/PRP maybe/RB our/PRP$ fall/NN open/JJ system/NN is/VBZ a/DT good/JJ one/CD but/CC
-the/DT room/NN that's/NN exactly/RB what/WP we/PRP said/VBD about/IN maybe/RB a/DT home/NN station/NN for/IN for/IN it/PRP to/TO to/TO recharge/VB the/DT batteries/NNS
-system/NN so/RB when/WRB you/PRP clap/VBP your/PRP$ hands/NNS it/PRP will/MD beep/VB you/PRP
-me/PRP it's/VBP if/IN i/NN use/VBP my/PRP$ telephone/NN i/NN never/RB use/VBP those/DT buttons/NNS to/TO call/VB should/MD never/RB
-that's/NN room/NN so/IN we/PRP have/VBP to/TO understand/VB what/WP buttons/NNS are/VBP used/VBN to/TO to/TO make/VB it/PRP universal/RP so/RB
-it/PRP the/DT energy/NN source/NN is/VBZ the/DT battery/NN
-Maybe/RB we'll/NN also/RB the/DT on/IN the/DT on/IN the/DT station/NN a/DT button/NN to/TO to/TO call/VB your/PRP$ remote/NN control/NN with/IN the/DT beeps/NNS
-doesn't/NN live/CD in/IN the/DT centre/NN of/IN the/DT room/NN and/CC you/PRP can/MD use/VB screen/NN from/IN wherever/NN
-
 technical/JJ functions/NNS design/NN
 But/CC we/PRP can/MD integrate/VB that/DT volume/NN and/CC previous/JJ the/DT next/JJ so/RB
 if/IN we/PRP should/MD stand/VB out/RP unique/NN we/PRP have/VBP the/DT design/NN
 many/JJ buttons/NNS the/DT design/NN is/VBZ most/RBS important/JJ you/PRP can/MD do/VB integrate/VB
 you/PRP can/MD do/VB integrate/VB the/DT buttons/NNS in/IN the/DT design/NN very/RB much/JJ
+
+good/JJ because/IN i/NN told/VBD about/IN television/NN dvd/NN players/NNS t/VBP real/JJ and/CC vcr/NN had/VBD a/DT question/NN about/IN
+my/PRP$ point/NN is/VBZ if/IN we/PRP made/VBD make/VB remote/JJ control/NN for/IN only/JJ television/NN it's/RB hard/RB to/TO sell/VB it/PRP for/IN twenty/NN five/CD euros/NNS but/CC
+what/WP i/NN was/VBD reading/VBG on/IN a/DT page/JJ remote/JJ control/NN just/RB sends/VBZ come/VBN on/IN space/NN six/CD months/NNS to/TO to/TO television/NN so/RB
+The/DT method/NN i/NN used/VBN is/VBZ search/VBG the/DT web/NN just/RB web/JJ page/NN provided/VBD
+And/CC automatic/JJ only/RB search/NN function/NN for/IN each/DT television/NN
+and/CC a/DT moral/JJ on/IN you/PRP you/PRP type/VBP search/NN and/CC to/TO do/VB that/DT began/VBD
+and/CC i/NNS have/VBP to/TO a/DT short/JJ time/NN the/DT television/NN turns/VBZ off/RB and/CC then/RB you/PRP
+What/WP he's/VBD doing/VBG when/WRB use/NN configuring/VBG the/DT spectrum/NN just/RB chip/NN is/VBZ trying/VBG to/TO switch/VB off/RP the/DT television/NN and/CC
+and/CC it's/VB on/IN your/PRP$ computer/NN it's/NN on/IN your/PRP$ television/NN so/IN you/PRP want/VBP buttons/NNS are/VBP
+recognition/NN about/IN you/PRP said/VBD one/CD and/CC the/DT television/NN turns/VBZ on/IN one/CD is/VBZ that/IN which/WDT
+but/CC i/VBP don't/VBP turn/VB kids/NNS just/RB arrange/VBP use/VBP a/DT knife/NN
+
+this/DT fits/VBZ at/IN the/DT what/WP time/NN if/IN you/PRP set/VBP about/IN the/DT older/JJR people/NNS older/VBP
+older/JJR people/NNS will/MD spend/VB more/JJR money/NN for/IN something/NN what's/RB good/JJ because/IN
+good/JJ because/IN the/DT younger/JJR people/NNS are/VBP more/RBR critical/JJ where/WRB they/PRP spend/VBP their/PRP$ money/NN at/IN
+And/CC older/JJR people/NNS want/VBP to/TO spend/VB the/DT more/JJR money/NN on/IN that/DT
+but/CC maybe/RB it's/JJ that's/IN the/DT real/JJ too/RB hard/JJ to/TO make/VB Especially/NNP for/IN that/DT kinda/NN money/NN because/IN it's/NN it/PRP
 
 that's/IN the/DT lights/NNS emitting/VBG diode/NN
 and/CC the/DT light/JJ emitting/VBG diode/NN is/VBZ producing/VBG infra-red/JJ lights/NNS that's/NN and/CC
@@ -122,48 +142,14 @@ but/CC this/DT one's/JJ producing/VBG infrared/JJ light/NN this/DT
 infrared/JJ light/NN this/DT invisible/JJ and/CC
 invisible/JJ and/CC this/DT one's/JJ producing/VBG normal/JJ light/NN
 we/PRP can/MD make/VB the/DT normal/JJ one/NN also/RB a/DT normal/JJ light/NN not/RB led/VBD light/JJ doesn't/NNS know/VBP
+Maybe/RB you/PRP have/VBP to/TO to/TO put/VB a/DT small/JJ light/NN around/IN the/DT button/NN you/PRP push/VBP so/RB you/PRP see/VBP green/JJ
 or/CC may/MD be/VB on/IN top/NN of/IN the/DT green/JJ lights/NNS flashing/NN or/CC
 It/PRP lights/VBZ up/RP everything/NN light/NN set/VBN that's/IN a/DT good/JJ it/PRP is/VBZ
-do/VB if/IN you/PRP press/VBP something/NN that/WDT lights/VBZ up/RP for/IN a/DT few/JJ seconds/NNS and/CC you/PRP can/MD see/VB what/WP
-
-Maybe/RB we/PRP can/MD give/VB it/PRP out/RP in/IN different/JJ colours/NNS you/PRP can/MD choose/VB blue/JJ
-you/PRP can/MD choose/VB blue/JJ or/CC yellow/JJ
-because/IN it's/NN if/IN you/PRP use/VBP it/PRP screen/NN on/IN read/NN through/IN green/JJ
-That's/NN if/IN the/DT screen/NN green/JJ or/CC red/JJ or/CC
-Maybe/RB you/PRP have/VBP to/TO to/TO put/VB a/DT small/JJ light/NN around/IN the/DT button/NN you/PRP push/VBP so/RB you/PRP see/VBP green/JJ
-so/RB you/PRP see/VBP green/JJ if/IN you/PRP push/VBP the/DT button/NN
-Maybe/RB just/RB as/IN an/DT optional/JJ like/IN we/PRP discussed/VBD like/IN ipod/JJ different/JJ colours/NNS
-for/IN the/DT going/VBG to/TO have/VB an/DT orange/NN Lunch/NNP break/NN
-
-good/JJ because/IN i/NN told/VBD about/IN television/NN dvd/NN players/NNS t/VBP real/JJ and/CC vcr/NN had/VBD a/DT question/NN about/IN
-The/DT method/NN i/NN used/VBN is/VBZ search/VBG the/DT web/NN just/RB web/JJ page/NN provided/VBD
-And/CC automatic/JJ only/RB search/NN function/NN for/IN each/DT television/NN
-and/CC a/DT moral/JJ on/IN you/PRP you/PRP type/VBP search/NN and/CC to/TO do/VB that/DT began/VBD
-and/CC it's/VB on/IN your/PRP$ computer/NN it's/NN on/IN your/PRP$ television/NN so/IN you/PRP want/VBP buttons/NNS are/VBP
-recognition/NN about/IN you/PRP said/VBD one/CD and/CC the/DT television/NN turns/VBZ on/IN one/CD is/VBZ that/IN which/WDT
-but/CC i/VBP don't/VBP turn/VB kids/NNS just/RB arrange/VBP use/VBP a/DT knife/NN
-
-And/CC by/IN closing/VBG that/DT certain/JJ circuit/NN chip/NN knows/VBZ what/WP button/NN is/VBZ pressed/VBN or/CC
-then/RB the/DT chip/NN produces/VBZ a/DT pattern/NN Like/IN a/DT morse/NN code/NN to/TO
-the/DT chip/NN for/IN is/VBZ producing/VBG the/DT pattern/NN so/RB
-we/PRP have/VBP to/TO make/VB as/IN a/DT bit/NN more/RBR intelligent/JJ chip/NN then/RB the/DT standard/NN one/CD because/IN
-that's/NN when/WRB the/DT circuit/NN as/IN close/NN to/TO produce/VB is/VBZ the/DT pattern/NN but/CC
-but/CC it/PRP for/IN brands/NNS of/IN tvds/NN patterns/NNS are/VBP different/JJ
-What/WP he's/VBD doing/VBG when/WRB use/NN configuring/VBG the/DT spectrum/NN just/RB chip/NN is/VBZ trying/VBG to/TO switch/VB off/RP the/DT television/NN and/CC
-And/CC that's/VB connecting/VBG to/TO it/PRP chip/NN so/IN the/DT chip/NN knows/VBZ
-And/CC the/DT chips/NNS sends/VBZ out/RP that's/RB our/PRP$ to/TO the/DT infrared/VBN bulb/NN and/CC then/RB put/VBD
-
-this/DT fits/VBZ at/IN the/DT what/WP time/NN if/IN you/PRP set/VBP about/IN the/DT older/JJR people/NNS older/VBP
-just/RB use/NN when/WRB you/PRP wanna/VBP switch/VB between/IN channels/NNS all/DT time/NN
-and/CC i/NNS have/VBP to/TO a/DT short/JJ time/NN the/DT television/NN turns/VBZ off/RB and/CC then/RB you/PRP
-idea/NN that/WDT can/MD be/VB done/VBN by/IN just/RB could/MD change/VB changing/VBG the/DT spectrum/NN all/PDT the/DT time/NN and/CC
-but/CC maybe/RB it's/JJ that's/IN the/DT real/JJ too/RB hard/JJ to/TO make/VB Especially/NNP for/IN that/DT kinda/NN money/NN because/IN it's/NN it/PRP
-Maybe/RB maybe/RB it's/VB too/RB hard/JJ to/TO realise/VB that/IN we/PRP have/VBP short/JJ time/NN to/TO
-we/PRP have/VBP short/JJ time/NN to/TO put/VB it/PRP on/IN the/DT market/NN so/IN that/DT
-we're/NNS finished/VBN with/IN for/IN this/DT time/NN and/CC spongy/NN
 
 the/DT last/JJ experiments/NNS was/VBD about/IN gadgets/NNS like/IN the/DT speech/NN recognition/NN we/PRP didn't/VBP
 I/PRP we/PRP can/MD speak/VB and/CC we/PRP can/MD skip/VB speech/JJ recognition/NN directly/RB because/IN
+because/IN it's/NN if/IN you/PRP use/VBP it/PRP screen/NN on/IN read/NN through/IN green/JJ
+That's/NN if/IN the/DT screen/NN green/JJ or/CC red/JJ or/CC
 But/CC some/DT of/IN you/PRP something/NN to/TO read/VB about/IN speech/JJ recognition/NN about/IN
 i/NN don't/VBP think/VB it's/JJ use/NN fallen/VBN off/IN to/TO take/VB the/DT efforts/NNS to/TO design/VB something/NN with/IN the/DT speech/NN recognition/NN
 and/CC also/RB if/IN you/PRP have/VBP a/DT good/JJ speech/NN recognition/NN you/PRP can/MD just/RB throw/VB the/DT and/CC
@@ -178,14 +164,6 @@ Red/NNP so/IN it/PRP shows/VBZ that/IN like/IN something's/NN wrong/JJ and/CC
 And/CC the/DT forty/JJ plus/JJ people/NNS or/CC torture/NN
 The/DT new/JJ product/NN should/MD reach/VB a/DT new/JJ market/NN this/DT custom/NN and/CC our/PRP$ do/VBP you/PRP wanna/VB forty/NNS so/IN it/PRP should/MD be/VB flashy/JJ
 
-directly/RB because/IN it's/NN not/RB so/RB reachable/JJ for/IN twenty/JJ five/CD euros/NNS
-Just/RB skip/RB simple/JJ standards/NNS features/NNS
-and/CC when/WRB it's/NNS switched/VBD off/IN you/PRP can/MD push/VB a/DT button/NN as/IN it's/JJ working/VBG now/RB so/RB and/CC then/RB you/PRP say/VBP
-if/IN the/DT battery's/NN low/JJ all/DT your/PRP$ homework/NN so/RB you/PRP have/VBP to/TO indicate/VB
-production/NN cost/NN is/VBZ that/IN the/DT twelve/NN and/CC a/DT half/NN
-Lcd/NNP doesn't/NN work/NN for/IN twelve/NN and/CC a/DT half/NN euros/NN
-to/TO work/VB them/PRP and/CC does/VBZ it/PRP have/VB to/TO work/VB only/RB in/IN english/JJ or/CC in/IN dutch/JJ do/VBP or/CC
-
 The/DT same/JJ as/IN a/DT telephone/NN a/DT mobile/JJ phone/NN or/CC what/WP you/PRP mean/VBP if/IN you/PRP wish/VBP
 thinking/VBG about/IN that/DT on/IN a/DT mobile/JJ phone/NN in/IN the/DT dark/NN
 it/PRP a/DT mobile/JJ phone/NN the/DT phone/NN can/MD do/VB it/PRP
@@ -197,11 +175,33 @@ it/PRP was/VBD a/DT A/NNP report/NN about/IN an/DT experiment/NN with/IN a/DT lo
 And/CC they/PRP had/VBD a/DT lot/NN of/IN findings/NNS in/IN the/DT report/NN with/IN the/DT statistical/JJ thing/NN that/WDT statistical/JJ proof/NN And/CC so/RB
 sixty/NN five/CD persons/NNS the/DT city/NN of/IN persons/NNS of/IN the/DT users/NNS said/VBD they/PRP zap/VBP a/DT lot/NN
 on/IN the/DT market/NN you/PRP can/MD now/RB buy/VB for/IN twenty/NN euros/VBP a/DT remote/JJ control/NN for/IN everything/NN and/CC
+idea/NN that/WDT can/MD be/VB done/VBN by/IN just/RB could/MD change/VB changing/VBG the/DT spectrum/NN all/PDT the/DT time/NN and/CC
+Maybe/RB maybe/RB it's/VB too/RB hard/JJ to/TO realise/VB that/IN we/PRP have/VBP short/JJ time/NN to/TO
+we/PRP have/VBP short/JJ time/NN to/TO put/VB it/PRP on/IN the/DT market/NN so/IN that/DT
+we're/NNS finished/VBN with/IN for/IN this/DT time/NN and/CC spongy/NN
+
+then/RB the/DT chip/NN produces/VBZ a/DT pattern/NN Like/IN a/DT morse/NN code/NN to/TO
+the/DT chip/NN for/IN is/VBZ producing/VBG the/DT pattern/NN so/RB
+that's/NN when/WRB the/DT circuit/NN as/IN close/NN to/TO produce/VB is/VBZ the/DT pattern/NN but/CC
+but/CC it/PRP for/IN brands/NNS of/IN tvds/NN patterns/NNS are/VBP different/JJ
+And/CC that's/VB connecting/VBG to/TO it/PRP chip/NN so/IN the/DT chip/NN knows/VBZ
+And/CC the/DT chips/NNS sends/VBZ out/RP that's/RB our/PRP$ to/TO the/DT infrared/VBN bulb/NN and/CC then/RB put/VBD
+
+that/DT and/CC it/PRP maybe/RB our/PRP$ fall/NN open/JJ system/NN is/VBZ a/DT good/JJ one/CD but/CC
+the/DT room/NN that's/NN exactly/RB what/WP we/PRP said/VBD about/IN maybe/RB a/DT home/NN station/NN for/IN for/IN it/PRP to/TO to/TO recharge/VB the/DT batteries/NNS
+system/NN so/RB when/WRB you/PRP clap/VBP your/PRP$ hands/NNS it/PRP will/MD beep/VB you/PRP
+that's/NN room/NN so/IN we/PRP have/VBP to/TO understand/VB what/WP buttons/NNS are/VBP used/VBN to/TO to/TO make/VB it/PRP universal/RP so/RB
+it/PRP the/DT energy/NN source/NN is/VBZ the/DT battery/NN
+doesn't/NN live/CD in/IN the/DT centre/NN of/IN the/DT room/NN and/CC you/PRP can/MD use/VB screen/NN from/IN wherever/NN
+for/IN the/DT going/VBG to/TO have/VB an/DT orange/NN Lunch/NNP break/NN
 
 one/CD because/IN if/IN we/PRP make/VBP a/DT wall/NN new/JJ product/NN or/CC own/JJ style/NN be/VB we/PRP this/DT is/VBZ so/RB difficult/JJ a/DT difficulty/NN
+directly/RB because/IN it's/NN not/RB so/RB reachable/JJ for/IN twenty/JJ five/CD euros/NNS
 so/IN we/PRP mow/VBP them/PRP be/VB made/VBN a/DT mess/NN made/VBD it/PRP make/VB it/PRP a/DT very/RB special/JJ
 and/CC that's/VB the/DT motto/NN we/PRP are/VBP a/DT reference/NN to/TO for/IN our/PRP$ our/PRP$ style/NN be/VB
 The/DT company's/NN about/IN are/VBP their/PRP$ own/JJ fashion/NN their/PRP$ own/JJ style/NN
 the/DT main/JJ thing/NN is/VBZ the/DT usability/NN that's/NN when/WRB we/PRP can/MD make/VB it/PRP a/DT special/JJ product/NN
 play/NN pause/NN i/NN if/IN that's/NNS usable/JJ when/WRB
+production/NN cost/NN is/VBZ that/IN the/DT twelve/NN and/CC a/DT half/NN
+Lcd/NNP doesn't/NN work/NN for/IN twelve/NN and/CC a/DT half/NN euros/NN
 

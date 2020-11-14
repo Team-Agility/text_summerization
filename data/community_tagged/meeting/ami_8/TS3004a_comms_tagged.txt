@@ -1,9 +1,9 @@
 control/VB what/WP do/VBP you/PRP need/VB a/DT new/JJ remote/NN control/NN i/NN already/RB
 
 You/PRP can/MD put/VB gains/NNS a/DT new/JJ remote/NN control/NN
+so/IN it/PRP doesn't/VBZ matter/RBR what/WP place/NN of/IN this/DT on/IN the/DT remote/JJ control/NN so/IN you/PRP can/MD do/VB something/NN
 
 first/RB we/PRP have/VBP three/CD steps/NNS of/IN making/VBG the/DT remote/JJ control/NN for/IN the/DT first/JJ
-so/IN it/PRP doesn't/VBZ matter/RBR what/WP place/NN of/IN this/DT on/IN the/DT remote/JJ control/NN so/IN you/PRP can/MD do/VB something/NN
 
 we/PRP have/VBP to/TO look/VB what/WP the/DT market/NN is/VBZ doing/VBG for/IN what/WP remote/NN controls/NNS are/VBP in/IN the/DT market/NN And/CC the/DT third/JJ thing/NN is/VBZ
 
@@ -107,12 +107,12 @@ is/VBZ what/WP it/PRP that/WDT so/RB that's/VBZ the/DT specifications/NNS of/IN 
 
 it/PRP has/VBZ to/TO be/VB original/JJ trendy/JJ user/NNS friendly/RB now/RB that's/VBP
 
-it/PRP out/RP and/CC we/PRP have/VBP to/TO you/PRP use/VBP a/DT different/JJ pen/NN colours/NNS and/CC different/JJ thickness/NN of/IN that/DT and/CC
-Maybe/RB if/IN you/PRP hold/VBP your/PRP$ pen/JJ bit/NN more/RBR to/TO the/DT back/NN so/RB
-
 these/DT pens/NNS would/MD be/VB just/RB you/PRP write/VBP it/PRP down/RP a/DT downloaded/JJ to/TO work/VB you/PRP do/VB
 
 how/WRB much/JJ is/VBZ your/PRP$ standards/NNS a/DT mobile/JJ phone/NN the/DT charger/NN
+
+it/PRP out/RP and/CC we/PRP have/VBP to/TO you/PRP use/VBP a/DT different/JJ pen/NN colours/NNS and/CC different/JJ thickness/NN of/IN that/DT and/CC
+Maybe/RB if/IN you/PRP hold/VBP your/PRP$ pen/JJ bit/NN more/RBR to/TO the/DT back/NN so/RB
 
 it/PRP in/IN station/NN or/CC you/PRP can/MD change/VB the/DT batteries/NNS so/RB
 

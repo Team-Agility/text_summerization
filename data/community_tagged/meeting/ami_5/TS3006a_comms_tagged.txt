@@ -1,22 +1,20 @@
+At/IN some/DT buttons/NNS for/IN the/DT warm/JJ all/DT function/NN you/PRP already/RB
+
 remote/JJ working/VBG from/IN top/JJ to/TO bottom/VB functional/JJ design/NN the/DT reduce/VB mean/NN
 
 that/DT attack/VBZ the/DT phase/NN of/IN the/DT actor/NN for/IN a/DT specific/JJ functions/NNS i/VBP wasn't/VBP
 do/VB we/PRP only/RB have/VBP to/TO do/VB the/DT phase/NN one/CD the/DT functional/JJ design/NN
 
-and/CC we/PRP you/PRP use/VBP button/JJ presses/NNS to/TO activate/VB or/CC dvx/VB afraid/JJ certain/JJ functions/NNS on/IN the/DT tv/NN and/CC that's/NN
-At/IN some/DT buttons/NNS for/IN the/DT warm/JJ all/DT function/NN you/PRP already/RB
-
 we're/NN supposed/VBD to/TO develop/VB a/DT new/JJ remote/NN control/NN that's/NN
 But/CC are/VBP the/DT basic/JJ options/NNS for/IN a/DT remote/JJ control/NN
 
-like/IN some/DT like/IN some/DT remotes/NNS were/VBD out/IN there/EX which/WDT i/NN know/VBP there's/IN one/CD button/NN which/WDT is/VBZ very/RB is/VBZ to/TO switch/VB between/IN devices/NNS so/RB you/PRP can/MD
-
 the/DT user/JJ interface/NN designer/NN issue/NN that's/NN by/IN the/DT technical/JJ functions/NNS
-
-can/MD we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ use/NN what/WP would/MD you/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN especially/RB for/IN future/JJ users/NNS
 
 your/PRP$ video/NN and/CC then/RB the/DT same/JJ buttons/NNS control/VB your/PRP$ video/NN and/CC
 but/CC you/PRP and/CC you/PRP would/MD need/VB several/JJ other/JJ buttons/NNS for/IN a/DT video/NN player/NN you/PRP need/VBP a/DT play/NN
+
+like/IN some/DT like/IN some/DT remotes/NNS were/VBD out/IN there/EX which/WDT i/NN know/VBP there's/IN one/CD button/NN which/WDT is/VBZ very/RB is/VBZ to/TO switch/VB between/IN devices/NNS so/RB you/PRP can/MD
+and/CC then/RB use/VB your/PRP$ windows/NNS media/NNS centre/VBP on/IN a/DT tv/NN with/IN the/DT same/JJ remote/NN control/NN so/RB with/IN the/DT switch/NN to/TO one/CD single/JJ switch/NN
 
 buttons/NNS that's/RB just/RB normal/JJ buttons/NNS has/VBZ to/TO be/VB a/DT
 and/CC for/IN it/PRP Teletext/NNP You/PRP need/VBP additional/JJ buttons/NNS as/IN so/RB
@@ -29,19 +27,18 @@ design/NN already/RB it's/JJ very/RB important/JJ to/TO components/NNS we/PRP wa
 
 it/PRP is/VBZ it/PRP gonna/JJ be/VB malt/JJ media/NNS it/PRP controls/VBZ and/CC do/VBP we/PRP
 
-and/CC then/RB use/VB your/PRP$ windows/NNS media/NNS centre/VBP on/IN a/DT tv/NN with/IN the/DT same/JJ remote/NN control/NN so/RB with/IN the/DT switch/NN to/TO one/CD single/JJ switch/NN
+and/CC we/PRP you/PRP use/VBP button/JJ presses/NNS to/TO activate/VB or/CC dvx/VB afraid/JJ certain/JJ functions/NNS on/IN the/DT tv/NN and/CC that's/NN
 
 so/RB there/EX are/VBP a/DT few/JJ means/NNS to/TO reach/VB that's/NN by/IN doing/VBG research/NN to/TO see/VB what/WP existing/VBG products/NNS are/VBP out/RP in/IN the/DT market/NN what/WP functions/NNS
 are/VBP there/RB any/DT new/JJ functions/NNS which/WDT can/MD be/VB added/VBN to/TO our/PRP$ product/NN
+
+therefore/RB we/PRP have/VBP to/TO do/VB some/DT internet/NN search/NN for/IN what/WP application/NN is/VBZ do/JJ current/JJ remote/NN controls/NNS support/VB what/WP are/VBP feature/JJ features/NNS of/IN current/JJ and/CC future/JJ televisions/NNS so/IN we/PRP can/MD see/VB
+can/MD we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ use/NN what/WP would/MD you/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN especially/RB for/IN future/JJ users/NNS
 
 the/DT reduce/VB mean/JJ individual/JJ work/NN here/RB
 
 and/CC another/DT function/NN of/IN thing/NN off/IN switch/NN to/TO your/PRP$ media/NNS centre/NN because/IN
 media/NNS centre/NN because/IN that's/NN getting/VBG very/RB popular/JJ and/CC then/RB use/VB your/PRP$
-
-individual/JJ work/NN here/RB for/IN meeting/VBG to/TO discuss/VB the/DT results/NNS that/WDT etcetera/VBP
-you/PRP do/VBP some/DT individual/JJ work/NN you/PRP have/VBP a/DT meeting/NN individual/JJ
-you/PRP have/VBP a/DT meeting/NN individual/JJ work/NN meeting/NN and/CC at/IN the/DT end/NN of/IN the/DT
 
 we/PRP have/VBP first/VBN to/TO start/VB the/DT basic/JJ functions/NNS and/CC
 so/RB you/PRP have/VBP some/DT basic/JJ starting/VBG point/NN then/RB you/PRP can/MD always/RB
@@ -49,12 +46,16 @@ so/RB you/PRP have/VBP some/DT basic/JJ starting/VBG point/NN then/RB you/PRP ca
 really/RB easy/JJ to/TO use/VB buttons/NNS small/JJ parts/NNS
 buttons/NNS small/JJ parts/NNS of/IN very/RB small/JJ buttons/NNS that's/IN not/RB
 
+individual/JJ work/NN here/RB for/IN meeting/VBG to/TO discuss/VB the/DT results/NNS that/WDT etcetera/VBP
+you/PRP do/VBP some/DT individual/JJ work/NN you/PRP have/VBP a/DT meeting/NN individual/JJ
+
 And/CC the/DT marketing/NN expert/NN so/RB it's/JJ come/VBP up/RP with/IN the/DT user/NN requirements/NNS did/VBD any/DT
 from/IN marketing/VBG perspective/JJ function/NN is/VBZ design/JJ phase/NN courses/VBZ out/IN of/IN the/DT user/NN requirements/NNS
 
 we/PRP could/MD just/RB are/VBP just/RB ascension/NN that's/VBZ only/RB for/IN tv/NN and/CC video/NN and/CC
 
-therefore/RB we/PRP have/VBP to/TO do/VB some/DT internet/NN search/NN for/IN what/WP application/NN is/VBZ do/JJ current/JJ remote/NN controls/NNS support/VB what/WP are/VBP feature/JJ features/NNS of/IN current/JJ and/CC future/JJ televisions/NNS so/IN we/PRP can/MD see/VB
+you/PRP have/VBP a/DT meeting/NN individual/JJ work/NN meeting/NN and/CC at/IN the/DT end/NN of/IN the/DT
+and/CC at/IN the/DT end/NN of/IN the/DT you/PRP have/VBP to/TO find/VB a/DT meeting/NN and/CC then/RB i/VB
 
 control/NN that's/VBZ both/DT original/JJ trendy/NN and/CC user-friendly/JJ
 
@@ -70,9 +71,6 @@ case/NN sense/NN has/VBZ to/TO be/VB cable/NN for/IN a/DT zapping/NN
 
 winding/VBG very/RB fast/RB so/RB but/CC readable/JJ
 player/NN you/PRP need/VBP a/DT play/NN and/CC the/DT for/IN fast/JJ forward/NN and/CC stop/VB function/NN
-
-And/CC at/IN the/DT end/NN of/IN today/NN we/PRP should/MD have/VB a/DT prototype/NN for/IN not/RB
-and/CC at/IN the/DT end/NN of/IN the/DT you/PRP have/VBP to/TO find/VB a/DT meeting/NN and/CC then/RB i/VB
 
 points/NNS it/PRP use/VBP infrared/JJ light/NN to/TO communicate/VB a/DT signal/NN to/TO the/DT tv/NN apparatus/NN or/CC stereo/NN
 
@@ -93,6 +91,8 @@ we/PRP discussed/VBD and/CC put/VBD it/PRP in/IN the/DT project/NN folder/NN
 
 and/CC for/IN the/DT changing/VBG all/DT to/TO that/IN all/PDT the/DT channels/NNS and/CC changing/VBG the/DT volume/NN
 
+And/CC at/IN the/DT end/NN of/IN today/NN we/PRP should/MD have/VB a/DT prototype/NN for/IN not/RB
+
 Is/VBZ this/DT part/NN of/IN our/PRP$ a/DT quiet/JJ or/CC introduction/NN to/TO each/DT other/JJ
 
 steps/NNS and/CC then/RB every/DT step/NN i/RB have/VBP that's/VBN specific/JJ tasks/NNS to/TO perform/VB whatever/WDT that/DT to/TO
@@ -109,9 +109,9 @@ and/CC according/VBG to/TO the/DT a/DT coffee/NN machine/NN example/NN i/NN have
 
 Fox/NNP Fire/NNP fox/NN
 
-They/PRP will/MD look/VB like/IN mall/NN likes/NNS it's/VBP have/VBP nelson/NN
-
 k/NN clear/JJ race/NN years/NNS or/CC
 
 they're/NNS cute/VBP they're/JJ independent/JJ and/CC cuddly/RB
+
+They/PRP will/MD look/VB like/IN mall/NN likes/NNS it's/VBP have/VBP nelson/NN
 

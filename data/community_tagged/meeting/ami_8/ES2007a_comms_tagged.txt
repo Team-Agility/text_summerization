@@ -130,9 +130,9 @@ selling/VBG price/NN twenty/NN five/CD euros/NNS For/IN
 
 What/WP does/VBZ ida/VB vid/NN and/CC you/PRP stand/VBP for/IN
 
-Or/CC if/IN you/PRP give/VBP you/PRP a/DT singaporean/JJ dynamite/NN before/IN it's/NN a/DT light/NN
-
 just/RB roll/VB the/DT phase/NN but/CC then/RB you/PRP have/VBP to/TO describe/VB inviting/VBG have/VB a/DT list/NN of/IN a/DT lexus/NN
+
+Or/CC if/IN you/PRP give/VBP you/PRP a/DT singaporean/JJ dynamite/NN before/IN it's/NN a/DT light/NN
 
 missed/VBN it/PRP but/CC insists/VBZ that/IN a/DT fireman/NN see/VB what/WP happens/VBZ
 
