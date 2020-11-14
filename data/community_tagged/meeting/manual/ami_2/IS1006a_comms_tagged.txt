@@ -1,0 +1,84 @@
+So/RB ./PUNCT Twenty/NNP five/CD Euro/NNP for/IN a/DT remote/JJ control/NN ./PUNCT
+So/RB any/DT of/IN you/PRP have/VBP experience/VBN in/IN remote/NN controls/NNS ?/PUNCT
+so/RB y/RB you/PRP can/MD decide/VB that/DT now/RB it's/VBZ the/DT remote/JJ control/NN for/IN the/DT television/NN ,/PUNCT
+Or/CC if/IN we/PRP should/MD have/VB a/DT targeted/VBN re/NN remote/NN control/NN ./PUNCT
+
+Should/MD it/PRP be/VB ,/PUNCT y/VB these/DT remote/VB controls/NNS where/WRB they/PRP are/VBP what/WP they/PRP call/VBP a/DT universal/JJ ret/JJ remote/NN control/NN
+If/IN it/PRP if/IN we/PRP want/VBP a/DT r/NN universal/JJ remote/VB control/NN that/IN we/PRP sa/VBP like/IN we/PRP say/VBP before/IN it/PRP may/MD
+
+one/CD thing/NN important/JJ in/IN this/DT remote/JJ control/NN if/IN you/PRP remember/VBP when/WRB people/NNS use/VBP it/PRP they're/VBZ they/PRP never/RB find/VBP a/DT good/JJ button/NN in/IN the/DT right/JJ place/NN ./PUNCT
+but/CC you/PRP could/MD look/VB at/IN what/WP the/DT other/JJ people/NNS have/VBP used/VBN there/EX or/CC remote/VB controls/NNS ./PUNCT
+
+We're/NNP here/RB to/TO have/VB a/DT kick-off/JJ meeting/NN for/IN the/DT design/NN of/IN a/DT f/NN for/IN the/DT beginning/NN of/IN new/JJ project/JJ remote/NN control/NN for/IN the/DT design/NN for/IN a/DT new/JJ remote/NN control/NN ./PUNCT
+the/DT important/JJ points/NNS we/PRP have/VBP to/TO t/VB talk/NN about/IN are/VBP it's/JJ functional/JJ design/NN ,/PUNCT it's/JJ conceptual/JJ design/NN ,/PUNCT and/CC desail/NN detailed/VBN design/NN ./PUNCT
+So/RB there's/RB a/DT problem/NN in/IN the/DT design/NN of/IN that/DT remote/JJ control/NN somehow/NN ,/PUNCT
+so/RB I/PRP would/MD have/VB my/PRP$ own/JJ design/NN of/IN the/DT remote/JJ control/NN
+
+that's/IN the/DT aim/NN for/IN the/DT price/NN for/IN the/DT remote/JJ control/NN ./PUNCT
+
+./PUNCT So/NNP ,/PUNCT some/DT idea/NN with/IN cellular/JJ phone/NN with/IN a/DT screen/NN that/WDT will/MD tell/VB you/PRP what/WP
+But/CC no/DT screens/NNS on/IN remote/NN controls/NNS ./PUNCT
+because/IN it's/NN just/RB a/DT full/JJ touch/NN screen/JJ remote/JJ control/NN ,/PUNCT
+
+then/RB it's/VBZ the/DT remote/JJ control/NN for/IN the/DT sound/NN system/NN ,/PUNCT or/CC for/IN your/PRP$ refrigerator/NN
+
+,/PUNCT my/PRP$ daughter/NN likes/VBZ l/JJ remote/NN controls/NNS ./PUNCT
+So/IN she/PRP likes/VBZ buttons/NNS which/WDT make/VBP click/NN ,/PUNCT
+
+colourful/NN ,/PUNCT because/IN nobody/NN has/VBZ colourful/JJ remote/NNS control/NN
+So/RB colour/JJ ,/PUNCT robustness/NN ,/PUNCT easy/JJ to/TO use/VB ,/PUNCT size/NN ,/PUNCT
+./PUNCT Colour/NNP ,/PUNCT size/NN ,/PUNCT sh/NN
+maybe/RB we/PRP can/MD change/VB the/DT colours/NN that/WDT at/IN least/JJS the/DT frame/NN ./PUNCT
+
+Remote/NNP controls/VBZ children/NNS proof/NN ./PUNCT
+It/PRP has/VBZ to/TO be/VB wha/JJ baby/NN proof/NN
+
+some/DT discussion/NN and/CC then/RB we/PRP talk/VBP of/IN the/DT next/JJ meeting/NN ./PUNCT
+
+it/PRP could/MD be/VB only/RB a/DT screen/NN which/WDT would/MD change/VB depending/VBG on/IN the/DT use/NN or/CC even/RB the/DT user/NN ./PUNCT
+But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
+
+So/RB ma/JJ I/PRP prefer/VBP to/TO have/VB the/DT off/RP button/NN at/IN the/DT top/JJ right/NN ,/PUNCT
+
+I'm/NNP the/DT Project/NNP Manager/NNP Christa/NNP Pavlov/NNP
+and/CC we/PRP speak/VBP about/IN this/DT tool/NN we're/NN going/VBG to/TO design/VB and/CC try/VB to/TO make/VB a/DT project/NN plan/NN ,/PUNCT
+
+It/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ and/CC user/JJ friendly/RB ./PUNCT
+Just/RB tr/JJ try/NN to/TO who/WP is/VBZ a/DT User/NNP Interface/NNP Designer/NNP ./PUNCT
+
+but/CC when/WRB you/PRP change/VBP channels/NNS you/PRP can/MD have/VB you/PRP can/MD just/RB go/VB to/TO the/DT next/JJ one/NN or/CC go/VB to/TO channel/VB twenty/CD five/CD ./PUNCT
+And/CC that's/VB already/RB more/RBR complex/JJ to/TO go/VB to/TO channel/VB twenty/CD five/CD ./PUNCT
+
+we're/NN going/VBG to/TO meet/VB again/RB in/IN thirty/NN minutes/NNS
+So/RB your/PRP$ personal/JJ coach/NN will/MD send/VB you/PRP some/DT instruction/NN for/IN this/DT thirty/NN minutes/NNS ./PUNCT
+
+may/MD need/VB more/JJR than/IN three/CD three/CD button/NN ,/PUNCT three/CD possibilities/NNS ,/PUNCT ye/NN ./PUNCT
+
+people/NNS are/VBP right/JJ handed/VBN or/CC left/VBN handed/VBN
+so/RB y/RB because/IN I/PRP am/VBP left/RB handed/VBN I/PRP use/VBP like/IN this/DT ,/PUNCT say/VBP if/IN you're/RB right/JJ handed/VBN you/PRP use/VBP like/IN this/DT
+and/CC if/IN I'm/NNP left-hander/NN I/PRP use/VBP this/DT switch/NN to/TO follow/VB the/DT main/JJ operations/NNS ./PUNCT
+
+for/IN a/DT production/NN cost/NN of/IN twelve/NN fifty/JJ Euros/NNP maximum/NN ./PUNCT
+Too/RB expensive/JJ for/IN twelve/NN Euro/NNP ?/PUNCT
+
+and/CC for/IN that/DT we're/NN going/VBG all/DT to/TO work/VB individually/RB and/CC then/RB have/VB meeting/NN during/IN the/DT whole/JJ day/NN ./PUNCT
+
+'tis/CD big/JJ number/NN ./PUNCT
+
+at/IN least/JJS it/PRP should/MD hold/VB in/IN your/PRP$ hand/NN n/RB properly/RB ,/PUNCT like/IN ./PUNCT
+
+M_E_/NNP the/DT user/NN requirements/NNS ?/PUNCT
+the/DT user/JJ requirement/NN specifications/NNS ,/PUNCT
+
+Then/RB you/PRP can/MD watch/VB what/WP your/PRP$ you/PRP could/MD also/RB record/VB your/PRP$ sequence/NN of/IN actions/NNS ,/PUNCT
+
+you/PRP c/VBP you/PRP can/MD easily/RB remove/VB the/DT frame/NN ./PUNCT
+
+,/PUNCT but/CC without/IN any/DT extremes/NNS like/IN n/JJ not/RB of/IN this/DT size/NN ,/PUNCT not/RB too/RB large/JJ ./PUNCT ./PUNCT
+
+But/CC they/PRP keep/VBP generally/RB their/PRP$ t/NN slash/NN this/DT thing/NN and/CC then/RB the/DT dash/NN and/CC then/RB you/PRP can/MD put/VB ,/PUNCT you/PRP can/MD only/RB have/VB one/CD bit/NN ./PUNCT
+
+Characteristics/NNS of/IN this/DT animal/NN is/VBZ dangerous/JJ ./PUNCT
+
+e/RB even/RB the/DT history/NN so/IN you/PRP could/MD like/VB undo/JJ previous/JJ of/IN the/DT previous/JJ ./PUNCT
+

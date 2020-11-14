@@ -1,0 +1,229 @@
+this the scroll button and the microphone on the sides here under .
+The microphone could be just a minor hole on the left button .
+using the scroll button on sides y I
+You push the scroll button
+, you push the scroll button
+So you can scroll down too with the scroll button ,
+We put ano an extra button in .
+but It's the button where you can switch channels .
+th the options buttons are not the easiest way to
+but you have y then you have here s written option on here , the teletext button ,
+Remotes overwhelmed with buttons .
+we gotta integrate scroll wheel and push button ,
+if you can't push it you have to tap the options window button here and then scroll down with the d with with the button .
+
+This is about the total remote control .
+by which we can evaluate the design of the remote control by the questions we requirements from the of the users .
+like question , is remote big enough , we can say it's true or it's false by steps .
+is the remote control fancy enough ,
+it's also very handy if you make a side curve way to make the remote control very thin at the bottom at a bottom .
+It's easier than the regular remote control .
+, they are a lot easier to find than th than on the regular remote controls
+it's the most useful remote control ever to be manufactured .
+Remote control has colours that different that meet different target groups .
+but it's for a remote control it i it would satisfy those needs .
+and that you can change the options of the remote , something like that . .
+You can see the remote control is R_ and R_ .
+it's easier to use than a regular remote control ,
+because wi with the you have to push the arrows and with a normal T_V_ remote .
+when you made it a remote control of wood ?
+but a wooden remote control only helps for old people we discussed ,
+we can make it brown , dark brown , not wood .
+You co you could make it always black , like normal remote .
+and I never new we have t we had to made a rec a remote control .
+
+Also the buttons , are they easy to find ?
+Are all the buttons easy to find ? Not only this buttons , all the buttons .
+where you have to find out what which sign or icon means on every button .
+if you have the button at the right , I don't think you can find the option button that easy .
+And would it be easy for them to use the speech recognition ?
+M maybe that's the most user friendly and easy to use .
+it sh and it's easy to find .
+The easy volume up button .
+Instead of just finding out what an icon means on a button .
+it is easy for to design something and then load it in your computer .
+Can you find it as a J_ PEG ?
+
+And the screen light blue .
+this is the total interface that f of the L_C_D_ screen .
+especially because of the microphone and the L_C_D_ screen also .
+because it has an L_C_D_ screen , a mi microphone .
+But that's vantage of L_C_D_ screen ,
+L_C_D_ screen and scroll .
+the L_C_D_ touch screen is feature .
+you have all buttons on it which you'd like , microphone extra , L_C_D_ screen extra , scroll thing extra .
+and there are different screen shots , so or different screens ,
+But then we have to scrap L_C_D_ display ,
+First of all I didn't think that we were able to make an L_C_D_ screen first point ,
+actually you could make an L_C_D_ screen but no mic , or it could make mic but no L_C_D_ screen , when you look at that .
+Then it pops up pop up screen came .
+
+all the colour colours don doesn't matter that m that much now ,
+but you can also make a wood colour , not just one single colour but a wood-like thing ,
+special colours , fruity colours .
+no that's just normal colour fruit colours .
+but it's a special colour than just rubber colour .
+Normal colours , yellow
+But the colours . how ma the colours like l she told , is that all the colours we add
+Special colours , all the colours you want ,
+but when you use more than one colour , it's a special colour .
+But when you use the colour that's not originally the rubber then you use special colour ,
+so you always lose the special colour .
+and then you add you have two special colours on top of the one we have now .
+So each remote with a special colour .
+You don't need four of those four of those special colours in one remote .
+
+You say you say record to the speech recognition ,
+But maybe when you scroll away and back it will be normal ,
+We could lose the scroll wheel .
+You could make it just a regular scroll wheel .
+So normal scroll wheel ?
+Normal scroll wheel .
+You changed the scroll wheel
+you should drop the speech recognition .
+If we lose the scroll wheel and make it depending dependent on the touch screen
+we dropped the speech recognition together with the speaker .
+We dropped the scroll wheel .
+Y yea the scroll wheel is dropped .
+we lose the scroll wheel ,
+
+we also made some ideas about how the options menu would work .
+and a drop down menu or a pull out menu comes out
+it's also to see that we made a small menu , the options menu becoming available when pressing the scroll button ,
+and we think that it's very handy to put it not under the options menu , but in Yes . In an apart
+You can see very clearly now that the teletext and options menu isn't taking much it's taking much part of the screen ,
+if you put it on the top you always get see the options menu .
+And the menu is avail that is available is easy to use .
+because when you push on the options menu , you get the various options entirely explained . Entirely explained .
+
+Remote control is hard to lose .
+but a har A hard to lose is good .
+So it should this question should be hard to lose . It's difficult to lose it .
+that wou that would be quite hard to learn to use it .
+'S possible to lose curve .
+You lose this one , you got eleven point five
+
+and you get the options becoming available . T_V_ settings , remote settings , et cetera .
+Remote settings , et cetera .
+If first time see the thing you didn't adjust set the microphone , and then you lose it , then you have lost it .
+and then you have the audio settings , channel setting , video settings .
+
+people regularly read from left top to right down ,
+fancy enough means , does it comes to the younger people and the elder people .
+I if you don't make it green , then the elder people won't like it .
+That was a big requirement of the old people .
+It's easy to use , as for younger as elderl elderly people .
+For young people it's easy to use .
+Remote control mainly be sold to younger people .
+because w we designed it for young people especially ,
+Dissatisfy younger people .
+Because younger peoples are cr critical
+younger people usually use the remote control to put on the volume . Turn turn up the volume .
+
+it's looks fancy , especially with the green colour . And the curves which we decided ,
+Only what happened to the single curve we spoke about last meeting ?
+the single curved idea was
+Single nee single curved .
+Double curved was see ju three dimensional .
+If you make it a flat one , s n it's no curve , you got no curves .
+and the single curved to uncurved .
+and you make i and then you can make the spec single curve , .
+So it would be curved , single curve .
+
+But b al but we also have sample speaker , do
+we should scrap the sample speaker .
+Scrap sample speaker ?
+The sample speaker is two d , f s four points .
+But the only option is to drop the sample speaker .
+To knock the sample speaker , .
+
+To function it doesn't really have to be sm big .
+the numbers , which is pretty straight forward .
+this the one number or two numbers button .
+but those are more fancy functions , not really many features .
+and that you can change the channel's feature ,
+and that you can change the volume is feature ,
+you have the screen features , audio features ,
+Perhaps we've got features that don't exist in the Excel sheet .
+and maybe the other can use that thing to count numerous functions .
+count number of functions ,
+
+not main documents this time .
+my task was this time to put up a questionnaire
+Questionnaire with seven point scale from one to seven , from true to false ,
+They don't work so hard at the finance department .
+So you would say communicate during our individual work .
+probably to simulate the whole working process ,
+like she told . Then you can work together too by mail or by , , chat , something ,
+The project because of the deadlines you didn't had the time to have , you didn't have time to to make a very qualitati qualitative presentation .
+You got some standard ideas in your head
+And what were the other points to improve this whole process ?
+And so more time w might have improved the quality of work ,
+more time during the individual work phases .
+
+The three important things of refa are from th of this year is are ,
+Young means sixteen to forty years .
+And elderly from forty eight to their death .
+if you're fif sixty years old , you're holding one of those things in your hand
+Y you can't lose it if you're sixty years old .
+Or if you're sixty years old , your demands
+
+which is for now the detailed design meeting .
+the detailed design meeting ?
+the finance aspect , whether we can afford what we have designed ,
+I hereby officially close the meeting
+
+With two batteries , the whole print plate and t and top , and if you're holding it quite a lot
+one battery , with two small batteries .
+Do you use a hand dynamo , a battery , kinetic or solar cells ?
+Electronics , simple chip
+Could could we do it on a regular chip on print ?
+You have to add something to the rubber to make it green .
+They don't sell green rubber plants .
+but we are we have yellow , red , black , titanium .
+but the rubbers alls original black .
+we have advanced chip on print .
+Add it copy page .
+
+you pay half per remote .
+Earlier when we selected it , w I couldn't erase anything .
+you can draw over it with white pen .
+I already erased half of the line .
+S Difference between lines and text and the pen .
+perhaps it is easier to get one of those dig digital pens or so
+Because when you put this pen on the screen for exam and line is d being drawn at two or three centimetres below .
+It's now half past four half past three ,
+I if that's the best way to when it isn't is it when it is too expensive to quickly re-arrange it and say , , this is it ,
+
+created separate folders
+because it was tending to get a little busy in our shared project documents folder .
+save in the folder . Save as project .
+And the R_ and R_ logo ,
+a separate button for text ,
+And this is the the on off knop , the stand by knop .
+And missed when I was typing The R_R_ stands for ?
+, there's R_ and R_ in front .
+but not R_ and R_ yellow .
+and if they are under or at twelve Euro fifty ,
+Twelve Euro fifty .
+Why should we be separated from each other in those difference different rooms ?
+the means , we discussed the smart board ,
+and maybe I should walk out of the room when you discuss this point ,
+file save as the J_ PEG .
+
+and if we can commence the final part which is the production or project evaluation ,
+you just make the back of this part a bit bigger ,
+X_ marks spot .
+the next part might be a little bit difficult to do in a group ,
+and we're going to calculate the production costs ,
+And we should then move on to the production evaluation because of the time .
+and then we are going to the project or product evaluation .
+It's b bi little bit too big to write .
+You just sit there for ten minutes .
+At some times I Sometimes I received like five emails at one moment ,
+I got like one email after ten minutes .
+lik and information was a bit low , sometimes ,
+And everybody's very happy . At least I am , with the results ,
+because I have to write the final report now .
+so try to include it in the final report .
+

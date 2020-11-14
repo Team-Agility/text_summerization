@@ -1,0 +1,274 @@
+I do think that one of the important features for a remote is seeing a menu and seeing what's on .
+
+if there was an on-screen menu of your channel choices , than you can scroll down on the scroll .
+When you get on the on-screen menu of all your functions that your remote could do for you without the buttons and you could have a scroll wheel to go through those menus .
+And if we had a sc an on-screen thing that you could scroll through , like you can use your buttons to scroll through things .
+we're doing an on-screen menu that we can scroll through .
+
+M we don't want lots of buttons , complicated features .
+and you use the buttons just to scroll around and find the more advanced features that you want .
+I like this idea of just having buttons for the features that you use most often .
+And that would allow you to access the advanced features
+whilst keeping a very small and simple set of buttons for the features that you use most often .
+
+The main elements of remote controls in general , and therefore ours as , are the case , the buttons , the circuit board with the chip and the battery .
+
+So you'd need a few buttons to select your favourite channels .
+you have buttons for your favourite channel ,
+and it comes up with your this thing of watch lo what's on each channel .
+you really need buttons for changing a channel .
+
+I know the iPods and things right now have touch scroll buttons
+it's cheaper to make pushbuttons than it is a scroll button .
+For channel surfing a scroll an actual like an iPod's scroll thing would be too fast ,
+
+and then we'll have to make a decision on the remote control concepts ,
+and what should we make our specific remote control out of .
+because how often are you that your remote control will get a certain amount of light .
+we want people to be able to use it s as a remote control ,
+that was a market investigation on remote controls that was recently conducted ,
+first they had people they ranked the important aspects of r remote controls ,
+and the remote control's inside .
+but the volume control could double for that , .
+
+but a scroll wheel requires a regular chip ,
+
+keep pressing lots of 'em .
+It'd be harder to press button .
+When you when you use a remote , do you press the buttons with your thumb , usually ?
+and you press the buttons with your thumb .
+When I'm when I'm pressing buttons on my iPod , that's how I do it , hold it and press the four . .
+and you press the buttons with your thumb
+and you press the centre button ,
+
+but I'm intrigued by the idea of a scroll wheel , if anyone has anything
+I love the idea of the wheel like the iPod .
+but I have no idea how much more expensive a scroll wheel is than a pushbutton ,
+
+and have an L_ L_C_D_ screen .
+then if you want to do anything more advanced , you go into the little menu on the L_C_D_ screen
+if it was a L_ L_C_D_ on th on the remote , I that you could f that you'd be able to see a
+That would be like if we use something like the space material or the L_C_D_ screen , things like that .
+an L_C_D_ screen might be good in theory , but not as useful in practice .
+Also z , you would be z looking down at the L_C_D_ screen , than back up at your T_V_
+and an L_C_D_ requires advanced .
+
+you can just about make out that the button three buttons are previous track , next track and play pause .
+and the button to switch it off , in case you get bored .
+It'd be harder to f bu buttons .
+that's your all-purpose select button right there .
+And otherwise , no matter how may buttons we have , we're gonna have like , , black with red sticking out
+I assume that's what else we're gonna like h ha the the additional buttons we can use .
+
+And I'm really intrigued by the idea of a kinetic battery .
+But this idea of the kinetic , that you don't have to replace ,
+what do people think about this kinetic battery idea ?
+
+but we also have scror scroll wheels ,
+and use my thumb or my pointer finger on the touch scroll wheel .
+I don't think we ne really need the scroll whe wheel .
+I'm not like hard-sold on the scroll wheel ,
+but if it's gonna be in a latex type thing and that's gonna look , then that's probably gonna have a bigger impact than the scroll wheel .
+
+because it's it lets you just sit there and st and control your television from your armchair .
+The alternative is to have a an on-screen display on your television that you control through your remote control .
+something to bear in mind is that if we put a display on the remote control the c communication is one way ,
+so you can't have the televisions and information back to the remote control , at least I don't think you can .
+
+you use these four buttons to m to move around a range of settings on the small L_C_D_ screen .
+we'd either have a small L_C_D_ display on the device itself ,
+there are advantages and disadvantages if you have an L_C_D_ display ,
+an L_C_D_ display would have to be quite small ,
+but you need to be able to see your L_D_D_ L_C_D_ display .
+
+but we also have these options of using a kinetic battery ,
+as in we can't use a latex case if we have a solar battery .
+I'm assuming that a kinetic battery isn't gonna take up that much weight ,
+it might be better to put our money into the like the kinetic battery and the case
+
+circuit board and chip we can have a simple one , a regular one or an advanced one ,
+But we'd also wanna go for e a simple chip or regular chip
+we really only need a regular or advanced chip t if we're gonna start using an L_C_D_ .
+I maybe if we decided on like a simple , a regular , or an advanced chip , maybe .
+simple , regular , advanced chip on print .
+if we're gonna have pushbuttons , they require a simple chip ,
+So we could either go with a simple or a regular chip , depending
+
+these are our minutes from r the functional design .
+and we said it's for all age groups , different functions of it .
+specific functions are something to keep the remote from getting lost , large buttons for the essential functions , a possibility for extra functions , like a sliding piece and a long-life battery or a charging station .
+so we need to determine what the essential functions of the d of the device are
+making that we get all the essential functions in the device and the extra functions and the more advanced features .
+but th that you do need to have some function where it's you have t you can see the title of the show or possibly a description of it .
+
+I Is it supposed to be shaped like a vegetable ? like , like carrots .
+it's quite easy to s shape thing like carrot
+Or maybe the buttons could be shaped like different fruits .
+Or maybe you want something that's shaped like a mobile phone ,
+
+Our main objectives were simplicity and fashion .
+the main thing to notice about it is it just has four buttons .
+couple main ones being like , , lemons or strawberries .
+
+like favourite channels is applicable ,
+why it would be good for us is like you could have the same wheel effect for like channel flipping and then the other one could be like for volume .
+But if you c if you could scroll through the channels , and then the volume would just be
+and the volume would just be like the same way , forward and backward as I'm just thinking like it would make it much like sleeker looking .
+volume , favourite channels , and menu .
+
+Who wants a spongy remote or one with fruit and vegetable padding .
+could we go in fruit and vegetable colours ?
+Could we could we have changeable covers like for your mobile ? In different fruit and vegetable colours ,
+If I get any more information of fruits and vegetables , I'll let .
+and probably in colours , maybe fruity , vegetable colours .
+
+We have a number of different choices for a design concept
+once we've chosen a concept for it , we can then design the features around the concept ,
+
+shoes and furniture is fruits and vegetables and tha that there's a preference for spongy , tight material .
+do you have any ideas how to possibly use these ? how to use a fruit or vegetable or or the spongy material ?
+I'm kinda liking the idea of latex , if spongy is the in thing .
+
+even though we're stressing , when we're talking , we've all been talking about this like simplicity and easy to use idea ,
+What about the idea of like a round remote ? Instead of like a vertical up and down one . Like in terms of holding it . Like that's a f shape of a fruit .
+
+if you're watching T_V_ in the dark or whatever , you can work out which button's which
+most people , when they watch T_V_ , they have two hundred and fifty channels on their T_V_
+which is something you do all the time when you're watching T_V_ ,
+other features , things like adjusting the brightness , tuning the T_V_ ,
+you ten you tend to watch T_V_ in the dark ,
+
+so simple movements like pushing buttons would recharge the battery .
+and I have c considerable notes on the topic as , if anyone needs any more information .
+any more information on cost other than it's more expensive than a regular battery ,
+
+now we're concepts of user interface .
+I'm gonna describe the concept of the user interface of this des device .
+you each have things to do , look and feel design , user interface design , product evaluation ,
+
+we would have to find a way to protect like the chip and all that ,
+because I'm worried about protecting the on the inside .
+
+and that a tita titanium is very light , I know ,
+if we would want it on the screen there or on the actual T_V_ .
+but the actual model could be titanium .
+I would be more with like a titanium actual thing and then maybe like a mobile phone thing .
+
+we've also got to remember that this is a device that serves as a useful purpose .
+and that we actually end up with a device that is going to be useful to people .
+, but essentially we need to choose how is this device going to work ,
+what model is there going to be for user interaction with this device .
+I assume we're gonna be making quite a small device .
+
+it's very quick to access the main features .
+They're the main features of the iPod , the things you will use a all the time .
+so that it doesn't hurt when you're sitting down for a long time ,
+The iPod packaging is me like was so that was like half the fun .
+
+there's no point having a television that you can't tune or that you can't set the contrast ,
+or have a dis a menu display that comes up on your television
+
+but that really , over the next year it that's gonna be switching to fancy look and feel remotes ,
+they're wanting us to remember that the number one thing for everyone is that it's fancy look and feel .
+really , no matter what , we need to focus the most on fancy look and feel , according to this .
+
+and one other suggestions I'd make is to in is to include in a menu system , a bit like on the iPod .
+we're talking menu like contrast and tuning the V_C_R_ if I've understood you correctly , rather than menu as what's on .
+
+we can have your basic double A_ batteries ,
+although there are slight complications with solar batteries
+deci decisions on energy I'm thinking is based on the battery .
+it would t take care of our problem of not wanting to change batteries .
+
+my understanding of a latex case is that it's hard to protect inside ,
+and then like the covers could be spongy latex
+what I've seen , just not related to this , but of latex cases before , is that there's like a hard plastic inside , and it's just covered with the latex .
+Not too thick a layer of latex , just enough to be grippable , like bike handles or anything that you've seen like that .
+
+we've talked about the two essential properties of the user interface .
+when we go on to the une userface , we're gonna have to decide the interface we're gonna have to decide whether we're gonna have a scroll or not .
+let's go to the ufe user interface
+interface , the type and the supplements .
+
+and right now i d they're saying that currently there's a functional look and feel preference ,
+And so that brings us to my personal preferences .
+
+I got a whole bunch of information on how circuit boards are produced .
+Al all circuit boards are the same , .
+I don't think we need to worry about protecting the circuit board ,
+
+But it doesn't necessarily need to be a spongy material .
+I'm envisioning more like , , the material that you have when you sit on like a bicycle ,
+, that given the list of materials I w I was forwarded it's that seems doable .
+
+But the titanium , they were quite they're marketing quite hard to us
+now we're moving on to market . Marketing .
+even though this is coming from us as , , trend watch , market research ,
+
+I'd like to do it in this order , first do the conceptual specification of components , properties and materials and then the conceptual specification of user interface and finally trend watching .
+We're gonna have to investigate that better when I get specifics of the actual materials ,
+but if anyone has any specific questions , don't hesitate to email me .
+that would be more specifically a digital box ,
+So instead of opening the box you just peel it ,
+You'll get specific instructions from your personal coach .
+
+there's the shape of a case , we could do a flat sh a flat case , a curved case or maybe even a double-curved case .
+So if we're going for fashion in our cases , that what we're gonna wanna look at is a curved or a double-curved case , probably with a variety of design elements .
+I'm imagining like double-curved is like , , like two sides that curve
+and then like one curve would just be like a single vertical-ish looking thing ,
+I know if we do have a double-curved case , it can't have any titanium in it .
+
+and that a simple just shaking it around will make it work ,
+and you two are going to work together on a prototype using modelling clay .
+
+we need to examine each element separately ,
+and we can make our case out of plastic , the m the main base will be plastic ,
+
+it's our conceptual design meeting
+I'm gonna review the minutes of the last meeting ,
+we have we've about fifteen minutes left ,
+We have five minutes left for the meeting , so .
+our next meeting starts in thirty minutes ,
+
+if you've got a small T_V_ and you're sitting on the other side of a room , it's hard to read the little text that comes up .
+
+but we have all these fashion and technological elements we can add in , wood , latex , titanium , rubber or other coloured types of plastic .
+Like a radio type sorta situation ?
+
+the whole desire of our c Real Reaction company wanting to focus on fashion
+but if we're working for this company then I no matter what , we have to stress fashion the most .
+there's something to be said , we got that thing earlier from you about not wanting it to R_ repetitive stress injuries and things
+
+and then also some fashion watchers in Paris and Milan commented on some things that are gonna be going on this year .
+And then the fashion watch talks about that this year's top trend for clothes ,
+
+components concept . Energy , chip on print .
+They're they're thin fibreglass with copper wires etched on to them ,
+and di they're quite easily printed on by machine ,
+which is chip on print is where the machine prints on the wires and solders it all together for us .
+The chip on print includes an infrared sensor ,
+
+just a real quick question
+Also , considering that the d research b has been carried out by Real Reaction , I'm a little hesitant as to like , how these questions may have been worded ,
+can you just explain what that is real quick ?
+
+We decided our target group is the focus on who can afford it ,
+if you're changing the brightness , don't you wanna see it happening , ?
+
+And as these are ranked , the top one is doubly important to the second one ,
+The second thing that was mentioned as important was the technological innovations .
+and if necessarily this whole fashion to technology y edas ease of use is necessarily the right ranking .
+
+they only described as the type of battery you find in torches from about fifty years ago , flashlights .
+I have save this in the shared projects , if anyone wants to look
+Personally , I don't really think that I want one that's gonna go out of style or go stale , excuse the pun , in a year , so
+
+and it's starting at approximately fourteen twenty five
+it's gonna inevitably start looking like those group of ugly ones that we saw stacked up .
+
+which is spongier and softer on your hands .
+I'm thinking grip more than like sinking into your hands ,
+
+continue with my pres presentation .
+but in order to pre-set a cha
+

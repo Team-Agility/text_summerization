@@ -1,0 +1,239 @@
+I'm gonna talk about the technical functions design of the remote control .
+how do we actually go about designing a new television remote control ?
+I had a look on the on the web to see if I could find a few examples of existing television remote controls .
+on the left here we've got an engineering-based design for a remote control ,
+because they're the one that's controlling most of the working design .
+
+and then we have to make a decision on our remote control functions .
+We need to start by considering what a remote control actually is .
+using a remote control is quite a subjective experience . ,
+we should remember that remote controls are a fairly standard piece of equipment .
+there's a lot of features that are missing from that remote control .
+as I said before , remote controls are subjective ,
+personally wa what I want from a remote control is a device that's simple ,
+you have like you have numbers on your remote control ,
+so like you type a hundred on your remote control and
+Like some T_V_s they have a a sliding screen on the remote control of it
+I suspect the remote control does need a battery ,
+
+People are only using ten per cent of the buttons that they have offered to them on their remote .
+also just the phenomenon that less is more when it comes to the buttons on the remote
+When a users using a remote control , he or she expects the buttons to be in certain places .
+they might be overwhelmed with remotes that have too many buttons and too much technology .
+Like a button on a T_V_ you can press
+
+because a lot of the things that happen in a remote control happen through the chip that controls that converts the electrical energy into data ,
+the components that we find here are the energy source , the battery or whatever that's gonna m make it work , then the chip , which converts the data , the user that's controlling the chip , and the infra-red bulb that's gonna let us move the data to the receiver .
+You have energy going to the user who's controlling the chip
+So you have your energy source , your user interface who's controlling the chip ,
+
+This is our functional design meeting .
+First of all the functional design objectives .
+we need to keep in mind the user requirement specification , what needs and desires are to be fulfilled , the functions design , what effects the apparatus should have , and the working design , how the apparatus actually works to fulfil its function .
+this is our working design presentation .
+what we're trying to do as a working design is figure out how the aparata apparatus can fulfil its function .
+working designers figure out what you need to make it fulfil this practical function ,
+This is the parts of the working design that need to be figured out .
+in there we have technical functions presentation , working design presentation and the functional requirements .
+
+a way I'd suggest that we could go about this is by designing several different prototypes of user interfaces for this product ,
+also in designing the user interface we need to consider practicalities .
+the user interface is critical here ,
+and the chip through the use of the user interface is gonna control the switch
+We need a chip that works with the user interface ,
+User Interface , the user interface concept ,
+
+also they did some questions on voice recognition
+so younger people were more inclined to want something with voice recognition ,
+whereas the older people in the like sixty and above segment or so did not really think that they would pay more money for voice recognitions .
+things like voice recognition would add to the price
+that that older people didn't really care for voice recognition ,
+after thirty five people don't really care if it has voice ,
+which I feel like voice recognition is not necessary in a remote control ,
+
+more importantly though , eighty per cent said that they would be willing to pay more for a fancier looking remote .
+It's funny to see the drastic difference between those two remotes . .
+If someone's looking to buy a new remote , don't they want like an upgrade ?
+who can't even be bothered to pick up the remote .
+
+but it would also im improve the design of the product .
+and what can we do to make our product stand out from the large majority of remote controls .
+the product appeals across a quite a broad range of ages .
+
+So I the carpal tunnel type thing , people do not like that ,
+so that we're not completely shocking people .
+It's for , like , the ultimately lazy people ,
+so it's going to appeal to people , maybe people who have problems with technology , , people who get scared by having lots of buttons ,
+which is something that definitely appeals to younger people .
+and half the people said that happened
+that might contribute to less people losing it too if it stays in one place .
+
+the idea of an L_C_D_ screen was brought up
+so we need a clear idea of exactly what this product does ,
+But within that there is also room for us to introduce novel ideas
+so it's like fifteen to thirty five that think that's a good idea .
+And if the whole idea is you're using a remote then why would you have voice ,
+
+And then you have to press function F_ eight
+which includes an emphasis on making the infra-red very functional ,
+we have about four minutes left to define our functions .
+We want a possibility to to get a possibility to get the extra functions .
+
+That being people k frustrated with losing their remotes .
+, over fifty percent of the people mentioned that was their biggest frustration .
+People are also frustrated with the difficulty it is to learn how to use a remote
+fifty per cent of the fru f like frustration someone can have that was the biggest one
+after the meeting we're gonna each complete a sks a questionnaire and a summaries summary .
+Be to note any frustrations or any issues that come up in your summary .
+
+What they found was they analysed people's desires and needs .
+Focusing on their desires , people specifically said that they thought remotes were ugly ,
+looking at the needs people specified , the problem right now is that people's remotes are not matching their operating behaviour .
+although they didn't have any details on what people's preferences on that were ,
+
+we need to talk about our functions and our target group .
+So our target group , we're saying , fifteen to thirty five ?
+. aim for a an income group .
+
+the findings that I got very just very briefly is that you have a choice of the way that the information is projected to the receiver
+which then brings energy or information to the chip ,
+which will then bring the data to the receiver .
+I don't think of a way you can operate a chip and convert that much data without one .
+
+And what people do most often is changing the channel and changing the volume .
+People also zap like to change the channel , about sixty five per cent during an hour of use .
+So we really just need to focus in on those volumes and channel changers rather than things like the audio settings , the screen settings and the channel settings ,
+make that , , something like an audio setting isn't given as much importance and visibility on the remote as something like channel changing that's used a lot more often .
+, it's got forward , backwards , up , down , channel numbers , volume , freeze frame .
+It's just got the essential functions of the T_V_ changing the channel , play , stop , volume .
+it's got big buttons for doing the things I do most often , changing the volume , changing the channel .
+
+So in some sense we're gonna have to aim for a device which is fairly conventional in design
+so the chip that Ian is designing , is gonna be crucial .
+while we're gonna make it look pretty we need to use our colour and our slogan i in the new design .
+I_ I_D_ Industrial Design you've your components concept ,
+
+especially if it's a hundred subjects that th they then can subdivide into age groups that means there's very few in each age group ,
+maybe we don't have to defi define the target group by the demographic of age ,
+So maybe it's more useful to d to define objectives like fashion and simplicity than to find specific target group as far as age is
+
+and found that the desire for voice recognition was inversely related to age ,
+The only break-down that I was given in terms of age was the voice activation
+that's all specific for speech recognition .
+
+and recorded the frequency that they used particular buttons and the relevance that those buttons had .
+that hides all the complicated buttons .
+And we want we want large buttons for the essential things .
+Large , accessible buttons for the essentials .
+
+y and you type in the page number you want ,
+And you just type numbers to go to different pages
+Lottery numbers and sport scores .
+I'm gonna be given any other numbers broken down in terms of age later ,
+if I get m more numbers , I'll e-mail you before the next meeting in terms of ages .
+
+So then I we'll talk about our general objectives
+I'll talk about the new project requirements I've just received ,
+we're just gonna talk a little bit about the functional requirements that people specified when they were asked .
+I'll make to put up the minutes and the project documentation and including these PowerPoint slides .
+
+because it converts electrical energy to grinding the beans
+because of the combination of electrical energy and then the other things that are brought in to make it work .
+So you make a schematic of the way that the energy is converted tsh towards this practical function .
+And personal preferences , besides the fact that I can't spell , we need a long-lasting energy source ,
+
+what can we do with the current state of technology as it is .
+It's earl it's pretty old technology .
+that's probably a population w quite a little bit of disposable income for use on technology anyway ,
+I what else you can put in a remote to make it technologically advanced though .
+but why are we aiming for a technological advancement ?
+
+I'm also putting 'em them in the shared folder .
+sorta find out what people think of 'em .
+we need to find a balance between features and price .
+So we've got to find our find a way of striking a balance between the two .
+or not hidden but they're they're not as prominent as the main features .
+
+which will work your infra-red bulb ,
+and we need a reliable and clear infra-red signal ,
+we're not gonna the management has decided we're not gonna work with that .
+After that we have thirty minutes of individual work .
+
+It's a device that allows us to produce certain effects on our television ,
+it sends a message to the television
+you can't use it say to freeze the television picture .
+I don't wanna walk across the room just to adjust my television .
+this index appears on the television screen with just some text and some very blocky looking graphics on it .
+like your question earlier whether this is going to be t for television , video , or etcetera . Just for television . That's what we're focused on .
+So if you wanna do something complicated like programme your television or re-tune it , then you open up this little hatch or slide the screen down
+and like how recently have they bought their television like that thing .
+
+and they watched them watch T_V_
+and it gives you information , mostly rather boring like what's on T_V_ next and share prices and that thing .
+But if you ever see the T_V_ saying like go to page one sixty on Ceefax now , that's what they're talking about .
+
+but if that's the only quality that we have that is divided into age then we would wanna stick between the fifteen and thirty five range .
+So 's just the quality of the chip .
+The quality quality of all the components really ,
+
+I Real Reaction did some market research .
+and finally there's more marketing , , , our corporate image has to be recognisable .
+You in your analysis of different market of the marketing , you identified that different groups wanted different things
+so it has to be avai marketable to whomever it is .
+Especially if we are marketing it as a separate product , people are gonna be paying
+market trend wa watching .
+
+'s move on to the next presentation on effects .
+The battery and that that the chip takes the data and presents it , without scattering .
+Battery ? Do we need a long-life battery ?
+But you could maybe have it in a little charging station like a mobile phone , or like a little cradle for your iPod .
+
+They had a hundred subjects and their usability lab
+seventy five per cent of the a hundred subjects noted that
+
+We're starting this meeting at approximately twelve thirteen
+It's gonna be twenty five Euro remember ,
+we've got a price limit of was it twelve and a half Euros for to produce it ?
+And I wonder if we can get voice recognition into that twelve and a half Euros without having to make too many other compromises .
+
+the easiest thing to do is to break down all the points
+And then the easiest thing to do is gonna be work on each task separately .
+Is it is it something that's gonna be sold separately from the television
+so it will probably be sold separately , twenty five Euro by itself .
+
+It also mentioned something called R_S_I_
+and I was hoping someone might be able to inform me as to what R_S_I_ is ,
+We need a straightforward interface , like Ian was saying , simple , not overwhelming it with information
+we have to be careful that doesn't impede the chip transmitting information ,
+
+It's It's yellow colour with we put fashion in electronics .
+if we're gonna say that function fashion we put the fashion in electronics then you automatically , , a younger group that's who's gonna be attracted to this .
+Si simplicity and fashion .
+that we have to keep in mind in with everything we do . Simplicity and fashion and , , or usability
+
+Here's two examples probably at the extreme ends of the spectrum .
+one of the examples that kept coming up for me is that a coffee grinder .
+and then you get coffee at the end that's and hot
+
+I if you guys are able to get access to the report that was online
+And that's why companies like Apple've 've made a lot of progress .
+that was just on the d on the company web site , .
+I suppose it's similar to a very basic web browser .
+We only have a short amount of time .
+And hopefully , I hope , next time you'll be able to access more of the web site
+
+and if you like get the instruction manual that comes with it and you just don't even read it then you'll never even know that those things can pull out .
+And as per last time you'll get specific incrat instructions from your personal coach e-mailed to you .
+
+Double click on it . With the right with the left hand one .
+
+Repetitive strain injury .
+the repetitive use , I , caused a strain .
+
+And in order for us to win over to the consumer we just need to focus on what it looks like ,
+
+can we narrow it down to maybe teenagers and families ?
+
+Lefty loosey , righty tighty ,
+Lefty loosey , righty tighty .
+

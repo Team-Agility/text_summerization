@@ -1,0 +1,151 @@
+the agenda for this meeting is we'll initially have the prototype presentation by our two designers .
+And then we will evaluate it , given the criteria that that we gave it .
+And talk about our finances , whether we were under or over our budget .
+I have a a spreadsheet where we can calculate our prices for every aspect of what we've made , given our options .
+And evaluate the product , as a group .
+It's a pretty simple design .
+and this'll be the power point , the on off button kind
+buttons are accessible from your thumb .
+Notice you have a number ten button .
+And this is just if you've got like eleven or twelve or thirt the plus .
+we just thought , we have all the numbers here , so we wanted something representative of numbers larger than ten and
+on your average remote , if you press one twice you just go to or say you wanted channel twelve , you press one , and then you go to channel one , and then two then you'd just go to channel two , instead of twelve .
+So if you did like one plus two you could go to channel twelve , or two plus two is channel twenty two .
+these numbers all work independently up to nine .
+but if I wanna go to say number like sixty five , channel sixty five , if I press the six it'll go to channel six , and then I'll press the plus , and then it'll go to six and then put the five and it'll go to sixty five ?
+I wouldn't have thought it'd be a problem that it went to channel six first , in like on the way to channel sixty five .
+As long as there's not a big pause between the t hitting the two buttons .
+so it's all accessible . Without m taking your hand off the remote .
+we went for like a circular design for the numbers
+because we thought that's a more natural movement than just going like that with your thumb .
+And it might actually help with the repetitive stress injury as .
+It could another type of repetitive stress injury though .
+and the feel of it , , we've made this out of Play Doh , which is representing the , , the rubber , and the spongy rubberness .
+it was said before in the material specification that this the this anti-R_S_I_ material is often used in stress balls
+Bit of a stress ball feel .
+How it fits in the palm of your hand ?
+, as for the colours , we were presented with a limited range of colours for this prototype .
+that this is not necessarily a representation of the true colours that we would necessarily use .
+and we're thinking to carry-on with the fruit and vegetable theme , the colour combination just could just be named after different fruit ,
+like banana could be black and yellow , watermelon red and green ,
+or vanilla might be the most popular if it just blends in
+more settled cream instead of the others are all a bit garish .
+Banana's more representative of our colour scheme , like the company the yellow and black .
+So that for corporate identity that would probably be the most strength .
+Apple green , brown , more kinda trendy , , khaki
+The pomegranate's kinda girly and funky ,
+and then the vanilla's more for the more sophisticated customer who just wants something that fits in with all decor .
+we thought of the components it was definitely a focus of ergonomics and just a single ha handheld device ,
+you don't need to use both hands , one hand to hold this and type in with the other , you can just use your thumb .
+, as we said the rubber's probably used for comfort and anti-R_S_I_
+and seeing if this prototype matches what our budget can handle .
+Evaluation criteria is next in line .
+my computer's giving me technical difficulties .
+, we're gonna be doing an evaluation report together based on the protoptype that we've just seen .
+and looking back at my notes from our both our conceptual and our functional meetings , I made a list of what our original requirements and goals were ,
+, back to our kick-off meeting this morning .
+So the lower p the lower the points the better .
+We've been quite successful with the rubber coating
+th the colours we were given for making the prototype aren't the colours that we would've necessarily chosen .
+red , black and yellow , and orange .
+and we don't wanna go for black because most remote controls are black or grey .
+But if you can imagine that in like a s just a maybe a pale metallic-y finish
+diff if you can visualise this in colours it would look quite fancy .
+, potato , mango , fruit and veg .
+it is , fruit or vegetable depends on your mood .
+actu that's pro that's gonna get confusing , like that .
+so question number two was is it techn technologically innovative ?
+So I know we have the kinetic energy which is very innovative .
+and we don't have any scroll buttons , it's all pushbuttons ,
+so if we're thinking about the rest of the market , it's probably halfway .
+we didn't want it to be any more innovative than this , because then that would've defeated the purpose .
+, there'll be s we have to work out the number the plus system .
+Remember that seventy five percent of users find most remote controls ugly .
+Remember the management said that it had to be prominent .
+I like the appeal of it being like a big glob in your hand .
+where's it gonna sit in your living room ?
+Is it not gonna fall off the arm of the sofa ?
+the bottom could be like ch chopped a bit .
+But then it wouldn't sit as comfortably in your hand .
+H it's got higher centre of gravity like that .
+I would definitely go for that rather than like your average plain old remote like that ,
+I gue , it's personal taste ,
+will people be willing to spend twenty five Euros on this product ?
+Remember that eighty percent of users were willing to spend more money when a remote control looked fancy .
+So people don't just see it and think , , this is so simplistic , I don't want to spend twenty five Euros .
+And the kinetic energy , shaker-style-y , whoo ,
+And the kinetic energy part .
+Shake it and the buttons fall off .
+No , I , I much about the remote control industry , how much your average sells for ,
+they're about ten po ten pound ,
+So in the long term this can actually save you money .
+So with a good marketing scheme and the personalisation options , it'll
+Does this prototype match the operating behaviour of the average user .
+because the most accessible buttons are the volume and the channel-changing .
+I the the key word there is average ,
+there were some people that used the video input and sound and .
+Will this remote control be easy to find when lost ?
+Remember that fifty percent of users lose their remote regularly .
+is the alarm system still was it implemented ?
+when you press the alarm system , the lights behind the and it'll vibra
+the light from the inside was gonna light up .
+You press the button it makes a noise
+It turns into a duck and starts quacking .
+, when it lights up as we it could light up when the alarm went .
+But if it was hidden underneath the cushion , there wouldn't be any point .
+but you can't see an alarm inside the alarm system itself .
+because compared to every other remote ever m ever made , this one will be easier to find .
+Will it be easy to learn how to use this remote when brand new ?
+Remember that thirty four percent of users usually found it difficult .
+w once that's written down on the page that'll be really simple ,
+just because it's we've decided to reduce it down to the basic buttons , that in itself makes it so much easier to use .
+Does it make more sense for the middle one to be an just an enter button ?
+So then you would have to push two buttons every time at least .
+, will it minimise the effects of R_S_I_ ,
+which was repeated strain injury ?
+, which affected over a quarter of users .
+We may have to do some more research into other strain injuries that we about .
+the PowerPoint slide thing said would be good for R_S_I_ ,
+, you could hold it in your left hand and d use your index finger .
+Did we somehow incorporate the company colour and logo ?
+because on the banana theme we can't have it as being yellow .
+, the colours are yellow and grey .
+But the yell d yellow's ugly though ,
+So we'll have to talk to our executive managers , and see if we can get away with just the R_R_ .
+the factor that we've been least successful in confronting .
+like that's grey , and it wouldn't be that expensive to have a little bit of metal .
+, did we stay true to our motto and put the fashion into electronics ?
+Current trends of fruits and veggies , desire for sponginess .
+there's no like pictures of fruit , it's just naming it by a fruit .
+Like the colour scheme names and .
+That's fashionable in itself to have interchangeable plates .
+, if somebody saw that and you said what was that inspired from , I if you'd instantly say mango .
+Alright so based on this evaluation , do we average them out sorta thing ?
+, so our average there , five , six , eight , ten , eleven , twelve , thirteen , fifteen , nineteen , twenty one , divided by eleven
+I'm gonna open up a second one then it's locked for editing .
+I have the original in my my email account .
+So we need to tally up how much our w our product will be costing .
+we're using kinetic which is quite a large expense at three Euros .
+, it's cur it's double curved , so its curved all around .
+So it's like special colour we'll have two colours
+one colour for the case , one colour for the buttons .
+, we have push button interface , so that's inexpensive .
+And we have a special colour for the button , and we also have a special form .
+Which puts us just barely under budget .
+So our operating cost is twelve twenty Euros .
+Of the actual project rather than the product ?
+Do you guys feel like there was room for creativity ?
+we weren't really given a lot of time , or materials , , to go about our design task .
+and like if we had decided to use the L_C_D_ screen , and like solar power backup and everything , then we wouldn't have been able to afford that .
+The fruit and veg idea .
+Good leadership , we stayed on task .
+A pro a product within the budget .
+and also our personal coach helped us along the way ,
+We never were pushed for time , or sat around doing nothing , so
+We needed more Play Doh colours .
+the only thing was having to remember to to tick the okays
+And we were a able to modify each other's ideas
+to fit in with our areas of expertise .
+with that achieved , our last slide is our closing slide .
+It's evaluated generally positively .
+And don't forget to complete final questionnaire and meeting summary .

@@ -1,0 +1,141 @@
+Anything/VBG about/RB ,/PUNCT ,/PUNCT the/DT look/NN of/IN the/DT ,/PUNCT ,/PUNCT remote/VB control/NN that/IN you/PRP might/MD have/VB ideas/NNS about/IN ./PUNCT
+
+as/IN a/DT team/NN we're/NN going/VBG to/TO be/VB designing/VBG and/CC creating/VBG a/DT new/JJ remote/NN control/NN ./PUNCT
+And/CC so/RB we/PRP have/VBP to/TO ,/PUNCT ,/PUNCT come/VB up/RP with/IN a/DT way/NN to/TO ,/PUNCT to/TO create/VB a/DT ,/PUNCT a/DT remote/JJ control/NN ,/PUNCT where/WRB
+
+Also/RB the/DT conceptual/JJ design/NN and/CC the/DT detailed/JJ design/NN for/IN the/DT final/JJ product/NN ./PUNCT
+,/PUNCT I'll/NNP be/VB doing/VBG some/DT trend-watching/NN in/IN the/DT conceptual/JJ design/NN ,/PUNCT and/CC product/NN evaluation/NN for/IN the/DT design/NN phase/NN ./PUNCT
+Same/NN with/IN conceptual/JJ design/NN and/CC detailed/JJ design/NN ./PUNCT
+
+I'm/NNP the/DT Industrial/NNP Designer/NNP for/IN this/DT project/NN ./PUNCT
+
+my/PRP$ favourite/JJ animal/NN would/MD be/VB a/DT dog/NN ,/PUNCT
+
+,/PUNCT I'm/NNP going/VBG to/TO be/VB responsible/JJ for/IN the/DT functional/JJ design/NN phase/NN ./PUNCT
+I/PRP will/MD also/RB be/VB responsible/JJ for/IN the/DT functional/JJ design/NN phase/NN ,/PUNCT the/DT conceptual/JJ design/NN phase/NN and/CC the/DT detailed/JJ design/NN phase/NN of/IN the/DT user/JJ interface/NN design/NN ./PUNCT
+
+and/CC then/RB ,/PUNCT ,/PUNCT after/IN we've/NN brainstormed/VBN and/CC ,/PUNCT and/CC thought/VBD about/RB ,/PUNCT we/PRP can/MD come/VB together/RB in/IN a/DT meeting/NN and/CC ,/PUNCT and/CC discuss/VB what/WP ,/PUNCT what/WP ,/PUNCT what/WP functional/JJ design/NN we/PRP want/VBP to/TO use/VB ./PUNCT
+
+So/RB this/DT is/VBZ a/DT television/NN remote/NN control/NN ?/PUNCT
+Yes/UH ,/PUNCT it's/VB a/DT television/NN remote/NN control/NN ./PUNCT
+a/DT your/PRP$ personal/JJ experiences/NNS with/IN remote/NN controls/NNS ,/PUNCT and/CC ,/PUNCT areas/NNS you/PRP see/VBP that/IN ,/PUNCT ,/PUNCT could/MD be/VB improved/VBN in/IN your/PRP$ experience/NN with/IN them/PRP ./PUNCT
+
+Do/VBP yous/JJ not/RB find/VB that/IN ,/PUNCT ,/PUNCT like/IN ,/PUNCT there's/VB a/DT lot/NN of/IN ,/PUNCT ,/PUNCT buttons/NNS on/IN your/PRP$ remote/NN control/NN ,/PUNCT and/CC you/PRP what/WP half/NN of/IN them/PRP do/VBP ./PUNCT
+
+,/PUNCT the/DT way/NN that/IN we're/VBZ going/VBG to/TO go/VB about/IN this/DT is/VBZ ,/PUNCT ,/PUNCT we'll/NNS have/VBP a/DT time/NN where/WRB we/PRP can/MD ,/PUNCT come/VB up/RP with/IN new/JJ ideas/NNS alone/RB ,/PUNCT and/CC work/NN on/IN the/DT project/NN
+
+You'll/RB be/VB beginning/VBG your/PRP$ ,/PUNCT your/PRP$ working/VBG design/NN ./PUNCT
+,/PUNCT U_I_D_/VBZ the/DT technical/JJ functions/NNS design/NN will/MD ,/PUNCT will/MD be/VB worked/VBN on/IN the/DT next/JJ thirty/NN minutes/NNS ./PUNCT
+
+This/DT is/VBZ the/DT first/JJ meeting/NN for/IN developing/VBG our/PRP$ ,/PUNCT our/PRP$ new/JJ product/NN ./PUNCT
+
+,/PUNCT one/CD thing/NN we'd/WDT have/VBP to/TO think/VB about/IN internationally/RB is/VBZ in/IN the/DT design/NN of/IN ,/PUNCT ,/PUNCT like/IN different/JJ kinds/NNS of/IN ,/PUNCT ,/PUNCT V_C_R_s/NNP ./PUNCT
+
+I/PRP always/RB find/VBP that/IN in/IN our/PRP$ house/NN the/DT remote/JJ control/NN always/RB goes/VBZ missing/VBG ./PUNCT
+tracking/VBG device/NN for/IN the/DT remote/JJ control/NN or/CC some/DT signal/NN that/IN you/PRP could/MD find/VB out/RP where/WRB it/PRP was/VBD ./PUNCT
+
+There's/NNP some/DT remote/VBP controls/NNS where/WRB there's/NN a/DT hidden/JJ panel/NN ,/PUNCT so/IN all/PDT those/DT buttons/NNS that/WDT you/PRP don't/VBP really/RB use/JJ unless/IN you're/NN programming/NN ./PUNCT
+
+And/CC ,/PUNCT ,/PUNCT as/IN a/DT team-building/JJ moment/NN ,/PUNCT ,/PUNCT I'd/NNP like/IN us/PRP to/TO ,/PUNCT ,/PUNCT try/VB out/RP the/DT whiteboard/NN by/IN expressing/VBG our/PRP$ favourite/NN animal/NN and/CC the/DT charac/NN characteristics/NNS of/IN that/DT animal/NN ./PUNCT
+My/PRP$ favourite/JJ animal/NN ,/PUNCT which/WDT changes/VBZ all/PDT the/DT time/NN ,/PUNCT ,/PUNCT
+and/CC it/PRP ,/PUNCT it/PRP is/VBZ my/PRP$ favourite/JJ animal/JJ right/NN now/RB ,/PUNCT it/PRP is/VBZ a/DT large/JJ beautiful/JJ majestic/JJ creature/NN ,/PUNCT
+while/IN ,/PUNCT ,/PUNCT you/PRP guys/VBP express/VB your/PRP$ favourite/JJ animals/NNS ./PUNCT
+So/RB that's/JJ gonna/NN be/VB my/PRP$ favourite/JJ animal/NN because/IN after/IN all/PDT the/DT snow/NN it/PRP seemed/VBD to/TO say/VB that/IN like/JJ Spring/NN is/VBZ finally/RB here/RB ./PUNCT
+
+My/PRP$ name's/JJ Tara/NNP and/CC I'm/NNP the/DT User/NNP Interface/NNP Designer/NNP ./PUNCT
+
+,/PUNCT we/PRP want/VBP this/DT to/TO be/VB a/DT marketable/JJ product/NN that/WDT can/MD be/VB trendy/JJ ,/PUNCT
+
+but/CC at/IN this/DT point/NN in/IN the/DT ,/PUNCT in/IN the/DT first/JJ meeting/NN it/PRP can/MD be/VB any/DT ideas/NNS that/IN we/PRP just/RB throw/VB out/RP there/RB ./PUNCT
+
+Or/CC not/RB present/JJ but/CC bring/VBG to/TO the/DT meeting/NN ./PUNCT
+
+So/RB you/PRP just/RB have/VBP like/IN the/DT number/NN buttons/NNS ,/PUNCT power/NN button/NN ,/PUNCT T_V_/NNP video/NNP button/NN ./PUNCT
+
+You/PRP can/MD press/VB a/DT button/NN on/IN your/PRP$ wall/NN ,/PUNCT signal/NN ,/PUNCT
+
+I'm/NNP Heather/NNP ,/PUNCT I'm/NNP your/PRP$ Project/NN Manager/NNP ./PUNCT
+
+,/PUNCT I'll/NNP be/VB telling/VBG you/PRP guys/VBP about/IN the/DT user/JJ requirement/NN specifications/NNS for/IN our/PRP$ new/JJ product/NN ./PUNCT
+and/CC ,/PUNCT ,/PUNCT we/PRP need/VBP the/DT user/NN requirements/NNS from/IN the/DT manag/NN
+
+So/RB this/DT is/VBZ time/NN for/IN us/PRP to/TO bring/VB our/PRP$ initial/JJ ideas/NNS ,/PUNCT any/DT suggestions/NNS that/IN you/PRP may/MD have/VB so/RB far/RB ,/PUNCT
+
+I/PRP find/VBP that/IN in/IN the/DT dark/NN it's/NN often/RB hard/JJ to/TO button/VB you're/RP pushing/VBG ./PUNCT
+
+we/PRP can/MD like/VB the/DT price/NN to/TO create/VB it/PRP will/MD be/VB significantly/RB less/RBR ./PUNCT
+
+,/PUNCT our/PRP$ next/JJ meeting/NN will/MD be/VB in/IN half/PDT an/DT hour/NN ./PUNCT
+So/RB you/PRP have/VBP half/PDT an/DT hour/NN to/TO ,/PUNCT ,/PUNCT think/VBP about/IN what/WP you/PRP want/VBP to/TO present/VB ./PUNCT
+,/PUNCT you/PRP will/MD get/VB specific/JJ instructions/NNS ,/PUNCT ,/PUNCT of/IN what/WP to/TO do/VB in/IN the/DT next/JJ half/NN an/DT hour/NN ./PUNCT
+
+,/PUNCT wanna/WP make/VBP this/DT selling/NN price/NN of/IN twenty/NN five/CD Euros/NNP ./PUNCT
+
+,/PUNCT the/DT next/JJ ,/PUNCT ,/PUNCT thing/NN we/PRP need/VBP to/TO address/VB is/VBZ our/PRP$ financial/JJ department/NN ,/PUNCT to/TO meet/VB our/PRP$ budget/NN ,/PUNCT
+or/CC not/RB meet/VB our/PRP$ budget/NN but/CC more/JJR ,/PUNCT ,/PUNCT like/IN what/WP ,/PUNCT ,/PUNCT selling/VBG range/NN we'll/NN be/VB looking/VBG at/IN ,/PUNCT
+
+it's/NN gonna/NN be/VB a/DT really/RB funny/JJ dog/NN ,/PUNCT I'm/NNP not/RB how/WRB to/TO draw/VB a/DT dog/NN ./PUNCT
+there/EX are/VBP loads/NNS of/IN different/JJ types/NNS of/IN dogs/NNS ,/PUNCT so/RB I'm/NNP it'll/JJ represent/NN one/CD dog/NN ./PUNCT
+It's/NNP a/DT scary/JJ cartoon/NN dog/NN ./PUNCT
+like/IN they/PRP can/MD be/VB trained/VBN to/TO be/VB police/JJ dogs/NNS and/CC seeing-eye/JJ dogs/NNS ,/PUNCT
+
+And/CC ,/PUNCT ,/PUNCT it/PRP needs/VBZ to/TO be/VB user-friendly/JJ for/IN ,/PUNCT ,/PUNCT maybe/RB ,/PUNCT for/IN an/DT example/NN ,/PUNCT for/IN people/NNS that/IN ,/PUNCT ,/PUNCT can't/NN see/VB the/DT numbers/NNS as/IN ,/PUNCT
+But/CC they're/NN just/RB so/RB friendly/JJ and/CC warm/JJ and/CC animals/NNS ,/PUNCT
+
+I/PRP am/VBP a/DT big/JJ animal/NN lover/NN ./PUNCT
+But/CC this/DT part/NN was/VBD all/DT brown/JJ and/CC then/RB it/PRP has/VBZ these/DT big/JJ blue/NN dots/NNS like/IN this/DT ./PUNCT
+
+And/CC tool/NN training/NN is/VBZ one/CD thing/NN that/WDT we're/VBZ going/VBG to/TO be/VB doing/VBG today/NN ,/PUNCT
+One/CD thing/NN that/WDT ,/PUNCT ,/PUNCT we're/VBZ going/VBG to/TO do/VB is/VBZ become/VB more/RBR acquainted/JJ with/IN the/DT ,/PUNCT the/DT tools/NNS that/IN we/PRP have/VBP access/NN to/TO for/IN our/PRP$ project/NN ./PUNCT
+
+like/IN all/DT sorts/NNS of/IN animals/NNS ,/PUNCT but/CC for/IN the/DT moment/NN I'm/NNP gonna/NN draw/VBZ a/DT cat/NN ,/PUNCT in/IN memory/NN of/IN my/PRP$ poor/JJ cat/NN that/WDT died/VBD recently/RB ./PUNCT
+Not/RB as/RB artistic/JJ as/IN Heather's/NNP drawing/NN ./PUNCT
+I'm/NNP tempted/VBD to/TO draw/VB a/DT snail/NN I/PRP draw/VBP them/PRP sometimes/RB and/CC they're/JJ really/RB easy/JJ to/TO draw/VB ./PUNCT
+
+And/CC it/PRP landed/VBD by/IN a/DT wall/NN and/CC let/VB me/PRP look/VB at/IN it/PRP for/IN about/IN two/CD minutes/NNS ./PUNCT
+
+,/PUNCT we'd/WP like/IN to/TO ,/PUNCT to/TO ,/PUNCT ,/PUNCT make/VBP fifty/JJ million/CD Euro/NNP ./PUNCT
+,/PUNCT we/PRP want/VBP it/PRP to/TO cost/VB ,/PUNCT ,/PUNCT absolute/JJ maximum/NN of/IN twelve/NN Euro/NNP and/CC fifty/JJ cents/NNS ./PUNCT
+
+if/IN it's/PDT a/DT trendy/JJ original/JJ ,/PUNCT ,/PUNCT aspect/JJ we're/NN going/VBG for/IN ./PUNCT
+And/CC the/DT key/JJ issue/NN here/RB is/VBZ ,/PUNCT is/VBZ being/VBG trendy/JJ and/CC original/JJ ./PUNCT
+
+This/DT part/NN of/IN the/DT body/NN was/VBD really/RB dull/JJ ,/PUNCT and/CC then/RB it/PRP was/VBD the/DT most/RBS colourful/JJ exotic/JJ butterfly/NN ever/RB ,/PUNCT
+
+Like/IN ,/PUNCT a/DT novelty/JJ thing/NN might/MD only/RB sell/VB a/DT few/JJ things/NNS rather/RB than/IN ,/PUNCT like/IN ,/PUNCT a/DT general/JJ more/RBR acceptable/JJ
+
+because/IN I/PRP saw/VBD a/DT butterfly/NN yesterday/NN ,/PUNCT that/WDT seemed/VBD to/TO be/VB like/IN the/DT symbol/NN of/IN Spring/NNP arriving/NN ./PUNCT
+And/CC it/PRP was/VBD actually/RB the/DT prettiest/JJS butterfly/NN I've/NNP ever/RB seen/VBN out/RP in/IN the/DT wild/NN ,/PUNCT
+
+and/CC ,/PUNCT ,/PUNCT discuss/NN ,/PUNCT ,/PUNCT our/PRP$ aims/NNS and/CC objects/NNS of/IN this/DT ,/PUNCT
+
+so/RB we'll/RB have/VBP a/DT hundred/JJ percent/NN profit/NN then/RB ?/PUNCT
+I/PRP suppose/VBP ,/PUNCT if/IN we're/NN he/PRP heading/VBG to/TO have/VB it/PRP ,/PUNCT like/IN make/VBP a/DT huge/JJ profit/NN out/IN of/IN this/DT ,/PUNCT it/PRP needs/VBZ to/TO be/VB quite/RB a/DT universally/RB accepted/JJ thing/NN ./PUNCT
+
+With/IN our/PRP$ microphones/NNS still/RB attached/VBN to/TO our/PRP$ bodies/NNS ./PUNCT
+
+Looks/VBZ kinda/NNS like/IN ,/PUNCT like/IN it/PRP has/VBZ holly/RB growing/VBG out/IN of/IN its/PRP$ head/NN ./PUNCT
+
+,/PUNCT but/CC that/IN doesn't/JJ mean/VB they're/NN completely/RB not/RB sociable/JJ ,/PUNCT they/PRP enjoy/VBP interacting/VBG with/IN humans/NNS as/IN ,/PUNCT
+and/CC they/PRP seem/VBP to/TO enjoy/VB the/DT good/JJ things/NNS like/IN sunshine/NN and/CC ,/PUNCT ,/PUNCT running/VBG around/RB outside/IN
+as/IN as/IN being/VBG inside/IN ,/PUNCT and/CC enjoying/VBG their/PRP$ food/NN ,/PUNCT
+
+,/PUNCT a/DT completely/RB new/JJ style/NN ,/PUNCT so/IN that/DT ,/PUNCT ,/PUNCT can/MD really/RB appeal/VB to/TO a/DT ,/PUNCT to/TO a/DT generation/NN that/WDT doesn't/VBZ want/VBP a/DT simple/JJ plain/NN ,/PUNCT ,/PUNCT channel-changer/NN ./PUNCT
+
+Maybe/RB it/PRP could/MD be/VB ,/PUNCT instead/RB of/IN like/IN a/DT standard/JJ rectangular/NN shape/NN ,/PUNCT it/PRP could/MD be/VB ,/PUNCT ,/PUNCT something/NN more/RBR interesting/JJ like/IN
+
+it/PRP can/MD really/RB combat/VB its/PRP$ enemies/NNS ,/PUNCT even/RB like/IN it's/VBP a/DT it's/NN an/DT herbivore/NN but/CC ,/PUNCT ,/PUNCT it/PRP can/MD really/RB defend/VB itself/PRP ./PUNCT
+
+and/CC although/IN it's/JJ gorgeous/JJ it's/NN also/RB very/RB dangerous/JJ ,/PUNCT because/IN it/PRP has/VBZ strong/JJ antlers/NNS ,/PUNCT
+
+But/CC it/PRP can/MD really/RB overcome/VB harsh/NN terrain/NN ,/PUNCT
+
+In/IN a/DT way/NN it/PRP looks/VBZ awkward/RB ,/PUNCT because/IN it's/NN on/IN spindly/RB legs/NNS
+
+Do/VBP you/PRP hear/VB the/DT eraser/NN buzzing/VBG while/IN you/PRP do/VBP that/DT ?/PUNCT
+
+there/EX was/VBD a/DT green/JJ ,/PUNCT it/PRP was/VBD a/DT green/JJ ring/NN ,/PUNCT
+
+Just/RB gonna/NN attempt/NN to/TO make/VB this/DT into/IN a/DT slide/NN show/NN ./PUNCT
+and/CC I'm/NNP like/IN ,/PUNCT this/DT is/VBZ the/DT middle/NN of/IN Scotland/NNP in/IN like/IN March/NNP ./PUNCT
+

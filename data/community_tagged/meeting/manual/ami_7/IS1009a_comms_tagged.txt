@@ -1,0 +1,120 @@
+This/DT thing/NN we/PRP are/VBP gonna/JJ design/NN is/VBZ a/DT new/JJ remote/NN control/NN ./PUNCT
+
+working/VBG design/NN ,/PUNCT ,/PUNCT it's/VBZ mainly/RB technical-functional/JJ design/NN ./PUNCT
+
+./PUNCT The/DT working/VBG design/NN ,/PUNCT I/PRP that's/VBP the/DT function/NN
+So/RB you/PRP have/VBP a/DT working/JJ design/NN and/CC then/RB a/DT functional/JJ design/NN ./PUNCT
+
+And/CC my/PRP$ role/NN is/VBZ to/TO design/VB a/DT television/NN remote/NN control/NN ./PUNCT
+
+Here/RB is/VBZ what/WP the/DT functional/JJ design/NN is/VBZ supposed/VBN to/TO achieve/VB ./PUNCT
+
+So/RB ,/PUNCT we/PRP looking/VBG for/IN a/DT working/JJ design/NN when/WRB we/PRP come/VBP back/RB ./PUNCT
+
+After/IN we've/NN finished/VBD the/DT remote/JJ control/NN we'll/NN get/VB to/TO that/DT ./PUNCT
+
+Now/RB ,/PUNCT the/DT discussion/NN I/PRP is/VBZ does/VBZ anyone/NN of/IN you/PRP have/VBP experience/VBN with/IN remote/NN control/NN ?/PUNCT
+
+my/PRP$ role/NN is/VBZ industrial/JJ designer/NN
+
+So/IN these/DT are/VBP all/DT things/NNS ,/PUNCT ,/PUNCT to/TO remember/VB with/IN the/DT budget/NN and/CC when/WRB you/PRP design/VBP
+
+and/CC specifications/NNS of/IN user/JJ interface/NN and/CC dealing/VBG with/IN user/JJ interface/NN design/NN ./PUNCT
+
+Three/CD different/JJ types/NNS of/IN design/NN that/WDT we're/VBZ gonna/JJ be/VB concerned/VBN with/IN ./PUNCT
+
+and/CC my/PRP$ responsibilities/NNS are/VBP deal/NN with/IN the/DT technical-functional/JJ designs/NNS
+
+now/RB having/VBG used/VBN a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN it/PRP ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO change/VB ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN
+
+That/DT is/VBZ it's/JJ gonna/NN be/VB individual/JJ work/NN and/CC then/RB at/IN the/DT meeting/NN we'll/JJ discuss/NN what/WP we/PRP have/VBP come/VBN up/RP with/IN ./PUNCT
+there/EX will/MD be/VB individual/JJ work/NN whic/NN and/CC then/RB discussion/NN afterwards/NNS ./PUNCT
+
+so/RB ,/PUNCT so/IN it's/JJ really/RB the/DT beep/NN or/CC ,/PUNCT or/CC a/DT light/JJ should/MD blink/VB ./PUNCT
+Beep/NNP or/CC it's/VB a/DT light/NN ,/PUNCT maybe/RB it's/VBZ a/DT light/NN ./PUNCT
+
+Yes/UH ,/PUNCT I/PRP feel/VBP that/IN all/PDT the/DT remote/NN should/MD be/VB very/RB compact/JJ ./PUNCT
+
+I'm/NNP just/RB saying/VBG throw/JJ signal/JJ meaning/NN just/RB whether/IN it's/NN a/DT beep/NN or/CC whether/IN a/DT light/NN or/CC
+
+And/CC the/DT marketing/NN manager/NN is/VBZ coming/VBG up/RP with/IN some/DT user/JJ requirement/NN specification/NN ,/PUNCT
+
+should/MD be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT and/CC ,/PUNCT ,/PUNCT user/RB friendly/JJ ./PUNCT
+
+In/IN in/IN that/DT moment/NN it/PRP has/VBZ a/DT sensor/NN ,/PUNCT i/VB it/PRP gets/VBZ a/DT certain/JJ darkness/NN ,/PUNCT it/PRP ge/VBZ has/VBZ a/DT sensor/NN and/CC it/PRP gives/VBZ out/RP a/DT signal/NN whether/IN that/DT be/VB a/DT light/JJ signal/NN or/CC a/DT beep/NN ,/PUNCT
+So/IN the/DT light/NN sensor/NN would/MD activate/VB the/DT signal/NN ./PUNCT
+
+and/CC voice/NN or/CC clapping/VBG it's/NN not/RB specific/JJ enough/RB ./PUNCT
+
+like/IN friendliness/NN ,/PUNCT and/CC what/WP we/PRP just/RB discussed/VBN in/IN general/JJ ./PUNCT
+
+or/CC or/CC if/IN it's/JJ really/RB ,/PUNCT if/IN it's/VBN really/RB in/IN a/DT dark/JJ spot/NN that/IN it/PRP gives/VBZ out/RP a/DT sound/NN or/CC a/DT signal/NN ./PUNCT
+
+Like/IN the/DT remote/NN control/NN which/WDT we/PRP use/VBP for/IN T_V_/NNP ,/PUNCT it/PRP shou/VBD it/PRP should/MD be/VB used/VBN f/NN for/IN some/DT other/JJ purpose/NN also/RB ,/PUNCT like/IN controlling/VBG the/DT temperature/NN inside/IN the/DT house/NN or/CC for/IN air-conditioners/NNS ,/PUNCT or/CC for/IN heating/VBG system/NN ./PUNCT
+And/CC and/CC they/PRP suddenly/RB the/DT phone/NN rings/NNS and/CC they/PRP want/VBP to/TO turn/VB the/DT T_V_/NNP off/NN and/CC they/PRP say/VBP ,/PUNCT where/WRB the/DT hell/NN is/VBZ my/PRP$ remote/JJ control/NN ?/PUNCT
+
+If/IN lost/VBN signal/NN with/IN b/NN throw/NN signal/NN ,/PUNCT ./PUNCT
+
+So/IN it/PRP should/MD be/VB a/DT multi-functional/JJ gadget/NN that/WDT would/MD control/VB all/DT your/PRP$ household/NN machines/NNS ./PUNCT
+
+the/DT main/JJ responsibility/NN is/VBZ user/JJ interface/NN ./PUNCT
+
+,/PUNCT it's/JJ functional/JJ de/FW ,/PUNCT exactly/RB ,/PUNCT technical/JJ ./PUNCT
+And/CC then/RB the/DT technical/JJ funct/NN you/PRP are/VBP the/DT technical/JJ function/NN ,/PUNCT
+
+,/PUNCT the/DT next/JJ meeting/NN will/MD be/VB in/IN thirty/JJ minutes/NNS ./PUNCT
+
+Functional/NNP ,/PUNCT conception/NN and/CC detailed/VBN ./PUNCT
+
+And/CC do/VB you/PRP think/VB a/DT good/JJ c/NN clue/NN for/IN that/DT is/VBZ that/IN it/PRP would/MD respond/VB to/TO a/DT clap/NN or/CC it/PRP would/MD respond/VB to/TO your/PRP$ voice/NN or/CC it/PRP would/MD respond/VB what/WP should/MD you/PRP have/VB to/TO do/VB to/TO make/VB it/PRP beep/VB or/CC blink/VB ?/PUNCT
+
+Like/IN trendy/JJ no/DT like/JJ f/NN for/IN earlier/JJR we/PRP saw/VBD maybe/RB it/PRP should/MD be/VB something/NN trendy/JJ ./PUNCT
+
+profit/NN aim/NN for/IN the/DT company/NN is/VBZ fifty/JJ million/CD Euro/NNP ,/PUNCT
+At/IN twelve/JJ fifty/JJ Euros/NNP per/IN
+
+Then/RB ,/PUNCT tool/NN training/NN try/VB out/RP the/DT white/JJ board/NN ,/PUNCT
+
+,/PUNCT my/PRP$ idea/NN is/VBZ maybe/RB that/IN the/DT minute/NN it's/NN really/RB hidden/JJ ,/PUNCT in/IN other/JJ words/NNS if/IN it's/NNS like/IN in/IN a/DT dark/JJ spot/NN ,/PUNCT meaning/VBG like/IN a/DT newspaper/NN is/VBZ on/IN top/NN ,/PUNCT a/DT sweater/NN is/VBZ on/IN top/NN or/CC it's/NN behind/IN a/DT plant/NN ,/PUNCT at/IN that/DT moment/NN it's/NN like/IN ,/PUNCT it's/NN like/IN ,/PUNCT what/WP you/PRP call/VBP it/PRP a/DT light/JJ s/NN sensors/NNS ,/PUNCT ?/PUNCT
+
+and/CC the/DT production/NN cost/NN should/MD not/RB exceed/VB hopefully/RB should/MD be/VB less/JJR than/IN twelve/VB fifty/JJ Euro/NNP ./PUNCT
+
+See/VB if/IN I/PRP remember/VBP how/WRB to/TO draw/VB a/DT kitty/JJ cat/NN or/CC a/DT rabbit/NN ./PUNCT
+
+And/CC ,/PUNCT ,/PUNCT specifi/NN you/PRP will/MD get/VB specific/JJ instructions/NNS for/IN that/DT ./PUNCT
+
+the/DT market/NN range/NN unlimited/VBD meaning/VBG international/JJ
+
+selling/VBG price/NN is/VBZ supposed/VBN to/TO be/VB twenty/JJ five/CD Euro/NNP ./PUNCT
+We/PRP have/VBP to/TO justify/VB that/DT price/NN by/IN having/VBG sufficient/JJ features/NNS to/TO make/VB it/PRP sell/VB at/IN that/DT price/NN ./PUNCT
+
+So/RB that/IN in/IN case/NN we/PRP have/VBP to/TO ,/PUNCT in/IN the/DT next/JJ meeting/NN ,/PUNCT present/JJ something/NN on/IN the/DT white/JJ board/NN ./PUNCT
+
+I/PRP am/VBP the/DT project/NN manager/NN for/IN today/NN ./PUNCT
+Project/NN plan/NN ,/PUNCT that/WDT falls/VBZ under/IN the/DT same/JJ heading/NN ./PUNCT
+
+Yes/UH y/NN opening/NN ,/PUNCT acquaintance/NN ,/PUNCT tool/NN training/NN
+
+traditional/JJ kitty/JJ cat/NN ./PUNCT
+I/PRP hope/VBP the/DT kitty/JJ cat/NN is/VBZ hungry/JJ I/PRP don't/VBP like/IN snakes/NNS ./PUNCT
+
+to/TO materials/NNS ,/PUNCT cost/NN ,/PUNCT etcetera/NN ./PUNCT
+
+I/PRP exp/VBP I/PRP s/VBP we/PRP use/VBP 'em/PRP we/PRP use/VBP 'em/PRP ,/PUNCT right/RB ,/PUNCT everyday/RB ./PUNCT
+
+,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
+
+But/CC it/PRP could/MD be/VB someplace/VBN really/RB obvious/JJ and/CC you/PRP still/RB wouldn't/VBP be/VB able/JJ to/TO find/VB it/PRP ./PUNCT
+
+like/IN kidney/NN shape/NN feels/NNS better/RBR in/IN your/PRP$ hand/NN ,/PUNCT ./PUNCT
+
+participant/NN can/MD draw/VB their/PRP$ favourite/JJ animal/NN ./PUNCT
+
+,/PUNCT because/IN you're/NN s/NN because/IN you're/NN silly/RB ./PUNCT Because/IN people/NNS are/VBP silly/RB ./PUNCT
+
+because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS lose/VBP them/PRP ./PUNCT They/PRP can't/VBP find/VB it/PRP ./PUNCT
+
+Fat/NNP ,/PUNCT a/DT fat/JJ cat/NN ./PUNCT
+
+have/VB more/JJR buttons/NNS on/IN it/PRP or/CC maybe/RB clearly/RB better/RBR marked/JJ buttons/NNS ,/PUNCT ,/PUNCT things/NNS like/IN that/DT ?/PUNCT
+
