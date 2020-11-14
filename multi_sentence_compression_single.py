@@ -15,7 +15,9 @@ results/tixier_params_MSC_development.csv
 import os
 import sys
 # path_to_root = '/data/gshang/acl2018_abssumm/'
-path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
+# path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
+path_to_root = '/root/project/text-summery/text_summerization/'
+
 # os.chdir(path_to_root)
 sys.path.append(path_to_root)
 import time
