@@ -40,7 +40,9 @@ nltk.download('averaged_perceptron_tagger')
 domain     = 'meeting' # meeting
 dataset_id = 'ami'     # ami, icsi
 language   = 'en'      # en
-source     = 'asr'     # asr, manual
+# source     = 'asr'     # asr, manual
+source     = 'manual'     # asr, manual
+
 
 # #########################
 # ### RESOURCES LOADING ###
@@ -146,7 +148,7 @@ for i in range(len(params)):
 # save indexed parameter grid
 import csv
 keys = params[0].keys()
-with open(path_to_root + 'data/' + dataset_id + '_params_create_community.csv', 'wb') as output_file:
+with open(path_to_root + 'data/' + source +"/"+ dataset_id + '_params_create_community.csv', 'wb') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(params)
@@ -259,7 +261,7 @@ for param in params:
         # ##############
         # output remain utterances
         if domain == 'meeting':
-            path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_' + str(param_id) + '/'
+            path_to_utterance = path_to_root + 'data/utterance/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_utterance):
             os.makedirs(path_to_utterance)
 
@@ -268,7 +270,7 @@ for param in params:
 
         # output community
         if domain == 'meeting':
-            path_to_community = path_to_root + 'data/community/meeting/' + dataset_id + '_' + str(param_id) + '/'
+            path_to_community = path_to_root + 'data/community/meeting/'+ source + '/' + dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_community):
             os.makedirs(path_to_community)
 
@@ -283,7 +285,7 @@ for param in params:
 
         # output tagged community
         if domain == 'meeting':
-            path_to_community_tagged = path_to_root + 'data/community_tagged/meeting/' + dataset_id + '_' + str(param_id) + '/'
+            path_to_community_tagged = path_to_root + 'data/community_tagged/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_community_tagged):
             os.makedirs(path_to_community_tagged)
 

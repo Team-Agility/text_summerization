@@ -1,0 +1,228 @@
+in a want to tell you about what people are the wall and like in disliking remote controls and then
+what i suggest is that instead of deciding also for what could be and what should be a good the remote control that's ask people who are users of remote controls how they
+how they feel about to the crack remote controls would be like but you don't
+What we found was that so all things that the user bolts remote controls
+is that it seems that they were people are ready to pay for it and look good fancy looking remote control so
+people are very frustrated with their remote controls
+And because of the fact that there's so many buttons in these remote controls that nobody
+them so most of the people say they be how to do to use properly their remote controls
+remote controls and the table is
+we should only make a remote control now some more some of those it's just a remote control
+market doesn't of remote control so it better it's very
+For personal preferences i have seen this that to make a baby proof remote control i get to be titanium
+and then as a feature that i would like to implement is a wall in control suppose
+a since we're focusing on all work and a place to waste actual remote control we need feel
+of my is like a user taking his remote control and shouting into it
+so in a given room there might be more than one remote control we would
+Speakers in the remote control
+
+First of all they find it very ugly Current
+Current remote controls they are the same as this one and they are not
+And the other thing is that it do you do current remote controls are not so easy to use
+not so easy to use and it did the current the first lady's that the for do not match what people really want to use their remote controls
+And most of the buttons on the current remote controls are not used so i
+So functions that made be use but you do use or in the current available remote controls and
+current remote controls so they're never easy enough to use
+
+So now it really depends on the targeting the what who are we targeting with these remote control he for targeting
+control he for targeting young people than that it's pretty something we have to consider If we are targeting
+If we are targeting young a very old people this is something do you read why do you should be so
+Since we're targeting a really use some the date for dvd and e stream of this remote control we will only
+and how you cannot use my remote control because it's targeted
+Should should we target a user personalised a remote control so in
+
+take a control and pointed to the tv
+on the tv but you that we talk about the universe so the remote control
+we will only call straight on tv for the moment
+It was since we're focusing on and tv remote controls or
+controls or we can have more functions for tv
+tv if you want to go for you more so than the upper limit for functions for each of four devices
+as the basic function of remote control is sending some it's pretty The device like tv or vcr or dvd player et cetera So we have
+so some tvs will have different encryption court for blinks research on a chain and these things
+know since you're only focusing on tv remote control so
+
+so we've got the to the A survey on the use of the remote controls and i'd like to show
+and i'd like to show you some of the results we found one be survey
+So we've got it in the survey about the weather people would like are not to have this of function meeting their remote control and as
+
+not often used the people in want to have controls do you mean that makes sense of
+remote control and as we can see it really does a dh young people
+should we aim at a young people or not
+we should aim at the end people But
+One thing is that as i said in my presentation people read do we like to see zap so even if there
+Think of all these young people who would love to say that this remote control on you work for them and how you cannot
+Again these to have some interaction like so was people use these big and
+it's like all these people do that so like to turn on with clapping
+
+so we should decide something where some of the buttons which are those that are used should be easier to see and use than others that are only a couple of people are using
+People that want to have a power button channel
+control so you wouldn't have to that type in your buttons but just
+I would say the simplest one as long as they are the i find the buttons are they need to give it a menu button
+And all those buttons should be easy to find them too quick because
+it's some pressing buttons or keys or like we went jack like that
+And then these mysterious these key buttons can be transformed into some miss a day and
+That's all this is not so the function easy it is being could be instead off using the buttons it's on top
+
+And that then you have things which are very much less often use like the settings audio settings screen settings even teletext and channel settings All of them
+control suppose you said that you set up some volume and any move out
+set-up get tv set like channels that to use their one two three and five and you
+control we would have each one and that was our own personal settings
+that can be postponed especially for all are setting so user can say
+
+like to have something to like that phones some of the phones have some of these so functionality phone
+phone you can always phone your phone that
+your phone that you can phone your remote control but why not
+
+then we'll have the main controller in the main device to do the particular action what we want
+Then we'll has siege our main head and device to do particular operations and the total
+so you have only these da main base a
+better days so was like here we have our main chip which controls
+main chip which controls or volume and these buttons and this tsb's Again
+
+and they need to generate some information to the main device
+source which sends the information to the main device Then
+encryption that it's pricing information but it tv device so we
+
+device and they all the early adopters of the new device our young people less than
+it's from a much He's a device like air conditioning But
+We can just extend that trendy device
+So now all it and the technique that aspects of these new device
+So we have a portable device which will send messages to the main device that tv So we
+was since we are high in one doing mostly ds to hide the device this we had to have
+and then we have some inset some chip in the device
+i heard of devices where you just whistle them and b
+Just don't fit in prefer was of the device it's like it's
+
+have a screen with the backlights we can change colours
+buttons all the other things can be controlled through the screen
+I would propose this concept for a design just few buttons the screen was the backlight which can change colours titanium
+screen what easy to use the usefulness of the screen at ease of the touchscreen
+
+eight now these we have hundreds of channels that's not so easy
+that's not so easy to go just next we have hundreds of channels or is it
+so even if there are only watching for five channels they want to zap a lot of the one hundred channels just
+
+All the buttons we need is on off volume channels and maybe some options are First else and
+Boards fashion into electronics
+the volume or a tree be something like volume up down and
+send them but it they should have this problem there boards volume and then you
+like if i want to put volume up or like to do might take a remote control do that sounds like
+
+that's for what the biggest frustrations of the user and
+I'm responsible for user interface design Our
+that's gonna be less technical functions but more user interface and kinda intentions and I was an adjustment was it's so
+and then we have user interface like the keypad and no buttons we want And then we
+and since i also want to know feedback from our marketing explored and user interface so if you want
+know israel not like the users have different programs them and they don't
+so user can say so was there watching a tennis match then they can say after one or i
+And dui d you mark will be focused on the user interface concept and
+
+relevant it seems that people find teletext they're relevant even if i
+I've been told that we had don't consider teletext that it out of date
+I can't tell you that a in an in this case between one and then the relevant to not relevant to relevant people scored a six days which is not
+but just know would that people find it somehow rid of it
+people pretty because it's a buzzword find it very relevant
+voice like it can turn on the lights For you just to find it as a light no
+
+and then i hope this is going to help you to design it creaky so
+explored in an industrial design of all that devices and i previously
+It's annoying briefly describe the working design for remote control
+Then we would work again for city mean it's a new be joe work and
+
+One of the thing that ran the that there you are pretty aware of is the possibility d is that a possibility of having speech recognition in a remote control so you wouldn't have
+i'm be the scenes or User interface In to sustain speech recognition and
+recognition and also marketing export phone that speech recognition least really handy so
+a volume is not really speech recognition products
+Did you consider is the gest a gesture recognition like
+
+all task is not to forget about the welcome razor We should
+and what methods is going to be pro white simple
+Simple design isn't a simple actions
+we should put it just simple actions but to be universal
+leaving you can find him and the simple by the device like any more bulb and you can have this voice their lives or these things
+
+channel selection is they're important very often used I
+So far as i said i want to go to lead directly to channel twenty five how would it be kind i do that with this
+And in one their remote control i've seen instead of doing that you could just say these are the chance to channel three twenty eight forty eight and the sixty four of those that i want to be cycle with my next button
+like how many people really need to go to channel number twenty five and ten to sixty four
+them and they don't really follow of saint thomas pictures or you
+pictures or you just want channel number of we don't want like
+
+first time marketing expert
+menu and the expert in marketing in a want to
+in the front page because it i spent a lot of time doing this presentation so
+control so we should pretty spend lots of time and effort and that's And
+have any conclusion a didn't have time the meeting was very
+it can be just a menu which can be controlled with the left right up down and cover
+and a warm market expert some again show up on that trend watching
+
+because when you watch a movie and you want to change something you always try to find a good button and click it but
+It's a question to our technique all these are changing it and then as a
+and any move out you move to the other car All the room and take a control
+Like you want them to change that chair or are we want to move does it down to have some so for something and then they won't changes
+
+I hope you're ready for use a functional design the king
+word but Anyway i continue a presentation
+Our and project manager Ask me to do some presentation about technical functions design
+all these functions and put it in somebody's data format And then
+
+we can have and the like does it simple speech recogniser on or ds be cheap since
+tape all around you can have some speech recogniser then or generally smaller reduce the signal crossing cheap so that and
+so that and we will put her that's more simple speech recogniser and you can
+and you can also are trying the speech recogniser purported lower user so
+
+tv So we need to have some energy source to to do the functions what we want on these portable device And usually
+components maybe the energy source like the back to be and then we have
+And then we'll have in the infrared led source which sends
+so we have the main of the energy source and then we'll have
+cheap since we have some energy disease
+back before a specific instruction what was saying to you by your personal coach
+
+what is important is to understand that the power button is not used often because
+i but just view and good ideas we need power
+And let us include to features inches isn't device first power
+even automatic on off is also a big problem idea because
+That clap or clap it's a good idea
+
+that's wonderful feel for seen those from the technical part we want to
+because we have only really feel what's like paul or switch on or some lake then you'd have
+No actually v can have one switched or like the switch on one of these days to process and
+that's to do more than you how much time you need to switch on or switch all fine
+
+so i didn't put the connection and store this components and since
+so if you want to add some more components we can incorporate them
+and in this one want to To be more focused on the Individual actions but not on the components so
+New wheels focus on the components concept
+
+According to your distance and the angle maybe if you have a six euros fifty
+for as budget like twelve euros
+this point in green consumer was it's
+because of our target is only like four point five euros
+
+Sensing sensor machine that knows
+It's generally in the form of infrared or Some just sense of information then we'll have
+of occasions and bruno or encryption that
+these big and reportedly sends some information to be She played in some form like more lemon trees or like this keating
+
+But but to if you compare with these ones that this corner one or two rubber
+it's It's not an easy field trip to play
+you might be keys are increase or we played
+increase or we played only recognised or sports and
+
+And we want to know all too at the end to know the new project's requirement so
+rsi but i don't remember what you sarah i So
+i remember what is there a site It's for kids
+It's for kids the tvt stress injury
+I'll push another style we should remember Is that our company
+you can buy a line width i
+
+miss a day and then you to process but be cheap and they need to generate
+cheap it's mainly just assume imposing shouldn't be was since we are
+this we had to have some process error which take care of
+This normal battery so this battery
+so this battery one ceases to see jonah it to tape all around
+
+But are there is like you can put some display on numbers and then they can display
+and then they can display is supposed to fly d displays born five and
+all checking my department is there someone space anything
+

@@ -1,0 +1,270 @@
+I'm gonna make a decision on the remote control functions we have forty
+but it that's very important still what so what functions there are we want to put in the remote control
+That means we can discuss on the remote control functions
+the but the functions are not in the remote control we're making
+control we can save on the functions we just put
+
+were not very trendy or just Just a remote control like everyone knows i
+and i if there are any if you put more functions more buttons maybe it's come becoming less trendy like that
+it looks trendy and say this to put a bleep function in it but
+
+method of the remote control is electrical energy it activated
+a wide scale of remote controls in the world and
+I haven't come to your remote i've got some images of remote controls were
+of remote controls gonna be easy
+ask whether common remote control looks good or not about
+it's becoming more clear what remote controls gonna be in that
+there are a dozen of dozens of remote controls that have
+fattening and then you can always find remote control but
+we use it is in the most costly the remote control we can save
+
+was the technical side of the remote control
+You don't think it's a problem to design the technical part of remote controls gonna
+in the case of this simple remote control the technical aspects which it won't work so out already but it shouldn't be a problem then
+
+somewhere we're looking for a really simple remote control with only basic tv functions
+if it's too simple word that they won't use the remote control they use their own the bit lot more functions
+And it's just so that a compliment area remote and the universe want if you want to keep it simple
+if you want to keep it simple you can make a universal remote
+Now but we don't have to when we don't want to control other devices it makes it even more simple
+we just put some simple button and make it they can sturdy
+
+Remote control is nothing special a nonissue
+know it's really depending on how far the remote controls are already in the the euros
+it's very import because we gonna make such a basic remote control we have to do something to make it special it's gonna cost twenty
+easy market we have to do something special ed for twenty five euros
+ed for twenty five euros people want something remote special form remote control and
+
+gonna be in that already talked about maybe you familiar with your remote control that has the can opener underneath it we're
+the like the can open it may be contains some future date you don't normally linked to the remote control it's very
+i have to say i have to stuck can opening remote control i have most of the hour it's
+
+about willingness to spend money on a remote control about
+and elderly people want our market or less interested in a features but more willingly to spend more money on remote controls
+so you talk about the elderly you are willing to spend more on the remote control and were interested but
+or just different colours or i if people also wanna spend more money on phones for their remote control could be
+but when you can imagine a when you spend twenty five euros a remote control it's basic remote control and then the money it must be money to spend on that just rechargeable six units
+
+Regardless of what type of functions we want to implement doesn't really matter
+We shouldn't implement too much features on on our remote control because the elderly people will that last group features
+group features for a higher usability
+control we can implement more functions then because
+what do you think you'd issue we implement features that of functions that to control other devices know you don't think
+
+If you grab the remote your hand should be on top plus
+them maybe it should be remote control when you clap your hands it makes a noise or some to thing
+a in the base or we could like make up a button and if you push it the remote control it's else makes noise there's
+i for that everybody who buys remote for women a couple of months they will be in the situation that they are seeking for remote control wanna see something quick and it just push the button and it really
+
+because the younger people are more able to adapt to new technology in their form
+no people younger people more looking for just a trendy look then more functions
+difficult is not a very common function and people who have to read up on their remote and
+now but a lot of people like to have such cat and i date things to them should
+
+we should the put some functions for other maybe for other quick madonna but just
+madonna but just the basic functions maybe like rewind and wonder what the what do you guys
+and we can deliver that it would be the record should functions because
+
+and we gonna discuss and What features we find important
+you can make some discussion the distinctions in what cut and no that just in functions you have I
+So maybe it is that's when when we decide and this type of functions know basic functions it's very important to find something like that so it's not
+
+There were hundreds or one hundred people are How do you say watched using remote controls and usability lab
+usability lab and they also fill out a questionnaire with a few questions i
+Three out of four people claim and to find remote controls ugly so
+at our company already cells remote control to older people but we also want a new customer group that's the one we haven't
+
+and don't make a lot of special put a lot of special features on it to make it transparent or
+it's a very rare a special function
+
+control about setting be handy for and and like that I i
+other functions like audio settings video settings sound settings are not set to be very important and a very much used for them or
+All the settings about how do you settings video settings and channel settings which are not very often used We could group them one button And and make them accessible in one menu button or whatever because there are
+Some of the new requirements make some of your findings quite set irrelevant
+that you can make very you can put very detailed functions regarding the tv set on your remote controller with two audio settings and a screen settings we don't want that
+in a lot of tvd players have some tricky settings with
+
+for them or fifty percent says they only use ten percent of the buttons on the remote control that doesn't
+that doesn't say we got we can leave ninety percent off but It says we should make it to complicated Fifty
+Fifty percent also claims to have lost the remote control very often in the room and
+in the room as i as i said do my presentation fifty percent
+but at s i found here fifty percent was it fifteen
+percent was it fifteen fifty percent
+Fifty percent off and loses remote control
+
+Welcome at the functional design meeting again presented by martin
+
+and it's just when you jump on the couch you pick up the remote a simple one just to put on television nothing more
+
+but is it is a big that distinction between this time for most we should
+that the remote control should only be used for television otherwise the project becomes more complex which endangers time lot of time to market So
+maybe it's made it's something to them but most of the time these functions don't support a particular device as as their own remote control in a lot of tv
+out-dated we just want to see what programs are all on and what time it is probably i
+it has to so people wanna buy it they have to think about is more or less for a long time will really gonna use or not some
+
+That it's very much depending on the user requirements
+we can put functions shane it's one when we get a user requirements and we can updated
+Alright i've done some research for a functional requirements
+No the user requirements of the new pretty i was told is not too But maybe
+
+maybe you could when that's when it's too costly you could probably skip to recharge it with you what you do
+but then it's very easy to make it also are rechargeable that i don't think that's gonna much to make it also recharge function in it
+such thing in the first thing we most like a whole thing to tune to skip is the pear we did recharge function if that's too expensive
+
+euros was looking at the trendy the trends in the markets and i
+so if you make a trendy design and we have seventy five percent of the market which we can reach
+and a trendy look all the all seven percent of the market is consists of elderly people at who don't really care for trendy look so whatever i it can do no harm to make a trendy for the other thirty percent
+
+opening we've got three presentations and i'm gonna show you some
+the plus an a minus button should be quite present
+
+our current customers are within the age group of forty plus new product
+plus new product should reach a new market with customers that are younger than forty so you
+it's a very small market which we will project and if we want to reach customers younger than forty it's
+to be honest if our la group is till forty not a lot of forty maybe that's not very no we don't really need to have a simple remote control i
+
+most not of volume and the mute function and an extra previous channel there's
+also numbers to to go to the specific channels
+i if we have to stiff specifically name all the functions mean we want
+Some of the extra functions over your number
+
+volume should we do we make them very big the said button that is
+a big buttons flashy design And maybe some cages thing
+
+it's an electrical circuit Which compose messages in the form of infrared signals to control the television
+because after all the televisions there are a few maybe a couple of televisions with a new functions but
+No is it just signals And the television the there's the rest
+I the can opener it is a brilliant idea actually because television and there is not the right combination
+Most televisions breakdown before the battery pack the seventies Yes
+
+or one and also it's what's must be clear what the red button like that
+channel selection volume and buttons for text And
+in there are a lot of options there so we can really make an now do you say We can spare buttons over there And
+We have to zap buttons the volume should
+i the buttons should make it possible to zap through the channels a rabbit ever pays
+but what we were here when it gets lost how do you press the button to man
+
+or skip that part time
+time and they don't want to have ever have those problems in you want have if you have to rechargeable you don't have to
+in when one time goes by and i never put them in a recharger of thing last one often that put it on site they can use it now and when it again
+
+And if you want to implement vcr and dvd options group them in the button not to
+So maybe we should leave all dvd a vcr or latest features of completely
+
+I don't like this big black board are one of the side
+energy it activated chip in the remote it's an electrical circuit
+no technology can make the cost very low
+it's a common technology like the circuit board
+the circuit board it's the most important Part of the remote control we can use
+
+but they're not relevant because we're are aiming at a young or
+other because they want a simple design and no other functions and just if you but taste do aim at the younger format
+so we have to choose for the simple design i
+
+the most important customers which is over seventy percent of our market is in the age range of thirty six to sixty five years old and
+it's only like thirty percent of the total market made
+
+and i'm gonna show you some of the new project requirements that were sent to me I'm gonna make a decision
+Or is it you dump the file in the initiate the project documents folder if all rather than that
+then we i'm gonna show you some of the new project requirements and we gonna
+presentations we know about the new project requirements
+was thinking about putting in the in mind concerning the project requirements would use is we should focus on the tc then
+
+we're going to talk about the working design
+Can you might as fast as printing paper it's
+Because in this is as good that's a good two additional requirements for work
+be just the design of the shape or some gauge it's future work who was something about
+So easy function as we'll all work that out stepping
+It's lunch break and then we have thirty minutes of individual work
+the first one and when you go write a second it it is it's not working we try the right second paper anyway
+
+one so maybe we can Make a remote control that's primarily interesting for the younger group but isn't that for more person you our corporate
+our corporate image should stay recognisable in our product for product corporate
+product corporate colour and slogan must be implemented in use at something
+but then you don't have but that's not something it's in the production someone so one time supposed to single cost them
+
+We have different equipment in your room like a ticket tv or the dvd player you can
+the dvd player you can knowing that you can make
+some fun i know that the younger people most likely have a dvd player they want to
+but we have to think wood with think dvd i've i ellen but they
+ellen but they from my experience is kind a lot of dvd players like for reading goes different be you could
+maybe if we just leave the dvd function alima
+
+may we should start with that technical functions
+and you to some technical problems i have and digitise the last meeting minutes make
+what i was climbing in the previous meeting
+make an A part of folder for the minutes maybe that not everything
+
+that's more for a fun age range of ten to twelve or whatever
+it's gonna cost twenty five euros
+If you do that but i if that's possible within the production cost of twelve and a half euros i have a in
+It should only cost twelve and a half euros
+but the twelve and a half euros
+
+if you want try you which markets if you want to reach you use markets like elderly people mu have to choose form of issues butts i don't
+One than the marketing expert can do something about the current market
+I don't really agree action to be honest it's a very small market
+but is it is a this is the fact that bigger market you're talking about we already covered at our company
+
+they said that it teletext becomes outdated since the popularity of the internet
+that maybe so but we can't just leave the teletext button off it's impossible
+so the compromise we could make is just to make one teletext browsing like on and off and don't make
+it's just you want to be able to make use of teletext button that's to play with it that much shall we have to think of
+
+said buttons are used four hundred and sixty eight times per hour that's quite
+Relevance options are power buttons although only used once per hour channel selection
+be you could to speed or a speaker sixty speed is sometimes
+
+But you can put a play and stop and then all rewind
+remote control for television you don't need to be able to program the vcr to start recording at three pm or whatever just play stop
+just play stop rewind and fast forward
+
+in the world and the components are very very cheap
+or maybe do should have a big a light that can flash for something on it or
+they can make or probably some cheap for light thing around it or that did it that it lights up it's also
+Yes less lights it's the sites and site like that
+Maybe lights also around the volume and the plus minus program buttons
+but i also meant to the blinking light we know the ones that also blink when it tries to a locator remote
+
+it diodes about batteries and that a led lights are needed and they're as they're available against
+Or maybe you the batteries maybe we use large battery source for one rose
+lc don't even need batteries because you can make it a try should hold
+day i've never seen that before you make it and they use you'd with the mother the mouses nowadays
+at let's read you can recharge its own never have the battery that's one fattening and then
+What what a remote controls nowadays can last two years three years with two batteries
+an else you would need a battery in the base unit as as makes it kind
+in wood people just think about a never have to buy new row batteries again for it because it's very annoying when you batteries and tno in when you
+no in when you have the batteries round and probably for two we should be with and spare that
+
+your something is on maybe with balancing pets which you can just throw it on the for something that has to be something
+I it has to be room has to have a round forms
+And and then spend base unit underneath it is also round
+Maybe wrap round brown's
+our next next individual round was half an hour
+
+Nothing restrict that's for a user interface
+And three out of for users it saps all rsi court of hear from the results I said buttons
+User interface cc
+it also for you maybe we should it's very when you can be and try to include trendy in a row as a friend user-friendly as a big
+
+useful if you have a page which consists of more pages and you are not a very quick read or
+Then it's very irritating it in the next page shows up but
+you look for some bow a couple weeks ago i looked at for the slides and there are a lot of slides in one page so if it is
+On this on the zap buttons you can put it to eight to x is all the same page is if you have
+
+because i have about less used of more often and even small pencil holders for something are more expensive
+Yes for you want program should be there i because your hand so you are ends will be in the small a part
+
+and they're we have to focus on the one hand the experts if you all or none of issues
+one though we should not compromise but we choose for expert few or no first
+
+lots of newer televisions can store pages and you can just get menu it through them using i
+
+once i've received from the account manager
+that's why lot of do you do requirements the account manager send me there are contradicting each other because they want
+
+we can use for that fibreglass with copper wires is
+
+swap a ball front
+swap a ball front or whatever
+

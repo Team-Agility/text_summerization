@@ -1,0 +1,314 @@
+so i decided not to have a look to one of the people of designed and try and take some
+But although i we will want to be taking I like this for the people wanna make that our design stands out and
+and maybe are designed to appeal to our people
+
+bulky so but i didn't know if you want to look at something else so it could shrink down so i was Of the control
+a if you look at if you look at most remote controls are quite a quite chunky and that's because
+just a general use of the remote control you
+of the remote control you can see we have a hundred subjects there
+Eighty percent would spend more money when a remote control would look fancy were quite surprised
+stick them in a program have to deal with this remote control
+We do you have a wrap projects the mutation the week and controller cells so
+maybe for usn are you gonna have a slightly bigger remote control and
+so the remote control functions
+know so many remote controls look identical these long brother and
+
+i only general tv controls do you do video as
+think it's a general knowledge the people to find programming the videos the ninth so i
+
+you have a small movements of the remote control can be taken a shoulder or elbow problems
+small hands so they can guarantee controller which is
+control and maybe in japan and then you need to have a small
+
+Findings most people prefer use the user friendly rather than complex remote controls because there are times
+so it's know of no use a punching into trying to put in those things in on the top of the remote control and try to confuse the user As you saw we have to
+of them here overall thing which was i've got at the top then it i like the users dislike the look and feel of current remote controls that's all based design
+we found that seventy five percent of users find most remote controls ugly
+but that's quite a high proportion of our international target group are prepared to spend more money for something that's bit nicer looking current remote
+current remote controls do not match the operating behaviour of the user overall for
+
+point it came up in our market research findings to use refer to that there is like two percent
+marketing that out and every product is marketable soap operas
+I'm going to look at the functional requirements and the marketing point of view and all
+and all these are starting point is marketing is always market research
+Anything about that on the market research like regarding that people want a combine something like that
+what you're talking about with the marketing people paying more for it to look good
+fred the market research will be needed to focus on what that is gonna be different
+Yes that would appeal to sections of the market
+We could focus on the biggest market
+to you but when it does get to the broad scale marketing state you want to waste my people forget and
+to be coming to market research at some point to see what people that
+which is specifically like marketing to look before the next meeting or shall
+
+we discussed difficult design
+this is the working design presents
+design presents bombing the industrial designer extraordinaire
+on but i do unless that my stick to be interface designer
+are gonna pick design issues there
+So are we talking go for single model or maybe five six designs
+The internal engineering design it's got tremendous i that's it
+i'm not if we needed designing decision that or But we should
+What i was thinking of other design which no cure a came up with almost six assuming is that
+get it we're using plastic you can still we think of the designed you can get plastic could do a
+
+people they say as weird like the mice audience that should be fine and then now is
+But we have to make it unique so that people wanna buy we went
+control is because people in japan wouldn't buy it because
+And when you've been storing up our ideas were automatically talking about business people young people trendy people
+it they have a great corporation tennessee and people but i don't think we're focusing
+on that we are focusing on a mid-range This this class type people
+people of reading them so just do the obvious
+could have like psychedelic ones for younger people and sleek ones and
+being lost it's not like a joke liberals then just gonna go down the sense that people might want to put it
+people might want to put it on the mantel piece or whatever it's if it looks attractive enough of a one and it or not gonna use
+
+a device which just sends the signal to the tv changes say whether that
+and what i found out the mice that controls you use some form of infrared send signals to the tv presumably
+Which would when you press anything a wood to the chip which converts it into use some form of a update which could be dictated by the tv receiver which
+which means that we're gonna have to conform to What i have a why the form of communication the tvs are already using and
+to be for tv it's not going to be are combined control Which
+you can also you get can you get combined tv and the key is to you
+but on that just so you can get these key chains down you whistle and then it all l file out noise that like where it is so that
+it if you look in the newspaper tv guide or any tv guide they said five six digit number afterwards and that's not be pretend
+The functionality of the in the sense that it's you're sitting there you're pressing this button in your tv s not doing it Taking your tv and you control is saying like this is what i'm doing it's not working what should i do a
+
+because there are times like people have used a remote control for say a year and they're not used maybe thirty to forty percent of the buttons so it's know of no use
+you can see below that seventy five percent of users zap a lot so you've got your presence
+there fifty percent of users only use ten percent of the buttons are gonna pick
+and that ties in with the the previous finding of people only using ten percent of the buttons you just can't be bothered
+but remember we found that finding that most people only use about it at ten percent of the buttons
+and it's recorded that it's going to be on tuesdays at ten o'clock on the seventeenth things like
+
+complex wouldn't because you can have an engineering do and maybe having hundred buttons and maybe having
+and it's maybe we should look so like the buttons but whether they liked soft a little hard because
+a little hard because there are times the buttons tend to be a bit hard of the continues you use a general so what
+v so you can see the remote you gotta press a button on top the tv and it beeps and i it's over
+the controls are coming i have big rubber buttons not
+buttons not tiny little a big rubber buttons but what
+so you it's like a little panel that you touch for as then a button which shouldn't
+and you when you are need a whole list of extra buttons for that you just need one
+so that if all the users were deterred combining this thing that we can just pop into whatever highest gi that's in a room which buttons are pressed for this three aspect or a service that i don't make it more attractive to them
+these long brother and things with the same colour buttons all crammed in on this service we definitely
+That's kinda takes the place of having a button to press for the case and having the button to press for the channels things like that
+
+something we didn't put a number which i'm thinking off now is even if perhaps the lost control can keep of a bleep every now and tell you find or flashing lights possibly
+Like the chair you could have a number of different designs inside
+but if you do you want to take something in two days time we are not if you're going to you put the number in and it's just a number
+That was and cutting down the number that was separates cutting down the number of functions making it simpler it's instead of having lots of things you put in for kate
+
+so what though concept is to have a flipped a part of the main functions
+of the main functions such as which are like often used maybe on the top And the complex functions
+and possibly can also cut back on cost if we don't have so many functions actually on the remote control
+buttons you just can't be bothered to learn about the other functions
+we have seen it still got play and stop functions are programming
+would you prefer an lcd screen that's multi function of i would i
+that function that sounds wonderful
+Not for such simple functions because we're focusing
+
+which is so suitable for anyone who is watching the tv and less than this animal
+because that's what all tv season and And then finally
+soap operas as anyone reason i would put it to simplify the interaction with tv to make
+with tv to make it as simple as possible and to summarise i
+if and if you've got a skyline box of a car class boxes know you can record straight off the tv anyway onto of like the tv hard drive
+maybe up on the tv you could do it like a pack on the tv so you can
+is gonna be different for fifteen year old to some tvs sixty and also
+any more rubber up so it definitely gonna be for tv and video
+only for tv and by implication video
+
+three presentations our corporate here's the room
+the third thing was that we have to make it the corporate image is very much incorporated into the handset
+Something along those lines to be able to incorporate it quite into the design while also
+corporate image should be incorporated in a remote control
+
+public male and female all age groups
+female all age groups and fifty a points and
+so you can see how they be yes no it's a very is across the age group a substantial number
+substantial number of don't have any order age group that's channel
+age group that's channel feared new technology
+so you're dividing designs this and not a segment age groups your
+segment age groups your design are dividing it according to the country's also the market maybe for us
+Do we have to initially You're looking at the findings here focus on I younger age group initially and then broken out the market leader do we really have to
+which is discussing the different age groups and targeting a different age groups a customer way to produce or a mobile phones that's what latest want to comparing tv remote controls with a design features
+
+say whether that be the power all the channel of the volume everything is just some signal to change the state of the tv all other appliances sending a signal to a
+and maybe having all remote control which have the main features Like volume control a challenge changing the channel or whatever
+so you've got your presence up back in this over channel hoping so
+that because without doing something where you have to move your arm around to change the channel and
+It was something as simple as you can change the channel but for
+
+percent or a particular frustrated by not thirty
+thirty four percent of people take that they take too much time to learn to use and that
+that try and resources and the older age groups to thirty five so i'm
+to thirty five so i'm just like those two features that evens out thirty five to forty five and older
+and older h could be resources are not supported with
+It's a people between the age of twenty to thirty five the biggest market
+
+the vast majority of the thirty five it on the age group would like liquid crystal display and speech recognition again
+again that was to it in one is lost the actual remote control some speech recognition something we didn't put
+To and this is right there on the speech recognition think the perot probably be quite expensive to recover and it speech recognition thing and
+of i would you pay more for speech recognition in a remote control so you can see
+contracts say they the company's do i'll pay you deal with i have that she doesn't have to go on obligation to help and
+I'm we've talked right to be an alarm of be paying for being lost
+
+and to summarise i would say it's it should be user-friendly by being easy to use Rather than having a lot of complex wouldn't because you
+so what a simple no User friendly design
+but we should focus on making the manual is user-friendly as possible because a lot of
+
+so this is if you ask me personally i would make though The top of the trendy design and it's maybe
+what is attractive to a trendy new york are and what is attractive to a retired says africa and i you get the
+chip i'm thinking young off with people trendy
+but the shape it gots trendy i
+
+no there is I can't remember what it's called a little code at the end of program details it's
+record anyway so if you there's a program on you want to record on that's fine but if you do you want to
+just click you can just press a button on the program once a network called program when it's on and you press on that
+and you press on that one so called a whole series
+Right so when you press the programming it comes up on the lcd a reminder about using the coupons that they will
+
+The biggest frustrations that people find a second to personal preferences were something that you mentioned earlier a remote controls are often lost in the room is
+lost in the room is slipping down the back of the sofa type of thing fifty percent or a
+we talking about it's To type computer we're working for as that
+
+which aspect set the ants
+ants so if anyone wants to write something down they want to know the end
+and also across the world is raining international market what
+idea it's gonna very around the world at the end
+world at the end is that they did the engineering design is one thing is the user
+thing is the user interface design that many and that fashionable aspect of it we might have to change the different markets around the world
+
+and then you need something to carry to be information the you all pressing and from the controller and
+It seems some of my points my do whatever but williams just mention but
+but my method was like to about brainstorming we did in the last meeting just a couple like the points and start and everything and that and
+but we any problem is that with them eyeball fine you sign for contracts say they
+if you had to if you had one other is that just kind that you're the point about pressing the pound sign of the bleep are in the room they could there
+
+use initial play that she's a small of a cat Our surrounding it
+and which leads of onto the next point about them being small and easy to carry around
+about because the small they're also easy to lose say if we could look in some way have to handy going down the side of a Maybe you could have that
+you you could have bigger buttons some countries and small ones for others
+and Rsi tends to be close by repetitive small movements
+
+Our findings lots of linking to summarise some
+things if you'd have a saying the x box they have to make two different size control is because
+wouldn't buy it because control that was physically too big because
+not get bored and lots of different possibilities
+because a lot of them are just tiny little right and lots of pages it that's you just
+i don't want a big box with lots of things you don't wanna
+be whole flat one it looks like a box like a chocolate that's
+they're everyone's got like a big pile of them but
+a big pile of them but now and maybe you system
+
+So are we talking a book on top of for rechargeable something on the remote
+Rechargeable with the docking station
+
+it's as important or flat the company's image in our product we put fashion in electronics that thing
+it should be different enough from the alternative products to get good you base we're talking about
+we have to you design one product and then the company
+and then the company can take it wherever they want to eat in the sense that
+Chain companies like a form we are as you can pop in a timer the phone that you bought for them if you've got any problems with a nail fixable for the company
+fixable for the company you can use their telephones Is it
+things that are so see if the company it in view too you can incorporate that into the design of the Product
+
+and actually handle for the features that programming things like that
+and we can punch in new for the features such as i did features that you shop of more t and maybe
+with that we'll be able to achieve economics of scale so
+of scale so you can giving adding more features and make it less costly
+in the sense that we can make it smaller but you can make it bigger or they can change feature slightly
+it could be a an ad for it but Just meant feature that and design feature draw attention
+
+mice them up at by is some form battery now all
+issue because my out by triple a batteries do this can be quite
+to have to be this and size to fit those batteries and the
+No the main components i came up with the power source the batteries otherwise
+all batteries that's what i was thinking that will buy a phone batteries
+will buy a phone batteries were kinda battery is that
+
+the first thing question are stews we tried design
+ask a question is that appropriate use initial play that she's
+How marvellous table some things show you but i'll just keep
+But called up that table there we are supposed to question
+we are supposed to question the table relates
+the table relates to pose questions we didn't differentiate would you prefer
+do with that and that's still a question mark it see how we deal with that and
+
+Is it worth while with our retail outlets having a similar service so that if all the
+it's instruction bucks have a look reckon
+but there it does customer service they will be a customer
+but for a remote he will just refer to the manual and all that
+And also takes but service in the instruction manual
+
+And the complex functions which so you can say like the young generation not trendy generation one or c programme your favourite channels what can we put in the middle part of the flip top so
+we did our usual selection methods to get a cross section of the general public male and
+and we observed them in the lap just a general use
+that goes to tend to be the basic channel hoping things so on and off the video fast forwarding so on it's a general
+and you wouldn't automatically assume associate that with the older generations know it with
+know it with the baby boomers the old generation searching larger it they have
+
+bright our agenda for today to ask
+We decided upon a ride universal control one hand set for all tv it here Occur that
+try not to reflect our project that we might Have a bit of you can see dissonance between it more approach it was hands what we want it to look like
+because That cut just generally that japanese people have small hands so they
+get my head trend is on this may have to be postponed to future thing that's
+it's kinda moulded to your hand anyway
+The way you hold of it's semi circle in the bottom something like that
+to hold in the palm of the hand and just because you're having
+
+that it was important that the project was accessible to wide range of consumers white age range not limiting anyone it's as important
+tv presumably because of the cost issue of something like same thing we can she's wallace and you don't need
+now all one on the show or whether we want to look at the slides issue because
+And then finally we want the it to be available to a wider audience lower costs
+lower costs i will the components thought of that for tall it lowering costs so that
+so it's like it could be x is by you wider range of four audience and we can punch in new
+
+slightly more than a quarter of people said it was bad for r repetitive strain injury you have a small
+but what about it got to make it a regional What about with a touch screen computers
+maybe two as it was integrated a risk o four repeated we use the injuries maybe you're touch screen could do a better option for that
+here is the rsi issue again repetitive strain injury i testing just a new thing going to the small screen is going to do with that and
+there because then you have got the repetitive strain injury no matter how many How much you try make it simple
+and just because you're having to actually inferior in between the two covers that's gonna take care of some of the budget strain injury trying to present a lot of other think
+plastic could do a conch shell or skull optional exterior
+
+they will be a customer service number Thing that you can phone up and speak to it and that way there's
+it made too much you can afford for opposing to follow phone
+opposing to follow phone maybe he might hold down the street but for a remote
+And the specially made for that the fold the mobile phones that they come
+with the charger you could bundle the charger that
+you use this thing that you get with house phones use it in its charger when you're not using it or at night that does
+Or you could do you different like you get was mobile phones different fascias you could have
+
+the yuk you can get these all circular round ones i'm just
+round ones i'm just wondering about power consumption and how
+i've just got the power going to the infra-red bulb the chip and the your line interface
+power and consumers consider i take it with the internet
+be taken a person's most likely to be taken up first of all with the main purchasing power is coming from for a product like this
+
+and everything and that and they might be some missing yeltsin this thing which really i would take a feedback from the marketing because
+logo could become miss you could put the logo
+miss you could put the logo in the colour for the model rather
+Can quickly and go over the new project requirements that i missed anything there's
+
+but it quite easily labelled so that anyone can tie that's a pretty is what that's for and
+a real obvious thing a very simple thing is to get away from these brian rectangles we get one that
+manual it's very simple so are pretty
+are pretty at any words should be helpful
+
+it simple to see any more information email you extra details is that
+and focus on with the idea will be taken a person's
+that way there's no call a charge the snow extra
+the snow extra at the person
+at the person have to walk to sharpen the highest rate
+so it's like you can say a banana shape thing called a like a boat
+if it was c like that you could have a innovative c shape so it opens up like a shell
+
+so we can maybe go for any commas all of a higher production and make fifty
+chocolate that's a string is because it commas
+a string is because it commas slightly up so
+
+area because dealing with the inside really fair
+fair amount i ran out of time so do this one is one of us have
+to help and also it's fair enough that have some sorta helps this but i
+they lacked eighteen last quite a long time and
+runs that it last a long time want is charged
+
+where we started we used or usability lab the company's usability lab we did our usual selection
+

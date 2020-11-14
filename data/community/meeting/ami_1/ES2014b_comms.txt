@@ -1,0 +1,225 @@
+not so see there's lots of different buttons this is the basic
+so that it's got big buttons it's got a very limited
+it's got a very limited number of buttons
+number of buttons user friendly
+And that to all buttons on the remote control set of setting buttons for the picture and brightness and the audio settings they weren't used very often people
+people concentrate on the channel buttons and the volume buttons and the power buttons we also
+We already decided that we don't need a teletext button have a while
+way but you maybe have like one menu bus then you'd use the other buttons in the number buttons to actually do this type of functions
+get any be quite hard just for people to grasp justify the menu with the un use different buttons are be have to apply
+So maybe next to each of the buttons they teach them could have a number and then also a function right next to it so you
+that we can have a channel up and down as as a number buttons
+Volume button how many volumes
+no and like this individual buttons for them like on the tv remote but during
+
+remote control and discuss three sections faced
+three sections faced is the research i made on on the remote control itself and i'm
+there's also a chip inside the remote which does all the computer type things and
+the size you wanna take a poll the touch the remote it's not a really remote
+a know still a vd or remote possibility of as
+I've written some research into the functional requirements of people want to have a remote control and
+and the we should stay that the remote controls for controlling the tv
+how to how does the remote control look-and-feel for them and
+for them and what improvements put would be like remote control how we did
+And three quarters of them found their remote controls locally and that
+and that even high proportion would spend more for so that a fancy remote control
+we also asked what frustrated people about remote controls and
+and the second biggest frustration was the effect on your remote control it was difficult to learn all buttons are all the functions and to find a way around it to
+least they said that they be interested a remote control which offer that possibility and as you go
+and as you go to the age groups people were less and less interested in remote control you can talk to use a
+But we have to make the decisions and The remote control functions
+if we try to keep it slick sleek and sexy as we seen those remotes we're them on the slides down so that's and everything else revealed so you don't use that
+got all controls in this like hidden panel
+
+the best function to school with changing channel channel up and down volume things like that
+to change the channel either by pressing the number that you want or by channel up or down to to switch
+and we'd have to have some room for A feature such channels but
+possibly but do the other thing is that with the current expansion of the channels in the process of taking place Seven button up and down but i
+but how many channels do we have to actual television channels do we have to prepare for i would've
+and others i exactly how many channels that are all and when you take into account to sky and do some or maybe sellers so i would've
+maybe you could have a fast forward on the channels up and then you could
+way if you always pick from channel one to channel six if that's a fever you just like bypassed to five
+and in have a second button to get you to the actual channel you want and
+channel you want and that would cut down your time Anyway
+but a lot of like keyboard and out be cheaper one channel and then
+cheaper one channel and then you have another remote for all of those channels like
+which is to concentrate on the channels and the power and also volume and also think as a series that
+Close all comes with the tv can speak consumer and it changes in channels
+Problems done by channel on the sewers at
+
+Or piece on gonna talk a bit about the technical functions design louise
+an example of a function could be to change the volume up or down so
+by the look of at the polls have play and fast forward rewind functions so
+i like the use of the them symbols like the triangles in the squares and arrows as as the words on them terribly functions will have to
+we could maybe come up with the menu instead of an lcd menu for all the functions on the remote control that's worth
+So You have to come up with a complete a decision on the remote functions so that you can decide what you're gonna be doing
+So you're gonna have the individual numbers and then the menu function
+and then the menu function in may be sold
+there's too many was the one the last one side which are like double functions and which can
+
+we also asked them about speech recognition for remote control and young
+And we can maybe think about using speech recognition as a way to find the remote control is lost in a room roll sensitive having it to the speech recognition change the channel as a problem
+if you trying to avoid having a second product goes overseas to do the same for the tv like i should we try to set the remote off to see if you'd so i know but i said recognition but
+but you think the point if you're not going with the voice recognition then
+would it take quite a while to solidify what the speech recognition software in the remote control considering
+to be my speech effect on the wanna change
+
+we've got to this remote for tv only otherwise project Would become too complex with which would endanger the time to market was one of the considerations and
+the considerations and i did you have that information gonna marketing i was
+so time to market seems to be important for
+and we should go with few buttons than most the controls on the market which
+complex enough to get a market quickly and the
+because time to market is critical It's
+would be but the primary considerations to get the project finished within has short time one of which fact
+there for primary consideration is to get it there are in time to insure you want something
+But the but that's relying on the television market changing to an automatic and if
+the market we say is that there is quite a lot people to just sat around and flicks
+
+We don't have the user interface way she is the play the person's on the actual remote
+louise that the user interface design as And so
+so my personal preference would be the right remote so that
+and young people quite receptive to this person is legal
+person is legal over about it into a thirty five to forty age forty five age group and older People people were quite so keen on speech recognition there's
+My personal preferences from the marketing is every school with some sleek it's a good-looking high-tech a design which looks
+because so young people That was the ones that are gonna buy a new product if we aim at sort of high-tech design
+but that was only for young people prefer to older people didn't
+Or by we had to design logo was one which you've already mentioned we've got to
+if you think the more people can put some cabinets finding go for that option but if i would've
+it did it because people in our lcd menu and but that
+If people are buying remotes then the trip buying it replace another remote
+
+tv we discussed that last time and an actual find
+and an actual find out which pretty what we came up with anyway so
+up with anyway so the actual if we might be forestalled i aims and
+and i'm balls the components require the and the systems a sign of the actual functional
+And so having this is the models within the market a summarisation of the internet now to start is for the components required for the remote control the function as the r and also the masses
+and also the masses to which these components in try together for the remote i see it do what you want to do and
+the basic components and energy source which i
+the system that's tea pots the remote itself is that some second
+this is the basic system works and sends
+so the basic method is this is to send a signal from the remote to the television set so that the desired function is performed
+
+a number and then the whistle back or
+it'd be really seen it'd be a big advantage if we did have some them whistle pass function
+But we should consider just and whistle by functions the moment gonna something comes back
+automatic and if it is at the moment that's fine but the moment
+so keep it Keep detailed Functions hidden at the back
+You do to functions hidden it back can bring it
+sixteen button direction and then at the back
+so on the back no brightness contrast animals
+
+will only call that number four hours like it
+and the number one for stray she was the remote was lost somewhere else in the room And we couldn't find it and the second
+The scaling the sam that you whistle a clap after a number
+that was the number one so the frustration people said so
+and numbers and then the little church an extra which their participants can
+ten numbers and then some device
+otherwise you can make it a your device will become inoperable or only a probable in certain circumstances and
+so i'll fly with the device a emission vehicles number
+
+and then this and the way it's Is usually have found an infrared device which sends a signal to the actual television and
+to for a way to have to be point directly a television itself
+for a general television purposes of a say you have channels one two five this point in time and we'd have to have
+So we're being focused effectively Directly at a television and it seems to me
+we were maybe talking about replacing remotes are slightly older televisions so
+And a topic that for the older generation as as
+
+to switch the television on off maybe stand-by button
+But we like damn Nonissue juries but and whole thing about not using a stand-by because of the nyquist like just another meeting that
+and we should maybe try to discourage people from stand-by
+So so we have in the stand-by on the front man
+
+and then the last part is receiver which simple in the system that's
+and then the whistle back like that part be really simple
+that part be really simple they're cheap
+simple because we've got to three primary requisite it's from From an email that was sent to me Or
+or anything that they're used to be added such as voice recognition except rap has to be very simple and has to be very quick because time
+Passes if we could get something which was quite quick and simple i would give us the parts but other remotes
+But probably quick and simple is primary rather than I did extras and as extras
+as is related to go the road control so we can avoid or for us to keep it simple
+
+and sends their ass you press
+their ass you press sends message to The chip which
+It's all been to switch button you pressed and then sends the
+pressed and then sends the power p message to This and
+And this and the sends a message to the receiver
+nowadays you can just get ones where it gives you a a second or to press another number saying press
+
+as a problem with that in that the television makes noise so it could end
+so it could end up talking to itself and changing the channel
+so these are the side of three extra parameters that have been put on this project So
+ink that first and foremost what you get the ending at
+what you get the ending at the end with at the extras as possible
+the put it we've got is something that's up to you i would set the lower end of this of the cost scale so we're
+
+things we've got forty minutes which to first meeting to read to discuss the various options and
+Scale and to suppress is as i said the patch it seems best option for the show mode just because of
+which is a reading may not be quite easy to make a user guys for fourteen bus remote
+as but that doesn't like any like what flip through menu where you can read
+where you can read it but if it's display property
+i a keeping system for the read any other what if
+i am forty minutes i believe is the time
+
+so they're incorporated kinda video function which we would have to worry about but as you can see
+and it a bit more we've got a leave out you got five standard you've got the bbc have come up with a five or six and others
+i was i suppose in a sense you could have done if you've got a hundred channels Then if you had an easy way of getting rather than go one two hundred you go one to ten kinda trendy and in
+As as a nine you've got the like the last one which makes the tandem easy it's like to see that and cats you make any number so with that was kinda
+so with that was kinda bypass any problems with
+and the wouldn't have to be kinda scared of this new technology
+so would be you On the basis that if we've got to go for teaching to the whole age range you want something that's easy to do now is something
+
+i've got to the keys are three things Relating to the mall being only for tv we discussed
+And how we were planning to proceed so that the next Each person that's got a task to do is clear from this meeting all that task is
+meeting is any So one know how long we've got a complete at times and then we can report
+and then we can report back to the next meeting it's a vital key
+meeting it's a vital key is with the chief this so we have achieved necessary for we've progressed as to
+And that if you do between the time was this meeting finishing and the next meeting starts think if you get any additional information that to wanna you have to that point i'm using would be relevant to other people in terms of their doesn't decision making process the way you should communicate that as quickly as possible and not until the next meeting Go via
+that we've got five minutes before we wind up this meeting so i've been told i
+Maybe they're gonna run out of time one of the scroll the list of these and and get back to the next meeting just at the start and say we're gonna be
+
+This into account working in mind
+because it was little tricky in powerpoint is working so
+No i'm everything This is technology requirements from the mind that
+in may be sold a slightly more advanced instruction booklet with the two guys did you
+buttons are be have to apply some better instructions about all of us to work
+So i am It's quite a lot of like dolby surround to do some violence of things
+
+And to have a cost of white just a little house
+buttons we do is cut ten eleven twelve thirteen or
+twelve thirteen or fourteen do we need i
+from the mind that costing more not twelve fifty budget for For speech recognition and
+To go out and is fourteen fifteen sixteen
+
+saying you have to build the stock but maybe you could have a fast
+how we did by giving them a questionnaire that we had to ask him to fill in the ounces
+and the third thing was that to teletext as far as the management is concerned and it's become outdated and you to the popularity of the internet So
+and it seems to me that the management or just wanting us to go down and now we have and not on the unix or anything that
+that'll solve frustration of losing it
+you want something to me to the major concerns of the consumer so that we can have it as a selling point for the product something that's
+what they're saying that to a fair people are now using the internet and you don't need teletext so
+
+which i the mouse is the malls will be a battery supply
+What about be so with two batteries for batteries and it may very We don't have the user
+supply we should with public it's pouring
+an infrared there's been use quite successfully is the batteries
+is the batteries sound reasonable power they all seem to for a way to have
+for speed of the battery will only call that
+vote so we if you carry on standby a power supply of us in the time and we should maybe
+
+So that the top is the power source yes
+But we have to do with the expense hear the source it could sections sec
+sections sec for a video as as we could
+
+Right and the corporate image was the year final thing so
+have to a very user friendly and colour special colour
+and colour special colour could
+they're we have to remember that we have our own logo and colour scheme so
+That say i got to i got an email and said to make that to whatever device we come up with at the end of the had to incorporate and the corporate colour and slogan so where
+ge that might be The corporate colour scheme although
+although we only colour in cn as the red
+
+but as you can see the left a rule is quite quite busy look and quite complicated
+things my dad's watch it from the other week and it's too
+week and it's too dark so hard to go
+dark so hard to go through it and then the brightness up
+

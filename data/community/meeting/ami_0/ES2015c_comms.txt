@@ -1,0 +1,241 @@
+the back so i had so many buttons on and the shape was so some that's that are be pressing like a volume but instead of that one button because
+but at the choice of buttons as we've developed some
+with our research team of phones and in new multiple all options scroll buttons that was
+they quite flexible design more than you don't have to use individual buttons you can just
+also got be integrated push button which is what we made for you it's very
+be come in like incorporate that with the scroll button as to the to
+for links into the different depends on what type of buttons we have an input
+simple would go with the push button
+right you could link with the scroll button and
+Do you think that we should keep All the buttons so one same colour just to keep it to the simplest o'clock
+we had decided that we would if you touch on the buttons that all line up and so if they were
+so that would have to be some parts maybe transparent around the buttons
+so you can change the buttons when you change in the face it's generated mean
+one colour it's face could have its own colour of button
+What's the raised up buttons So you can feel
+flat and you just have to pressed on these tiny little buttons but
+of it if it's just like constructed in the same way as but the front cover mobile phone you can you take off the hard cover and then there's the makes it the buttons and then you get the
+so it depends on what we wanted to scroll buttons or just the push buttons
+that's brightness colour tone all that
+as i'm has its own buttons are you don't necessarily need to have it on remote
+
+and do we have to make some key decisions on our remote control concept and how we're gonna make a what it really is and that thing the meeting
+been doing some research into the different components that we could use what's available to us to actually make the remote control test
+test will have to look at how the remote control is actually made and what
+slightly i know i've had a remote control before which you can tell which is the front and the back so i had
+against f lee back inside the guy that i
+Now it's just a ways back so samples that are on the that's on the buttons of the remote control and
+the remote control would be cheaper design that we have more money in the budget to be target the design area of the interface to make
+We we also have to keep in mind more design an hour more user friendly remote control that a lot of interfaces consist of a quarter of buttons that
+And the phone that i was thinking of as when you change the cover so but the lower buttons that actually that control controls that are behind the rubber so you
+so we can live up to our purpose of having a very fashionable remote control
+The second most important aspect is the remote should that the remote control should be technologically innovative so we do
+and the third most important aspect is that the remote control should be easy to use
+it is a good sales plan to say and the remote control them all these patterns this one
+we five real something that you granny would want a remote control
+
+titanium is not to be possible in know it just to be on top budget really that
+and everything is it might be more difficult if it's a rubber exterior we were talking about putting on interchangeable plates it's
+it i don't see how all of like a rubber plate going on top or would stay there you go sort
+there you go like a clip on plastic plate It
+Like plastic with rubber can get on top
+circuit i don't think it would matter the buttons would be through there The top casey i'm you could
+again we've already discussed that with rubber versus hard plastic buttons
+i plastic and put it in rubber or plastic
+
+is actually made and what happens inside the casing because wall you'll feel does
+rubber which might be mall ideal for the anti rsi e it's
+sie it's like at the same rubber that's used and stress balls and things that says rei not so stressful on how does that would
+i'm what i said with the rubber casing is that would be were rubber encapsulate in all of these Chips and diodes and delicate technology as
+that would it at that would be an end so more internal casing and the rubber would
+and the rubber would just be that what's in contact with the human eye
+Maybe be if to be if it was just remorse rubber coating which is on the case so
+there's there's certain phone that has like a rubber case in that like
+you can get outside casing far ipods and something that's just as protective as it's it stops it
+So the actual remote would be hard plastic and the casing is rubber and the
+is it possible to plug designs on to this type of rubber
+i will rubber is some more translucent product to use so
+ask the case which we pulled aside and rubber
+
+there are lots of different possibilities for the energy source we could use
+the ousted a kinetic energy
+i don't think you would really be with cutting edge technology wise kinetic
+wise kinetic energy is a new idea that's been used by some watches and that devices where you just shake in the device and it gives it to power the
+the kinetic energy is transformed into a power to make a circuit what
+we could go for the kinetic energy source that are
+as and Also energy saving see all producing the energy you don't need an x then also the battery supply all solar panels you just
+I i like the kinetic energy source idea
+you can have the solar energy then you can store the energy in you say it just needs to
+this was it would be really annoying if you get do you think no i've got to charge for a remote today but it is the kinetic
+but it is the kinetic thing was stressed about lies it's instant energy don't have to
+i'm the kinetic energy would probably deep into the budget
+that as the energy we've decided on and kinetic right so
+that fully kinetic energy
+
+i'm just gonna receive it interface concept with his A
+A first of all explain what the user interface us
+us It's aspects of the computer system which can be seen or otherwise stage hey rick or Shall we are they are By the human user
+And it's also the commands that the user uses to control its operation and input data
+there are two types of user interfaces to stick graphical
+because command interface requires you to type text role commands and input at the keyboard so the numbers
+the keyboard so the numbers are like a keyboard you pressing
+a keyboard you pressing the numbers for for you want
+So you must for the graphical user you must need some presentation for the graphics like an lcd
+we've decided that the command interface would be the most useful for remote control as it would be
+as it would be less complicated and the controls would be more user friendly
+interface to make it more trendy and we still have the money
+And maybe learn from mistakes of all are interface that can be too complicated for people to use
+and then tying in a trendy look with user-friendliness
+User interface concept
+That was called command interface
+Command line interface
+and the user interface design so those are the trendy comes in and you'll
+
+welcome to the third meeting conceptual design that's a
+on the agenda for this so this particular meeting will have your three presentations on what you've done since our last meeting after we can up with some general ideas of our design and
+of thing the meeting will be forty minutes one and
+this them in we make depending on what kinds of the design minutes to just black buttons
+one of your rubber from our kick-off meeting we talked about our favourite animals so maybe
+we have five minutes to finish our meeting
+and in closing so we have five minutes will be meeting
+will be meeting again in thirty minutes
+and will reconvene in thirty minutes it back
+
+does main internal feature it is a circuit board which contains all the that at it on x and also the contacts with that power source is not
+What is the hand power dynamo
+where you manually charge it up the power like you
+power which we've been sitting inside a building which is where it's gonna be used might not be quite so useful That
+I was i suppose a on and on some buttons you would have the power would be some symbol and if you wanted
+Like we'll have the numbers of the channels and we'll have a channel changer and volume and power
+so we just going for a power channels volume
+them all these patterns this one is channel volume and you cannot any power
+
+to stick graphical user interface which emphasises the use of pictures for like that and a point device
+and a point device a mice for for a control that
+thing you can have it as a little picture we have a screen is lines across it which is was
+So that's just off the graphical for the pointing aspect
+so this is pointing device that doesn't include
+but that we could incorporate some of the graphical user points as
+Screen settings was use zero point five times an hour place
+and as concert a one point five elements on a scale of ten that's brightness
+and that they said that's easier point eight times an hour which is actually
+but it would seem silly if we do point to have anything else just have to not important though
+that's we can just go for it make it a selling point that is just the basic i
+
+they'll include good like ten to earlier there are these different options
+i when people will be movie remote around a lot but
+do it all remotes it could be one the options maybe for the television
+maybe for the television that people have in the kitchen
+Right a remote for more simplistic style right
+i surely that would be like quite specific to the individual television so
+my so that comes like on the other individual television set itself as i'm has
+televisions agree i if we can make a remote that will be universal all the different kinds of
+some tvs will have the option of like living room style movie style and that they said
+
+slide f and so we're all quite familiar with that is on the while so computer up pop up
+you were saying about solar power not maybe not working and doors but a lot of calculators
+i'm you could work out fits in the casing about causing too much difficulty job be fine
+and just so can we can work off of them see how fashion to change
+all something to happen in contrast to last in the feel the material is expected to be spongy again we've already
+is we've worked hard for the personal face plates in this meeting and
+do you work with rubber has already given the market but
+But they still need to fit in to people's the core though
+So if it's not working this have to shake it a bit and revitalise is it
+audio because we how other televisions work but we know everyone
+You'll be working how we will be working on the look and feel design
+Pop in tarot will have to work together using modelling clay
+
+made of including the integrated circuit which is also known as the chip which is where
+are all separate apart from the chip which will probably decide whether we buy a simple regular advanced we can do is that later
+but they on thought it was that aren't with the lcd that means we need really advanced chip and
+i'm probably there is regular chip was supposed to simple we could possibly
+the next decision is chip on print i don't exactly that
+it is whether we weapon for the simple the weight that was the advanced chip in
+the advanced chip in arlington with what buttons we would can house so
+so it's probably gonna be the regular chip that we going to meet so it's a medium
+That's called medium or regular
+
+source is not necessarily a battery is about to see there
+we could use the basic battery but that brings
+but that brings it thing we need to be recharged and the bulk the size of it as and then
+so there is a one battery be as most remotes use two batteries i believe so
+we could possibly you take a more abstract design like look at the basic
+and then just really like a strip it down to like really basic shape so we don't have to
+
+it be strange to we speak rating are they
+the recent fashion update to have a quite a fashion watchers in paris and milan is that fruit and vegetables will be the most important theme for clothes shoes and furniture
+plates in this meeting and like sticks that fruits
+that fruits and vegetable things if that's going to work for us sound
+It's the fruits and vegetables is the only Area that i find rather jarring everything else
+given the market but fruits and vegetables seems a very strange idea for a remote control
+like look at the basic shapes of different fruits and vegetables and then just
+like like photos of fruits from our product
+have one question about the whole fruit and vegetable aspect Are we
+they're happy to go ahead with the fruit and veg
+It was due to the fruit and veg eating right
+
+but diodes transistors resonators resistors and passes it could pass it is all need to be considered as
+and that at ed that's the light emitting diode so we
+so you're pushing the light is coming from the bat appreciate
+from the bat appreciate it as coming from the sides and lighting it out fine words But
+just with the lighting in the buttons and Face plates
+the top or a light up ideas on the gonna stick to that's and then
+we need a more advanced one or four the lighting the interior lighting system
+i if we should go into like adjusting light levels things like that because different televisions
+
+and then not so great to dispose of environment bi There's
+that sounds pretty easily
+But the casing we're probably the best if we're going to be anti rsi d and it's like more choice with a static so he could be pretty
+the first one is that they should be a fancy look-and-feel and so the current functional look and feel
+But we stick to tv based maybe tv shows or
+Pretty straight forward
+What we're gonna do but the cost of buttons functions course and forms and that and say yes like what
+it the buttons what functions will show we have
+pretty just the basic But the functions
+saying is that was the most popular thing we came up out of your market research and we should keep to that rather than moving to our animals because
+I so ideally think of age markets as so something
+
+Display and the glow in the dark thing Might be difficult
+and the advanced would have to go with a lcd c display My
+you can watching tv in the dark then
+that if we having a simplified display anyway you that will probably won't have to focus so much not be more than the numbers
+I certainly think of symbols for like the volume displayed and like that
+or a store we see the relief of displayed
+of displayed in a really make it a quite abstract if that's facing more with what we doing instead of
+
+that's a powerpoint presentation up and running
+there are several components of the circuit board that we need to consider when i will be getting them from what they'll be made of
+all the other thing is the individual components so we'd have to get it in separately i like
+i like out the most like effective circuit i'm thinking of a why is and things like that and that at ed of
+in you say it just needs to be in like for a certain amount of time paid a like a few hours
+that's the time lcd type things
+the so my method was mainly web-based research this time around i also spoke
+time around i also spoke with fashion experts in one york and paris and
+And there's been sitting your powerpoint presentations to the
+i'm i've lost my Powerpoint i can't remember what it's got at the components
+half in the numbers came of like not a bunch of grips that like powerpoint in a trying call
+
+lots of considerations for the case like what sorts of shape it would be curved or flat that's got
+source that are that's quite an advanced technology is not been
+up if it's flat then i got like on a cell phone a mobile phone so called a flat and
+because a lot about a house cat our dog
+that might be getting to specific a wimp should see what the success
+a wimp should see what the success of the first face plates are busily to keep in mind
+Right given that information We need to start making some more specific decisions
+And your personal coach will be the best of the information for it's a half
+
+There's the high and how it dynamo which is the thing that was used to which is fifty years ago the ousted
+it would use the impact if it's got to something as they wouldn't damage just it's not so easy of maybe
+I have a shorter report free to do it it took
+and i looked at the design reports from previous years here real remote and just so can
+so we don't have to make something in the shape of the score agree but you could have because that was your real swimming or a store we see
+Be bold and innovative and hope this
+like what our ideas to combat these problems in a way
+and to be confusing because the course of a difference mccall's of the different cost report so
+The other one was audio settings mono stereo
+settings mono stereo pitch
+it's a problem with international a appeal if we have audio because
+and so i suppose i'll come out in out to the design development they're happy to
+grapes think that's number two years and then the students
+as so something that'll appeal to the fifties we five real something
+

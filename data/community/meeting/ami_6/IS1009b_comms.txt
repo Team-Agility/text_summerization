@@ -1,0 +1,249 @@
+and accordingly to hire management be it should only control the tv mostly
+Then it will be like if you switch on your tv to add another source not from two one remote control and you lost your remote control but maybe you can find with the lights Maybe we can
+Maybe we can have that many but the tvs on remote control will have a light
+
+i remote control or is it specifically designed to a single device if you want to design
+and so it's hard to design a remote control for my people are devices
+And the design of the remote should be in such a way that they should not be in the shop projections so that if a child
+
+we can we is it even feasible to make one one remote control with something for everyone or we have to try to use the same electronics and make three different shape us
+
+and what they would like if you press a button it's like a input for the remote control it and it takes the input
+it should really recognise that ob it's which are coming from that remote control it and it should be action like
+should be action like if you press the button channel like that then the remote remote control would send the centre so you send the signal and the t
+pressed if suppose that i used to lean but the remote control and and she or he is pressing the buttons all at the time then they should be i'll be saying that it did this is not that all action did they can be no action take into that so and they should be outside
+
+No for that our remote control or should have a switch on or off but it to use it can sit anywhere in the room in front of the tv and they can control the functionalities different functionalities of the tv they should be a signal
+connection that it should have as many buttons as possible for controlling different functionalities of the tv television and
+
+i'm asking the technical people here whether it to look at sub groups with maybe different buttons for each crew how
+generally we can design a remote which is mean need for people bit of it's from their tend to for ti and
+You can design different remotes for different people like for each to be the that will be big buttons and i
+do but specifically if they candidly people want a big buttons then you can't really make a bit big remote controller so maybe specific and you can design a bit more can really do it for children they were not
+a doubt like with it because flies that if we design of remote having all the different features for different people are designing three different remotes for three different categories of people
+
+I would like to are some extra features to the remote control
+if you have less features then your remote control it won't be attractive so
+and one of the feature a user would like to have as the compact ness of the car remote
+if money permits we can address some features for some sub groups within that
+
+like in a remote control you have a chip integrated set keywords which is like a pre of the remote control what it
+to lock like you should be able to lock your remote controller so that what they were buttons are presently a child second be like you if you have key kids and all then they'll be sleeping with remote controls so can the remote control it
+like a beacon have a bulb like whenever we are all put it in the remote control or then it but dvds on suppose then
+then the remote control or should automatically have one it's like
+But in the remote should be combat connection that
+that if a child that the remote he did you should not be harmed in any rate
+maybe seventy dollars and there's unique remote control very on that
+
+So i find out that above the main purpose of our remote is to control the function for television it at the file off the standard remote the students
+like the video we what are the infrared light already led which can be used to change the different functionalities in the television if
+then i've remotes which use the video be used to control the functions and they're not
+So that you have different other types of remotes for different light source which i use which can be used for controlling the different functionalities of the television
+
+like if you press one button in one more than it would change the channel if you press the other button and that would be to change the colour so
+so even in the doubt they use it can buttons to use research on a particular channel
+
+so today i'm going to talk about the working design of the remote control or
+you are not all for all four of us work with computers all the time changing those is nothing
+it's not like that i have the for the page to get new ideas or like what can be the working design to a week or so
+and what function and working design how does it work so these are two things
+the idea here is to it do to do design one remote and what
+
+it's like the text or buttons which which are there on the old remote control and it goes we can meet or like fruit or cent
+they'll be like a meeting if it is dark so that you can find your remote control if it is dark
+make up the meeting in which it should it is useful remote should be human friendly it should not
+Warning finish meeting now
+
+and the bottom buttons also if you want to have more features in your remote control and then there should be more buttons if there are more buttons
+so that we need to make some buttons which are like lbo in a in didn't it for two was the operations like if you
+the colour so if you want to have less buttons we can have that option but it will complicate them at home what so
+all components are the main components we need for it it had like buttons and and to me that there should be switched and
+as john be said the buttons can be a and then we can use the floor that sends to light that the buttons so different buttons will grow differently so even
+but the question is how much will that set us back if it's a forty percent we make large buttons and the rest we make regular buttons
+having may be larger buttons or buttons that light up or buttons that are slightly differently shape for people of either for children
+
+it and it takes the input and it to transforms into in front runner bits and it sends it to the device like tv or that you can be spent something like that so i remote
+if you want to design it for multiple devices that you should make all the devices compatible with the frequency make
+make the remote control or it sends some bits some of the would be it's like but a particular frequency the device
+remote control it to make it usable for more than one device it's a it's hard but it's possible i
+
+right now of the things that i found out on in my research is that the complaints of people have about remote controls that are out there now it's a lot of them take
+that in one of the things people were complaining about it might work and then my research is when they complained about how hard it is to anyone the changing modes
+and today that we not many people who don't have a tvd or a few but
+then we have just a nervous people who can never press a little but not many saying unless it's really very clear and
+
+but i i'm talking about the functionality now on it with the be looking at different groups the children
+groups the children issue can be addressed we see shape and we scholars like you
+
+but the question is really is our target group
+The question the question to be addressed here is only with the target group and how we lead function and
+and i things how we lead function is probably the question of the buttons a wee thing the target group or sub groups the question
+
+the question is only whether our budget will allow to have more than one design in a sense of any the basic design
+any the basic design a understand will be the same but the question
+
+and then i'll be coming to you as the user interface person to try to tell me from your point of view what are the most friendly features that we could put on it and try to
+So all user interface controls the chip and accordingly the messages like
+the messages like they should be a user interface like
+No that's something that we'll have to discuss them with the user interface person is there's a lot
+as user interface designer i did a little research to find out what are the features which are user would like to have on their remote can you want
+
+control what it takes the cover from a battery see battery
+see battery it can't be an la and the chip supplied like you have to i like the switch it can it can connect your remote control or to a power supply from the electricity like that it should be a battery
+that it should be a battery because a remote control should be like you should take it to do better but you want and then
+And actually they should be a battery for power supply and a chip
+And then to save electricity they should not be so much small are lots of so the kids and all that and
+
+source of so the functional requirements Liz muir sport michael but what
+that i did was which use the infrared it for controlling the different functionalities then
+defunct that yellow and the functional
+the functional it functional cosmetics if you want to put it that way having may
+
+all that however at the decision we have to take in this meeting is call what is our target group and
+so the first thing is pro maybe a little easier on the who is our target group
+Now talking about the target group which is in a sense everybody but
+but within the target group we have stopped groups we have
+and i what you feel of their way that we can just say we have one target group and for this one target group we're gonna design this one thing Or
+but the target group as a whole this It's everybody was a tv
+to sum it up the target group is everybody if money
+
+and the tv it should translate that into like change the channel like that change the volume control and
+way you want to change the channel you want to control the what do you want to go new a new to the tv or you want to have a child lock or you want to do some operations that's that should be some device to tell what to do to that in integrated so cute so that
+something else happens and not their favourite channel comes up at something else and they very frustrated
+like the triangle is for the volume and a square is for changing channels so that people can develop a tactile sensor that we'll get
+in the television if the user wants to change the channels are in he's the one he and he can change it
+and then they should be at i do not system if a particular channel does not to be you would buy a particular phone or upset in each then that begins can do a lot of that particular channel so that's children cannot you that time and the
+
+confusion so that's what i'm saying simplicity is good finding it's important
+finding it's important can't you can't find it so
+find it so gotta concentrate on the features that help you find it and i've already
+And findings i found out that and then different sites that there are different remotes which can be used that i did was which
+like for mobile phones we have different covers like that design i know so that you can find out
+
+a onto the chip on your car at idiap remote or a chip on turn on your cti
+out we talked about a light emitting thing as as maybe beep and
+chip which is like a printed the remote control which does all the operations and vice
+and vice thing or the chips which is lights everything so that should
+
+try to pry are helping with prioritising of of the features and have the lock and the colour and i'll be
+these are the very simple features and they don't take much to our armour just though investment also it's like
+is there's a lot of arguments we made for roo one button for one feature that in one of the
+
+a lot of time is not o'clock on the screen you have to go somewhere but you just wanna look at the news for a minute that's
+That they should be some time at the set for viewing a particular program switching on and off are of particular program according to the user or tries
+So if you want to view a particular program that's eight nine o'clock you can said that time and the tv will automatically it was switch on at that particular time so
+
+mostly because they feel they need to calm complex the tasks to to include other things and they're
+Do you think there's any chance of having so the same as you mentioned buttons but maybe several different shapes
+and but as this is my personal preference that it should be in the shape of a t and i've bad for more compact ability
+Or whether we looking at what be like we talked about different shapes way that different shape also includes maybe different buttons for the different groups
+
+And a display clock of it if you want more features that we can display o'clock i'd i don't
+of parts and it's if somebody wants to get that but round it eta b and then you can said that it can be used as an alarm clock and i don't think it
+and i don't think it will cost much to set an alarm clock inside the remote
+No alarm clock a large
+know like it can be used as a tv controller as as an alarm clock to set than on a timing and it should have a
+and if a person if of it begins once the television to be switched all by ten o'clock then it should be switched off turn up at ten o'clock automatically so that nobody gets translated and use it
+
+and the other thing is timing is really gonna be as important as money because
+it even more important the thing that we could address our last meeting that frequently it's lost somewhere in the room so those
+
+we can do like we can have at what the sheets or comfortable but it's can fit into your hands and
+we have earlier he was mentioned they have to elderly people who have limited function is their fingers and hands so that's a
+i and then we can add on specific functional buttons for children as as the elderly people are the people but we have now is problems yes
+
+and that was thirty four percent it even more important
+that's a question where the that's important that children can really use it or not
+
+Because we had something sexy for so we can have some things silly for children
+silly for children are not animals
+are not animals they are in it or not elephants so they can remember where it is
+friendly it should not in a skin disease are some things and the energy by the children not to and i don't bus and
+they're still not no children under six never chapel on so have you design
+in a family they will be a each person children and that made a leash but they cannot buy three different remotes they would like to buy
+
+and then the things that seem the most attractive of that to to the customer will try to then prioritise the house so that
+I i already did a little bit of research at our first meeting where we threw out some ideas and it looks
+and it looks to me that within the budget they were looking at the on the whole house idea really isn't gonna be possible so i'd like your
+it like this it just has to be really specific so that will have a list of things we can cross off not something like the whole house control what
+and then i found on the internet from my research that some extent of electronic entertainment control should be possible at the budget they
+teletext because that's outdated we see internet and
+
+at the budget they were looking at that the price point we're looking at we should be able to make it work the tvt vcr the stereo was that maybe something else cute like a coffee pot or one other appliance or maybe only have
+we may have to come back to work to this point to the next meeting but
+
+the marketing manager which would call first addressing the needs and desires
+it but it's gotta go to market by september anything that you
+and they're concerned with the time to market
+and then maybe a model like we put fashion in electronics might be something we can use our marketing campaign
+so have you design something that's very attractive to children the mommy we want it now we wanna go to the store and see it that has a lot of marketing call
+
+it might be helpful have we looked at the slides at the same time
+michael but what would have straight to the second slide
+So i'll be coming to you frequently as the industrial expert to tell me how hard it's gonna be to add a feature or how expensive it's gonna be or your time is it takes five years to develop this is just something we can do so maybe getting just have
+and as i said on the slide their consulting industrial engineer about that and the
+it's like a time it's a it's a lock to the television
+
+on the method i should file would be the other suggestions for everybody and
+and the reason put that they're all like that is that a in a nation initial stage i should just be open to want to suggestions you can
+and then as we go on all have to do is accept eliminate these suggestions according to on design budget feasibility So i'll be coming
+and i'll be coming back to you to help we got the suggestions from that point of view Very coming to use
+so i'd like your suggestions to come back to the other slide were saying we could suggest anything it like
+
+d and the third saying that they wanna make that they're that the corporate image is being maintained and that the corporate colour and design are being used on the product so that it easy
+like you make it and pink for a simpler no the colour or whatever i for
+like that in each package you have you would have would you have a that's a for a simple one it but then you have a another colour or stripe whatever that already comes in a package and then if people
+and then if people really want more colours they can buy it separately
+but like if then everybody is high end of the floor a simple one that's a stripe the whatever they have as another one in the package and
+in the package and they can go to the store and for few francs or euros whatever they can buy an alternate packet
+an alternate packet with another two colours in it where
+
+i have all on since i'm in charge of trying to figure out what we should put on those things that i have to try to sell it on
+as money because if we're gonna sell this thing the best time to sell this is christmas present Twenty five
+anything that you don't have already out there in september showing it around isn't can sell for christmas
+what's the what's gonna really be what they call this is all we gotta sell
+so my personal preferences in this project or are we really have to concentrate on this is all that is the selling
+that is the selling point the thing that's gonna make it an impulse purchase a
+now we're now was a big board and in my book for selling this thing
+that's already been eliminated by management sell more often but
+
+a lot of times the thing that works the best an engineering point of view is in the thing that somebody's really just gonna take out there will buy for christmas for their child or for the husband or whatever can
+well that has been at that has been eliminated so that's a question be a mute point now
+that's good for marketing point of view be funny the funny shape and that is you say that
+i have for those sites or though will be each of the rrr that side from that they have i got so few points
+So it we should visit the site have a look at the top
+
+and white in a full screen
+that's integrated circuit it takes energy from the power source and
+so cute so that the integrated circuit can't stand the signals and tv can pull for the Actions
+i'd i don't think it will take any money extra money because maybe have an integrated circuit we can just definitely fit that region of the circuit city
+Would you wanted to hold full screen
+
+a because wants there's no be back in mind cells
+in mind cells they always say be back still come back if somebody says i'll
+if somebody says i'll come back in getting next week you're that they're never gonna come back and but
+
+Twenty five euros makes a or present and we want to be an impulse
+writing here should be an attractive impulse purchase a twenty five euros so it has to have an of
+so it has to have an of value that when somebody looks at this it at twenty five euros an activity that has to
+And with the twenty five euros can we afford to have
+
+so maybe getting just have a big pile of things that we anybody can throw anything in and then just we
+
+the same electronics and all that's gonna be different is the plastic case and in that case we
+and in that case we could probable moulded plastic
+moulded plastic isn't all that expensive is it
+they have like removable plastic case is that you can have a striped one or you can have for a simple one own or whatever and maybe
+
+but in principle that will be they'll be kinda fun
+there's an eight year it to the new new portable phones they have like
+
+something we have received instruction from higher out of that certain things should not be a considered
+so that it easy that it can be easily identified as a product or for of off the company and that there's no mistake but it could be somebody else was bringing this ad so wanna going to check
+so wanna going to check this year so we not getting too much off track here with with the things you wanna look at these were instructions
+these were instructions from higher up so we have to eliminate these things so it's only gonna be t
+
+and a on the closing that they would be lunch break and all that however
+
+And in order to make it really sellable we've got a short knowing curve make it's really intuitive in easy to use we have to have as
+
