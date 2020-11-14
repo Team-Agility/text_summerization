@@ -1,0 +1,232 @@
+Hey a project manager
+And project manager i have something to tell you i have a little problems
+laptop and so i had a little less time to complete
+Welcome to the conceptual design meeting
+time also this time there will be three presentations and
+and we must reach a decision on and the remote control concepts
+an id and i when i finish it off i have some in from a mosque last i i face that's If you if you
+The the concepts on we where we we must reach a decision on are from our two source component
+component concepts and the user interface concept the first
+we have decided to do with the with the touch screen that has to be
+the energy can you you reloaded or just batteries which a mistake change the user interface
+the user interface concept with that type in the the supplement so
+notes and at the end of the minutes and we'll be at the shared folder
+what i did a society viewed previously use items my two different an age groups below
+and want to watch what the difference is our checked what to do we want and then how can we do a minute add to the target group i what i found
+There are there like more they liked additional materials like wood and such more wouldn't count
+where whereas the young and dynamic like a more soft materials Think
+a soft and fluffy and colourful and
+and that they like sports and gaming and then just the vitality and
+a soft material for a remote control
+and ui a i had the choice between a few different sources but
+but the two basic source that i've found with the best possible way the battery of this take on comedy
+on comedy that's when you move something then it gets energy
+I figured that's kind a high tech when we remote control that when you pick it up in as power that would be actually
+but when the power goes slow have to shake it
+And if you consider the option of using the solar panel
+did but about solar panels you have to have a light as
+you could use normal light but do you wouldn't get the same amount of energy but you would from battery for
+for alternate but use also the solar panels you could actually use you could
+use you could use solar panels but you'd have to implement them into a the remote control in your a bit less space for the interface So
+just i figured that's is seeing that you will always be was an l distance of tv and from the tv that comes at a whole bunch of life
+and as you wouldn't i have the full amount of power actually used to
+I i prefer a because it's the cost on that much high and it just a bit more high-tech and then a normal battery if
+but you don't move a remote control too much
+button you pick it up when you press buttons and if
+but what were like say it you could use a battery that you just keep on the recharging whenever it moves and for less
+when the battery doesn't work i usually shake it to like
+are you saying we use and the basic a standard model
+you we could go for the single curved or double curved a single curve
+a single curve it's just it's just a curved or
+or what but you could go in there and double curved and that's like several different by mentions that gives
+be an idea but just the welfare tomorrow
+welfare tomorrow the plastic versus another you we can choose
+another you we can choose what they're what's better plastic them or rubber i'd
+i'd prefer double because it feels
+That's the material the younger people want
+as a plastic also has a cheap fear into it knowing plastic
+buttons that additional or a touchscreen or we discuss it's
+or we discuss it's in the previous meeting so i figured i'd just leave it at the lcd
+if we are going to use additional buttons we could go with a simple chip said but
+but if we decide to go on the lcd screen we would use and we have to use and the advanced chip that and that
+chip that and that would bring necessary cultures with it So that's something
+in mind isn't manageable budget wife would have to go off to this into simple buttons
+So i bet a big company and i agree are by one like or some us a big disk on them too so
+I usually chip so aren't more expensive than one dollar
+that's should and shouldn't be a that big a nation a larger
+a nation a larger that i'd put a big some areas we could discuss it a bit whether
+whether we whether what i had ideas from when we move concerning battery versus kinetic
+If that's the project managers problem a lot
+fifty cents a battery and
+and then we have single curve versus double curved on that
+plastic versus rubber i did a
+isn't possible to make combination what rubber is isn't it all bend a bold anymore so you got a structural or
+the casing around if you use and did a touchscreen is just the casing know around it so and
+is it possible of is it necessary to make a touch screen square it is and
+the touch screens are generally square but it's the case
+but if you have a square lcd screen you put a case around it there has like bolts or that covers part of the lcd screen but
+all was one of the opinion should not rubber or plastic i
+rubber or plastic i prefer of you two
+it shouldn't we should have a power when you hold it you hand that so now that
+it from a place and and an lcd screen walls or
+We might even bounce back where you draw from top
+at that traditional versus lcd figures green we're all set on that and
+set on that and then also the simple version of an so
+version of an so i figure if we go for a lcd we should have to advance so that shouldn't be a problem
+I went to paris and milan for some trendwatching
+Our research and development department and i went to paris and milan In paris
+In paris and milan we other of different people differing in h and in income and the amount of money to spend what they like in design a an material now this
+our main audience so that's people below forty preferred following at first
+Very basic colours like the owners explained
+fresh colours of a green red strawberry red you get all banana yellow
+like sponge bob like as soft
+like as soft material be an asthma
+Like a big hit the flashy colours fresh it's
+are secondary audience up people above forty eight forty is an age they like the dark traditional colours
+wood is not material which you bill the remote control of
+there are some overall thoughts about new remote controls they
+We have to aim not at the main audience and therefore use for us colours
+Would you prefer did you can choose the colour of your remote control or
+you think about removable covers as mobile telephones telephone market customise your own remote control like the nokia
+like the nokia the removal covers just put a read on it and go through shop i'm i agree one
+it fits within the current market trends and
+and it at safety to remote when you drop it so
+to come back to your question and and the people milan and paris also think that the rubber should be pretty hard like
+like See now regular mobile phones
+i refuse off on that the users remote so
+at mi a second sheet of personal preferences we have to reconsider the speech function the recognition it's
+like something you can see that the market is just screaming for new technologies like speak speech recognition and but
+second building games like snake what that research team use the younger users also
+also the link with mobile phones
+but you don't use that games when you're watching television
+now but you don't use games when you make a telephone call just the same
+When your parents are watching some boring for where you can think of remote and do something else
+you take your eye packing go up play gave
+At first i stick with it The lot of functionality with the slogan take care of them control to new done anything
+that's a simple powerpoint mark-up i want them make
+i want them make it more as dynamic for you solve all their butts
+their butts the main concept is take one break that screen
+always display the primary buttons clearly visible
+and then make them menu structure changeable so if you press
+changeable so if you press a system that if multiple
+multiple system options can maybe five or ten or one can fit in or
+Them have some other options that are nuts programmable with one or sample button and
+button and all the buttons could maybe displayed here if it's necessary And
+looked it's you've got a holder in one hand it's so
+it's so the middle like all remotes should be a little bit small so you can put it in Inside your hand and
+and you other hand A menu structure so we are
+so we are gonna be the pro gramm buttons one two three four et cetera
+And the volume control and problem control maybe
+And down here that this could be one make lcd the menu structure
+One thing you've got to keep in mind keep the remote clear have too much fancier the same time
+No that if you are changing menu structure here it
+the buttons but if you're programming the colour of the tv do not display twenty other options that are possible is
+many levels do not have to select a screen first and then brightness and then corrine on boston and push lost twenty times the just the
+levels and channel one to one when you get in to work to ten and want to go back a while you have a problem just morse
+just morse more and tvs you just you press one zero and it goes to ten knots to one
+what do you think about a back and forth not buttons and Like in the internet
+Or if you're watching is to use sports on on seventeen and your wife is watching some soap want to yes
+but my preference would to be put it on a menu structure and
+and if you're using the button a lot of times the menu will still be displayed on screen you just don't
+screen you just don't have to play games in between but if you're really
+but if you're really treating the clean two channels would have time where to use your other options
+I we can discuss a little about the three counterrevolutionary things thing that came with that counsel
+came with that counsel control the games in the voice recognition
+the parental control should good function to to put in the remote i don't
+system properties and there is a wonderful
+how why see it is to put it on the The remote and then you have like we know slogan screen with parents children
+don't want to go down watching use it eight o'clock and turn it on the weight twenty seconds for the one on screen and we memory a cold and all settings
+No but most people find it much more important that there are children don't watch a sex or five buttons on the television and the way to ten or fifteen seconds or so they can finally watch it because of the
+You may use like windows xp a simple walk around you just push so one or two or three and
+and if you push children you don't have to the end but you can only watch chosen channels or
+if it's worth at that time and effort we're going to spend on the p of
+p of it's a symbol function and it's gonna take a lot of resources and a lot of time into programming because you will
+because you will have to start working with profile some such and i'm not if it's
+i'm not if it's actually we have a missing that much time and effort into it i what
+for it because you you're in many times in magazines and in your domain you said in bed they believe that children are are influenced by the television and
+we're aiming to below forty years but there
+but there are a lot of people below forty one of the children in young age and who want them to not watch a violent or
+just make a remote as it is butts make an option to insert profiles to save
+to save my granddad would buy this remote you wouldn't want to bother with all the all would give us the things that you just make
+just make it an option menu instance tall paul files
+it just has to be you one is delay for all to store it has to be just simple plain but
+plain but if you want to install a person each other
+If i got kids and choose between to remote controls one who would pay rent control and one without then i would buy the one with
+of and you're thinking about some channels they had cannot see butts what you have for all the standard channels and only four maybe off ten o'clock in the evening five and from the movies come and
+come and maybe some dining will be needed instead of of channels because if you're
+you can control your video recorder which of you when you
+when you take in a number it will start in and recording but
+but maybe there's some option that that the show few numbers are violence and that's their block that
+this phones used for disease that someone will have sent all those show view numbers of the programs that data to be notes i had to tell we'll have to decide
+want i if we incorporate the tentel control let's say we do whatever still a charger goes up to the tv and presents up
+no what are you stop and john from our remote taking the channel
+you could save parental controls on it'll go from fourteen to sixteen with the page and then
+i'm not because for that happen you will have to deceive a signal from the remote control so it would i have to be constant a constant segmenting
+What i'm what may be better is to incorporate and the separate device that that you can programme with the remote control and that's
+control and that's provides parental control and that's just
+besides the remote controller will have a separate
+If we do would we must do it in a way you said like a profile crime profile family profile and otherwise
+on a separate menu option
+And and or we install another device children can still go to the tv pop open the thing and
+that's true but with a same incident and same happens when all you have a remote control so
+The only difference is the people buying the remote control now get at the feature of parental control most people wouldn't
+what do you guys think of the games in the voice recognition a person is thing that
+A mail to form is mean that's very popular to use force reckon recognition but i don't
+but i don't think when you're watching tv at her in a loud noise from the tv some more screening a one and if the channels let's listen to it
+i like for voice recognition is too much and then the Ach games in
+As long as it's in the primary feature of the remote this so
+that doesn't cost a lot of extra resources are they
+so the games are in it the voice recognition
+the voice recognition and not on the front
+and not on the front row control or
+also it's a good idea but so very difficult to incorporate so
+is some menu of function you choose parental control and maybe for files will enrich when you would put it on but
+Like first id from you can buy it without and with parents remote control or are we going to put it in and then just
+and you can just as when you bite you can select personal preference spare the control on enter password
+i i figure if you had two different remotes you could look choose one with and deceiver in it so you could actually
+so you could actually easily build in up a little control but it would
+so in that way you could make a cheap model and expensive model of
+model of a make the simple more on the deluxe model have
+but tvs are incapable sending
+maybe you just have to restrict it to what program so the parents as you can watch channel seven nine and ten and you cannot watch all channels after ten o'clock and
+o'clock and there's just some little o'clock in the remote
+it to you could easily that easily you could easily do that with the remote control which still have
+control which still have the problem about the television itself
+seen some of red remote twelve o'clock in it so
+it so the remote doesn't transmits one is off the shelf clock
+At least my tv is it is a compartment which you can press and they're
+problem just have depends by some blue and that was not part of the remote
+you can just plain wrong television make it that problem
+i have to console my legal advice
+so we have decided on the things that i from i was the energy to combination between battery and kinetic the case will be
+the case will be double curve and a rubber in for flashy fruity colours and with coverage removable the buttons
+the buttons will be a touchscreen but the main not be too many buttons and in the
+the parental control will be incorporated but it must mean not too complex and the games
+Maybe it's handy to build and expert feel and simple feel
+i was thinking about is just a menu structure when you don't use it a simple la police the
+la police the system properties in pilots pops up whatever all you can programme
+Or you could actually build in a function and you can programme it yourself for the more advanced users
+you in it because you can like build on the back for a button and a sample somebody would just want to watch tv channels
+for us first thing is we talked about nazi management knowledge engineering
+management knowledge engineering and the fact that the idea of knowledge for sharing your knowledge from other companies know like that it's a
+so it's mostly for the management expert to look what our marketing
+our company so i had you are also with the marketing campaign when they put on a new a remote just some it for export And
+the another things and they were there was a serve v and it came out that people like to buy things from a single a large provider instead of those two are part mean with a so we must
+so we must we must bring it as it is real reaction is it's a big company trustful company and
+are three real reaction remote with
+I i and another id to put ideal the audio for real reaction and a single brunt and and that thing when you
+thing when you put on the remote you see that just like when you telephone you see a little animation i
+And with the with the motto we put fashion in electronics and
+you can show some money logo four point five seconds still remember it or that they're willing
+but No idea from this guy thing is that we must use evidence as we are a single large provider with an alarm
+if the if you have the lcd screen you can add a small logo or at the bottom and you can
+It's just like globe in the internet explorer
+she never know and next meeting starts in thirty minutes so he used
+What will be a few the master glass lot of data work
+The mosque lots of friends than
+ide du the industrial
+the industrial and development the sense that if the user interface will work together on a prototype and
+and the marketing expert will you will be keeping busy with the project evaluation but the most specific
+but the most specific instructions will be sent to you by email
+But keep an eye on your laptop for a real
+i forgot are not set out to be manager

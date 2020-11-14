@@ -1,0 +1,154 @@
+now we are in there and conceptual design meeting
+bob be sarcastic Mark
+we have three presentation first to to can just redesign first and then that mark and then sandy
+And we have to take a decision on the Controlled remote control concepts and we have
+decision we want to take on this meeting are on the them first and component concept so what energy we use what chip on print and one cat case and also
+and also on the user interface concept what interface we used and if there is some supplements and the
+So of their to me it is and we need to know each component to use for energy and the media and the interface for energy
+battery or we can use traditional solar cells for
+and And then interface there to use pushbuttons or you could just read it cd display and
+and we can use some jet morning joe thing
+we would like to have sons speech recognition and it's cheap or a remote control
+So these can be simple to program where the chip and which
+silly they're looking for a possible to you can get the specifications and all these easy you can do and begin or pro range like a miracle or four euros or on that so we are looking for
+so we are looking for somebody was as source simple technology to do the location of remote control in a room or in a house
+So we would like to propose but the use of solar cells and
+cells and it would be a problem or do they do have enough energy would solar cells hand
+solar cells hand too late to just use simple battery and
+battery and also we want to go for titanium design we should of rub or and
+but the problem is that this design we phone that we can't use the double record shapes
+Lights lighting in mind thirteen and it's problem
+chip and it's really let's say you really less expensive compared to lcd is
+our which means advanced chip technology and
+chip technology and it's more expensive since
+expensive since we want to port some other features that speech recognition you want the radios
+i want to know there's just a story that for the point before why not the rubber you think is something that's it seems to be there
+Our And oscillating if you put bar it's a big if you go to do all the morning or more times and these things and
+but there are some rubber i some rubber parts like
+Like in cell phones we should leave these
+these you can mall with the rubber and four directions and
+but for you to some blue You use maybe for the addendum Nobody's expense
+more than men were was some there you go to put a speech recogniser so we
+recogniser so we want to reduce price on this technology and so
+technology and so that we can have Enough space or enough money on
+simple button and speech recognition for the more complicated
+He we have a simple buttons and speech recognition technology so
+gone is to include video i was d display lcd
+but still like a source of information a source for menus
+maybe we can see the body one call really come up with our forties and then
+and then if you have enough money or like four and that was the speech recognition
+that was the speech recognition technology we take at least five euros or that you put some control we want to reduce
+we want to reduce the cost on the display or these
+The display would only be displayed and not a touch sensitive you just
+it's not gonna be a touchpad it just a display for the tv you information
+like an lighting we have many options in the market so we
+in the market so we can go for small need to learn or a look and batteries for
+look and batteries for Really like batteries and we will good price
+So these device on that can be used for speech recognition could also be used for do is a finding the tv itself
+noise like that was remote control room Use use for like in a whole saw it
+so how to how i'd how to define or a speech recogniser but we
+recogniser but we want to goals speaker independent or speaker dependent if we're going
+if you ready in the post and down to locate then we have to go for some speaker and then it could only
+Going to do it puts lots of concentrate
+puts lots of concentrate on what we can do that
+in the end we find out that it's not feasible
+a concept of the interface Generally add developed
+Generally add developed quite a broad concept not only for the interface but for Possible instruction or users many all and so all that complex saying so it's come together with your tv and remote controls so was that as
+we got our profit remote control with a lot of buttons and
+every button and you can use your time on to it will take it some days to loan all these buttons and so
+And go back button i the weirdest maybe one of these buttons and
+maybe this button is power on and off on a team for
+is called a meaning remote control
+I would make our back light kills a lcd screen was different colours
+let's remember has a nokia phone which changeable panels
+But it would be expensive they feel is colour lcd
+Line that maybe you can change the colour of this and maybe you can used
+if you just one more colours they can be more money too bad These And the shapes and then they can have different assembly
+So you just have different them and they have their own Interest colour into it sends one
+so you propose something with option to be that increase the price if we use if you want on them a week or is it only has to be
+upgrade able a remote control wall
+there are some Some paints that can change colour according to where is that like as
+like as a flat different colours Depending on what is around like what colours around and depending on the temperature
+people dollars for which the remote control is Is to be something useful that i'm going to talk
+to them so we it's like a signature my remote control
+my remote control is pink nobody
+nobody else than me has a pink remote control And that makes me
+that would be ready pretty to pay more for that
+feel most warlike we can test
+You did a young people the young people want to be different from their friends all those
+so maybe that's if that's it says selling point maybe it has to be the base
+but if you want to be different you just take your remote control was you all the time
+they like processed take the ipod it's a remote control and
+it has this distinctive look and feel and you look they do Which people seems
+Just because it's easy colour that we don't usually see the remote control why
+could do integrate some into our remote control something like a light
+And As a remote controls going to the smart but to
+but to follow smart should be some not too complicated things too much
+so i heard that it seems that speech recognition is something that can be done so
+of the thing pretty we don't have guns we speech recognition or a beer cans with speech recognition but we may
+but we may have a remote controls and speech recognition
+are you saying here that the remote control should be aware of who's using it so
+Just in so we want to do some speaker the pen and speech recognition and so you can use them
+But process i'm thinking about that either part you could argue that the remote control could have just seen
+it might also a record the the channels are you more often using the the levels of volumes that you're more are from the things like that and
+That might also be a good sales speech again The room all
+and then i hope this can help us to understand how we should design a remote control so
+first maybe just the small recap on how do we watch trends so it's not so
+anyway these days the best source of information is the weather is also
+and asked real people who are using real remote controlled every day and or any other to me that you see that the remote control we should
+remote control we should be easy to use a small device that people may have with them always liked the phone we
+the phone we can use the phone as a good to Example of work to it beeps back
+I've got all dark blue who are watching the trends are also have also to be as bad because
+also to be as bad because they are not only watching the trends there inventing it
+there inventing it You're creating the trend i hope
+trend i hope i'm going to try to help you want that this is more risky
+which means either use sixty then you make a lot of money are you don't and you're out of business So anyway
+but they are it in the market of remote controls they are free aspects that we should be re pay much attention to the first one
+the first one which seems to be the most important one is that it has to be fancy have to have a fancy look-and-feel and then interestingly
+and then interestingly this is the very most important thing it has to be fancy
+Strangely enough it's more important to be fancy then to be with an that's the second thing you'd have to be it has to be technologically you do the tv has
+you do the tv has to be new with some of the newer technology inside and
+which is that it should be easy to use as a remote control so as you see
+that we can talk about with their friends mine has this and that euros And finally
+And finally it has to be useful as a remote control but
+a remote control but it seems that's so important but it's used as a remote control Next
+That and i'll in a marriage are all The Brawl the way of saying the thing if we look back
+if we look back and not to look at a new remote controls it's important to see that the trains are quite the same in many are a sole
+criterion the trends that we seen big cities like paris and milan it seems that this year think it should have a fruit and vegetable way of the Of look or see you or
+friends you can travel from golf to furniture so it might be fruit and vegetable
+fruit and vegetable thing fruit and vegetable And
+And if you were week about the last year now it has to be spongy
+the rubber aspect might be important because it's
+important because it's what is pretty more feasible in terms of sponginess
+more of something in the colours of like fruits and vegetables and spongy as it is
+then in the shape it has to be more wrong than the More roo look natural somehow
+And not those futuristic hear it would control with angles and the titanium back
+we have people use need to the trains if we were in the world as our company
+is quite big and there's so i'm just asking them the current trends according to them when the going to store is that when they asked there are friends that are also
+fruit these teams can be easily incorporate really can have
+so we will have the next meeting in thirty minutes again and
+and now you have to go straight on these individual action g
+action g which are for them ram out a bit design
+mark the user interface design and
+and sammy the product evaluation
+you were work together a menu on a prototype using modelling clay
+And i was always in your personal coach we can use any specific instruction
+So can you hate those specific features so for that
+and we want some teams like fruits or reject the ones that's
+So what are what location and these people are really interesting on those features or
+on those features or they really like They're more want these fancy features like
+so if nobody else probe provides currently a remote control of that and if we can provide you guys think it's a good sell for us because we have it than
+do we take titanium smelling like fruit or do we make spongy
+really trade explore these two options and
+could we make the titanium shape The fruit shaped
+But you say that you can into the bone shape i got was shape
+of tomatoes and It's that easy they're rubber is expensive and
+maybe you can have two different this is somebody also like one spongy on one that animal A chip do we
+A chip do we have only the plastic or that cd five or a chip so
+If we choose that titanium or if we choose spongy but you can be
+that if we want to have a cc says if we want to have a small number of buttons we need to have a i'll put that says creaky what they are actions are
+That's the converse to having you see the button where each button
+And you just stick with two batteries solar smart
+plastic we stick last time that we don't we anyway it's very
+general people change tv more often than batteries on their remote control So
+Because it red goes faster than the life of the
