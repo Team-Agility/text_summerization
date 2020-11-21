@@ -1,0 +1,60 @@
+hundred a new remote control is quite subjective experience
+left to we've got it's an engineering based design for a remote their own remote control
+web to to see if i could find a few examples of existing television remote control
+talk about the technical functions design objectives
+critical here because a lot of the things that happen in a remote control happen through the chip that controls the converse the electrical energy going to the user
+device we tell the remote control what we want to do it sends a message
+focusing on the designers people specifically said that it's not remotes were ugly seventy
+people are only using ten percent of that they would be willing to pay more for a fee and see you're looking remote and that ties
+mind the user requirement specification what needs and desires are to be fulfilled That extra functions design what effect the apparatus should have and the working design they need to be figure out what you need to make it sell this practical function
+control so it's one has got lots of buttons and that might be older people
+button them i'm gonna buy a new remote all they want like an upgrade
+sounds and what can we do to make a product stand out from the large majority of remote controls
+suggest that we could go about this is by designing several different at the types of user interface we need to consider practicalities a device
+personal preferences set of the fact that i kept we need a long lasting energy source people don't wanna be changing
+appeals to younger people maybe people who have problem with technology people who get scared by having lots of buttons
+people are so is that like change the channel and changing the volume people
+remotes one that has the easy one the one that has More complicated
+combination of electrical energy and then the other things that are brought in to make it work on each task a step
+older people in noun like sixty in about the segmenter sell did that really think that they would pay more money for voice recognition
+pretty we need to use the colour and our slogan in the new design
+type in the page number on that bus it more when it comes to the buttons on the remote
+button on the tv saying i go to page one sixty on c fax
+components that we find here are the energy source the battery or whatever that's gonna make it work then the chip which converts the data at the user that's controlling the chip and the infrared bulb that's gonna let us transmitting the data to the receiver
+breaks i was given in terms of each was the voice recognition was inverse be related to age
+mentioned things like voice recognition but at the price
+sense we're gonna have to aim for a device which is fairly conventional in design
+wind One large accessible buttons for the essential
+team make a schematic of the way that the energy is converted To port it's practical function
+frustrations that that we could try to take into consideration and with Our design
+find objectives like fashions and possibly tend to find a way of striking a balance
+source and talk a little bit about functional requirements that people satisfied
+hides all the complicated buttons
+imagine just it is an electronic device that allows us to do certain effects on the television
+question earlier on whether this is going to be to for television dv or in it that are just a television that or adjust
+overwhelmed with the remotes that have too many buttons and too much technology
+talk about our functions and our target group that means that is very few we need to each group
+economic we need to find a balance between features and price as you mentioned
+fifteen to thirty five but that's a good idea of exactly what this product
+findings that i got very of just very briefly is that you have a choice of the way that d data is projected to the receiver
+fifty percent of the for the crash a segment can have that was the biggest frustration
+analysis of different market that the marketing you identified that different groups wanna different things or had a certain preferences
+receiver and in my opinion infrared
+ideas and it gives you information nicely of a boring like what's on tv next and share prices
+order for us to one over to the consumer we just need to focus in and those volumes and channel changers rather than things like the audio settings and screen settings and the channel settings
+meeting up actually twelve thirteen we have forty minutes left to define our functions
+battery and that that the chip and convert that much data and presents a while without strips gathering
+price limit of the twelve and a half euros without having to make too many of a compromise
+mind it with everything we do simplicity in fashion we put the fashion in electronics and you automatically the younger group that's was gonna be attracted
+instruction manual it comes at the end that's and hot because of the combination
+straight-forward interface like he was saying simple city in ease of use and simple
+thirty minutes i emailed them to you and also putting on them in the shared folder
+analyse people's desires and needs focusing
+real reaction and that's market research they had a hundred
+twenty five euro
+Switch the quality that we have that it's about the age then we would wanna stick between fifty and the right range
+short amount of time you'll be able to access to the report that was a minor
+easiest thing to do is to break down all the points
+mentioned something called rsi and i was hoping someone might be a wheel and for me as to what rsi
+white or thereabouts draw
+tvc ready tidy right Let's see lucy

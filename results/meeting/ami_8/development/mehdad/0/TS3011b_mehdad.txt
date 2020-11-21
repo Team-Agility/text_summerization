@@ -1,0 +1,60 @@
+easy to find your remote control button remote control function
+design we can make a design when they're not my much buttons
+sounds which aren't exactly the same from the point if you all from remote control so we might want to build in the future to support them Some audio signal like one phones
+important button And there are lots of people is that there's a central point to which you can go and at the form some online And then the remote control
+power buttons and use one time and the volume
+ten percent the buttons
+top goal of this meeting is to reach decision on the product on the target group and the functions of the remote control is just a function of remote
+device which can be everywhere in the house which you have to find first before you can find your remote control
+remote should have such a function if it's possible within the costs and all that things maybe sebastian
+easier way of a round buttons know display i it's working with a shift functions and one button what's which can be pushed in for directions instead of a stake
+video sets and and there's a special button that find the remote control button because they are lost the remote
+piece of equipment Every piece of every tv set would have such a button you would have to walk you tv
+push a button or switch to to channels when you have something and channel four n something on channel switching
+functions and the money that we can say from that we should use for having a design and thinking about the user interface designer role i would like to see the user interface concept
+multi function and remote control but many possibilities but the lack of the feeling i already bands and in the previous discussion and ease of use remote
+channel selection is the most important or volume selection and the teletext
+list of Functions do you want an explicit list which include all function available device
+decided to implement this a function and can be implemented in in our design will become more complicated
+buttons like that which are easy to use we my coat rack
+board of feels that teletext is out of date and the internet
+keeping it simple is it is important for the costs and all those things we need to find
+consist of battery infrared diodes buttons you have that's the cheaper that the chip or in one of the circuit board will become even more cheap
+mikes young people do not always want to use the voice
+focusing on younger people to make it a profitable we we still need to take in account the bit older people
+separate the clapping it's just an increase in the volume the amplitude of the sound from other sounds
+question is whether two or four buttons makes makes such a difference in the costs if you already planned to include fancy lightning techniques
+user interface connect to chip which is connected to free things user interface
+user or friendliness i should choose for the ease of use remote control Because the user in what state
+device has to do is to send messages to tv set
+problem is it but it depends on the decision between the ten digits or the voice recognition the data
+cost effectiveness if we should really use a very low cost the circuit board
+rest is just one chip there are few buttons connected to the sender which generates
+important to make it look like very it's trendy easy to catch piece of equipment that's not a moderate
+market is interested in some advanced techniques and the user friendliness
+sebastian should have a detailed look later on and come up with the solution
+easy way to do this is by sending pulses of infrared light to the tv set
+cell phone just one like in the device which incorporate the solar panel and rechargeable batteries
+concluded it should be in easy interface with not so much buttons it's just that but at the volume and the programme one and some fancy lighting and techniques blinking lights and all that fancy
+hope personal coach is we'll assist
+production cost rr in just a part of the equipment
+basic scheme of things which are implement
+starting at the younger audience they'll probably watch more channels and the old people
+goal was a boston move you would like to start
+requirement is that we should focus on customers are the younger than they have forty which is important
+power saving will be a bit more difficult so we can expect that there will be unless longer life energy save costs by not implementing a lot of functions
+regular tv user and you just want to watch the dutch television networks you can a kiwi you can use about ten digits but keep the program
+important point is that we really should use energy sparse friendly components which can zoom far less power than a conventional components
+fully concentrate on developing a product that is really what the market
+generates a few times within that a certain period of time to perform are individual work i have no time for a cup of coffee Can i get a cup of coffee
+part is forty percent of the market
+interface designer i would like to the next meeting i would like to receive the components concept
+older you might want to constrain that portion market would respond to a simple
+Reports or to spend response
+summary of all things are spoken and the different concept we discuss is already in this in the previous discussion
+important the corporate image should be recognisable in our products so the call it colours and the slogan do have to be in the product
+home station for base station next to see this a little antenna
+minutes i make into the shared folder
+cradle in which it could recharge And that wouldn't be a big problem I opened the cd rom box
+signal from where do you execute the this in south
+case we have to metal contacts

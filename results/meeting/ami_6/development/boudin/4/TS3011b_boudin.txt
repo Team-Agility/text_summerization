@@ -1,0 +1,50 @@
+buttons connected the buttons
+dec design we can make a design when they're not my much buttons
+device which can be everywhere in the house which you have to find the remote controls
+important thing for people is that there's a central point to which you can go and at the form some online And then the remote control and the advanced remote controls so we might want to build in the future to support them Some audio signal like one phones
+power buttons and use one time and the volume
+top goal of this meeting is to reach decision on the product on the target group and the functions of the remote control button remote control function of remote
+video sets and and there's a special button that find the remote control button you press it and your tv set starts to make a weights out and your remote controls
+user or friendliness i should choose for the ease of use remote control with the last possibilities a great feeling in touching the buttons
+function and the problem to programme button to switch to to channels when you have something and channel four n something on channel six just one button which can jane's
+add speech recognition to your remote control it's very easy to change the channel
+remotes are reports it we give back to the user interface designer role i would like to see the user interface concept
+device can have communicate with almost every tv set would have such a button you would have to walk you tv
+round buttons know display i it's working with a shift functions and one button what's which can be pushed in for directions instead of a stake
+relevance scale the channel selection is the most important or volume selection and the teletext
+buttons for the advanced other Functions do you want an explicit list which incorporates all functions available device
+important button And there are lots of people do not use all the extra features
+implementing this a function the technical design or energy save design we should really implement
+consist of battery infrared diodes buttons chip set a circuit boards
+cost effectiveness if we should really use a very low cost the circuit board
+buttons like that which are easy to use rc is the best one possibility
+board of feels that teletext is out of date and the internet is replacing teletext
+question is whether two or four buttons makes makes such a difference in the costs if you already planned to include fancy lightning techniques
+cheap to incorporate integrated circuit board will become much more user if we do in that do not implement these buttons you have that's the cheaper that the chip
+total design of this piece of equipment Every piece of every tv set is controlled infrared there are some exceptions
+requirement is that we should focus on customers are the younger audience they'll probably watch more channels and the old people than less than forty years
+user interface connect to chip there are few buttons connected to the sender which generates
+decision between the ten digits or the voice recognition has the main it stand
+keeping it simple is it is important for the costs and all those things we need to find the one solution
+concluded it should be in easy interface with not so much buttons it's just that but at the volume and the programme one and some fancy lights
+separate the clapping it's just an increase in the volume the amplitude of the sound from other sounds
+find a balance between the advanced new techniques and the user friendliness
+hebrew i bet devices to incorporates this technique a used in this equipment
+regular tv user and you just want to watch the dutch television networks you can a kiwi you can use about ten buttons
+buy personally we should infer use infrared
+interface designer i would like to the next meeting i would like to receive the components which can zoom far less power than a conventional components
+main advantage is that we can implement fancy techniques
+light for that when you move the stick to to a position maybe light
+easy way to do this is by sending pulses of infrared light to the tv set
+thirty minutes of time to perform are individual work for ball When it's fun
+younger parts off the market isn't the forty percent to make the five million
+older you might want to constrain that portion market will Examples will change adapt
+watching a movie it would can see beep
+home station for base station next a tv is a bus with nancy
+important the corporate image should be recognisable in our products so the call it colours and the slogan do have to be in the product that is really what the market
+dark concept we discuss is already in this in the previous discussion
+disadvantages that there are so concerns about the costs and things like that battery lifetime energy saving another advantage
+user-friendly as you feel fifties
+seconds i received some new project documents folder
+cradle in which it could recharge And that wouldn't be a big problem I opened the cd rom box
+case we have to metal contacts

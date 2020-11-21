@@ -1,0 +1,35 @@
+easier to integrate several functions in one button still and then just only a back button
+design the basic function menu for the lcd screen
+simple functions and these basic function if you are going to use the advanced options
+button menu like i have to states which function has to be in the menu
+screen is all the configuration options you can put that on the screen functions
+watch out for the if we make it for a very fashionable it that the functional requirements
+reach a little bit for the power button but that's present channel
+buttons to press the menu button and then you are certainly into the the display
+feel of the left example and then the screen is on top which function
+channel five on channel settings or channel programming your channels in the right order
+design of the bus buttons but look how you can push them and like that so the physical aspect
+indy it's the remote control that to follow so i was trying to organise
+options we want to put an lcd options that's communicate with the infrared decoder
+showed up put the the extra options all model to the on screen display
+normal functions the basic functions you normally press
+week or on the channel number in a remote and which want to save
+integrate the screen or speech recognition part if want to incorporate that we need to microphone
+channels and left or right for the volume right i'm a multifunctional navigation buttons
+match the operating behaviour of the users are not afraid of a lot of functions
+annoying most small phones and also have a screen like on a mobile phone also on top
+functions and on the Seems was it the target group so it's above forty
+tv options which is all this the sound and then within sounds i trouble on base
+plug in the power cable when you go back it's only two extra buttons
+department do we need just the functional display and for curses
+features are hidden in the screen with the clear about the extra two buttons
+action so you scroll into it e you select a function like fall of like a base
+signal of certain spatial frequencies it's a counters one it shows on your tv
+irrelevant the less use for audio settings mono stereo pitch based travel screen settings brightness and colour
+people don't want to sit on their knees in front of the television with that usually three buttons and very hard
+screen this you been option to go back to it to upper level the finally
+kick-off working design was to specify a half the fiscal interaction between the components
+communication if the television it's difficult but that's not hard part you don't have to design
+skip this price as because i read a ball forty is it from twenty to forty
+save automatically in the project folder the teletext is outdated that and that's it should not be used anymore the future so forget
+presentation is mainly based on my own ideas i haven't time to integrate that information

@@ -1,6 +1,4 @@
 """
-Budgeted Submodular Maximization (BSM) （for parameter grid search）
-
 input (full summary):
 results/meeting/ami/development/tixier/[MSC parameter id]/ES2004a_tixier.txt
 

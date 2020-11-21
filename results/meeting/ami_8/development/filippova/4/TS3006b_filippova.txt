@@ -1,0 +1,60 @@
+easier to integrate several functions in one button it gets confusing
+list of what functions are are going to to be on the screen menu
+normal functions the basic functions you normally press
+menu like i have to states which function has to be in the menu
+Channel up and down and the control of the advanced options and functions and buttons is easy
+zapping which are a remote control you can press the menu button and then you are certainly into the the display
+people use mobile phones and also have a screen is on top which function
+users if we put led lights on the buttons so that if you press on the menu button
+ten buttons for a for all the channels you can just push one button
+press said you the screen gets activated and then you can use this buttons to press
+watch out for the if we make it for a very fashionable it that the functional requirements
+confirm a want to go one step back it's only two extra buttons
+longer so that you can put your from also reach the middle of it says menu
+reach a little bit for the power button and channel volume selection are teletext
+remote like this if you put it on the top on the side
+concentrate more on the button placements and it's the placement of t a screen
+channels and left or right for the volume right i'm a multifunctional navigation buttons
+features the above forty people are not so interests and to not interested in the screen or speech recognition
+channel five on channel settings or channel programming your channels in the right order
+department do we need just the functional display and for curses
+changing the channels thing is i have to integrate that in the design
+serving of one hundred subjects in the usability lab using the remote control options so we need to menus
+lower age groups a design it's it doesn't make a remote control on noticed in your room
+phones options we want to put an lcd options that's communicate with the infrared decoder
+tvs in standby people don't understand it so so they need a simpler remote
+problem mean you are you a car and channel volume selection present the numbers present
+younger users are more acquainted with these machines so they can use more advanced functions
+save this and you just press the number in a remote and then say a confirm and then it's a it's easier
+harder to if you have already program it to swap
+idea because then it becomes clear about the extra two buttons or active
+information came it was xx with all the steps in the remote control that to follow so i was trying to organise
+match the operating behaviour of the users are not afraid of a lot of functions
+functions and on the Seems was it the target group so it's above forty
+prefer we use the basic new requirements of the management were no teletext only for tv
+wary of space left and then put a logo should be like on top
+tv options which is all this the sound and then within sounds i trouble on base
+screen like on a mobile phones are just are some stripes a little holes
+irrelevant the less use for audio settings mono stereo pitch based travel screen settings brightness and colour
+action so you scroll into it e you select a function like fall of like a base
+kick-off working design was to specify a half the fiscal interaction between the components
+simple and all that advanced features are hidden in the screen with the clear menu
+tvs automatically display the name which you get to the cable
+signal of certain spatial frequencies it's a counters one it shows on your tv
+people don't want to sit on their knees in front of the television it's difficult
+screen this you been option to go back to it to upper level the finally
+consequences on the marketing a part if want to incorporate that we need to microphone
+overview of what we discussed in our last Meeting
+news flash also stated that so it should control only one device only your television
+product should reach a new market which is the customers below forty
+presentation is mainly based on my own ideas i haven't time to integrate that information
+problem because the thing has to have a colour anyway and lots of the times there is a brand present
+skip this price as because i read a ball forty is it from twenty to forty
+work for thirty minutes
+received an email so i'd like we'll use so i'd just drop it in the folder
+rights and to write down the most of my or first lunch break and then we can work
+kinda structure in two layers
+figure or figure out a way to do that easily
+overrides the previous and previous
+called a cold lasts
+mit v doesn't have any cue equalising
