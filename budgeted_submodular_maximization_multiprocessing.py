@@ -9,8 +9,11 @@ output (ROUGE score)
 tixier_evaluation.csv
 """
 import os
-path_to_root = '/data/gshang/acl2018_abssumm/'
-os.chdir(path_to_root)
+import sys
+# path_to_root = '/data/gshang/acl2018_abssumm/'
+path_to_root = '/root/project/text-summery/text_summerization/'
+# os.chdir(path_to_root)
+sys.path.append(path_to_root)
 import time
 import csv
 import string
