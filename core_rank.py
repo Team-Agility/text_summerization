@@ -23,7 +23,7 @@ def terms_to_graph(lists_of_terms, window_size, overspanning):
         w = min(window_size, len(terms))
         # create initial complete graph (first w terms)
         terms_temp = terms[0:w]
-        indexes = list(itertools.combinations(range(w), r=2))
+        indexes = list(itertools.combinations(list(range(w)), r=2))
 
         new_edges = []
 
@@ -36,7 +36,7 @@ def terms_to_graph(lists_of_terms, window_size, overspanning):
                 from_to[new_edge] = 1
 
         # then iterate over the remaining terms
-        for i in xrange(w, len(terms)):
+        for i in range(w, len(terms)):
             # term to consider
             considered_term = terms[i]
             # all terms within sliding window
@@ -44,7 +44,7 @@ def terms_to_graph(lists_of_terms, window_size, overspanning):
 
             # edges to try
             candidate_edges = []
-            for p in xrange(w - 1):
+            for p in range(w - 1):
                 candidate_edges.append((terms_temp[p], considered_term))
 
             for try_edge in candidate_edges:
@@ -78,11 +78,11 @@ def terms_to_graph(lists_of_terms, window_size, overspanning):
         g.add_vertices(sorted(set([item for sublist in lists_of_terms for item in sublist])))
 
     # add edges, direction is preserved since the graph is directed
-    g.add_edges(from_to.keys())
+    g.add_edges(list(from_to.keys()))
 
     # set edge and vertice weights
-    g.es['weight'] = from_to.values()  # based on co-occurence within sliding window
-    g.vs['weight'] = g.strength(weights=from_to.values())  # weighted degree
+    g.es['weight'] = list(from_to.values())  # based on co-occurence within sliding window
+    g.vs['weight'] = g.strength(weights=list(from_to.values()))  # weighted degree
 
     return (g)
 
@@ -92,14 +92,14 @@ def core_dec(g, weighted=True):
     gg = copy.deepcopy(g)
 
     # initialize dictionary that will contain the core numbers
-    cores_g = dict(zip(gg.vs["name"], [0] * len(gg.vs["name"])))
+    cores_g = dict(list(zip(gg.vs["name"], [0] * len(gg.vs["name"]))))
 
     if weighted == True:
         # k-core decomposition for weighted graphs (generalized k-cores)
         # based on Batagelj and Zaversnik's (2002) algorithm #4
 
         # initialize min heap of degrees
-        heap_g = zip(gg.vs["weight"], gg.vs["name"])
+        heap_g = list(zip(gg.vs["weight"], gg.vs["name"]))
         heapq.heapify(heap_g)
 
         while len(heap_g) > 0:
@@ -123,19 +123,19 @@ def core_dec(g, weighted=True):
                     max_n = max(cores_g[top], gg.strength(weights=gg.es["weight"])[index_n])
                     gg.vs[index_n]["weight"] = max_n
                     # update heap
-                    heap_g = zip(gg.vs["weight"], gg.vs["name"])
+                    heap_g = list(zip(gg.vs["weight"], gg.vs["name"]))
                     heapq.heapify(heap_g)
             else:
                 # update heap
-                heap_g = zip(gg.vs["weight"], gg.vs["name"])
+                heap_g = list(zip(gg.vs["weight"], gg.vs["name"]))
                 heapq.heapify(heap_g)
     else:
         # k-core decomposition for unweighted graphs
         # based on Batagelj and Zaversnik's (2002) algorithm #1
-        cores_g = dict(zip(gg.vs["name"], g.coreness()))
+        cores_g = dict(list(zip(gg.vs["name"], g.coreness())))
 
     # sort vertices by decreasing core number
-    sorted_cores_g = sorted(cores_g.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_cores_g = sorted(list(cores_g.items()), key=operator.itemgetter(1), reverse=True)
 
     return (sorted_cores_g)
 
@@ -143,7 +143,7 @@ def core_dec(g, weighted=True):
 def sum_numbers_neighbors(g, names_numbers):
     # if used with core numbers, implements CoreRank (Tixier et al. EMNLP 2016)
     # initialize dictionary that will contain the scores
-    name_scores = dict(zip(g.vs['name'], [0] * len(g.vs['name'])))
+    name_scores = dict(list(zip(g.vs['name'], [0] * len(g.vs['name']))))
     # iterate over the nodes
     for name_number in names_numbers:
         name = name_number[0]
@@ -156,7 +156,7 @@ def sum_numbers_neighbors(g, names_numbers):
         name_scores[name] = sum_numbers_neighbors
 
     # sort by decreasing score number
-    sorted_name_scores = sorted(name_scores.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_name_scores = sorted(list(name_scores.items()), key=operator.itemgetter(1), reverse=True)
 
     return sorted_name_scores
 

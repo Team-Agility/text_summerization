@@ -20,9 +20,9 @@ import os
 import sys
 # path_to_root = '/data/gshang/acl2018_abssumm/'
 # path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
-path_to_root = '/root/project/text-summery/text_summerization/'
-# os.chdir(path_to_root)
-sys.path.append(path_to_root)
+# path_to_root = '/root/project/text-summery/text_summerization/'
+# # os.chdir(path_to_root)
+# sys.path.append(path_to_root)
 
 import string
 import core_rank
@@ -49,8 +49,8 @@ source     = 'manual'     # asr, manual
 # #########################
 def comm_det():
     if domain == 'meeting':
-        path_to_stopwords    = path_to_root + 'resources/stopwords/meeting/stopwords.' + language + '.dat'
-        path_to_filler_words = path_to_root + 'resources/stopwords/meeting/filler_words.' + language + '.txt'
+        path_to_stopwords    = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
+        path_to_filler_words = 'resources/stopwords/meeting/filler_words.' + language + '.txt'
         stopwords = utils.load_stopwords(path_to_stopwords)
         filler_words = utils.load_filler_words(path_to_filler_words)
 
@@ -60,7 +60,7 @@ def comm_det():
             ids = meeting_lists.icsi_development_set + meeting_lists.icsi_test_set
 
     if language == 'en':
-        path_to_word2vec_keys = path_to_root + 'resources/word2vec_keys.txt'
+        path_to_word2vec_keys = 'resources/word2vec_keys.txt'
     # tokenizer = DictionaryTokenizer(path_to_word2vec_keys) # highly time-consuming
     # tokenizer = TweetTokenizer()
     tagger = PerceptronTagger()
@@ -73,9 +73,9 @@ def comm_det():
         if domain == 'meeting':
             if dataset_id == 'ami' or dataset_id == 'icsi':
                 if source == 'asr':
-                    path = path_to_root + 'data/meeting/' + dataset_id + '/' + id + '.da-asr'
+                    path = 'data/meeting/' + dataset_id + '/' + id + '.da-asr'
                 elif source == 'manual':
-                    path = path_to_root + 'data/meeting/' + dataset_id + '/' + id + '.da'
+                    path = 'data/meeting/' + dataset_id + '/' + id + '.da'
                 # filler words will be removed during corpus loading
                 corpus[id] = utils.read_ami_icsi(path, filler_words)
 
@@ -148,8 +148,8 @@ def comm_det():
 
     # save indexed parameter grid
     import csv
-    keys = params[0].keys()
-    with open(path_to_root + 'data/' +  dataset_id + '_params_create_community.csv', 'wb') as output_file:
+    keys = list(params[0].keys())
+    with open('data/' +  dataset_id + '_params_create_community.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(params)
@@ -159,7 +159,7 @@ def comm_det():
     # ##########################
     for param in params:
         param_id = param['index']
-        print "### Parameter Grid Search:", str(param_id + 1), "/", str(len(params)), param
+        print("### Parameter Grid Search:", str(param_id + 1), "/", str(len(params)), param)
 
         algorithm        = param['algorithm']
         aware            = param['aware']
@@ -175,7 +175,7 @@ def comm_det():
         overspanning     = param['overspanning']
 
         for id in ids:
-            print id
+            print(id)
 
             utterances_indexed = corpus[id]
             utterances_indexed_tagged = corpus_tagged[id]
@@ -205,7 +205,7 @@ def comm_det():
                 else:
                     # print "drop:", utt
                     pass
-            print len(utterances_processed), 'utterances'
+            print(len(utterances_processed), 'utterances')
 
             # ############################
             # ### UTTERANCE CLUSTERING ###
@@ -242,7 +242,7 @@ def comm_det():
                 utt_scores.append(round(sum([core_rank_scores[word] for word in words]) / float(len(words)), 2))
 
             # remove communities with less than min_elt number of utterances
-            comm_labels = [k for k, v in c.iteritems() if v >= min_elt]
+            comm_labels = [k for k, v in c.items() if v >= min_elt]
 
             # assign score to each community as size-normolized cumulative informativeness scores of the utterances they contain
             # (measure of average informativeness for each community)
@@ -254,7 +254,7 @@ def comm_det():
 
             # sort communities according to the average score of the utterances they contain
             # get sorted index of elements of comm_scores
-            std_idx = sorted(range(len(comm_scores)), key=lambda x: comm_scores[x], reverse=True)
+            std_idx = sorted(list(range(len(comm_scores))), key=lambda x: comm_scores[x], reverse=True)
             std_comm_labels = [comm_labels[idx] for idx in std_idx]
 
             # ##############
@@ -262,7 +262,7 @@ def comm_det():
             # ##############
             # output remain utterances
             if domain == 'meeting':
-                path_to_utterance = path_to_root + 'data/utterance/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
+                path_to_utterance = 'data/utterance/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
             if not os.path.exists(path_to_utterance):
                 os.makedirs(path_to_utterance)
 
@@ -271,7 +271,7 @@ def comm_det():
 
             # output community
             if domain == 'meeting':
-                path_to_community = path_to_root + 'data/community/meeting/'+ source + '/' + dataset_id + '_' + str(param_id) + '/'
+                path_to_community = 'data/community/meeting/'+ source + '/' + dataset_id + '_' + str(param_id) + '/'
             if not os.path.exists(path_to_community):
                 os.makedirs(path_to_community)
 
@@ -286,7 +286,7 @@ def comm_det():
 
             # output tagged community
             if domain == 'meeting':
-                path_to_community_tagged = path_to_root + 'data/community_tagged/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
+                path_to_community_tagged = 'data/community_tagged/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
             if not os.path.exists(path_to_community_tagged):
                 os.makedirs(path_to_community_tagged)
 

@@ -14,7 +14,7 @@ from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 from scipy import sparse
 from collections import Counter
-from utils import accumulate
+from itertools import accumulate
 
 
 def cluster_utterances(
@@ -137,7 +137,7 @@ def cluster_utterances(
                 speaker = random.choice(speaker_set)
                 if n_comms_speaker[speaker] > 1:
                     n_comms_speaker[speaker] = n_comms_speaker[speaker] - 1
-            print 'speaker awareness n_comms:', n_comms_speaker
+            print('speaker awareness n_comms:', n_comms_speaker)
 
             # get indexes of speech for each speaker
             idx = {speaker : [] for speaker in speaker_set}
@@ -177,7 +177,7 @@ def cluster_utterances(
                 speaker = random.choice(speaker_set)
                 if n_comms_speaker[speaker] > 1:
                     n_comms_speaker[speaker] = n_comms_speaker[speaker] - 1
-            print 'speaker awareness n_comms:', n_comms_speaker
+            print('speaker awareness n_comms:', n_comms_speaker)
 
             # get indexes of speech for each speaker
             idx = {speaker: [] for speaker in speaker_set}
