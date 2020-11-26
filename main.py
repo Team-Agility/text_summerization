@@ -1,0 +1,3 @@
+from data import utterance_community_detection
+
+utterance_community_detection.comm_det()

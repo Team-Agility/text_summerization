@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nltk = "==3.4.5"
+scikit-learn = "==0.20.4"
+pandas = "==0.24.2"
+networkx = "==1.11"
+python-igraph = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
