@@ -1,6 +1,4 @@
-, I'm going to be responsible for the functional design phase .
 Also the conceptual design and the detailed design for the final product .
-I will also be responsible for the functional design phase , the conceptual design phase and the detailed design phase of the user interface design .
 , I'll be doing some trend-watching in the conceptual design , and product evaluation for the design phase .
 Same with conceptual design and detailed design .
 , one thing we'd have to think about internationally is in the design of , , like different kinds of , , V_C_R_s .
@@ -10,16 +8,18 @@ Yes , it's a television remote control .
 a your personal experiences with remote controls , and , areas you see that , , could be improved in your experience with them .
 Anything about , , the look of the , , remote control that you might have ideas about .
 
+, I'm going to be responsible for the functional design phase .
+I will also be responsible for the functional design phase , the conceptual design phase and the detailed design phase of the user interface design .
+
 as a team we're going to be designing and creating a new remote control .
 And so we have to , , come up with a way to , to create a , a remote control , where
 we can like the price to create it will be significantly less .
 
-I always find that in our house the remote control always goes missing .
-tracking device for the remote control or some signal that you could find out where it was .
-Do yous not find that , , like , there's a lot of , , buttons on your remote control , and you what half of them do .
-
 You'll be beginning your , your working design .
 , U_I_D_ the technical functions design will , will be worked on the next thirty minutes .
+
+I always find that in our house the remote control always goes missing .
+tracking device for the remote control or some signal that you could find out where it was .
 
 I'm Heather , I'm your Project Manager .
 I'm the Industrial Designer for this project .
@@ -32,20 +32,24 @@ my favourite animal would be a dog ,
 So that's gonna be my favourite animal because after all the snow it seemed to say that like Spring is finally here .
 
 This is the first meeting for developing our , our new product .
-but at this point in the , in the first meeting it can be any ideas that we just throw out there .
-Or not present but bring to the meeting .
+, we want this to be a marketable product that can be trendy ,
+
+My name's Tara and I'm the User Interface Designer .
 
 , the way that we're going to go about this is , , we'll have a time where we can , come up with new ideas alone , and work on the project
 So this is time for us to bring our initial ideas , any suggestions that you may have so far ,
 
-and , , discuss , , our aims and objects of this ,
-and then , , after we've brainstormed and , and thought about , we can come together in a meeting and , and discuss what , what , what functional design we want to use .
-
 I find that in the dark it's often hard to button you're pushing .
+Do yous not find that , , like , there's a lot of , , buttons on your remote control , and you what half of them do .
 There's some remote controls where there's a hidden panel , so all those buttons that you don't really use unless you're programming .
 So you just have like the number buttons , power button , T_V_ video button .
 
-My name's Tara and I'm the User Interface Designer .
+but at this point in the , in the first meeting it can be any ideas that we just throw out there .
+Or not present but bring to the meeting .
+
+and , , discuss , , our aims and objects of this ,
+and then , , after we've brainstormed and , and thought about , we can come together in a meeting and , and discuss what , what , what functional design we want to use .
+
 , I'll be telling you guys about the user requirement specifications for our new product .
 and , , we need the user requirements from the manag
 
@@ -55,10 +59,6 @@ So you have half an hour to , , think about what you want to present .
 
 And it landed by a wall and let me look at it for about two minutes .
 You can press a button on your wall , signal ,
-
-, we want this to be a marketable product that can be trendy ,
-if it's a trendy original , , aspect we're going for .
-And the key issue here is , is being trendy and original .
 
 , the next , , thing we need to address is our financial department , to meet our budget ,
 or not meet our budget but more , , like what , , selling range we'll be looking at ,
@@ -81,11 +81,15 @@ like all sorts of animals , but for the moment I'm gonna draw a cat , in memory 
 Not as artistic as Heather's drawing .
 I'm tempted to draw a snail I draw them sometimes and they're really easy to draw .
 
+, we'd like to , to , , make fifty million Euro .
+, we want it to cost , , absolute maximum of twelve Euro and fifty cents .
+
+, a completely new style , so that , , can really appeal to a , to a generation that doesn't want a simple plain , , channel-changer .
 , wanna make this selling price of twenty five Euros .
 Like , a novelty thing might only sell a few things rather than , like , a general more acceptable
 
-, we'd like to , to , , make fifty million Euro .
-, we want it to cost , , absolute maximum of twelve Euro and fifty cents .
+if it's a trendy original , , aspect we're going for .
+And the key issue here is , is being trendy and original .
 
 because I saw a butterfly yesterday , that seemed to be like the symbol of Spring arriving .
 And it was actually the prettiest butterfly I've ever seen out in the wild ,
@@ -101,21 +105,17 @@ I suppose , if we're he heading to have it , like make a huge profit out of this
 and they seem to enjoy the good things like sunshine and , , running around outside
 as as being inside , and enjoying their food ,
 
-, a completely new style , so that , , can really appeal to a , to a generation that doesn't want a simple plain , , channel-changer .
-
+it can really combat its enemies , even like it's a it's an herbivore but , , it can really defend itself .
 Maybe it could be , instead of like a standard rectangular shape , it could be , , something more interesting like
 
-and although it's gorgeous it's also very dangerous , because it has strong antlers ,
-it can really combat its enemies , even like it's a it's an herbivore but , , it can really defend itself .
-
 In a way it looks awkward , because it's on spindly legs
-
-Do you hear the eraser buzzing while you do that ?
-
+But it can really overcome harsh terrain ,
 and I'm like , this is the middle of Scotland in like March .
 
+and although it's gorgeous it's also very dangerous , because it has strong antlers ,
+
 there was a green , it was a green ring ,
+Do you hear the eraser buzzing while you do that ?
 
 Just gonna attempt to make this into a slide show .
-But it can really overcome harsh terrain ,
 

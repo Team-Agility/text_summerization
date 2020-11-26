@@ -23,8 +23,6 @@ so/RB colour/JJ ,/PUNCT it/PRP seems/VBZ that/IN we/PRP have/VBP the/DT several/
 So/RB ,/PUNCT maybe/RB think/VBP we/PRP can/MD have/VB rubber/NN or/CC some/DT sponges/NNS ,/PUNCT for/IN strawberries/NNS and/CC different/JJ colours/NNS ./PUNCT
 Not/RB special/JJ colours/NNS an/DT interest/NN in/IN ?/PUNCT
 
-It's/NNP a/DT jog/NN dial/NN for/IN controlling/VBG the/DT cursor/NN on/IN the/DT L_C_D_/NNP screen/NN ./PUNCT
-
 So/RB ,/PUNCT you/PRP can/MD press/VB these/DT buttons/NNS to/TO increase/VB or/CC decrease/VB the/DT volume/NN ./PUNCT
 With/IN two/CD buttons/NNS ,/PUNCT you/PRP do/VBP this/DT like/JJ volume/NN up/RB ,/PUNCT volume/NN down/RP ./PUNCT
 
@@ -34,6 +32,9 @@ So/RB ,/PUNCT that/IN when/WRB you/PRP take/VBP device/NNS and/CC push/VB the/DT
 
 Maybe/RB the/DT jog/NN wheel/NN can/MD be/VB like/IN hand/NN
 
+The/DT basic/JJ mode/NN is/VBZ you/PRP got/VBD just/RB two/CD buttons/NNS and/CC a/DT jog/JJ dial/NN ./PUNCT
+It's/NNP a/DT jog/NN dial/NN for/IN controlling/VBG the/DT cursor/NN on/IN the/DT L_C_D_/NNP screen/NN ./PUNCT
+
 And/CC making/VBG some/DT analysis/NN of/IN different/JJ fruits/NNS ,/PUNCT we/PRP choose/VBP the/DT ultimate/JJ form/NN ,/PUNCT ultimate/JJ colours/NNS ,/PUNCT and/CC ultimate/JJ smell/NN of/IN it/PRP ./PUNCT
 Even/RB we/PRP can/MD provide/VB many/JJ different/JJ colours/NNS or/CC different/JJ fruits/NNS ,/PUNCT and/CC
 
@@ -42,8 +43,6 @@ Even/RB we/PRP can/MD provide/VB many/JJ different/JJ colours/NNS or/CC differen
 
 it's/VB the/DT most/JJS of/IN the/DT moder/NN the/DT m/NN the/DT modern/JJ material/NN we/PRP can/MD p/VB select/NN ./PUNCT And/CC it's/JJ practical/NN ./PUNCT And/CC it's/JJ still/RB say/VBP it's/NN for/IN our/PRP$ needs/NNS ,/PUNCT
 You/PRP select/VBP twenty/RB ,/PUNCT you/PRP select/VBP five/CD ./PUNCT
-
-The/DT basic/JJ mode/NN is/VBZ you/PRP got/VBD just/RB two/CD buttons/NNS and/CC a/DT jog/JJ dial/NN ./PUNCT
 
 As/IN ,/PUNCT before/IN going/VBG and/CC creating/VBG and/CC producing/VBG these/DT strawberry/JJ remote/NN control/NN ,/PUNCT it's/JJ very/RB important/JJ to/TO first/JJ verify/VB if/IN it/PRP makes/VBZ sense/NN ,/PUNCT if/IN we/PRP have/VBP a/DT chance/NN to/TO sell/VB it/PRP ./PUNCT
 
@@ -105,17 +104,17 @@ it/PRP covers/VBZ all/PDT the/DT end/NN goals/NNS ./PUNCT
 
 So/RB ,/PUNCT as/IN we/PRP discussed/VBD ,/PUNCT we/PRP have/VBP to/TO switch/VB on/IN switch/VB off/RP whenever/WRB we/PRP want/VBP ./PUNCT
 
-So/RB ,/PUNCT first/JJ Mark/NNP and/CC Rama/NNP are/VBP going/VBG to/TO present/VB the/DT prototype/NN ./PUNCT
 So/RB first/JJ ,/PUNCT I/PRP present/VBP as/IN we/PRP came/VBD to/TO this/DT perfect/JJ model/NN ,/PUNCT
+So/RB ,/PUNCT we/PRP want/VBP to/TO have/VB simple/JJ and/CC perfect/JJ shapes/NNS ,/PUNCT like/IN I/PRP shown/VBN in/IN these/DT phones/NNS ./PUNCT
 
 we/PRP only/RB address/VBD two/CD main/JJ functions/NNS here/RB
+
+So/RB ,/PUNCT first/JJ Mark/NNP and/CC Rama/NNP are/VBP going/VBG to/TO present/VB the/DT prototype/NN ./PUNCT
 
 Everyone/NN is/VBZ f/VBN really/RB really/RB glad/JJ to/TO obtain/VB an/DT s/NN such/PDT a/DT r/NN such/PDT a/DT device/NN ./PUNCT
 
 Is/VBZ it/PRP the/DT effective/JJ size/NN and/CC weight/NN that/IN the/DT
 Is/VBZ it/PRP real/JJ size/NN ,/PUNCT real/JJ weight/NN ?/PUNCT
-
-So/RB ,/PUNCT we/PRP want/VBP to/TO have/VB simple/JJ and/CC perfect/JJ shapes/NNS ,/PUNCT like/IN I/PRP shown/VBN in/IN these/DT phones/NNS ./PUNCT
 
 So/RB ,/PUNCT we/PRP see/VBP ,/PUNCT we/PRP can/MD even/RB forecast/VB ./PUNCT they/PRP propose/VBP us/PRP like/IN celebration/NN ,/PUNCT everything/NN ,/PUNCT
 
@@ -123,10 +122,9 @@ Here/RB you/PRP have/VBP microphone/VBN ,/PUNCT and/CC then/RB it/PRP date/NN re
 
 Which/WDT imply/RB good/JJ team/NN performance/NN ./PUNCT
 
-W/NNP Who/WP is/VBZ the/DT five/CD fifty/JJ millions/NNS we/PRP first/RB make/VBP a/DT party/NN in/IN ?/PUNCT
-
-and/CC it's/VB completely/RB completely/RB secure/NN to/TO leave/VB it/PRP with/IN children/NNS and/CC that/DT ./PUNCT
 they/PRP may/MD have/VB some/DT their/PRP$ origins/NNS ,/PUNCT strange/JJ origins/NNS
+
+W/NNP Who/WP is/VBZ the/DT five/CD fifty/JJ millions/NNS we/PRP first/RB make/VBP a/DT party/NN in/IN ?/PUNCT
 
 Safe/JJ asse/NN safe/JJ assessment/NN ./PUNCT
 
@@ -137,6 +135,8 @@ If/IN you/PRP can/MD see/VB this/DT ,/PUNCT and/CC the/DT stars/NNS are/VBP show
 I/PRP wonder/VBP if/IN we/PRP put/VBP A_/NNP or/CC B_/NNP somewhere/RB instead/RB of/IN a/DT number/NN ./PUNCT
 
 Whiteboard/NNP ,/PUNCT digital/JJ pens/NNS ./PUNCT
+
+and/CC it's/VB completely/RB completely/RB secure/NN to/TO leave/VB it/PRP with/IN children/NNS and/CC that/DT ./PUNCT
 
 A/DT good/JJ leader/NN ,/PUNCT ,/PUNCT a/DT good/JJ leader/NN is/VBZ somewhere/RB in/IN the/DT shade/NN and/CC
 

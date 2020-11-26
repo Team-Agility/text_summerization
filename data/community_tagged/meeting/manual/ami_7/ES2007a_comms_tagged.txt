@@ -1,7 +1,5 @@
 see/VB what/WP people/NNS want/VBP in/IN a/DT remote/NN ,/PUNCT what/WP buttons/NNS are/VBP used/VBN more/RBR often/RB ,/PUNCT and/CC s/NNS like/IN that/DT ./PUNCT
 
-,/PUNCT you/PRP want/VBP one/CD remote/NN that/IN maybe/RB can/MD work/VB all/DT of/IN the/DT functions/NNS of/IN T_V_/NNP
-
 ./PUNCT it's/VB a/DT T_V_/NNP remote/NN control/NN ./PUNCT
 A/DT new/JJ remote/NN control/NN for/IN T_V_/NNP ./PUNCT
 maybe/RB we/PRP should/MD just/RB concentrate/VB on/IN having/VBG a/DT good/JJ T_V_/NNP remote/NN ,/PUNCT
@@ -10,14 +8,15 @@ I'm/NNP not/RB if/IN it's/VB a/DT good/JJ idea/NN to/TO have/VB a/DT two/CD side
 
 so/RB you/PRP gotta/VBP you/PRP go/VBP ,/PUNCT you're/PRP gonna/VBP be/VB the/DT one/CD that's/NN working/VBG out/RP what/WP buttons/IN we/PRP need/VBP ./PUNCT ./PUNCT
 
+,/PUNCT you/PRP want/VBP one/CD remote/NN that/IN maybe/RB can/MD work/VB all/DT of/IN the/DT functions/NNS of/IN T_V_/NNP
+but/CC the/DT functions/NNS that/WDT we're/VBP that/IN we/PRP want/VBP are/VBP that/IN it/PRP can/MD control/VB the/DT T_V_/NNP ,/PUNCT
+
 experience/NN with/IN remote/JJ control/NN ,/PUNCT
 get/VB some/DT rough/JJ ideas/NNS for/IN what/WP our/PRP$ experiences/NNS with/IN remote/NN controls/NNS have/VBP been/VBN
 Right/RB ,/PUNCT who's/JJ got/VBD experiences/NNS with/IN remote/NN controls/NNS then/RB ?/PUNCT
-
-but/CC the/DT functions/NNS that/WDT we're/VBP that/IN we/PRP want/VBP are/VBP that/IN it/PRP can/MD control/VB the/DT T_V_/NNP ,/PUNCT
+remote/NN controls/NNS can/MD be/VB thin/JJ bits/NNS ./PUNCT
 
 Project/NN aim/NN is/VBZ a/DT new/JJ remote/NN control/NN ./PUNCT
-remote/NN controls/NNS can/MD be/VB thin/JJ bits/NNS ./PUNCT
 
 you/PRP actually/RB just/RB putting/VBG three/CD or/CC four/CD different/JJ remotes/VBZ together/RB but/CC making/VBG them/PRP thinner/NN ,/PUNCT and/CC into/IN one/CD ./PUNCT
 Remotes/NNS spinning/VBG out/RP from/IN other/JJ remotes/NNS and/CC having/VBG little/JJ nested/JJ remotes/NNS inside/IN ./PUNCT
@@ -123,16 +122,17 @@ No/DT ,/PUNCT but/CC you/PRP would/MD slide/VB it/PRP into/IN someth/NNS like/IN
 
 I/PRP honestly/VBP can't/JJ draw/NN for/IN toffee/NN ./PUNCT ./PUNCT
 
+we're/JJ sounds/NNS like/IN we're/VBP all/PDT a/DT bit/NN gadget/JJ heads/NNS
+
 and/CC you'd/VB come/NN and/CC sit/VB down/RB and/CC ,/PUNCT the/DT telephone's/NN the/DT television/NN switched/VBD on/IN ./PUNCT
 
 it/PRP would/MD be/VB very/RB hard/RB to/TO use/VB in/IN the/DT way/NN that/IN you/PRP mani/VBP manipulate/VB it/PRP ./PUNCT
 
 Do/VBP you/PRP want/VB to/TO use/VB the/DT wipe/NN the/DT m/NN the/DT wiper/NN and/CC wipe/VB it/PRP off/RP ?/PUNCT
 
-And/CC they/PRP can/MD feel/VB when/WRB a/DT human's/NN got/VBD problems/NNS so/RB
-we're/JJ sounds/NNS like/IN we're/VBP all/PDT a/DT bit/NN gadget/JJ heads/NNS
-
 but/CC then/RB you'll/RB have/VBP to/TO describe/VB in/IN writing/VBG how/WRB the/DT rest/NN of/IN it/PRP looks/VBZ ./PUNCT
+
+And/CC they/PRP can/MD feel/VB when/WRB a/DT human's/NN got/VBD problems/NNS so/RB
 
 Video/NNP and/CC ts/VB hi-fi/NN and/CC ./PUNCT
 

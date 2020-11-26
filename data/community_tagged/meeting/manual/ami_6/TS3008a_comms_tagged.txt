@@ -35,15 +35,11 @@ You/PRP all/DT received/VBD an/DT email/NN with/IN a/DT example/NN of/IN our/PRP
 ,/PUNCT it/PRP consists/VBZ of/IN three/CD levels/NNS of/IN design/NN ./PUNCT
 Every/DT level/NN of/IN design/NN consists/VBZ of/IN some/DT individual/JJ work/NN ,/PUNCT and/CC we/PRP close/VBP it/PRP with/IN a/DT meeting/NN ./PUNCT
 
-And/CC it's/VB clear/JJ you/PRP can/MD put/VB the/DT in/IN the/DT project/NN documents/NNS presentations/NNS ./PUNCT
-
 I/PRP if/IN touch/PDT the/DT power/NN button/NN ./PUNCT
 but/CC if/IN you/PRP see/VBP elderly/JJ people/NNS ,/PUNCT all/PDT these/DT buttons/NNS ,/PUNCT and/CC then/RB they/PRP buy/VBP new/JJ T_V_/NNP because/IN their/PRP$ previous/JJ one/CD was/VBD stolen/VBN or/CC whatever/WDT ./PUNCT
 
 The/DT User/NNP Interface/NNP Designer/NNP
 is/VBZ it/PRP a/DT User/NNP Inter/NNP User/NNP Interface/NNP
-
-on/IN blank/JJ sheets/NNS with/IN different/JJ colours/NNS ,/PUNCT with/IN different/JJ pen/JJ widths/NNS ./PUNCT
 
 ,/PUNCT first/JJ we're/NN gonna/NN gonna/NN try/VB some/DT different/JJ things/NNS with/IN the/DT tools/NNS we/PRP have/VBP over/VBN here/RB ,/PUNCT so/IN you/PRP get/VBP acquainted/VBN with/IN these/DT meeting/NN tools/NNS ./PUNCT
 
@@ -51,16 +47,20 @@ on/IN blank/JJ sheets/NNS with/IN different/JJ colours/NNS ,/PUNCT with/IN diffe
 
 Are/VBP they/PRP difficult/JJ to/TO understand/VB ,/PUNCT or/CC maybe/RB they/PRP don't/VBP interact/JJ with/IN different/JJ equipment/NN very/RB ?/PUNCT
 
+And/CC it's/VB clear/JJ you/PRP can/MD put/VB the/DT in/IN the/DT project/NN documents/NNS presentations/NNS ./PUNCT
+Project/NN joc/NN project/NN documents/NNS is/VBZ for/IN showing/VBG on/IN the/DT white-board/NN ./PUNCT
+
 and/CC you/PRP can/MD make/VB new/JJ sheets/NNS by/IN by/IN pu/NN puttin/NN pressing/VBG on/IN the/DT blank/JJ button/NN ./PUNCT
 
-But/CC ,/PUNCT the/DT D_V_D_/NNP players/NNS and/CC home/NN cinema/NN sets/NNS often/RB double/RB as/IN stereo/JJ hi-fi/JJ sets/NNS probably/RB ./PUNCT
+and/CC you/PRP can/MD change/VB the/DT line/NN width/NN and/CC the/DT colour/NN of/IN the/DT pen/NN by/IN pressing/VBG on/IN forward/NN ,/PUNCT
+on/IN blank/JJ sheets/NNS with/IN different/JJ colours/NNS ,/PUNCT with/IN different/JJ pen/JJ widths/NNS ./PUNCT
+
 Hi-fi/NNP set/NN is/VBZ not/RB often/RB used/VBN as/IN I/PRP know/VBP of/IN in/IN combination/NN with/IN television/NN ./PUNCT
 
-and/CC you/PRP can/MD change/VB the/DT line/NN width/NN and/CC the/DT colour/NN of/IN the/DT pen/NN by/IN pressing/VBG on/IN forward/NN ,/PUNCT
+But/CC ,/PUNCT the/DT D_V_D_/NNP players/NNS and/CC home/NN cinema/NN sets/NNS often/RB double/RB as/IN stereo/JJ hi-fi/JJ sets/NNS probably/RB ./PUNCT
+
 which/WDT y/NN you/PRP have/VBP to/TO select/VB pen/JJ format/NN ./PUNCT And/CC then/RB select/VB current/JJ colour/NN or/CC line/NN width/NN ./PUNCT
 And/CC so/RB in/IN the/DT format/NN menu/NN you/PRP can/MD choose/VB the/DT different/JJ colours/NNS and/CC pen/JJ widths/NNS ./PUNCT
-
-Project/NN joc/NN project/NN documents/NNS is/VBZ for/IN showing/VBG on/IN the/DT white-board/NN ./PUNCT
 
 ,/PUNCT every/DT participant/NN should/MD draw/VB his/PRP$ favourite/JJ animal/NN and/CC some/DT of/IN its/PRP$ favourite/JJ characteristics/NNS ,/PUNCT
 ,/PUNCT tell/VB us/PRP something/NN about/IN your/PRP$ favourite/JJ characteristics/NNS of/IN these/DT particular/JJ birds/NNS ./PUNCT
@@ -87,7 +87,7 @@ It's/NNP like/IN a/DT very/RB simple/JJ paint/NN application/NN ./PUNCT
 
 examples/NNS of/IN the/DT tool/NN training/NN ,/PUNCT project/NN plan/NN discussion/NN and/CC the/DT closing/NN ./PUNCT
 
-so/IN you/PRP can/MD do/VB your/PRP$ PowerPoint/NNP presentations/NNS on/IN this/DT screen/NN ./PUNCT
+And/CC the/DT Management/NNP Expert/NNP of/IN the/DT Marketing/NNP Expert/NNP ./PUNCT User/NNP requirements/NNS specifi/NN
 
 That/DT w/NN ,/PUNCT then/RB you're/VBZ the/DT usability/NN man/NN ,/PUNCT so/IN this/DT gonna/NN be/VB a/DT very/RB important/JJ task/NN for/IN you/PRP then/RB ./PUNCT
 or/CC is/VBZ important/JJ that/IN we/PRP leave/VBP at/IN exact/NN
@@ -99,8 +99,8 @@ This/DT is/VBZ the/DT presentation/NN boards/NNS ,/PUNCT wh/NN which/WDT one/CD 
 We/PRP have/VBP the/DT smart-boards/NNS ,/PUNCT the/DT thes/NNS those/DT two/CD boards/NNS ./PUNCT
 No/DT ,/PUNCT I/PRP saw/VBD the/DT file/NN ,/PUNCT the/DT smart-board/NN that/IN X_B_K_/NN but/CC
 
-The/DT market/NN range/NN is/VBZ international/JJ ,/PUNCT so/RB it's/JJ gonna/NN be/VB sold/VBN world-wide/JJ ,/PUNCT
-And/CC the/DT Management/NNP Expert/NNP of/IN the/DT Marketing/NNP Expert/NNP ./PUNCT User/NNP requirements/NNS specifi/NN
+so/IN you/PRP can/MD do/VB your/PRP$ PowerPoint/NNP presentations/NNS on/IN this/DT screen/NN ./PUNCT
+,/PUNCT but/CC we're/VBP all/DT familiar/JJ with/IN Microsoft/NNP PowerPoint/NNP ,/PUNCT are/VBP we/PRP ?/PUNCT
 
 ,/PUNCT I'm/NNP gonna/VBZ draw/VB a/DT p/NN piranha/NN ./PUNCT ,/PUNCT a/DT fish/NN ./PUNCT
 
@@ -109,7 +109,7 @@ I/PRP have/VBP su/VBN to/TO sum/VB up/RP its/PRP$ favourite/JJ characteris/NN
 And/CC then/RB you/PRP have/VBP to/TO place/VB your/PRP$ laptop/NN exactly/RB on/IN the/DT marked/JJ spot/NN ./PUNCT
 It's/NNP important/JJ to/TO place/VB your/PRP$ laptop/NN exactly/RB on/IN the/DT marked/JJ spot/NN over/IN here/RB ./PUNCT
 
-,/PUNCT but/CC we're/VBP all/DT familiar/JJ with/IN Microsoft/NNP PowerPoint/NNP ,/PUNCT are/VBP we/PRP ?/PUNCT
+The/DT market/NN range/NN is/VBZ international/JJ ,/PUNCT so/RB it's/JJ gonna/NN be/VB sold/VBN world-wide/JJ ,/PUNCT
 
 Joost/NNP ,/PUNCT Guido/NNP ,/PUNCT Antek/NNP ./PUNCT
 Antek/NNP Ahmet/NNP ./PUNCT And/CC Joost/NNP ./PUNCT
@@ -120,9 +120,9 @@ He's/NNP crying/NN because/IN it's/NN ugl/NN because/IN of/IN his/PRP$ ugliness/
 
 ,/PUNCT this/DT the/DT maybe/NN is/VBZ some/DT aspect/NN of/IN the/DT ,/PUNCT or/CC some/DT point/NN at/IN which/WDT we/PRP can/MD excel/VB by/IN making/VBG it/PRP very/RB useful/JJ ./PUNCT
 
-Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
-
 We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
+
+Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
 
 Plus/CC ,/PUNCT the/DT big/JJ forehead/NN and/CC a/DT small/JJ ,/PUNCT a/DT small/JJ actual/JJ face/NN ./PUNCT
 

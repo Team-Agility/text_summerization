@@ -33,24 +33,22 @@ using/VBG it/PRP to/TO programme/VB T_V_/NNP and/CC videos/NNS and/CC things/NNS
 
 But/CC on/IN ,/PUNCT off/RB ,/PUNCT volume/NN up/RB and/CC down/RB ,/PUNCT channel/VB one/CD ,/PUNCT two/CD ,/PUNCT th/VBP that/IN basic/JJ functions/NNS ,/PUNCT
 
-appealing/VBG to/TO a/DT wide/JJ market/NN ,/PUNCT
-just/RB t/VB we're/NN not/RB focusing/VBG on/IN business/NN market/NN ,/PUNCT any/DT particular/JJ thing/NN ,/PUNCT it's/VBP everyone/NN
+so/RB that/IN when/WRB you/PRP flip/VBP over/IN the/DT top/JJ ,/PUNCT your/PRP$ screen/NN is/VBZ you/PRP can/MD have/VB a/DT bigger/JJR screen/NN in/IN the/DT flip/NN over/IN ./PUNCT
 
 I/PRP don't/VBP like/IN the/DT ,/PUNCT the/DT new/JJ phones/NNS that/WDT have/VBP got/VBN a/DT Windows-based/JJ running/NN system/NN ./PUNCT
 
-Havi/NNP having/VBG said/VBD that/IN though/IN ,/PUNCT if/IN you/PRP wanna/VBP get/VB one/CD of/IN those/DT the/DT ones/NNS on/IN the/DT market/NN at/IN the/DT moment/NN they're/NN s/NN they're/NN about/IN twenty/JJ pounds/NNS anyway/RB ./PUNCT
-
+appealing/VBG to/TO a/DT wide/JJ market/NN ,/PUNCT
 You've/NNP got/VBD market/NN range/NN international/JJ
+just/RB t/VB we're/NN not/RB focusing/VBG on/IN business/NN market/NN ,/PUNCT any/DT particular/JJ thing/NN ,/PUNCT it's/VBP everyone/NN
 just/RB that/DT it's/VBZ going/VBG to/TO be/VB in/IN the/DT international/JJ market/NN like/IN Australia/NNP ,/PUNCT America/NNP ,/PUNCT things/NNS like/IN that/DT ./PUNCT
+
+Havi/NNP having/VBG said/VBD that/IN though/IN ,/PUNCT if/IN you/PRP wanna/VBP get/VB one/CD of/IN those/DT the/DT ones/NNS on/IN the/DT market/NN at/IN the/DT moment/NN they're/NN s/NN they're/NN about/IN twenty/JJ pounds/NNS anyway/RB ./PUNCT
 
 So/RB that's/RB a/DT problem/NN regardless/NN of/IN any/DT design/NN modifications/NNS you/PRP come/VBP up/RP with/IN ,/PUNCT
 
 And/CC if/IN it's/JJ somewhat/RB similar/JJ to/TO what/WP you/PRP have/VBP on/IN mobile/JJ phone/NN ,/PUNCT people/NNS might/MD find/VB it/PRP easier/JJR to/TO browse/VB and/CC navigate/VB also/RB maybe/RB ./PUNCT
 
 instead/RB of/IN having/VBG too/RB many/JJ b/JJ buttons/NNS and/CC make/VB it/PRP complicated/VBD for/IN the/DT user/NN ,/PUNCT may/MD h/VB maybe/RB have/VBP an/DT L_C_D_/NNP di/NN display/NN like/IN that/DT ,/PUNCT
-
-you/PRP can/MD get/VB to/TO the/DT top/JJ ,/PUNCT with/IN standing/VBG on/IN a/DT chair/NN ./PUNCT
-so/RB that/IN when/WRB you/PRP flip/VBP over/IN the/DT top/JJ ,/PUNCT your/PRP$ screen/NN is/VBZ you/PRP can/MD have/VB a/DT bigger/JJR screen/NN in/IN the/DT flip/NN over/IN ./PUNCT
 
 finance-wise/NN ,/PUNCT we've/NN got/VBD a/DT selling/NN price/NN at/IN twenty/JJ five/CD Euros/NNS ,/PUNCT
 
@@ -61,6 +59,8 @@ finance-wise/NN ,/PUNCT we've/NN got/VBD a/DT selling/NN price/NN at/IN twenty/J
 One/CD point/NN four/CD Euro/NNP would/MD make/VB a/DT Pound/NN like/IN that/DT ./PUNCT
 
 Is/VBZ it/PRP possible/JJ that/IN for/IN the/DT older/JJR generation/NN you/PRP could/MD have/VB like/IN an/DT extra/JJ button/NN that/IN you/PRP press/VBP for/IN large/JJ print/NN like/IN you/PRP do/VBP in/IN large/JJ print/NN books/NNS ?/PUNCT
+
+you/PRP can/MD get/VB to/TO the/DT top/JJ ,/PUNCT with/IN standing/VBG on/IN a/DT chair/NN ./PUNCT
 
 that's/NN gonna/NN be/VB a/DT problem/NN anyway/RB with/IN the/DT older/JJR generation/NN perhaps/RB ,/PUNCT
 
@@ -80,9 +80,9 @@ and/CC draw/VB our/PRP$ favourite/JJ animal/NN on/IN the/DT white/JJ board/NN ,/
 ,/PUNCT as/IN you/PRP can/MD see/VB ,/PUNCT the/DT quality/NN of/IN the/DT work/NN today/NN is/VBZ
 ,/PUNCT what/WP it/PRP just/RB needs/VBZ to/TO be/VB as/RB long/RB as/IN it's/JJ self-intuitive/JJ and/CC you/PRP can/MD work/VB out/RP what/WP everything's/VBZ doing/VBG ,/PUNCT
 
-or/CC is/VBZ it/PRP going/VBG to/TO make/VB our/PRP$ product/NN look/VB a/DT cheapie-cheapie/NN option/NN ?/PUNCT
-
 and/CC sum/VB up/RP the/DT characteristics/NNS of/IN that/DT animal/NN ./PUNCT
+
+or/CC is/VBZ it/PRP going/VBG to/TO make/VB our/PRP$ product/NN look/VB a/DT cheapie-cheapie/NN option/NN ?/PUNCT
 
 we've/NN got/VBD half/PDT an/DT hour/NN before/IN the/DT next/JJ meeting/NN ,/PUNCT
 
@@ -97,25 +97,25 @@ Something/VBG that's/JJ easily/RB moulded/VBN and/CC produced/VBN ./PUNCT
 
 ,/PUNCT leave/VB me/PRP a/DT space/NN at/IN the/DT bottom/NN ,/PUNCT
 
-An/DT eagle/NN ,/PUNCT again/RB I'm/NNP thinking/VBG on/IN my/PRP$ feet/NNS goodness/NN ./PUNCT
-
-I/PRP don't/VBP think/VB it's/VB a/DT case/NN of/IN worrying/VBG about/IN different/JJ languages/NNS and/CC things/NNS like/IN that/DT ,/PUNCT
-
-It's/NNP not/RB a/DT vampire/NN bat/NN honestly/RB ./PUNCT
-
 grannies/NNS to/TO kids/NNS ,/PUNCT maybe/RB even/RB pooches/NNS should/MD be/VB able/JJ to/TO use/VB it/PRP ./PUNCT
+
+And/CC I/PRP see/VBP them/PRP as/IN majestic/NN ,/PUNCT and/CC independent/JJ ,/PUNCT and/CC proud/NN ./PUNCT
 
 firstly/RB it/PRP was/VBD an/DT attempt/NN at/IN a/DT T_/NNP Rex/NNP
 
 ,/PUNCT I'm/NNP very/RB impressed/JJ with/IN your/PRP$ artistic/JJ skills/NNS ,/PUNCT
 
-And/CC I/PRP see/VBP them/PRP as/IN majestic/NN ,/PUNCT and/CC independent/JJ ,/PUNCT and/CC proud/NN ./PUNCT
+It's/NNP not/RB a/DT vampire/NN bat/NN honestly/RB ./PUNCT
+
+An/DT eagle/NN ,/PUNCT again/RB I'm/NNP thinking/VBG on/IN my/PRP$ feet/NNS goodness/NN ./PUNCT
 
 pretty/RB huge/JJ margin/NN ./PUNCT
 
-and/CC I/PRP get/VBP to/TO do/VB another/DT fantastic/JJ PowerPoint/NNP presentation/NN ./PUNCT
+I/PRP don't/VBP think/VB it's/VB a/DT case/NN of/IN worrying/VBG about/IN different/JJ languages/NNS and/CC things/NNS like/IN that/DT ,/PUNCT
 
 You/PRP mean/VBP to/TO save/VB it/PRP lesser/JJR number/NN ./PUNCT
+
+and/CC I/PRP get/VBP to/TO do/VB another/DT fantastic/JJ PowerPoint/NNP presentation/NN ./PUNCT
 
 talk/NN about/IN the/DT project/NN plan/NN ,/PUNCT
 

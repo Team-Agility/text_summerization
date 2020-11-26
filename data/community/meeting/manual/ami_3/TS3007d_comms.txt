@@ -18,6 +18,7 @@ R if you promote a kinetic I kinetic remote control , , that would b sell better
 No , , y , y you can go into your neighbour and tell him , ha , my k remote control is kinetic .
 You have standard old battery control remote con
 Whoever makes a remote control out of titanium .
+about the three functions where which are most used and which must immediately be visible on our remote control .
 Like , w we don't have to buy parental control .
 
 During the design design life-cycle we
@@ -25,15 +26,12 @@ The remote control is designed for people with age below forty .
 , it's not just designed for people under the age of forty . It's also designed for people above forty .
 the qu question is aimed at is it designed for people with age below forty .
 But it's also designed for people of age above forty . So ,
-it will be primary appealing to m minus forty , but also appealing to
+Jeroen and I , we had a more design we could have more we had more room for creativity than you two .
 
-But , idea is for to stay in balance with these two with these two .
+So it will be a better idea to have some flashy fruity colours as a standard ,
 So , maybe it's an idea to put that as an extra and not as a standard .
-The idea is great , but it doesn't work properly .
-New ideas about the working of this software , about the project , about the remote controls or
-But the new ideas found for wi with working with this software ?
-May maybe the idea you proposed is a screen here .
-But then , the idea of one person entering it and the rest discussing it , that isn't that bad idea , actually .
+And lea l delivered standard with a fruity colour , but not too much .
+But , the mai th the standard must be some attractive flashy colours .
 
 And and for colours , we figured starting with basic colours like white or metallic grey .
 , we had decided to put some flashy fruity colours in it ,
@@ -44,95 +42,104 @@ we decided not to make two f fresh colours , as it would not .
 Special is the special colour ?
 , if you're honest , we'll type one , special colour .
 
-But , it's standard they will be delivered with this set-up .
-So it will be a better idea to have some flashy fruity colours as a standard ,
-And lea l delivered standard with a fruity colour , but not too much .
-But , the mai th the standard must be some attractive flashy colours .
-, except for the buttons it's it could be a standard model .
+But , idea is for to stay in balance with these two with these two .
+The idea is great , but it doesn't work properly .
+New ideas about the working of this software , about the project , about the remote controls or
+But the new ideas found for wi with working with this software ?
+May maybe the idea you proposed is a screen here .
+But then , the idea of one person entering it and the rest discussing it , that isn't that bad idea , actually .
 
-We made a top , or a front view .
-The remote control has big , clear channel switching buttons .
+, except for the buttons it's it could be a standard model .
 , teletext buttons and volume buttons ?
 Otherwise , the people who read this are gonna think we have no teletext button .
 , but the teletext button . , you can ch That's in a menu .
 Jus just with ten buttons , that's the easiest .
 It is r it is rather easy to use , because you have the primary buttons always visible .
-, the decision to make the buttons on the top , and the menu on the
 
+so the young people will buy an orange and a red and blue and a purple ,
+but when the o older people go in the shop and they see an orange remote control , it would be less appealing than a white one .
 And young people , we think , are a little bit more flexible ,
 , but you d you mustn't forget that our target aim is younger people .
+and in the survey from Milan and Paris it came out that the d the older people are more willing to to spend money on extra features .
 and for the people who really want a more sophisticated , more traditional look , they're willing to pay that .
+This is banana and mango , not purple or p orange and yellow .
 , imagine you are here you're with the ten people and everyone
 , it must be simple to use , very clear what to do , and at the younger people .
 
-If you make it double-curved , it costs one Euro more .
-, he here it is still double-curve , the rubber , the flashy , the fruity , the removable .
-
-function f , functionality and our fancy look , so .
-And the last , paren parental advisory function .
-, there's an a athe aesthetic value , but not functionality .
-and maybe some functions for circle or a square .
-about the three functions where which are most used and which must immediately be visible on our remote control .
-No , you have to put , switch channels at the top , because that's the most used function and teletext at the second
-And the added functions like Tetris snake ,
-the added functions . , was it included in the cost ?
-
-We decided to use a single touch-screen .
-, , and as you saw , we would just have the basic remote with the panel L_C_D_ screen .
-als otherwise you'll just have the L_C_D_ screen .
-Why we decided to use a flat L_C_D_ .
-
-evaluation crit criteria .
-Of c you have to be very positive and enthusiastic about your own product .
-We also have to do the evaluation , the production costs and .
-, we have now to c to calculate the production cost .
-, but it doesn't fit in our co cost profile . So
-
+The remote control has big , clear channel switching buttons .
 Be it takes a lot of time to draw things and to write things ,
 when we trying to draw these buttons , it's almost impossible to get clear when you're
 when you use a pen , you can just draw like you d draw normally ,
 And now you have to keep constantly in mind that you're drawing on this screen .
 
+Of c you have to be very positive and enthusiastic about your own product .
+We also have to do the evaluation , the production costs and .
+, we have now to c to calculate the production cost .
+, but it doesn't fit in our co cost profile . So
+
 , and then we must see if we stay under the twelve and a half Euro .
 maximum is om , one and a half centimetres .
-they think , I'll buy for a couple of Euros some noi hip
 If it's under twelve and half Euro , then it's .
 , if the costs are under twelve and a half Euro , then we can ra move on to the project evaluation , as we have experienced it .
 We have to fil , want to do it in and see if we stay under the twelve and a half Euro .
 So , if we do this , we're on twelve and a half Euro .
 , you make like eleven and a half Euros profit instead of twelve and a half .
 But I if twelve and a half is a fixed fixed price .
-because if you want to go to kinetic , you're you're on thirteen and a half and you must go to flat ,
+
+function f , functionality and our fancy look , so .
+And the last , paren parental advisory function .
+, there's an a athe aesthetic value , but not functionality .
+and maybe some functions for circle or a square .
+No , you have to put , switch channels at the top , because that's the most used function and teletext at the second
+And the added functions like Tetris snake ,
+the added functions . , was it included in the cost ?
+
+We decided to use a single touch-screen .
+, , and as you saw , we would just have the basic remote with the panel L_C_D_ screen .
+The s panel we g you would hide with some more rubber layers ,
+, you would s you wouldn't see the straight panel , but more fluidly and round .
+als otherwise you'll just have the L_C_D_ screen .
+Why we decided to use a flat L_C_D_ .
 
 So , it has to be a group group decision .
 is a decision decision system
 Just a little group decision application .
 
-if you if you have thirty , forty minutes for this things ,
-from the over here with the managements you get two minutes to make your case ,
-, you ha you have ten minutes left , I read .
+We made a top , or a front view .
+, the decision to make the buttons on the top , and the menu on the
 
 , during the meeting I showed you the concept of placing the buttons on top , usable with your thumb ,
 was there room for creativity in our meetings or in your individual meetings ?
-Jeroen and I , we had a more design we could have more we had more room for creativity than you two .
 the first meeting was a little bit of unstructured meeting .
 and the last two meetings also we reached some good decisions about talk
 , five minutes from to finish meeting .
 
+if you if you have thirty , forty minutes for this things ,
+from the over here with the managements you get two minutes to make your case ,
+, you ha you have ten minutes left , I read .
+Management Expert , you have to change that .
+
+But the overlaying layer is a little bit curved and .
+But is it s it's not made from a single uncurved thingy and then and then
+, other case , we can make it single-curved or uncurved .
+No , it's just one curve and not a back curved . Or
+If you make it double-curved , it costs one Euro more .
+And if you make the single curve ha just a big curve ,
+It is possible , but you can't use double curves for titanium .
+, it's a big big eraser .
+, he here it is still double-curve , the rubber , the flashy , the fruity , the removable .
+
 What do you think , Mister Project Manager ?
 , but D but Daniel , tha that's another brand .
+So that's wh tha that's one option .
 now it's about time to talk about this project .
 , I th you two , especially you and Daniel , you d you both had the less creative roles in the project .
 , we work together on a project , but everybody has his own task .
-Management Expert , you have to change that .
 
-We we just want to build a more adult vers adult version of this .
-so the young people will buy an orange and a red and blue and a purple ,
-but when the o older people go in the shop and they see an orange remote control , it would be less appealing than a white one .
-and in the survey from Milan and Paris it came out that the d the older people are more willing to to spend money on extra features .
-This is banana and mango , not purple or p orange and yellow .
-if this lying on your couch , you're you're you think what's that for kinda orange thing .
-You ma can make an especialised extra gold version .
+But , it's standard they will be delivered with this set-up .
+So , there must be some cheap standard cover ,
+But you can use rechargeable batteries anyway , just you s you have to recharge them manual .
+the energy , which turn out to be batteries ,
 
 As as I said a m a c few moments ago , it I would like , myself , to write with a normal pen ,
 , and tr try to wri write your name in a normal size , .
@@ -150,18 +157,12 @@ You have now ten minutes left to finish up the end report .
 , , maybe you can add it later that we decided in the end because of the cost .
 I'm going to finish my end report .
 
-But the overlaying layer is a little bit curved and .
-But is it s it's not made from a single uncurved thingy and then and then
-, other case , we can make it single-curved or uncurved .
-No , it's just one curve and not a back curved . Or
-And if you make the single curve ha just a big curve ,
-It is possible , but you can't use double curves for titanium .
-, it's a big big eraser .
-
 It would be best to appeal to a broad public and make the covers exchangeable ,
 Maybe it's an idea to sell it without a cover , so that you can pick a cover in the shop .
 , maybe we could develop a cover with wood style .
+it will be primary appealing to m minus forty , but also appealing to
 What do you think about putting a battery in it , but also selling like the covers , a docking station
+Wood is m is cheaper than rubber .
 no , but it's a development inside corporation .
 
 And , , we began with with a form of shape , that is is easy to hold w in one hand , left or right handed .
@@ -169,41 +170,11 @@ and the menu structure , if necessary , with your other hand ,
 And it has to be acce accessible with your other hand too , .
 But it will lie more in your hand like an old telephone maybe ,
 , we added that this can be held with your hands for this
+if this lying on your couch , you're you're you think what's that for kinda orange thing .
 , if i if you see a strange shape lying somewhere , then you'd recognise it as , whoa , that is strange .
 
-This is for the added effect of y youth and dynamic .
-, you can see there's a v a very youthful dynamic exterior .
-you just want to hold it you you are young and dynamic like us .
-Worth , does it have added worth ?
-
-So , there must be some cheap standard cover ,
-But you can use rechargeable batteries anyway , just you s you have to recharge them manual .
-Here . Picture from scanner , clip-art .
-the energy , which turn out to be batteries ,
-
-we made lot of requirements and trend analysis and .
-, now is the time to evaluate our prototype concept to to the past requirements .
-So we are going to evaluate the design according to the past user requirements and trends analysis .
-Leads to user face , .
-I'm the User Interface Expert .
-But but the survey under users was that they really lost it .
-
-the layer around it fits around the bubbles on the o on the the back of the
-, j maybe we'll finish the list first and then look back , aye ?
-so we have to bake the ba back flat , and then
-Could we just make the bubbles cut off the back , and then we're has
-
-and it has some ar artistic meaning .
-, what we figured is we'll show you a picture later on
-Hey , that's actually a brilliant marketing stand .
-it's the marketing angle on television .
-Fo fo fo five is .
-Mobile phones nowadays .
-Hey , those ar arcs , why are there for ?
-But I figured that the kinetic would be a marketing promotion .
-
 So we began working out a concept .
-Sample sensor sample speaker ?
+Fo fo fo five is .
 Nah , the leadership wasn't crappy , it was the leader that was crappy .
 Stupid stupid pen , but
 Nah . , we had some trouble with the pen , but
@@ -211,22 +182,49 @@ Digital pen , th the first time I did individual work , I used it .
 , it's almost the same concept , but you can just sim more simply put it on our scanner .
 I it's the same concept as the pen , where you f have to download the software or s very slow .
 
-We have the more advanced menu setting right here .
-But , maybe make it two , because the games are in a sub-menu and not it's not an entire game .
+they think , I'll buy for a couple of Euros some noi hip
 , simple chip on print ?
 We're now in a problem , we have reached eleven Euro yet .
 And that would solve the budget problem .
 No advanced chip , that's a little bit of problem .
-You'll rather use PowerPoint and work it out in advance .
 
-The s panel we g you would hide with some more rubber layers ,
-, you would s you wouldn't see the straight panel , but more fluidly and round .
+evaluation crit criteria .
+we made lot of requirements and trend analysis and .
+, now is the time to evaluate our prototype concept to to the past requirements .
+So we are going to evaluate the design according to the past user requirements and trends analysis .
+Leads to user face , .
+I'm the User Interface Expert .
+But but the survey under users was that they really lost it .
+
+, what we figured is we'll show you a picture later on
+Hey , that's actually a brilliant marketing stand .
+it's the marketing angle on television .
+Mobile phones nowadays .
+Hey , those ar arcs , why are there for ?
+But I figured that the kinetic would be a marketing promotion .
+because if you want to go to kinetic , you're you're on thirteen and a half and you must go to flat ,
+Here . Picture from scanner , clip-art .
+
+This is for the added effect of y youth and dynamic .
+, you can see there's a v a very youthful dynamic exterior .
+you just want to hold it you you are young and dynamic like us .
+Worth , does it have added worth ?
+Was initial , the plan . The initial plan .
+
 S and you can just be the layer of the touchscreen and some have some wires underneath it to make it as thin as possible in the middle for good grip .
-Wood is m is cheaper than rubber .
-and I couldn't go on i on the internet and search my own . Bu
+the layer around it fits around the bubbles on the o on the the back of the
+, j maybe we'll finish the list first and then look back , aye ?
+so we have to bake the ba back flat , and then
+Could we just make the bubbles cut off the back , and then we're has
+
+and it has some ar artistic meaning .
+We have the more advanced menu setting right here .
+But , maybe make it two , because the games are in a sub-menu and not it's not an entire game .
+You'll rather use PowerPoint and work it out in advance .
 
 And after that , an evaluation of the process how we how we have done it here with the SMARTboard , with the with our laptops , with the all all this .
 , we have to fill in the numbers of the component components .
+the w Block letter sign it , ?
 I follow the Master class for the SMARTboard ,
 n almo almost my entire computer is locked up during the process
 maybe a l a little application like give your own number and click one two three four five six seven .
@@ -244,9 +242,11 @@ And it is still your own handwriting popping up in Word .
 Just t type text , and that would be excellent .
 you can select file and export and then those J_ PEG files .
 
-So that's wh tha that's one option .
-the w Block letter sign it , ?
+We we just want to build a more adult vers adult version of this .
+Sample sensor sample speaker ?
+You ma can make an especialised extra gold version .
+
+and I couldn't go on i on the internet and search my own . Bu
 With W_W_ dot Google dot com .
 Re Real Reaction dot N_L_ .
-Was initial , the plan . The initial plan .
 

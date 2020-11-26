@@ -1,7 +1,6 @@
 and that's if we're gonna make a remote control , it should actually work for what it's doing .
 
 are we designing a remote control for a television only
-, if it if we're taking it just new product a new television remote control that's not like doesn't say .
 
 Because that is one thing that remotes tend to have buttons that the T_V_s no longer have as .
 
@@ -14,6 +13,9 @@ or do all remotes require batteries ?
 but not necessarily on the m the normal remote .
 
 but that just has your major buttons for that work for everything , volume control , on , off ,
+
+, if it if we're taking it just new product a new television remote control that's not like doesn't say .
+So we should maybe we should assume that i t it's just a television that we're wanting to control .
 
 all the whatever else we have programmed into it's all just in its separate place and not like all the on buttons together ,
 
@@ -47,8 +49,6 @@ would we even technically be possible to include video recorder functions on it 
 
 I hate when there's like four different buttons and you have to press to actually turn on the T_V_
 so i it's just simpler just to just turn around the T_V_ itself ,
-
-So we should maybe we should assume that i t it's just a television that we're wanting to control .
 
 the conceptional design , individual work and a meeting ,
 and then the detailed design , individual work and a meeting .

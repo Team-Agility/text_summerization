@@ -35,8 +35,8 @@ because/IN you're/PRP$ sat/NNS in/IN the/DT chair/NN and/CC the/DT remote/NN is/
 
 method/NN of/IN doing/VBG this/DT is/VBZ split/VBN up/RP as/IN you/PRP can/MD see/VB into/IN the/DT functional/JJ design/NN ,/PUNCT the/DT conceptional/JJ design/NN ,/PUNCT and/CC the/DT detailed/JJ design/NN
 to/TO help/VB you/PRP folks/VB design/VB our/PRP$ new/JJ model/NN as/IN it/PRP were/VBD ./PUNCT
-For/IN U_I_D_/NNP the/DT technical/JJ functions/NNS design/NN ./PUNCT
 
+So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
 But/CC at/IN this/DT point/NN in/IN time/NN you're/NN right/NN that/WDT shall/MD we/PRP make/VB it/PRP just/RB a/DT T_V_/NNP ./PUNCT
 
 Where/WRB we/PRP We/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN this/DT meeting/NN ./PUNCT
@@ -47,10 +47,9 @@ during/IN the/DT course/NN of/IN our/PRP$ day/NN we/PRP might/MD make/VB decisio
 
 as/IN you/PRP rightly/RB said/VBD ,/PUNCT there's/VBD nothing/NN more/RBR annoying/NN than/IN having/VBG three/CD or/CC four/CD devices/NNS littered/VBD about/IN the/DT about/IN the/DT room/NN ./PUNCT
 
-And/CC having/VBG meetings/NNS so/RB that/IN we/PRP can/MD during/IN the/DT course/NN of/IN the/DT day/NN come/VB up/RP with/IN a/DT better/JJR inst/NN implement/NN than/IN we/PRP had/VBD before/IN ./PUNCT
+For/IN U_I_D_/NNP the/DT technical/JJ functions/NNS design/NN ./PUNCT
 
-We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
-So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
+And/CC having/VBG meetings/NNS so/RB that/IN we/PRP can/MD during/IN the/DT course/NN of/IN the/DT day/NN come/VB up/RP with/IN a/DT better/JJR inst/NN implement/NN than/IN we/PRP had/VBD before/IN ./PUNCT
 
 And/CC so/RB depending/VBG what/WP the/DT the/DT overhead/JJ costs/NNS are/VBP will/MD determine/VB how/WRB many/JJ units/NNS we're/VBP looking/VBG to/TO sell/VB or/CC projecting/VBG to/TO sell/VB at/IN this/DT point/NN in/IN time/NN ./PUNCT
 
@@ -71,6 +70,8 @@ That/DT information/NN has/VBZ come/VBN from/IN our/PRP$ marketing/NN manager/NN
 
 we've/NN done/VBN some/DT research/NN about/IN what/WP the/DT cutting/NN edge/NN hand/NN held/VBD devices/NNS are/VBP ,/PUNCT
 
+We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
+
 Work/NN has/VBZ been/VBN done/VBN on/IN this/DT project/NN where/WRB by/IN twenty/NN five/CD Euros/NNP is/VBZ the/DT expected/JJ selling/NN price/NN ./PUNCT
 
 And/CC therefore/RB have/VBP a/DT successful/JJ conclusion/NN to/TO the/DT day/NN ./PUNCT
@@ -81,8 +82,6 @@ that/IN I/PRP would/MD have/VB to/TO say/VB that/IN my/PRP$ favourite/JJ animal/
 
 That's/NNP that's/NN maybe/RB something/NN for/IN the/DT future/NN when/WRB you/PRP can/MD talk/VB to/TO your/PRP$ television/NN ,/PUNCT but/CC
 
-And/CC therefore/RB making/VBG a/DT profit/NN margin/NN of/IN not/RB actually/RB a/DT profit/NN margin/NN it's/NN because/IN you're/NN gonna/NNS have/VBP overheads/NNS and/CC various/JJ other/JJ costs/NNS to/TO take/VB from/IN that/DT to/TO give/VB you/PRP your/PRP$ profit/NN margin/NN per/IN unit/NN ./PUNCT
-
 and/CC change/VB the/DT water/NN every/DT couple/NN of/IN months/NNS ,/PUNCT
 So/RB whereas/RB in/IN the/DT past/JJ you'd/NN have/VBP to/TO get/VB up/RP to/TO change/VB the/DT channel/NN ,/PUNCT
 
@@ -91,9 +90,10 @@ So/RB we're/JJ looking/VBG to/TO sell/VB internationally/RB ,/PUNCT not/RB just/
 But/CC is/VBZ it/PRP in/IN a/DT sense/NN it's/NN r/NN mutually/RB exclusive/JJ ./PUNCT
 And/CC so/IN these/DT are/VBP probably/RB mutually/RB exclusive/JJ options/NNS
 
-and/CC therefore/RB to/TO to/TO get/VB a/DT bigger/JJR market/NN share/NN and/CC bigger/JJR audience/NN ./PUNCT
-
 We're/NNP looking/VBG at/IN having/VBG our/PRP$ production/NN costs/NNS limited/VBD to/TO twelve/VB and/CC an/DT half/JJ Euro/NNP per/IN unit/NN ./PUNCT
+And/CC therefore/RB making/VBG a/DT profit/NN margin/NN of/IN not/RB actually/RB a/DT profit/NN margin/NN it's/NN because/IN you're/NN gonna/NNS have/VBP overheads/NNS and/CC various/JJ other/JJ costs/NNS to/TO take/VB from/IN that/DT to/TO give/VB you/PRP your/PRP$ profit/NN margin/NN per/IN unit/NN ./PUNCT
+
+and/CC therefore/RB to/TO to/TO get/VB a/DT bigger/JJR market/NN share/NN and/CC bigger/JJR audience/NN ./PUNCT
 
 and/CC I/PRP like/VBP my/PRP$ animal/NN that/IN looks/VBZ nothing/NN like/IN a/DT bear/NN because/IN maybe/RB because/IN there's/NN so/RB many/JJ cartoon/NN characters/NNS made/VBD up/RP after/IN the/DT bear/NN
 

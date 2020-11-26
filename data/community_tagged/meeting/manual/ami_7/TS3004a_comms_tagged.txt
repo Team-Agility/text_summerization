@@ -76,9 +76,9 @@ can/MD someone/NN make/VB a/DT calculation/NN about/IN how/WRB many/JJ we/PRP ha
 
 maybe/RB it's/JJ very/RB hard/JJ to/TO make/VB it/PRP fold/JJ open/JJ and/CC to/TO l/VB look/NN like/IN it's/JJ very/RB
 
-We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
-
 And/CC we/PRP have/VBP to/TO make/VB a/DT profit/NN of/IN fifty/JJ million/CD Euros/NNP ,/PUNCT
+
+We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
 
 how/WRB much/JJ is/VBZ your/PRP$ standards/NNS mobile/IN phone/NN recharger/NN ?/PUNCT
 

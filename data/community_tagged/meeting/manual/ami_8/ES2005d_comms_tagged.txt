@@ -104,6 +104,8 @@ Like/IN this/DT ,/PUNCT one/CD curve/NN on/IN this/DT side/NN ,/PUNCT one/CD cur
 maybe/RB we/PRP should/MD start/VB cleaning/VBG up/RP the/DT clay/NN ./PUNCT
 Clay/NNP covered/VBD banana/NN ./PUNCT
 
+the/DT unit/NN we/PRP are/VBP currently/RB going/VBG to/TO produce/VB minus/PDT the/DT extra/JJ scroll/NN buttons/NNS ,/PUNCT it's/JJ gonna/NN cost/NN us/PRP fourteen/JJ point/NN six/CD Euros/NNP ./PUNCT
+
 ,/PUNCT if/IN we're/VBN happy/JJ with/IN the/DT design/NN there's/VBZ no/DT point/NN in/IN spending/NN money/NN ,/PUNCT if/IN we/PRP don't/VBP have/VB to/TO ./PUNCT
 room/NN for/IN creativity/NN ,/PUNCT were/VBD we/PRP happy/JJ with/IN that/DT ?/PUNCT
 
@@ -116,35 +118,33 @@ But/CC in/IN electronics/NNS ,/PUNCT ,/PUNCT it's/VBZ not/RB q/JJ always/RB quit
 Eleven/RB eleven/RB Euros/NNP sixty/NN ./PUNCT
 We/PRP have/VBP under/IN twelve/NNS Euros/NNP fifty/NN ./PUNCT
 
-These/DT are/VBP the/DT s/JJ two/CD scroll/NN ones/NNS which/WDT we/PRP thought/VBD could/MD be/VB channel/VBN up/IN and/CC down/RB and/CC volume/NN up/RB and/CC down/RB ./PUNCT
-the/DT unit/NN we/PRP are/VBP currently/RB going/VBG to/TO produce/VB minus/PDT the/DT extra/JJ scroll/NN buttons/NNS ,/PUNCT it's/JJ gonna/NN cost/NN us/PRP fourteen/JJ point/NN six/CD Euros/NNP ./PUNCT
-
 Maybe/RB if/IN you/PRP click/VBP back/RB in/IN that/DT bottom/JJ right/NN cell/NN ,/PUNCT where/WRB you're/NN starting/VBG from/IN ,/PUNCT and/CC then/RB use/VB the/DT arrow/NN keys/NN ./PUNCT
 
 but/CC that's/VB the/DT that/WDT yellow/JJ stand/NN there/EX represents/VBZ the/DT charging/VBG stand/NN ./PUNCT
 that's/IN the/DT charging/VBG base/NN prongs/NNS at/IN the/DT bottom/NN ./PUNCT
 
-like/IN keeping/VBG in/IN mind/NN all/PDT the/DT safety/NN issues/NNS ./PUNCT
+Hold/VB on/IN till/NN I/PRP find/VBP it/PRP ,/PUNCT
+
+These/DT are/VBP the/DT s/JJ two/CD scroll/NN ones/NNS which/WDT we/PRP thought/VBD could/MD be/VB channel/VBN up/IN and/CC down/RB and/CC volume/NN up/RB and/CC down/RB ./PUNCT
 
 That's/NN it/PRP ,/PUNCT another/DT couple/NN of/IN days/NNS holiday/JJ pay/NN might/MD be/VB in/IN order/NN for/IN all/DT of/IN you/PRP ./PUNCT
 
-Hold/VB on/IN till/NN I/PRP find/VBP it/PRP ,/PUNCT
-But/CC if/IN there/EX is/VBZ anything/NN you/PRP think/VBP we've/NNS missed/VBN out/IN there/RB ,/PUNCT then/RB ,/PUNCT ,/PUNCT feel/VB free/JJ to/TO add/VB it/PRP ./PUNCT
-
-it'll/NN be/VB made/VBN out/IN of/IN a/DT rubbery/NN latex/NN ,/PUNCT new/JJ material/NN that/WDT we've/VBZ got/VBD ./PUNCT
-
-You/PRP just/RB select/VB one/CD box/NN outsi/NN
-
 main/JJ problem/NN that/IN we/PRP have/VBP unfortunately/RB being/VBG finance/NN ./PUNCT
+like/IN keeping/VBG in/IN mind/NN all/PDT the/DT safety/NN issues/NNS ./PUNCT
+
+so/IN you/PRP can/MD speak/VB into/IN it/PRP like/IN a/DT little/JJ walkie-talkie/NN as/IN for/IN speak/JJ recognition/NN ./PUNCT
+it'll/NN be/VB made/VBN out/IN of/IN a/DT rubbery/NN latex/NN ,/PUNCT new/JJ material/NN that/WDT we've/VBZ got/VBD ./PUNCT
 
 but/CC it/PRP doesn't/VBZ have/VBP that/DT fancy/NN solar/JJ power/NN or/CC the/DT vibrating/VBG energy/NN mechanism/NN ./PUNCT
 
-so/IN you/PRP can/MD speak/VB into/IN it/PRP like/IN a/DT little/JJ walkie-talkie/NN as/IN for/IN speak/JJ recognition/NN ./PUNCT
+You/PRP just/RB select/VB one/CD box/NN outsi/NN
+But/CC if/IN there/EX is/VBZ anything/NN you/PRP think/VBP we've/NNS missed/VBN out/IN there/RB ,/PUNCT then/RB ,/PUNCT ,/PUNCT feel/VB free/JJ to/TO add/VB it/PRP ./PUNCT
 
 It's/NNP to/TO induce/VB more/JJR television/NN watching/NN I/PRP suppose/VBP or/CC
 
 but/CC we/PRP couldn't/VBP reach/VB any/DT proper/JJ goals/NNS ,/PUNCT we/PRP couldn't/VBP use/VB these/DT ,/PUNCT
 
-I've/NNP forgotten/VBZ to/TO mail/VB you/PRP the/DT minutes/NNS ,/PUNCT
 so/RB let's/JJ talk/NN about/IN our/PRP$ bonuses/NNS and/CC the/DT raises/NNS we're/VBP getting/VBG for/IN this/DT ,/PUNCT right/NN ./PUNCT
+
+I've/NNP forgotten/VBZ to/TO mail/VB you/PRP the/DT minutes/NNS ,/PUNCT
 

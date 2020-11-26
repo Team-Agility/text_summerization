@@ -70,9 +70,9 @@ So/RB it's/JJ gonna/NN be/VB you/PRP already/RB have/VBP a/DT T_V_/NNP but/CC yo
 
 I/PRP watch/VBP a/DT film/NN about/IN a/DT black/JJ panther/NN when/WRB I/PRP was/VBD a/DT child/NN
 
-but/CC at/IN the/DT end/NN all/PDT the/DT spiders/NNS kinda/VBP flew/JJ away/RB ./PUNCT
-
 like/IN they/PRP have/VBP they/PRP let/VB out/RP like/IN a/DT stream/NN of/IN like/IN the/DT web/NN building/NN material/NN
+
+but/CC at/IN the/DT end/NN all/PDT the/DT spiders/NNS kinda/VBP flew/JJ away/RB ./PUNCT
 
 and/CC it/PRP can/MD move/VB all/DT about/IN the/DT web/NN in/IN two/CD dimensions/NNS ./PUNCT
 So/IN they/PRP did/VBD this/DT in/IN in/IN Charlotte's/NNP Web/NNP that/IN movie/NN

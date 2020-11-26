@@ -1,3 +1,10 @@
+as a team we're going to be designing and creating a new remote control .
+So this is a television remote control ?
+Yes , it's a television remote control .
+And so we have to , , come up with a way to , to create a , a remote control , where
+a your personal experiences with remote controls , and , areas you see that , , could be improved in your experience with them .
+Anything about , , the look of the , , remote control that you might have ideas about .
+
 , I'm going to be responsible for the functional design phase .
 Also the conceptual design and the detailed design for the final product .
 My name's Tara and I'm the User Interface Designer .
@@ -5,56 +12,51 @@ I will also be responsible for the functional design phase , the conceptual desi
 , I'll be doing some trend-watching in the conceptual design , and product evaluation for the design phase .
 Same with conceptual design and detailed design .
 , one thing we'd have to think about internationally is in the design of , , like different kinds of , , V_C_R_s .
-You'll be beginning your , your working design .
-
-as a team we're going to be designing and creating a new remote control .
-So this is a television remote control ?
-Yes , it's a television remote control .
-And so we have to , , come up with a way to , to create a , a remote control , where
-a your personal experiences with remote controls , and , areas you see that , , could be improved in your experience with them .
-I find that in the dark it's often hard to button you're pushing .
-I always find that in our house the remote control always goes missing .
-tracking device for the remote control or some signal that you could find out where it was .
-Do yous not find that , , like , there's a lot of , , buttons on your remote control , and you what half of them do .
-There's some remote controls where there's a hidden panel , so all those buttons that you don't really use unless you're programming .
-So you just have like the number buttons , power button , T_V_ video button .
-Anything about , , the look of the , , remote control that you might have ideas about .
 
 And , , as a team-building moment , , I'd like us to , , try out the whiteboard by expressing our favourite animal and the charac characteristics of that animal .
 My favourite animal , which changes all the time , ,
 and it , it is my favourite animal right now , it is a large beautiful majestic creature ,
 while , , you guys express your favourite animals .
+I am a big animal lover .
 my favourite animal would be a dog ,
 So that's gonna be my favourite animal because after all the snow it seemed to say that like Spring is finally here .
+
+I find that in the dark it's often hard to button you're pushing .
+I always find that in our house the remote control always goes missing .
+tracking device for the remote control or some signal that you could find out where it was .
+You can press a button on your wall , signal ,
+Do yous not find that , , like , there's a lot of , , buttons on your remote control , and you what half of them do .
+There's some remote controls where there's a hidden panel , so all those buttons that you don't really use unless you're programming .
+So you just have like the number buttons , power button , T_V_ video button .
+
+, the way that we're going to go about this is , , we'll have a time where we can , come up with new ideas alone , and work on the project
+So this is time for us to bring our initial ideas , any suggestions that you may have so far ,
+but at this point in the , in the first meeting it can be any ideas that we just throw out there .
+
+And it landed by a wall and let me look at it for about two minutes .
+You'll be beginning your , your working design .
+, U_I_D_ the technical functions design will , will be worked on the next thirty minutes .
 
 I'm Heather , I'm your Project Manager .
 I'm the Industrial Designer for this project .
 And tool training is one thing that we're going to be doing today ,
-, the way that we're going to go about this is , , we'll have a time where we can , come up with new ideas alone , and work on the project
 One thing that , , we're going to do is become more acquainted with the , the tools that we have access to for our project .
 
 This is the first meeting for developing our , our new product .
-, the next , , thing we need to address is our financial department , to meet our budget ,
-or not meet our budget but more , , like what , , selling range we'll be looking at ,
-So this is time for us to bring our initial ideas , any suggestions that you may have so far ,
-but at this point in the , in the first meeting it can be any ideas that we just throw out there .
-Or not present but bring to the meeting .
-
-, I'll be telling you guys about the user requirement specifications for our new product .
-and , , we need the user requirements from the manag
-
-And it landed by a wall and let me look at it for about two minutes .
-we can like the price to create it will be significantly less .
-You can press a button on your wall , signal ,
-, U_I_D_ the technical functions design will , will be worked on the next thirty minutes .
-
 and , , discuss , , our aims and objects of this ,
 and then , , after we've brainstormed and , and thought about , we can come together in a meeting and , and discuss what , what , what functional design we want to use .
-Maybe it could be , instead of like a standard rectangular shape , it could be , , something more interesting like
+, the next , , thing we need to address is our financial department , to meet our budget ,
+or not meet our budget but more , , like what , , selling range we'll be looking at ,
 
 , our next meeting will be in half an hour .
 So you have half an hour to , , think about what you want to present .
+Or not present but bring to the meeting .
 , you will get specific instructions , , of what to do in the next half an hour .
+
+, I'll be telling you guys about the user requirement specifications for our new product .
+And , , it needs to be user-friendly for , , maybe , for an example , for people that , , can't see the numbers as ,
+But they're just so friendly and warm and animals ,
+and , , we need the user requirements from the manag
 
 , we want this to be a marketable product that can be trendy ,
 if it's a trendy original , , aspect we're going for .
@@ -65,42 +67,40 @@ there are loads of different types of dogs , so I'm it'll represent one dog .
 It's a scary cartoon dog .
 like they can be trained to be police dogs and seeing-eye dogs ,
 
-And , , it needs to be user-friendly for , , maybe , for an example , for people that , , can't see the numbers as ,
-But they're just so friendly and warm and animals ,
-
-I am a big animal lover .
-But this part was all brown and then it has these big blue dots like this .
-
 like all sorts of animals , but for the moment I'm gonna draw a cat , in memory of my poor cat that died recently .
 Not as artistic as Heather's drawing .
 I'm tempted to draw a snail I draw them sometimes and they're really easy to draw .
 
+, a completely new style , so that , , can really appeal to a , to a generation that doesn't want a simple plain , , channel-changer .
 , wanna make this selling price of twenty five Euros .
+we can like the price to create it will be significantly less .
 , we'd like to , to , , make fifty million Euro .
 , we want it to cost , , absolute maximum of twelve Euro and fifty cents .
+Like , a novelty thing might only sell a few things rather than , like , a general more acceptable
 
 With our microphones still attached to our bodies .
 because I saw a butterfly yesterday , that seemed to be like the symbol of Spring arriving .
 And it was actually the prettiest butterfly I've ever seen out in the wild ,
+But this part was all brown and then it has these big blue dots like this .
 This part of the body was really dull , and then it was the most colourful exotic butterfly ever ,
+
+Looks kinda like , like it has holly growing out of its head .
+so we'll have a hundred percent profit then ?
+I suppose , if we're he heading to have it , like make a huge profit out of this , it needs to be quite a universally accepted thing .
 
 , but that doesn't mean they're completely not sociable , they enjoy interacting with humans as ,
 and they seem to enjoy the good things like sunshine and , , running around outside
 as as being inside , and enjoying their food ,
 
-Looks kinda like , like it has holly growing out of its head .
-In a way it looks awkward , because it's on spindly legs
-I suppose , if we're he heading to have it , like make a huge profit out of this , it needs to be quite a universally accepted thing .
-
-, a completely new style , so that , , can really appeal to a , to a generation that doesn't want a simple plain , , channel-changer .
 and although it's gorgeous it's also very dangerous , because it has strong antlers ,
+it can really combat its enemies , even like it's a it's an herbivore but , , it can really defend itself .
+Maybe it could be , instead of like a standard rectangular shape , it could be , , something more interesting like
+
+In a way it looks awkward , because it's on spindly legs
+there was a green , it was a green ring ,
 and I'm like , this is the middle of Scotland in like March .
-Like , a novelty thing might only sell a few things rather than , like , a general more acceptable
 
 Just gonna attempt to make this into a slide show .
 But it can really overcome harsh terrain ,
-it can really combat its enemies , even like it's a it's an herbivore but , , it can really defend itself .
-there was a green , it was a green ring ,
 Do you hear the eraser buzzing while you do that ?
-so we'll have a hundred percent profit then ?
 

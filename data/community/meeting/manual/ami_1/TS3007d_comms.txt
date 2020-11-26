@@ -42,16 +42,20 @@ But the new ideas found for wi with working with this software ?
 May maybe the idea you proposed is a screen here .
 But then , the idea of one person entering it and the rest discussing it , that isn't that bad idea , actually .
 
-During the design design life-cycle we
+so the young people will buy an orange and a red and blue and a purple ,
+but when the o older people go in the shop and they see an orange remote control , it would be less appealing than a white one .
+And young people , we think , are a little bit more flexible ,
+, but you d you mustn't forget that our target aim is younger people .
+and in the survey from Milan and Paris it came out that the d the older people are more willing to to spend money on extra features .
+and for the people who really want a more sophisticated , more traditional look , they're willing to pay that .
+This is banana and mango , not purple or p orange and yellow .
 The remote control is designed for people with age below forty .
 , it's not just designed for people under the age of forty . It's also designed for people above forty .
 the qu question is aimed at is it designed for people with age below forty .
 But it's also designed for people of age above forty . So ,
-was there room for creativity in our meetings or in your individual meetings ?
-Jeroen and I , we had a more design we could have more we had more room for creativity than you two .
-the first meeting was a little bit of unstructured meeting .
-if you if you have thirty , forty minutes for this things ,
-, five minutes from to finish meeting .
+, imagine you are here you're with the ten people and everyone
+Y yikes . Seventy five pages .
+, it must be simple to use , very clear what to do , and at the younger people .
 
 , during the meeting I showed you the concept of placing the buttons on top , usable with your thumb ,
 We made a top , or a front view .
@@ -63,31 +67,15 @@ Otherwise , the people who read this are gonna think we have no teletext button 
 Jus just with ten buttons , that's the easiest .
 It is r it is rather easy to use , because you have the primary buttons always visible .
 when we trying to draw these buttons , it's almost impossible to get clear when you're
-No , you have to put , switch channels at the top , because that's the most used function and teletext at the second
-
-Of c you have to be very positive and enthusiastic about your own product .
-We also have to do the evaluation , the production costs and .
-, we have now to c to calculate the production cost .
-, but it doesn't fit in our co cost profile . So
-, , maybe you can add it later that we decided in the end because of the cost .
-
-We we just want to build a more adult vers adult version of this .
-so the young people will buy an orange and a red and blue and a purple ,
-but when the o older people go in the shop and they see an orange remote control , it would be less appealing than a white one .
-And young people , we think , are a little bit more flexible ,
-, but you d you mustn't forget that our target aim is younger people .
-and in the survey from Milan and Paris it came out that the d the older people are more willing to to spend money on extra features .
-and for the people who really want a more sophisticated , more traditional look , they're willing to pay that .
-This is banana and mango , not purple or p orange and yellow .
-, imagine you are here you're with the ten people and everyone
-, you ha you have ten minutes left , I read .
-, it must be simple to use , very clear what to do , and at the younger people .
-
-So , it has to be a group group decision .
-and the last two meetings also we reached some good decisions about talk
-is a decision decision system
-Just a little group decision application .
 , the decision to make the buttons on the top , and the menu on the
+
+function f , functionality and our fancy look , so .
+And the last , paren parental advisory function .
+, there's an a athe aesthetic value , but not functionality .
+and maybe some functions for circle or a square .
+No , you have to put , switch channels at the top , because that's the most used function and teletext at the second
+And the added functions like Tetris snake ,
+the added functions . , was it included in the cost ?
 
 , and then we must see if we stay under the twelve and a half Euro .
 maximum is om , one and a half centimetres .
@@ -98,15 +86,20 @@ We have to fil , want to do it in and see if we stay under the twelve and a half
 So , if we do this , we're on twelve and a half Euro .
 , you make like eleven and a half Euros profit instead of twelve and a half .
 But I if twelve and a half is a fixed fixed price .
-because if you want to go to kinetic , you're you're on thirteen and a half and you must go to flat ,
 
-What do you think , Mister Project Manager ?
-, but D but Daniel , tha that's another brand .
-now it's about time to talk about this project .
-, I th you two , especially you and Daniel , you d you both had the less creative roles in the project .
-, we work together on a project , but everybody has his own task .
-from the over here with the managements you get two minutes to make your case ,
-Management Expert , you have to change that .
+So , it has to be a group group decision .
+and the last two meetings also we reached some good decisions about talk
+is a decision decision system
+Just a little group decision application .
+
+evaluation crit criteria .
+And after that , an evaluation of the process how we how we have done it here with the SMARTboard , with the with our laptops , with the all all this .
+, now is the time to evaluate our prototype concept to to the past requirements .
+Of c you have to be very positive and enthusiastic about your own product .
+We also have to do the evaluation , the production costs and .
+, we have now to c to calculate the production cost .
+, but it doesn't fit in our co cost profile . So
+I follow the Master class for the SMARTboard ,
 
 We decided to use a single touch-screen .
 , , and as you saw , we would just have the basic remote with the panel L_C_D_ screen .
@@ -115,16 +108,15 @@ als otherwise you'll just have the L_C_D_ screen .
 And now you have to keep constantly in mind that you're drawing on this screen .
 Why we decided to use a flat L_C_D_ .
 
-This is for the added effect of y youth and dynamic .
-, you can see there's a v a very youthful dynamic exterior .
-you just want to hold it you you are young and dynamic like us .
-function f , functionality and our fancy look , so .
-And the last , paren parental advisory function .
-Worth , does it have added worth ?
-, there's an a athe aesthetic value , but not functionality .
-and maybe some functions for circle or a square .
-And the added functions like Tetris snake ,
-the added functions . , was it included in the cost ?
+As as I said a m a c few moments ago , it I would like , myself , to write with a normal pen ,
+Be it takes a lot of time to draw things and to write things ,
+, and tr try to wri write your name in a normal size , .
+when you at a foreign audience , you b don't gonna wr write small .
+People will still feel the need to write it quickly on a page and not download it and save it , and
+But if you're in normal flip-over you a lot of people write text .
+And writing text , , you've gotta really do your best to write some
+Just t type text , and that would be excellent .
+, just like he said with the a screen which you can write , also a voting mechanism .
 
 But the overlaying layer is a little bit curved and .
 But is it s it's not made from a single uncurved thingy and then and then
@@ -136,30 +128,53 @@ It is possible , but you can't use double curves for titanium .
 , it's a big big eraser .
 , he here it is still double-curve , the rubber , the flashy , the fruity , the removable .
 
-, in combination with the finance I I received a an an Excel file
-As as I said a m a c few moments ago , it I would like , myself , to write with a normal pen ,
-Be it takes a lot of time to draw things and to write things ,
-, and tr try to wri write your name in a normal size , .
-when you at a foreign audience , you b don't gonna wr write small .
-People will still feel the need to write it quickly on a page and not download it and save it , and
-But if you're in normal flip-over you a lot of people write text .
-And writing text , , you've gotta really do your best to write some
-Just t type text , and that would be excellent .
-, just like he said with the a screen which you can write , also a voting mechanism .
-Y yikes . Seventy five pages .
+and it has some ar artistic meaning .
+During the design design life-cycle we
+What do you think , Mister Project Manager ?
+Fo fo fo five is .
+, but D but Daniel , tha that's another brand .
+So that's wh tha that's one option .
+now it's about time to talk about this project .
+was there room for creativity in our meetings or in your individual meetings ?
+, I th you two , especially you and Daniel , you d you both had the less creative roles in the project .
+Jeroen and I , we had a more design we could have more we had more room for creativity than you two .
+the first meeting was a little bit of unstructured meeting .
+, we work together on a project , but everybody has his own task .
+the w Block letter sign it , ?
 
 It would be best to appeal to a broad public and make the covers exchangeable ,
 Maybe it's an idea to sell it without a cover , so that you can pick a cover in the shop .
+So , there must be some cheap standard cover ,
 , maybe we could develop a cover with wood style .
 it will be primary appealing to m minus forty , but also appealing to
 What do you think about putting a battery in it , but also selling like the covers , a docking station
+But you can use rechargeable batteries anyway , just you s you have to recharge them manual .
 Wood is m is cheaper than rubber .
+the energy , which turn out to be batteries ,
 no , but it's a development inside corporation .
+
+With W_W_ dot Google dot com .
+Re Real Reaction dot N_L_ .
+if you if you have thirty , forty minutes for this things ,
+from the over here with the managements you get two minutes to make your case ,
+, you ha you have ten minutes left , I read .
+You have now ten minutes left to finish up the end report .
+, five minutes from to finish meeting .
+
+So we began working out a concept .
+Nah , the leadership wasn't crappy , it was the leader that was crappy .
+Stupid stupid pen , but
+Nah . , we had some trouble with the pen , but
+Digital pen , th the first time I did individual work , I used it .
+, it's almost the same concept , but you can just sim more simply put it on our scanner .
+I it's the same concept as the pen , where you f have to download the software or s very slow .
+when you use a pen , you can just draw like you d draw normally ,
 
 But , before we going to celebrate , I have a little question which you can't answer ,
 I am busy with the end report right now .
 here is standing whoa , we can celebrate now , but the end report is
-You have now ten minutes left to finish up the end report .
+, , maybe you can add it later that we decided in the end because of the cost .
+Was initial , the plan . The initial plan .
 I'm going to finish my end report .
 
 And , , we began with with a form of shape , that is is easy to hold w in one hand , left or right handed .
@@ -170,68 +185,53 @@ But it will lie more in your hand like an old telephone maybe ,
 if this lying on your couch , you're you're you think what's that for kinda orange thing .
 , if i if you see a strange shape lying somewhere , then you'd recognise it as , whoa , that is strange .
 
-evaluation crit criteria .
-we made lot of requirements and trend analysis and .
-, now is the time to evaluate our prototype concept to to the past requirements .
-So we are going to evaluate the design according to the past user requirements and trends analysis .
-Leads to user face , .
-I'm the User Interface Expert .
-But but the survey under users was that they really lost it .
+This is for the added effect of y youth and dynamic .
+, you can see there's a v a very youthful dynamic exterior .
+you just want to hold it you you are young and dynamic like us .
+Worth , does it have added worth ?
 
-The s panel we g you would hide with some more rubber layers ,
-S and you can just be the layer of the touchscreen and some have some wires underneath it to make it as thin as possible in the middle for good grip .
-the layer around it fits around the bubbles on the o on the the back of the
-, j maybe we'll finish the list first and then look back , aye ?
-so we have to bake the ba back flat , and then
-Could we just make the bubbles cut off the back , and then we're has
-
-So we began working out a concept .
-Sample sensor sample speaker ?
-Nah , the leadership wasn't crappy , it was the leader that was crappy .
-Stupid stupid pen , but
-Nah . , we had some trouble with the pen , but
-Digital pen , th the first time I did individual work , I used it .
-, it's almost the same concept , but you can just sim more simply put it on our scanner .
-I it's the same concept as the pen , where you f have to download the software or s very slow .
-when you use a pen , you can just draw like you d draw normally ,
-Here . Picture from scanner , clip-art .
-
-and it has some ar artistic meaning .
 , what we figured is we'll show you a picture later on
 Hey , that's actually a brilliant marketing stand .
 it's the marketing angle on television .
 Mobile phones nowadays .
 Hey , those ar arcs , why are there for ?
 But I figured that the kinetic would be a marketing promotion .
+because if you want to go to kinetic , you're you're on thirteen and a half and you must go to flat ,
+and I couldn't go on i on the internet and search my own . Bu
+Here . Picture from scanner , clip-art .
 
+But , it's standard they will be delivered with this set-up .
 We have the more advanced menu setting right here .
 But , maybe make it two , because the games are in a sub-menu and not it's not an entire game .
 , simple chip on print ?
+Sample sensor sample speaker ?
 We're now in a problem , we have reached eleven Euro yet .
 And that would solve the budget problem .
 No advanced chip , that's a little bit of problem .
-and I couldn't go on i on the internet and search my own . Bu
 You'll rather use PowerPoint and work it out in advance .
 
-But , it's standard they will be delivered with this set-up .
-So , there must be some cheap standard cover ,
-Fo fo fo five is .
-But you can use rechargeable batteries anyway , just you s you have to recharge them manual .
-So that's wh tha that's one option .
-the w Block letter sign it , ?
-With W_W_ dot Google dot com .
-Re Real Reaction dot N_L_ .
-the energy , which turn out to be batteries ,
-Was initial , the plan . The initial plan .
+The s panel we g you would hide with some more rubber layers ,
+S and you can just be the layer of the touchscreen and some have some wires underneath it to make it as thin as possible in the middle for good grip .
+We we just want to build a more adult vers adult version of this .
+the layer around it fits around the bubbles on the o on the the back of the
+, j maybe we'll finish the list first and then look back , aye ?
+so we have to bake the ba back flat , and then
+Could we just make the bubbles cut off the back , and then we're has
 
-And after that , an evaluation of the process how we how we have done it here with the SMARTboard , with the with our laptops , with the all all this .
+, in combination with the finance I I received a an an Excel file
+we made lot of requirements and trend analysis and .
+So we are going to evaluate the design according to the past user requirements and trends analysis .
+Leads to user face , .
+I'm the User Interface Expert .
+But but the survey under users was that they really lost it .
+Management Expert , you have to change that .
+you can select file and export and then those J_ PEG files .
+
 , we have to fill in the numbers of the component components .
-I follow the Master class for the SMARTboard ,
 n almo almost my entire computer is locked up during the process
 maybe a l a little application like give your own number and click one two three four five six seven .
 , j ju , v voting application .
 but click it in an application , that's a lot easier to process .
-you can select file and export and then those J_ PEG files .
 
 , first we have a prototype presentation by G_ and G_ .
 I would g give the word to G_ and G_ for the prototype presentation .

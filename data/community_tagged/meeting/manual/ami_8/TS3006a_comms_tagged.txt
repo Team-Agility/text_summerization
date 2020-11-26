@@ -12,11 +12,13 @@ That/DT are/VBP the/DT basic/JJ options/NNS for/IN a/DT remote/JJ control/NN ./P
 
 we're/NN work/NN we're/NN working/VBG from/IN top/JJ to/TO bottom/VB ./PUNCT functional/JJ design/NN ,/PUNCT
 
+and/CC we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ users/NNS ./PUNCT What/WP w/VBD what/WP would/MD they/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN ?/PUNCT especially/RB for/IN future/JJ users/NNS ,/PUNCT
+
 I/PRP had/VBD to/TO focus/VB on/IN the/DT working/VBG design/NN ,/PUNCT which/WDT you/PRP said/VBD ./PUNCT
-the/DT use/NN of/IN the/DT Industrial/NNP Designer/NNP can/MD work/VB on/IN the/DT working/VBG design/NN ,/PUNCT etcetera/NN ./PUNCT
 I/PRP am/VBP gonna/JJ work/NN on/IN the/DT conceptual/JJ design/NN already/RB
 
-and/CC we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ users/NNS ./PUNCT What/WP w/VBD what/WP would/MD they/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN ?/PUNCT especially/RB for/IN future/JJ users/NNS ,/PUNCT
+this/DT industrati/JJ Industrial/NNP Designer/NNP should/MD produce/VB a/DT working/JJ design/NN ./PUNCT
+the/DT use/NN of/IN the/DT Industrial/NNP Designer/NNP can/MD work/VB on/IN the/DT working/VBG design/NN ,/PUNCT etcetera/NN ./PUNCT
 
 And/CC another/DT function/NN I'll/NNP think/NN of/IN switch/NN to/TO your/PRP$ media/NNS centre/NN ,/PUNCT
 
@@ -29,8 +31,6 @@ the/DT distance/NN from/IN your/PRP$ television/NN to/TO your/PRP$ remote/NN con
 but/CC have/VBP you/PRP any/DT idea/NN so/RB far/RB as/IN what/WP the/DT user/NN requirements/NNS are/VBP ?/PUNCT
 
 that/DT is/VBZ the/DT user/NN requirements/NNS part/NN ./PUNCT
-
-this/DT industrati/JJ Industrial/NNP Designer/NNP should/MD produce/VB a/DT working/JJ design/NN ./PUNCT
 
 that/IN it/PRP activates/VBZ or/CC deactivates/VBZ specific/JJ functions/NNS ,/PUNCT
 
@@ -92,9 +92,9 @@ It/PRP uses/VBZ infrared/JJ light/NN to/TO communicate/VB the/DT signal/NN to/TO
 
 and/CC in/IN every/DT step/NN I/PRP have/VBP a/DT s/NN specific/JJ task/NN to/TO perform/VB or/CC whatever/WDT ./PUNCT
 
-Is/VBZ this/DT part/NN of/IN our/PRP$ a/DT acquai/NN or/CC introduction/NN to/TO each/DT other/JJ ?/PUNCT
-
 opening/VBG acquaintance/NN ,/PUNCT tool/NN training/NN ,/PUNCT how/WRB to/TO use/VB the/DT things/NNS here/RB ./PUNCT project/NN plan/NN discussion/NN ,/PUNCT and/CC then/RB the/DT rest/NN of/IN the/DT meeting/NN ./PUNCT
+
+Is/VBZ this/DT part/NN of/IN our/PRP$ a/DT acquai/NN or/CC introduction/NN to/TO each/DT other/JJ ?/PUNCT
 
 And/CC at/IN the/DT end/NN of/IN the/DT day/NN we/PRP should/MD have/VB a/DT prototype/NN drawn/NN up/RB ./PUNCT
 
@@ -115,9 +115,9 @@ according/VBG to/TO the/DT coffee/NN machine/NN example/NN ,/PUNCT I/PRP have/VB
 
 they're/NN cute/NN ,/PUNCT they're/JJ independent/JJ and/CC cuddly/RB ,/PUNCT
 
-They/PRP l/VBP look/VBP like/IN mole/NN legs/NNS ./PUNCT With/IN sharp/JJ nails/NNS on/IN ./PUNCT
-
 we/PRP have/VBP available/JJ the/DT smart/JJ board/NN and/CC the/DT whiteboard/NN ./PUNCT
+
+They/PRP l/VBP look/VBP like/IN mole/NN legs/NNS ./PUNCT With/IN sharp/JJ nails/NNS on/IN ./PUNCT
 
 that's/VB a/DT fr/NN friendly/JJ turtle/NN I/PRP ./PUNCT
 

@@ -11,15 +11,18 @@ We needed more Play Doh colours .
 
 I would definitely go for that rather than like your average plain old remote like that ,
 No , I , I much about the remote control industry , how much your average sells for ,
+I the the key word there is average ,
 Will this remote control be easy to find when lost ?
 because compared to every other remote ever m ever made , this one will be easier to find .
 Will it be easy to learn how to use this remote when brand new ?
 
-and we don't wanna go for black because most remote controls are black or grey .
-, the colours are yellow and grey .
-like that's grey , and it wouldn't be that expensive to have a little bit of metal .
+Notice you have a number ten button .
+we just thought , we have all the numbers here , so we wanted something representative of numbers larger than ten and
+these numbers all work independently up to nine .
+we went for like a circular design for the numbers
+so question number two was is it techn technologically innovative ?
+, there'll be s we have to work out the number the plus system .
 
-buttons are accessible from your thumb .
 As long as there's not a big pause between the t hitting the two buttons .
 and we don't have any scroll buttons , it's all pushbuttons ,
 Is it not gonna fall off the arm of the sofa ?
@@ -28,30 +31,34 @@ You press the button it makes a noise
 just because it's we've decided to reduce it down to the basic buttons , that in itself makes it so much easier to use .
 Does it make more sense for the middle one to be an just an enter button ?
 
+buttons are accessible from your thumb .
+because we thought that's a more natural movement than just going like that with your thumb .
+because the most accessible buttons are the volume and the channel-changing .
+
 on your average remote , if you press one twice you just go to or say you wanted channel twelve , you press one , and then you go to channel one , and then two then you'd just go to channel two , instead of twelve .
 So if you did like one plus two you could go to channel twelve , or two plus two is channel twenty two .
 but if I wanna go to say number like sixty five , channel sixty five , if I press the six it'll go to channel six , and then I'll press the plus , and then it'll go to six and then put the five and it'll go to sixty five ?
 I wouldn't have thought it'd be a problem that it went to channel six first , in like on the way to channel sixty five .
-because the most accessible buttons are the volume and the channel-changing .
-
-Notice you have a number ten button .
-we just thought , we have all the numbers here , so we wanted something representative of numbers larger than ten and
-these numbers all work independently up to nine .
-we went for like a circular design for the numbers
-so question number two was is it techn technologically innovative ?
-, there'll be s we have to work out the number the plus system .
-they're about ten po ten pound ,
 
 So then you would have to push two buttons every time at least .
 , we have push button interface , so that's inexpensive .
+we weren't really given a lot of time , or materials , , to go about our design task .
 We never were pushed for time , or sat around doing nothing , so
 
 so it's all accessible . Without m taking your hand off the remote .
-because we thought that's a more natural movement than just going like that with your thumb .
+How it fits in the palm of your hand ?
 you don't need to use both hands , one hand to hold this and type in with the other , you can just use your thumb .
 I like the appeal of it being like a big glob in your hand .
 But then it wouldn't sit as comfortably in your hand .
 , you could hold it in your left hand and d use your index finger .
+
+like banana could be black and yellow , watermelon red and green ,
+Banana's more representative of our colour scheme , like the company the yellow and black .
+red , black and yellow , and orange .
+and we don't wanna go for black because most remote controls are black or grey .
+because on the banana theme we can't have it as being yellow .
+, the colours are yellow and grey .
+But the yell d yellow's ugly though ,
 
 Remember that seventy five percent of users find most remote controls ugly .
 Remember the management said that it had to be prominent .
@@ -62,11 +69,9 @@ Remember that thirty four percent of users usually found it difficult .
 , which affected over a quarter of users .
 the only thing was having to remember to to tick the okays
 
-And this is just if you've got like eleven or twelve or thirt the plus .
 will people be willing to spend twenty five Euros on this product ?
 So people don't just see it and think , , this is so simplistic , I don't want to spend twenty five Euros .
 there were some people that used the video input and sound and .
-, so our average there , five , six , eight , ten , eleven , twelve , thirteen , fifteen , nineteen , twenty one , divided by eleven
 So our operating cost is twelve twenty Euros .
 
 And then we will evaluate it , given the criteria that that we gave it .
@@ -82,39 +87,28 @@ the light from the inside was gonna light up .
 , when it lights up as we it could light up when the alarm went .
 but you can't see an alarm inside the alarm system itself .
 
+And this is just if you've got like eleven or twelve or thirt the plus .
+they're about ten po ten pound ,
+, so our average there , five , six , eight , ten , eleven , twelve , thirteen , fifteen , nineteen , twenty one , divided by eleven
+
 and we're thinking to carry-on with the fruit and vegetable theme , the colour combination just could just be named after different fruit ,
 , potato , mango , fruit and veg .
 it is , fruit or vegetable depends on your mood .
 Current trends of fruits and veggies , desire for sponginess .
 there's no like pictures of fruit , it's just naming it by a fruit .
-, if somebody saw that and you said what was that inspired from , I if you'd instantly say mango .
 The fruit and veg idea .
+And we were a able to modify each other's ideas
 
 actu that's pro that's gonna get confusing , like that .
 So we need to tally up how much our w our product will be costing .
 Of the actual project rather than the product ?
 A pro a product within the budget .
 
+And talk about our finances , whether we were under or over our budget .
 and seeing if this prototype matches what our budget can handle .
 Does this prototype match the operating behaviour of the average user .
-I the the key word there is average ,
-I'm gonna open up a second one then it's locked for editing .
-
-like banana could be black and yellow , watermelon red and green ,
-Banana's more representative of our colour scheme , like the company the yellow and black .
-red , black and yellow , and orange .
-because on the banana theme we can't have it as being yellow .
-But the yell d yellow's ugly though ,
-
-the agenda for this meeting is we'll initially have the prototype presentation by our two designers .
-It's a pretty simple design .
-w once that's written down on the page that'll be really simple ,
-we weren't really given a lot of time , or materials , , to go about our design task .
-
-and this'll be the power point , the on off button kind
-So the lower p the lower the points the better .
-But if it was hidden underneath the cushion , there wouldn't be any point .
-and like if we had decided to use the L_C_D_ screen , and like solar power backup and everything , then we wouldn't have been able to afford that .
+So we'll have to talk to our executive managers , and see if we can get away with just the R_R_ .
+Which puts us just barely under budget .
 
 So I know we have the kinetic energy which is very innovative .
 we didn't want it to be any more innovative than this , because then that would've defeated the purpose .
@@ -124,58 +118,64 @@ we're using kinetic which is quite a large expense at three Euros .
 
 And it might actually help with the repetitive stress injury as .
 It could another type of repetitive stress injury though .
-Bit of a stress ball feel .
 which was repeated strain injury ?
 We may have to do some more research into other strain injuries that we about .
 
-And talk about our finances , whether we were under or over our budget .
-So we'll have to talk to our executive managers , and see if we can get away with just the R_R_ .
-Which puts us just barely under budget .
+Bit of a stress ball feel .
+where's it gonna sit in your living room ?
+Do you guys feel like there was room for creativity ?
+
+It's a pretty simple design .
+w once that's written down on the page that'll be really simple ,
 
 and the feel of it , , we've made this out of Play Doh , which is representing the , , the rubber , and the spongy rubberness .
 , as we said the rubber's probably used for comfort and anti-R_S_I_
 We've been quite successful with the rubber coating
 the factor that we've been least successful in confronting .
 
+and this'll be the power point , the on off button kind
+So that for corporate identity that would probably be the most strength .
+So the lower p the lower the points the better .
+But if you can imagine that in like a s just a maybe a pale metallic-y finish
+But if it was hidden underneath the cushion , there wouldn't be any point .
+and like if we had decided to use the L_C_D_ screen , and like solar power backup and everything , then we wouldn't have been able to afford that .
+
 it was said before in the material specification that this the this anti-R_S_I_ material is often used in stress balls
 , will it minimise the effects of R_S_I_ ,
 the PowerPoint slide thing said would be good for R_S_I_ ,
 with that achieved , our last slide is our closing slide .
 
-How it fits in the palm of your hand ?
-or vanilla might be the most popular if it just blends in
-more settled cream instead of the others are all a bit garish .
-and then the vanilla's more for the more sophisticated customer who just wants something that fits in with all decor .
-the bottom could be like ch chopped a bit .
-to fit in with our areas of expertise .
+I have a a spreadsheet where we can calculate our prices for every aspect of what we've made , given our options .
+so if we're thinking about the rest of the market , it's probably halfway .
+So with a good marketing scheme and the personalisation options , it'll
 
 , did we stay true to our motto and put the fashion into electronics ?
 That's fashionable in itself to have interchangeable plates .
 Good leadership , we stayed on task .
 
-I gue , it's personal taste ,
-and also our personal coach helped us along the way ,
-
-I have a a spreadsheet where we can calculate our prices for every aspect of what we've made , given our options .
-we thought of the components it was definitely a focus of ergonomics and just a single ha handheld device ,
-so if we're thinking about the rest of the market , it's probably halfway .
-So with a good marketing scheme and the personalisation options , it'll
-
+the agenda for this meeting is we'll initially have the prototype presentation by our two designers .
 Apple green , brown , more kinda trendy , , khaki
 The pomegranate's kinda girly and funky ,
-my computer's giving me technical difficulties .
-where's it gonna sit in your living room ?
-It turns into a duck and starts quacking .
-Do you guys feel like there was room for creativity ?
-
-So that for corporate identity that would probably be the most strength .
+we thought of the components it was definitely a focus of ergonomics and just a single ha handheld device ,
 and looking back at my notes from our both our conceptual and our functional meetings , I made a list of what our original requirements and goals were ,
 , back to our kick-off meeting this morning .
 I have the original in my my email account .
-, it's cur it's double curved , so its curved all around .
 And don't forget to complete final questionnaire and meeting summary .
 
-But if you can imagine that in like a s just a maybe a pale metallic-y finish
+or vanilla might be the most popular if it just blends in
+and then the vanilla's more for the more sophisticated customer who just wants something that fits in with all decor .
+to fit in with our areas of expertise .
+
+more settled cream instead of the others are all a bit garish .
+I gue , it's personal taste ,
+, it's cur it's double curved , so its curved all around .
+and also our personal coach helped us along the way ,
+
+my computer's giving me technical difficulties .
+the bottom could be like ch chopped a bit .
 H it's got higher centre of gravity like that .
-And we were a able to modify each other's ideas
+It turns into a duck and starts quacking .
+like that's grey , and it wouldn't be that expensive to have a little bit of metal .
+, if somebody saw that and you said what was that inspired from , I if you'd instantly say mango .
+I'm gonna open up a second one then it's locked for editing .
 

@@ -2,61 +2,61 @@ Here is what the functional design is supposed to achieve .
 Functional , conception and detailed .
 . The working design , I that's the function
 So , we looking for a working design when we come back .
-working design , , it's mainly technical-functional design .
 So you have a working design and then a functional design .
 
 And my role is to design a television remote control .
 This thing we are gonna design is a new remote control .
 After we've finished the remote control we'll get to that .
-to materials , cost , etcetera .
 Now , the discussion I is does anyone of you have experience with remote control ?
 now having used a remote control for years does anybody already have like an idea like things you didn't like with it , things you would like to change , things you would like to improve with this thing
 Like the remote control which we use for T_V_ , it shou it should be used f for some other purpose also , like controlling the temperature inside the house or for air-conditioners , or for heating system .
-So it should be a multi-functional gadget that would control all your household machines .
 And and they suddenly the phone rings and they want to turn the T_V_ off and they say , where the hell is my remote control ?
 
 my role is industrial designer
-and my responsibilities are deal with the technical-functional designs
 Three different types of design that we're gonna be concerned with .
 So these are all things , , to remember with the budget and when you design
-I exp I s we use 'em we use 'em , right , everyday .
+
+and my responsibilities are deal with the technical-functional designs
+So it should be a multi-functional gadget that would control all your household machines .
+working design , , it's mainly technical-functional design .
 
 so , so it's really the beep or , or a light should blink .
 I'm just saying throw signal meaning just whether it's a beep or whether a light or
 Beep or it's a light , maybe it's a light .
 
-That is it's gonna be individual work and then at the meeting we'll discuss what we have come up with .
-there will be individual work whic and then discussion afterwards .
-like friendliness , and what we just discussed in general .
+the main responsibility is user interface .
+and specifications of user interface and dealing with user interface design .
+the market range unlimited meaning international
+And the marketing manager is coming up with some user requirement specification ,
 
 or or if it's really , if it's really in a dark spot that it gives out a sound or a signal .
 If lost signal with b throw signal , .
 In in that moment it has a sensor , i it gets a certain darkness , it ge has a sensor and it gives out a signal whether that be a light signal or a beep ,
 So the light sensor would activate the signal .
 
-the main responsibility is user interface .
-and specifications of user interface and dealing with user interface design .
-the market range unlimited meaning international
-And the marketing manager is coming up with some user requirement specification ,
-And , , specifi you will get specific instructions for that .
-
-should be original , trendy , and , , user friendly .
-Like trendy no like f for earlier we saw maybe it should be something trendy .
-
-And do you think a good c clue for that is that it would respond to a clap or it would respond to your voice or it would respond what should you have to do to make it beep or blink ?
-and voice or clapping it's not specific enough .
+That is it's gonna be individual work and then at the meeting we'll discuss what we have come up with .
+there will be individual work whic and then discussion afterwards .
+So that in case we have to , in the next meeting , present something on the white board .
+, the next meeting will be in thirty minutes .
 
 , it's functional de , exactly , technical .
 And then the technical funct you are the technical function ,
 
+should be original , trendy , and , , user friendly .
+I exp I s we use 'em we use 'em , right , everyday .
+Like trendy no like f for earlier we saw maybe it should be something trendy .
+like friendliness , and what we just discussed in general .
+
+And do you think a good c clue for that is that it would respond to a clap or it would respond to your voice or it would respond what should you have to do to make it beep or blink ?
+and voice or clapping it's not specific enough .
+And , , specifi you will get specific instructions for that .
+
 Yes , I feel that all the remote should be very compact .
 like kidney shape feels better in your hand , .
 
-So that in case we have to , in the next meeting , present something on the white board .
-, the next meeting will be in thirty minutes .
-
 profit aim for the company is fifty million Euro ,
 and the production cost should not exceed hopefully should be less than twelve fifty Euro .
+to materials , cost , etcetera .
 At twelve fifty Euros per
 
 Yes y opening , acquaintance , tool training

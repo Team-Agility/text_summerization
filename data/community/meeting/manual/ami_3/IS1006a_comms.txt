@@ -19,21 +19,18 @@ but you could look at what the other people have used there or remote controls .
 
 that's the aim for the price for the remote control .
 
+colourful , because nobody has colourful remote control
+maybe we can change the colours that at least the frame .
+
 then it's the remote control for the sound system , or for your refrigerator
 
 , my daughter likes l remote controls .
 So she likes buttons which make click ,
 
-colourful , because nobody has colourful remote control
-So colour , robustness , easy to use , size ,
-. Colour , size , sh
-
 Remote controls children proof .
 It has to be wha baby proof
 
 it could be only a screen which would change depending on the use or even the user .
-
-Just tr try to who is a User Interface Designer .
 
 the important points we have to t talk about are it's functional design , it's conceptual design , and desail detailed design .
 
@@ -41,13 +38,16 @@ some discussion and then we talk of the next meeting .
 
 . So , some idea with cellular phone with a screen that will tell you what
 
-maybe we can change the colours that at least the frame .
-you c you can easily remove the frame .
-
 So ma I prefer to have the off button at the top right ,
 
 I'm the Project Manager Christa Pavlov
 and we speak about this tool we're going to design and try to make a project plan ,
+
+It has to be original , trendy and user friendly .
+Just tr try to who is a User Interface Designer .
+
+So colour , robustness , easy to use , size ,
+. Colour , size , sh
 
 but when you change channels you can have you can just go to the next one or go to channel twenty five .
 And that's already more complex to go to channel twenty five .
@@ -66,18 +66,18 @@ Too expensive for twelve Euro ?
 
 and for that we're going all to work individually and then have meeting during the whole day .
 
-But for standard actions you usually what do you do , you change channels , you adjust volume , and nothing else .
-
 'tis big number .
+
+But for standard actions you usually what do you do , you change channels , you adjust volume , and nothing else .
 
 at least it should hold in your hand n properly , like .
 
 M_E_ the user requirements ?
 the user requirement specifications ,
 
-It has to be original , trendy and user friendly .
-
 Then you can watch what your you could also record your sequence of actions ,
+
+you c you can easily remove the frame .
 
 , but without any extremes like n not of this size , not too large . .
 

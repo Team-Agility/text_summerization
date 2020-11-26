@@ -4,8 +4,6 @@ It's a pineapple remote controls .
 , pineapple remote control .
 That's that's pineapple remote control . it's fine .
 
-we had three keys key points to for this remote control design ,
-
 so whe where is the remote control ?
 So we'll have to evaluate the your proposed remote control ,
 if we're we all agree on the fabrica of building of this remote control , we'll evaluate the production .
@@ -36,13 +34,11 @@ and you can turn like that to change the channel ?
 You c can you can see the shape of the buttons n is a mushroom , so
 but it's not like really mushroom because you have like lemon shape , ,
 
-As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros .
-
-we call it a mushroom design .
-It's looks like some mushroom , so we call it mushroom design .
 Genetically modified mushroom I will say , but
 So we can call our remote control the mushroom .
 Mush mushroom controller .
+
+the smaller the so you can c you can control the scale .
 
 it depend on the angle you turn the
 It is a turn off t turn off button , maybe .
@@ -51,9 +47,12 @@ We could turn we could turn everything in either yellow or black .
 
 but you can also do it in the b if you do not wa if you do not want to browsing all the channel you can just p there's also a button here .
 
-So push button then it's the next expensive one .
-maybe f you have five with push buttons , so we can just , , try to modify some of them to have .
-there's a problem with the push button .
+we call it a mushroom design .
+It's looks like some mushroom , so we call it mushroom design .
+
+So , when you say I want to go to the channel number twenty that's you've decided to go to channel twenty ,
+If you want to from skip from channel one to channel ten you tune this .
+this is , from one channel to maybe to ten channel .
 
 And the shape , there's two basic shape .
 The sha the bowl shape people like .
@@ -63,21 +62,33 @@ One thing I like is the shape , because it's not like the the remote controls yo
 I if this is a channel one . So it c it could be channel two , channel three , channel four , channel five .
 ju just imagine you have fifty channels
 Y fifth channel divided by the num by the by three hundred thirteen degree .
+then the angle you stop is the angle you is the channel you
 It's it's very easy , because you kn how many channel are there in the
-So , when you say I want to go to the channel number twenty that's you've decided to go to channel twenty ,
 so you can say channel twenty , or channel four , because you really want to go on this channel .
 You you if you want to skip from channel one to channel two , you skip this .
-If you want to from skip from channel one to channel ten you tune this .
-this is , from one channel to maybe to ten channel .
 , this function is just for your browsing , from one channel to th the next one , the next s sn s , the th the third one .
 
 It's interesting , maybe we can create a line of T_V_ with a tr
 you told me you h you d you lost your control your T_V_
 
+As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros .
+y actually it's wrong . We're not under twelve Euros and a half .
+We're just at twelve fifty Euros .
+and the twelve fifty twelve twelve
+We had some problems going to twelve Euros and .
+
 So there are several key features of our pr prototype .
 the second key feature is that s circle channel selection .
 
-We can think about T_V_ with where you can change the aspects o like for the cell phones , .
+So push button then it's the next expensive one .
+maybe f you have five with push buttons , so we can just , , try to modify some of them to have .
+there's a problem with the push button .
+Which part is the most expensive part ?
+
+we had three keys key points to for this remote control design ,
+So , four point three point five , it means it's acceptable .
+tha that's the weak point ,
+tha that was good but we should have more brainstorming like meetings , maybe .
 
 you can think about a yellow T_V_ now after a fruit T_V_ or .
 , just a lemon T_V_ it'd be yellow lemon .
@@ -85,30 +96,19 @@ T_V_ is more like fifteen years , maybe , so .
 A T_V_ for autumn and a T_V_ for winter , , so it's
 it's will enlight your house , your home and your T_V_ , so .
 
-y actually it's wrong . We're not under twelve Euros and a half .
-We're just at twelve fifty Euros .
-and the twelve fifty twelve twelve
-We had some problems going to twelve Euros and .
-
 , maybe two scroll wheel , as we have the coarse to fine scroll wheel .
 An but we have integrated scroll wheel with push dut button .
 Integrated scroll wheel push button
 So if we have all integrated i in the scroll wheel and push button , it's
 scroll wheel with push button on it .
 
-It looks like a pineapple with cherry on top .
-But I d m that it will be good to do some more work to transform this into a pineapple .
-It's a pineapple now , it has changed . It's a pineapple .
-
 , but when you're zapping you're changing from one channel to the other ,
 But it's good to follow the f flow and make it now and after , , if the people change their mind you change also the product .
+We can think about T_V_ with where you can change the aspects o like for the cell phones , .
 , you customise it every ti so every ti if people change , you just change the appearance , and y you can keep
 
-So w we'll try to judge this feature with a one to seven scale ,
-the smaller the so you can c you can control the scale .
-it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after .
-
 , to integrate the fruit aspect ,
+we take into account what you said about fruit and vegetable .
 You could f we could do a fruit collection of electronics things . Electronic device .
 Maybe what you can do a test . Put it outside , and if bees come , it's really fruit .
 
@@ -126,13 +126,12 @@ Yellow is our company colour ,
 So we used two basic colour , yellow and red .
 
 Vegetables . Mushroom is a vegetable .
-we take into account what you said about fruit and vegetable .
 , fancy was defined by s fruit and vegetable look .
 
-The colour , is the colour acceptable ?
-Black then is a regular colour , so .
-, but the colour , the colour is more is most important ,
-So we have the logo , we have the colour , and we have the fashion in electronics ,
+It looks like a pineapple with cherry on top .
+But I d m that it will be good to do some more work to transform this into a pineapple .
+you can transform the wood into plastic , maybe .
+It's a pineapple now , it has changed . It's a pineapple .
 
 thi this remote control will stay a prototype .
 but don't touch don't destroy your prototype .
@@ -140,26 +139,25 @@ and we had a project prototype presentation with the evaluation .
 So as we all agree to accept , under certain conditions , the prototype , we'll have look to the final sh financial view .
 Final prototype , , ye .
 
-I'm no I'm not definitely convinced it's the best way to if you wanna jump from , , one to twenty ?
-And from ten to ten channels here .
-Y one to ten , ten to twelve , ten to t twenty . Ten to twenty
-
-So , four point three point five , it means it's acceptable .
-tha that's the weak point ,
-tha that was good but we should have more brainstorming like meetings , maybe .
-
 this is a revolutionary solar receptor that we can put outside and
 The solar cell is too expensive .
 w one of the m key point is solar cells .
 Maybe don't bat no battery , only solar cells .
-Which part is the most expensive part ?
 But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be
 And designing , looking at the chips , the solar cells and and it was very informative for .
 
-and have an idea of the price that this thing will cost .
-Do you think it won't be It won't cris increase the price ?
-we need to calculate the production cost .
-, but we decided to have something yellow and red , for the costs .
+I'm no I'm not definitely convinced it's the best way to if you wanna jump from , , one to twenty ?
+And from ten to ten channels here .
+Y one to ten , ten to twelve , ten to t twenty . Ten to twenty
+
+The colour , is the colour acceptable ?
+Black then is a regular colour , so .
+The mood of persons , the fashions
+, but the colour , the colour is more is most important ,
+So we have the logo , we have the colour , and we have the fashion in electronics ,
+
+So w we'll try to judge this feature with a one to seven scale ,
+it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after .
 
 The first is a circle and the second is a triangle s piece .
 the third feature is a stable triangle base .
@@ -170,8 +168,10 @@ the first version , the basic version .
 Advanced version we have speak .
 . hel I will try versions so to see how easy to manage
 
-then the angle you stop is the angle you is the channel you
-So you count one degree , two degrees , no .
+The other criterion is it technologically technologically in innovative .
+And you can turn it so maybe it's techno technologically innov innovative ?
+bu but when you say technologically it's more , in the core , or single .
+but it will be technologically innova innovative , so .
 
 Uncurved , flat , single curved , double curved .
 Double curve , , double curve .
@@ -185,22 +185,25 @@ voc vocal command is .
 fruit and vegetables it won't last for ten years .
 , maybe la next year it will be insects .
 
-The other criterion is it technologically technologically in innovative .
-there's the technology inside that recognise simple vocal comments ?
-And you can turn it so maybe it's techno technologically innov innovative ?
-bu but when you say technologically it's more , in the core , or single .
-but it will be technologically innova innovative , so .
+and have an idea of the price that this thing will cost .
+Do you think it won't be It won't cris increase the price ?
+So you count one degree , two degrees , no .
+we need to calculate the production cost .
+, but we decided to have something yellow and red , for the costs .
 
 And sample sensor , sample speaker .
 We have change the electronics to from the sample sensor to regular chip . .
 We have to delete the sample sensor , .
 
+we'll have first the project presentation by our User Interface Designer , David Jordan ,
 Good choice , mister David Jordan .
+L_C_ display , maybe . Interface .
 , mister David Jordan .
 Champagne , mister Baba .
 
-we'll have first the project presentation by our User Interface Designer , David Jordan ,
-L_C_ display , maybe . Interface .
+there's the technology inside that recognise simple vocal comments ?
+
+It's but it I don't think it's such a problem just putting the logo somewhere .
 
 so what is inside is what we dis what we talked before about , , the chip ,
 it is a low level chip , and
@@ -212,17 +215,14 @@ Single simple chip on print ?
 So it depend on how d do you define fancy .
 First one is we have to judge the fancy look and feel .
 
-you can transform the wood into plastic , maybe .
-
-The mood of persons , the fashions
-It's but it I don't think it's such a problem just putting the logo somewhere .
-
-, so you can capture s voice from different directions . .
+, maybe improving the texture of like having it less smooth or
 So did you enjoy your clay modelling ?
 
 , that's difficult . That's dif that's difficult .
 
-So I will still play the role of the secretary ,
-, maybe improving the texture of like having it less smooth or
 , I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .
+
+So I will still play the role of the secretary ,
+
+, so you can capture s voice from different directions . .
 

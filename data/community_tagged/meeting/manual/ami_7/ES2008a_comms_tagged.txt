@@ -1,7 +1,6 @@
 and/CC that's/VB if/IN we're/JJ gonna/NNS make/VBP a/DT remote/JJ control/NN ,/PUNCT it/PRP should/MD actually/RB work/VB for/IN what/WP it's/NN doing/VBG ./PUNCT
 
 are/VBP we/PRP designing/VBG a/DT remote/JJ control/NN for/IN a/DT television/NN only/RB
-,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
 
 Because/IN that/DT is/VBZ one/CD thing/NN that/WDT remotes/VBZ tend/VBP to/TO have/VB buttons/NNS that/IN the/DT T_V_s/NNP no/RB longer/RB have/VB as/RB ./PUNCT
 
@@ -14,6 +13,9 @@ or/CC do/VB all/DT remotes/NNS require/VBP batteries/NNS ?/PUNCT
 but/CC not/RB necessarily/RB on/IN the/DT m/NN the/DT normal/JJ remote/NN ./PUNCT
 
 but/CC that/DT just/RB has/VBZ your/PRP$ major/JJ buttons/NNS for/IN that/DT work/NN for/IN everything/NN ,/PUNCT volume/NN control/NN ,/PUNCT on/IN ,/PUNCT off/RB ,/PUNCT
+
+,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
+So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
 
 all/PDT the/DT whatever/WDT else/RB we/PRP have/VBP programmed/VBN into/IN it's/JJ all/DT just/RB in/IN its/PRP$ separate/JJ place/NN and/CC not/RB like/IN all/PDT the/DT on/IN buttons/NNS together/RB ,/PUNCT
 
@@ -47,8 +49,6 @@ would/MD we/PRP even/RB technically/RB be/VB possible/JJ to/TO include/VB video/
 
 I/PRP hate/VBP when/WRB there's/NNS like/IN four/CD different/JJ buttons/NNS and/CC you/PRP have/VBP to/TO press/VB to/TO actually/RB turn/VB on/IN the/DT T_V_/NNP
 so/RB i/JJ it's/NN just/RB simpler/RB just/RB to/TO just/RB turn/VB around/RP the/DT T_V_/NNP itself/PRP ,/PUNCT
-
-So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
 
 the/DT conceptional/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ,/PUNCT
 and/CC then/RB the/DT detailed/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ./PUNCT

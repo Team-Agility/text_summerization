@@ -5,8 +5,14 @@ And the menu button does also does the function then .
 With with one integrated button we can do the whole menu thing .
 And then for the menu , you can have a button that activates menu .
 And then if the moment you use the scroll-wheel , the menu gets activated ,
-the possibilities are almost unlimited , to build in menus in the screen .
 we should b build it so that if you don't push into the menu , if
+and three double click for the menu , .
+
+Then you only need one button to move back .
+it can be a power button as soon as it powered on .
+Instead of an additional power button ?
+So we still we still have the primary colours . But only on the outside , not on the button .
+The only e the only thing easy about it is that you don't have to move your fingers . it has only one button .
 
 And we wanted the buttons in a special colour .
 The special colour of the buttons ?
@@ -19,7 +25,6 @@ Just put a special colour of the buttons , .
 or spe special form ?
 . Make it a special colour and then it look fancy .
 ma make it two special colours , but we only have one button .
-So we still we still have the primary colours . But only on the outside , not on the button .
 The the button has a special colour , the frame has a special colour .
 Current colour red .
 Maybe that's a special colour for it . So we can make it special ?
@@ -54,16 +59,13 @@ It s it saves us four Euros and it costs us two and a half .
 
 Because if you d lose the L_C_D_ screen , we need a lot of
 , we have extended menus , on the L_C_D_ screen . So
+the possibilities are almost unlimited , to build in menus in the screen .
 audio settings and screen settings .
 You have to search for them in the s in the screen , in the menu . So
 So you can just make one big L_C_D_ screen .
 B It's a normal T_V_ screen , thing .
 But the screen is useful , in essence , but it doesn't work that .
 . These these screens this size are useful to discuss things . So
-
-it can be a power button as soon as it powered on .
-Instead of an additional power button ?
-The playfulness , we decided to use kinetic energy as a power sour
 
 another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows .
 And then you can make an overview of channels in the screen , and select a channel , click
@@ -77,7 +79,6 @@ and then you can scroll , choose an option , click on it , it goes into an featu
 Click on it again , selects features , scroll , adjust it .
 Or or under each option , you set a you set an a screen thing what says back , and you select that one , click again , and you go one step back .
 And in that menu , scroll , click , one step back .
-and three double click for the menu , .
 
 Should we switch to a hand dynamo ?
 So the only option is an hand dynamo .
@@ -94,22 +95,17 @@ To This together is more expensive than Oof , it's almost the same as t keeping 
 the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition .
 but we dropped the speech recognition . But it has at least one innovation .
 
-It hides basic functions .
-. , . So it's a very true point . it hides all those function .
-It automatically has the programme and the volume function ,
-
-At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print .
-we need the chip for the L_C_ display .
-Do we really need that advanced chip for an L_C_D_ display ?
-We about the advanced chip we need for the display ?
-We made it hard for ourselves with the display , but it's a feature .
-No I don't think the current status of chips are pretty energy conserving , no .
-
 It shows the relevant and most used functions .
 it shows the relevant and most used functions .
 It shows the most used functions and they are relevant , but
 the remote control shows the relevant and most used functions .
 . But it's useful to show something to an a small audience , and then to
+
+So that means the operating behaviour was using quite a lot of functions .
+it's mainly con mainly concentrating on a lot of functions , in this question .
+It hides basic functions .
+. , . So it's a very true point . it hides all those function .
+It automatically has the programme and the volume function ,
 
 Do we keep the shape doubly curved or g do we go for single curved ?
 But we can keep it single curved with top view still curved , but from the side it's flat ,
@@ -117,70 +113,73 @@ still we dropped also on the double curve .
 Because it's an old one , with little curve on the side , and in a different colour .
 It's plastic . And single curved .
 
-we come back to the drawing board then , ?
-It's silly we should have had this meeting before we start drawing .
-be because we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the
-But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .
-Also not only the drawing and the making of the thing itself , but also in explaining it to the other people , by means of
-You can't draw easy in PowerPoint .
-The drawing board has to be integrated into PowerPoint , so that you can just easily
-
 the remote controls according criteria blah .
 the remote control has Wha
 The remote control has irrelevant or less used functions .
 It's the weirdest remote control I've ever seen . So
 the remote control displays the corporate logo .
-But there's enough space for the corporate logo . , if there's only one thing .
 The remote control is easy to use .
 the remote control is durable .
 The remote control's a good example for company's motto , we put the fashion in electronics .
 It's called the Real Remote , right ?
 
-like you if you are in the sound system there , and you wanna adjust the treble ,
-But you want a sound preview of how it's gonna sound ,
-So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound .
-Then you only need one button to move back .
-So it's made bold . But it's nah , it's not very clear on the sc
-But but ease of use was not very important , may I remind you .
-The only e the only thing easy about it is that you don't have to move your fingers . it has only one button .
-But are we gonna stick with the green or are we gonna do blue ?
-And we move more to working together as team ,
-you saw the largest difference from the first to the second meeting I .
-
+At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print .
 what is the sample sensor sample speaker ?
+we need the chip for the L_C_ display .
+Do we really need that advanced chip for an L_C_D_ display ?
 So the other option would be to go for the sample speaker , and Which can use a regular chip , wh which is six Euros in total .
-you can choose flip channel , you can choose sound options , any options .
+We about the advanced chip we need for the display ?
+We made it hard for ourselves with the display , but it's a feature .
+No I don't think the current status of chips are pretty energy conserving , no .
+But there's enough space for the corporate logo . , if there's only one thing .
+
+we come back to the drawing board then , ?
+the board and PowerPoint and Word and like that .
+You can't draw easy in PowerPoint .
+The drawing board has to be integrated into PowerPoint , so that you can just easily
+the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as .
+
+it's about the same . Eight one to ninety one percent , sixty six to seventy six .
+It's silly we should have had this meeting before we start drawing .
+be because we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the
+But are we gonna stick with the green or are we gonna do blue ?
+But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .
+Also not only the drawing and the making of the thing itself , but also in explaining it to the other people , by means of
+
+We still have the fruit and vegetable print .
+, it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material .
+It should have been two questions . I realise now , because sponge-like material is dropped .
+the sponge-like and the three D_ shape , that would give it something young and fresh .
+The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape .
 
 So what we have left on the Because evaluation is based on the initial user requirements .
 the first point is the remote control matches the operating behaviour of the young user .
-So that means the operating behaviour was using quite a lot of functions .
 Because the operating behaviour of the young user was also defined in colour and shape and the use of L_C_D_ ,
+And even the shape we have now simulates an R_ and the reversed R_ ,
 And then matches the opera of the user was also a good thing .
 
-it's mainly con mainly concentrating on a lot of functions , in this question .
-but that's not this question . thi that's the other question .
-It should have been two questions . I realise now , because sponge-like material is dropped .
-So if I understood it right , we have to count these numbers .
-I all made it possible for a positive questions , so we can count it .
-if you have reversed question , you have to reverse the scale ,
-I don't because some questions are related to positive issues and some to negative .
-So if you give a true to a positive , it actually means that the low the lower the better .
-So it were all positive questions , by by purpose . So
-I have to make a p an issue called finance .
+like you if you are in the sound system there , and you wanna adjust the treble ,
+But you want a sound preview of how it's gonna sound ,
+So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound .
+you can choose flip channel , you can choose sound options , any options .
+, because it does not lose our identity of the product as we
+But but ease of use was not very important , may I remind you .
+And you can just relax and have cup of coffee or
+you saw the largest difference from the first to the second meeting I .
 
 check with the Excel sheet .
 you could check with the Excel sheet .
 And I try to get chip just before I receive the Excel sheet .
 We have the original balance sheet , or
-and I if you have to present , because I didn't receive any information about that so far .
 
 that's the still the same idea as the kinetic energy because you have to use it and do things .
+The playfulness , we decided to use kinetic energy as a power sour
+and I if you have to present , because I didn't receive any information about that so far .
+And we move more to working together as team ,
 because at first you make your individual contribution , and then come here , and you have no idea what the others have to make .
 And then finally you have some idea , this is gonna w this is what we gonna make together and I will arrange this and you will arrange that ,
 and you have a k a idea what you can expect on the next half hour when you have to work on your own . So
-the board and PowerPoint and Word and like that .
 And as I said , I have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation .
-the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as .
 
 y you wanna see a bar on which you can adjust it from zero to ten .
 But if you have to power the for ten minutes , then the
@@ -208,23 +207,24 @@ the digital pen is better than the SMARTboard .
 and just put the pen in into it , and then it came onto my screen and it looked perfectly .
 The the pen is more intuitive , we're all used to writing with pen .
 
-, because it does not lose our identity of the product as we
+but that's not this question . thi that's the other question .
+So if I understood it right , we have to count these numbers .
+I all made it possible for a positive questions , so we can count it .
+if you have reversed question , you have to reverse the scale ,
+I Are you we this number actually tells us somethings ?
+I don't because some questions are related to positive issues and some to negative .
+So if you give a true to a positive , it actually means that the low the lower the better .
+So it were all positive questions , by by purpose . So
+
 And it combines with product evaluation .
 we evaluate the design with a seven point scale , as following .
 in the new design I s would say it's three . But now , in original design I say two .
-But then as I knew the tempo that I had to be on , the second time I did a bit better .
-you did become more assertive the second time round , so that
-It's use especially useful , I , to evaluate designs and graph graphical .
-
-it's about the same . Eight one to ninety one percent , sixty six to seventy six .
-We still have the fruit and vegetable print .
-, it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material .
-the sponge-like and the three D_ shape , that would give it something young and fresh .
-And even the shape we have now simulates an R_ and the reversed R_ ,
-The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape .
-And you can just relax and have cup of coffee or
-
-I Are you we this number actually tells us somethings ?
 and you might want to add a infrared LED .
 but If if you don't take that into account , there's plenty of room for creativ creativity .
+It's use especially useful , I , to evaluate designs and graph graphical .
+
+So it's made bold . But it's nah , it's not very clear on the sc
+I have to make a p an issue called finance .
+But then as I knew the tempo that I had to be on , the second time I did a bit better .
+you did become more assertive the second time round , so that
 

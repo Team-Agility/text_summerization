@@ -8,17 +8,17 @@ but that most people th will buy the remote control because
 what ideas do you have to design a new remote control ,
 the main idea of this remote control is
 
-when p when the customers will buy this remote control , they already have the remote control which companies with the standards remote control with which comes with the television .
-Because you can't use a Panasonic remote control on a Philips television .
-
 but then you have to find your other remote control if you want to search .
 
 Perhaps that you have a lot of road remotes r road con remote controls .
 You had different remote controls for different devices .
 but it'll get very big the remote control .
 you got th the same size remote control you use everyday ,
+when p when the customers will buy this remote control , they already have the remote control which companies with the standards remote control with which comes with the television .
 but they don't use the same signal , on remote control .
 always with r universal remotes you have to choose the code .
+
+Because you can't use a Panasonic remote control on a Philips television .
 
 but it is impossible to to accommodate all the buttons on the s on the difference different televisions sets on one remote control . It's impossible .
 
@@ -28,8 +28,9 @@ And I hope also reach a lot with this project .
 But not the buttons used to search on the channels on your television .
 You don't have to integrate the buttons to search the channels on your television .
 
-and we are hoping to achieve that by aiming for an international market .
 maybe for which market segments should we aim ,
+
+and we are hoping to achieve that by aiming for an international market .
 
 It consists of three phases , namely the functional design , conceptual design and detailed design .
 the Industrial Designer will take a look at the working design ,
@@ -51,8 +52,6 @@ and I'd like to hear who you are and what your functions are on this project .
 
 you don't want to bother people with loads of buttons ,
 
-to go back and forward between pages ,
-
 and I hope to look forward to a very pleasing end of this project .
 
 the way we hope to achieve that is the following methods .
@@ -66,6 +65,9 @@ the aim is better to use the whole world and Britain , .
 Because a market will be all people . Elderly p el elderly , young people , so .
 so that option is not optional for those people .
 
+to go back and forward between pages ,
+back to business , back to the money part .
+
 or that you just should aim for the normal T_V_s
 
 the most functions we will use will be to add a new page ,
@@ -74,8 +76,6 @@ actually I'd like to hand the word back to you .
 
 Because Sony television has the opportunity to s to make to make it possible for to see on one side of the screen teletext , and on the other side just n regular television .
 But like the two pages on the same screen , like teletext and normal television , that's nowadays standard , .
-
-back to business , back to the money part .
 
 then we have to head back to our offices and start working .
 
@@ -86,8 +86,6 @@ and I hope you will introduce yourself in a few minutes ,
 five minutes and the meeting's over , right on schedule .
 
 As you can see , all of these phases consists of two parts , namely individual work part and a meeting
-
-as you also noticed this presentation document is in our project folder
 
 the Marketing Expert will will take a look at the user requirement specification .
 
@@ -106,10 +104,17 @@ because I'm going to ask you to draw your favourite animal .
 
 if you're going to target a lot of people and the whole world and only Britain then the cost will rise higher than the twelve fifty , .
 
+and every document you put in this folder is it is possible to show that here in our meeting room .
+
+as you also noticed this presentation document is in our project folder
+but we will mainly use this one for the documents in the shared folder .
+
 see we have some drawing talent in this group ,
 
 and this is the pen with which you can draw on the board ,
 it's a smart board but also a slow board .
+
+And you can also let's see it's here change the colour of your pen ,
 
 those instructions will be in the email you will receive shortly , I hope .
 I expect everything will be much clearer with the instructions we will receive shortly .
@@ -119,15 +124,11 @@ the favourite charis characteristic is that the long neck ,
 
 from the finance department I have learned that we are aiming for a selling price of twenty five Euros .
 
-and every document you put in this folder is it is possible to show that here in our meeting room .
-but we will mainly use this one for the documents in the shared folder .
-
-And you can also let's see it's here change the colour of your pen ,
-and change the line width like to five .
-
 and showed you how to pick a colour ,
 
 Could you write the words , underneath it ?
+
+and change the line width like to five .
 
 and specific instructions will be sent to you through your personal coach .
 
@@ -137,11 +138,10 @@ as you probably have noticed there are little black fields on the table .
 
 In the meantime there's time for some individual actions .
 
+I've drawn a dolphin because of its intelligence .
 play , pause , stop .
 
 As you can see , this is the same tool bar as is located here .
 
 easy to r to recognise as a giraffe .
-
-I've drawn a dolphin because of its intelligence .
 

@@ -57,9 +57,9 @@ you/PRP have/VBP to/TO keep/VB in/IN mind/NN that/IN the/DT product/NN cost/NN w
 
 you'll/NN ha/NN all/DT have/VBP your/PRP$ spethisfispis/NN specif/NN specific/JJ role/NN
 
-There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
-
 as/IN we/PRP want/VBP to/TO sell/VB it/PRP in/IN the/DT entire/JJ world/NN ,/PUNCT
+
+There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
 
 we/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN the/DT meeting/NN ./PUNCT
 

@@ -20,9 +20,9 @@ So/IN we/PRP should/MD target/VB selling/VBG price/NN of/IN twenty-five/JJ Euro/
 And/CC they/PRP are/VBP the/DT biggest/JJS terrestrial/JJ animal/NN ./PUNCT
 And/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN of/IN the/DT animals/NNS ,/PUNCT
 
-so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
-
 I'm/NNP Michael/NNP ./PUNCT I'm/NNP the/DT user/JJ interface/NN designer/NN ./PUNCT
+
+so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
 
 and/CC mainly/RB first/RB to/TO to/TO make/VB to/TO be/VB used/VBN to/TO the/DT tools/NNS available/JJ in/IN this/DT and/CC smart/JJ meeting/NN room/NN we/PRP have/VBP here/RB ./PUNCT
 So/RB first/RB ,/PUNCT we/PRP have/VBP to/TO train/VB ourself/PRP with/IN all/PDT the/DT the/DT tools/NNS availables/NNS in/IN the/DT in/IN this/DT meeting/NN room/NN and/CC particularly/RB the/DT white/JJ board/NN
@@ -36,11 +36,11 @@ So/RB ,/PUNCT we're/NN here/RB today/NN to/TO have/VB our/PRP$ first/JJ kick-off
 
 But/CC don't/NN you/PRP think/VBP it's/JJ very/RB difficult/JJ to/TO draw/VB a/DT panther/NN ?/PUNCT
 
-So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
-you/PRP have/VBP to/TO work/VB on/IN the/DT technical/JJ functions/NNS ,/PUNCT
-
 spider/NN lives/NNS in/IN a/DT web/NN
 There/EX are/VBP some/DT spiders/NNS that/WDT live/VBP in/IN like/IN that/DT have/VBP like/IN a/DT big/JJ ball/NN of/IN a/DT web/NN ./PUNCT
+
+So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
+you/PRP have/VBP to/TO work/VB on/IN the/DT technical/JJ functions/NNS ,/PUNCT
 
 but/CC I/PRP if/IN that's/VBN if/IN that's/VBN the/DT requirement/NN that/IN we/PRP need/VBP to/TO design/VB the/DT product/NN to/TO actually/RB fit/VB that/IN price/NN bracket/NN
 

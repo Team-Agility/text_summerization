@@ -22,13 +22,10 @@ Three different types of design that we're gonna be concerned with .
 and my responsibilities are deal with the technical-functional designs
 
 After we've finished the remote control we'll get to that .
-Like the remote control which we use for T_V_ , it shou it should be used f for some other purpose also , like controlling the temperature inside the house or for air-conditioners , or for heating system .
-And and they suddenly the phone rings and they want to turn the T_V_ off and they say , where the hell is my remote control ?
+now having used a remote control for years does anybody already have like an idea like things you didn't like with it , things you would like to change , things you would like to improve with this thing
 
 the main responsibility is user interface .
 and specifications of user interface and dealing with user interface design .
-
-now having used a remote control for years does anybody already have like an idea like things you didn't like with it , things you would like to change , things you would like to improve with this thing
 
 That is it's gonna be individual work and then at the meeting we'll discuss what we have come up with .
 there will be individual work whic and then discussion afterwards .
@@ -48,6 +45,9 @@ and voice or clapping it's not specific enough .
 like friendliness , and what we just discussed in general .
 
 or or if it's really , if it's really in a dark spot that it gives out a sound or a signal .
+
+Like the remote control which we use for T_V_ , it shou it should be used f for some other purpose also , like controlling the temperature inside the house or for air-conditioners , or for heating system .
+And and they suddenly the phone rings and they want to turn the T_V_ off and they say , where the hell is my remote control ?
 
 If lost signal with b throw signal , .
 
@@ -97,9 +97,9 @@ I hope the kitty cat is hungry I don't like snakes .
 
 to materials , cost , etcetera .
 
-But it could be someplace really obvious and you still wouldn't be able to find it .
-
 I exp I s we use 'em we use 'em , right , everyday .
+
+But it could be someplace really obvious and you still wouldn't be able to find it .
 
 , i if it were like on top of your bookcase and you usually kept it on the coffee table
 

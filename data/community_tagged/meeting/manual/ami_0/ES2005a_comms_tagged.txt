@@ -36,7 +36,7 @@ because/IN people/NNS really/RB li/VBP like/IN to/TO play/VB with/IN it/PRP when
 
 we're/NN k/NN having/VBG another/DT meeting/NN in/IN half/PDT an/DT hour/NN
 
-Shapes/NNS and/CC colours/NNS and/CC how/WRB to/TO make/VB it/PRP attractive/JJ ./PUNCT
-
 And/CC ,/PUNCT other/JJ instructions/NNS will/MD come/VB from/IN the/DT personal/JJ coach/NN ./PUNCT
+
+Shapes/NNS and/CC colours/NNS and/CC how/WRB to/TO make/VB it/PRP attractive/JJ ./PUNCT
 

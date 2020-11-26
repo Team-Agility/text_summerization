@@ -3,13 +3,11 @@ Although we , but we could still make a remote control that ap applies more to y
 but there are two parts in this remote control .
 The feel of the remote control is spongy .
 there are remote controls out there which are a lot more spongy . They're out there .
-The remote control offers enough features .
 but you do have remote controls that are able to adapt another signal .
 you place a regular remote control in front of the other one , hit the one or the two or the three , whatever , and it r records the the the signals .
-So th this this is a remote control with a very high level of features .
+it's not very expensive for a remote control that has this functionality .
 An original remote control of any T_V_ kind , a Phillips remote control , y you pay
 because there are remote controls which control your stereo , television , D_V_D_ , C_D_ player , for under twenty five Euros .
-because those remote controls don't offer voice recognition
 
 And after a while they start to develop some skills in the voice recognition functions ,
 M m but maybe you do want a programme button to activate the voice recognition , or train the voice recognition .
@@ -20,18 +18,21 @@ the voice recognition is hard to learn , .
 but the voice recognition could add a lot .
 You can add very m much functionality by using the voice recognition mode .
 v with a voice recognition you could add anything you want ,
+because those remote controls don't offer voice recognition
 
-And what makes it very expensive is the solar cell .
-But the more advanced functions are probably a bit harder .
-it's not very expensive for a remote control that has this functionality .
-A and the function of filling an an oval or an object .
+The remote control offers enough features .
+If you ask yourself it offers enough features , I don't think it is it has all the features a normal remote has .
+So th this this is a remote control with a very high level of features .
+I missed a feature to easily select a slide and distribute it to the laptops .
 
 we do think it's what if with ease of use , w which prefers the which the customer of the user prefers .
 novice users u use this device as normal users use a c a remote control .
+Type of m maybe another market segment .
 When you have a more advanced , elaborate user , , such a user really would like to explore all these additional functions .
 and it's easy to use for both types of users .
 but I an advanced user will find the voice recognition function easy to use ,
-but you c you can just say find and he repeats find .
+Because we compare all these characteristics with market with the real market .
+that would be very easy if you could say , I want to use this for my own work or my own presentation further on
 
 That's the basic idea , . Of our prototype .
 maybe not all that fancy , but just way more easy basic
@@ -54,48 +55,56 @@ And a plastic b just plastic buttons , a plas instead of rubber .
 Maybe you have to programme it once , so to that l respond to a certain word or a certain sentence , something like where are you , and then it will sing I'm here . So something like that .
 because a regular programmable remote control contains , , really a lot of buttons . At at least forty buttons .
 
-grey or black like that . Whatever cost the least .
-but do add extra cost .
-But even now , if only our production costs w were exceeded the double ,
-Think . Production cost was were t was twenty two ?
-I kn I know from a few years ago , it costed hundred Gilders .
-But w we weren't aware of the prices of the costs .
-
 it's w way above above the twelve Euro fifty .
 if you look at the w what we could do to make it more to make it just between the twelve Euro fifty ,
-Twelve Euro forty cents I came up with by leaving out the solar cells ,
 And costs were twelve fifty .
-
-th this is device which has a learning curve .
-it is possible to make a device that attracts a little bit more to young people .
-but I agree it's not a fancy high-tech device . Definitely not , no .
-If you ask yourself it offers enough features , I don't think it is it has all the features a normal remote has .
-So you could enter any comment you like , as long it's able to as long as our device is able to reproduce the infrared signal .
-So you're actually promoting Bluetooth . Or blue tongue .
-. That is it's a new feature next to Bluetooth to disable all Bluetooth devices .
 
 They n they need to understand what how to change channels and change the volume ,
 you could use two of them to programme the channels on the two channel button ,
 you have to assign two channel new channels .
 the most important function is easy to use . The the zapping , channel switching , volume .
-that would be very easy if you could say , I want to use this for my own work or my own presentation further on
+
+grey or black like that . Whatever cost the least .
+but do add extra cost .
+We do not have the time o now to redesign the product .
+But even now , if only our production costs w were exceeded the double ,
+Think . Production cost was were t was twenty two ?
+I kn I know from a few years ago , it costed hundred Gilders .
+But w we weren't aware of the prices of the costs .
 
 the price , the number of items and the sum .
+this is what I would call our luxury model .
 because it's it's a four Euro addition to the price .
-Type of m maybe another market segment .
-Because we compare all these characteristics with market with the real market .
+th this design is not within our price model .
 I've we've succe succeed in developing a product that's actually quite good , but not for this market , and not for this price .
+
+But the more advanced functions are probably a bit harder .
+but you c you can just say find and he repeats find .
+So high quality , low acceptance .
+The product is b high qua has a high quality and is advanced .
+It's not quite ergonomic . Eco ergonomic .
+
+th this is device which has a learning curve .
+it is possible to make a device that attracts a little bit more to young people .
+but I agree it's not a fancy high-tech device . Definitely not , no .
+It could have been a little bit more innovative u by using the kinetic energy source ,
+depends on what you implement in the speech feat
+So you could enter any comment you like , as long it's able to as long as our device is able to reproduce the infrared signal .
+But whether or not our clients are willing to pay twenty five Euros for this device is doub is , is not .
 
 you thought of some evaluation crit criteria ?
 but we can evaluate the process and the satisfaction on how things went .
 because if we evaluate it , we can also determine if our objectives are good .
 we are evaluating this design now . This prototype .
 we'll go further on with the rest of the evaluation . About the project itself , not about the product .
+What did you think about the process , the project process ?
+A and the function of filling an an oval or an object .
 
-this is what I would call our luxury model .
-th this design is not within our price model .
-We do not have the time o now to redesign the product .
-we should not stay too long on this subject because of the time ,
+Could could I see the scroll bar as as a shortcut ?
+And what makes it very expensive is the solar cell .
+Twelve Euro forty cents I came up with by leaving out the solar cells ,
+And the scroll wheel . The solar
+It's a giraffe eating a eating leaves from a tree .
 
 the means , the SMARTboard , the digital pen . Did you like 'em ?
 the drawing on the b on the board is r right from the pen .
@@ -105,34 +114,25 @@ And and w you were when you're using Windows , you're used to a certain interfac
 
 looking at room for creativity , there was w way too the choice of components was way too narrow .
 So we could be we could've been creative . But it was tempered by the choice of components and the price .
+We we thought of possibilities who are not possible with the current offer of manufacturing components .
 I missed it to be able to contact you in between and say , hey Roo .
-I missed a feature to easily select a slide and distribute it to the laptops .
 Private room , Roo .
 
-Could could I see the scroll bar as as a shortcut ?
-And the scroll wheel . The solar
-It could have been a little bit more innovative u by using the kinetic energy source ,
-depends on what you implement in the speech feat
-But whether or not our clients are willing to pay twenty five Euros for this device is doub is , is not .
-We we thought of possibilities who are not possible with the current offer of manufacturing components .
+we should not stay too long on this subject because of the time ,
 when taken in account the situation , we performed pretty .
-It it was calibrated just before this meeting . the one before , the third meeting .
 if you save this image , you can open it in your shared work folder .
-It's a giraffe eating a eating leaves from a tree .
-
-just walk through it step by step .
-So high quality , low acceptance .
-The product is b high qua has a high quality and is advanced .
-What did you think about the process , the project process ?
-It's not quite ergonomic . Eco ergonomic .
+Pop pop up the champagne .
+So you're actually promoting Bluetooth . Or blue tongue .
+. That is it's a new feature next to Bluetooth to disable all Bluetooth devices .
 
 but if I would say a three , then it's six , and four is ten . Divided by four is two point five .
 The p the pointing of the pen is not the place where it writes
 I type faster than I write .
 But it's a great solution for a known problem , writing down some notes , some inf information , and then forgetting your notebook somewhere and losing all that information .
 
+just walk through it step by step .
 Because we use spec specic special materials , the last item .
 w what they want wanted was colours and soft materials .
-Pop pop up the champagne .
+It it was calibrated just before this meeting . the one before , the third meeting .
 A simple , dull , one-coloured box .
 

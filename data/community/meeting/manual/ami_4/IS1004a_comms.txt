@@ -20,9 +20,9 @@ So we should target selling price of twenty-five Euro for this remote control
 And they are the biggest terrestrial animal .
 And then there's a difference in the trunk of the animals ,
 
-so , it seems the first thing that they've kinda specified is the price like based on how much profit we wanna make ,
-
 I'm Michael . I'm the user interface designer .
+
+so , it seems the first thing that they've kinda specified is the price like based on how much profit we wanna make ,
 
 and mainly first to to make to be used to the tools available in this and smart meeting room we have here .
 So first , we have to train ourself with all the the tools availables in the in this meeting room and particularly the white board
@@ -36,11 +36,11 @@ So , we're here today to have our first kick-off meeting about this new project 
 
 But don't you think it's very difficult to draw a panther ?
 
-So you have to work on the working design ,
-you have to work on the technical functions ,
-
 spider lives in a web
 There are some spiders that live in like that have like a big ball of a web .
+
+So you have to work on the working design ,
+you have to work on the technical functions ,
 
 but I if that's if that's the requirement that we need to design the product to actually fit that price bracket
 

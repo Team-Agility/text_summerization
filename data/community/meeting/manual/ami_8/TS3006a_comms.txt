@@ -12,11 +12,13 @@ That are the basic options for a remote control .
 
 we're work we're working from top to bottom . functional design ,
 
+and we can interview current users and future users . What w what would they like to see on a new remote control ? especially for future users ,
+
 I had to focus on the working design , which you said .
-the use of the Industrial Designer can work on the working design , etcetera .
 I am gonna work on the conceptual design already
 
-and we can interview current users and future users . What w what would they like to see on a new remote control ? especially for future users ,
+this industrati Industrial Designer should produce a working design .
+the use of the Industrial Designer can work on the working design , etcetera .
 
 And another function I'll think of switch to your media centre ,
 
@@ -29,8 +31,6 @@ the distance from your television to your remote control has to be , , quite a b
 but have you any idea so far as what the user requirements are ?
 
 that is the user requirements part .
-
-this industrati Industrial Designer should produce a working design .
 
 that it activates or deactivates specific functions ,
 
@@ -92,9 +92,9 @@ It uses infrared light to communicate the signal to the T_V_ apparatus or stereo
 
 and in every step I have a s specific task to perform or whatever .
 
-Is this part of our a acquai or introduction to each other ?
-
 opening acquaintance , tool training , how to use the things here . project plan discussion , and then the rest of the meeting .
+
+Is this part of our a acquai or introduction to each other ?
 
 And at the end of the day we should have a prototype drawn up .
 
@@ -115,9 +115,9 @@ according to the coffee machine example , I have batteries to supply energy ,
 
 they're cute , they're independent and cuddly ,
 
-They l look like mole legs . With sharp nails on .
-
 we have available the smart board and the whiteboard .
+
+They l look like mole legs . With sharp nails on .
 
 that's a fr friendly turtle I .
 

@@ -10,40 +10,41 @@ I'm/NNP not/RB exactly/RB clear/JJ on/IN what/WP we're/NN designing/VBG the/DT r
 
 So/IN we/PRP have/VBP the/DT project/NN team/NN ,/PUNCT which/WDT is/VBZ to/TO to/TO come/VB up/RP with/IN a/DT new/JJ r/NN remote/NN control/NN device/NN ./PUNCT
 And/CC our/PRP$ idea/NN is/VBZ to/TO to/TO make/VB the/DT new/JJ remote/NN control/NN device/NN more/RBR user/RB friendly/RB than/IN the/DT previous/JJ one/CD ,/PUNCT
-you/PRP could/MD argue/VB that/DT experience/NN of/IN using/VBG devices/NNS and/CC similar/JJ devices/NNS as/IN people/NNS get/VBP more/JJR and/CC more/RBR used/JJ to/TO using/VBG remotes/NNS ,/PUNCT
-
-Whilst/NNP at/IN the/DT same/JJ time/NN you/PRP want/VBP ,/PUNCT as/IN you/PRP rightly/RB said/VBD ,/PUNCT one/CD remote/NN for/IN all/DT ./PUNCT
 
 because/IN you're/PRP$ sat/NNS in/IN the/DT chair/NN and/CC the/DT remote/NN is/VBZ somewhere/RB else/RB in/IN the/DT room/NN ./PUNCT
 we/PRP need/VBP to/TO maybe/VB think/VB about/IN how/WRB we/PRP could/MD maybe/RB develop/VB a/DT remote/NN control/NN which/WDT moves/VBZ around/IN the/DT room/NN ./PUNCT
 
 I'm/NNP the/DT User/NNP Interface/NNP Designer/NNP ./PUNCT
 
+,/PUNCT so/RB we've/JJ got/VBD the/DT working/VBG design/NN for/IN I_D_/NNP ./PUNCT
+
 And/CC one/CD of/IN the/DT most/RBS annoying/JJ things/NNS is/VBZ having/VBG like/IN five/CD remotes/NNS in/IN the/DT house/NN ./PUNCT
 as/IN you/PRP rightly/RB said/VBD ,/PUNCT there's/VBD nothing/NN more/RBR annoying/NN than/IN having/VBG three/CD or/CC four/CD devices/NNS littered/VBD about/IN the/DT about/IN the/DT room/NN ./PUNCT
 
+in/IN each/DT of/IN these/DT phases/NNS we'll/VBP be/VB handing/VBG over/IN to/TO yourselves/NNS ,/PUNCT the/DT designers/NNS of/IN this/DT this/DT device/NN ./PUNCT
+you/PRP could/MD argue/VB that/DT experience/NN of/IN using/VBG devices/NNS and/CC similar/JJ devices/NNS as/IN people/NNS get/VBP more/JJR and/CC more/RBR used/JJ to/TO using/VBG remotes/NNS ,/PUNCT
+we've/NN done/VBN some/DT research/NN about/IN what/WP the/DT cutting/NN edge/NN hand/NN held/VBD devices/NNS are/VBP ,/PUNCT
+
 method/NN of/IN doing/VBG this/DT is/VBZ split/VBN up/RP as/IN you/PRP can/MD see/VB into/IN the/DT functional/JJ design/NN ,/PUNCT the/DT conceptional/JJ design/NN ,/PUNCT and/CC the/DT detailed/JJ design/NN
 to/TO help/VB you/PRP folks/VB design/VB our/PRP$ new/JJ model/NN as/IN it/PRP were/VBD ./PUNCT
-,/PUNCT so/RB we've/JJ got/VBD the/DT working/VBG design/NN for/IN I_D_/NNP ./PUNCT
 For/IN U_I_D_/NNP the/DT technical/JJ functions/NNS design/NN ./PUNCT
 
-in/IN each/DT of/IN these/DT phases/NNS we'll/VBP be/VB handing/VBG over/IN to/TO yourselves/NNS ,/PUNCT the/DT designers/NNS of/IN this/DT this/DT device/NN ./PUNCT
-we've/NN done/VBN some/DT research/NN about/IN what/WP the/DT cutting/NN edge/NN hand/NN held/VBD devices/NNS are/VBP ,/PUNCT
+We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
+So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
+Whilst/NNP at/IN the/DT same/JJ time/NN you/PRP want/VBP ,/PUNCT as/IN you/PRP rightly/RB said/VBD ,/PUNCT one/CD remote/NN for/IN all/DT ./PUNCT
+But/CC at/IN this/DT point/NN in/IN time/NN you're/NN right/NN that/WDT shall/MD we/PRP make/VB it/PRP just/RB a/DT T_V_/NNP ./PUNCT
+
+Where/WRB we/PRP We/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN this/DT meeting/NN ./PUNCT
+we've/NN got/VBD five/CD minutes/NNS before/IN the/DT end/NN of/IN the/DT meeting/NN ./PUNCT
+And/CC I/PRP I'll/NNP try/NN and/CC write/VB up/RP some/DT minutes/NNS of/IN this/DT meeting/NN to/TO to/TO give/VB it/PRP to/TO you/PRP for/IN the/DT next/JJ meeting/NN ./PUNCT
 
 And/CC having/VBG meetings/NNS so/RB that/IN we/PRP can/MD during/IN the/DT course/NN of/IN the/DT day/NN come/VB up/RP with/IN a/DT better/JJR inst/NN implement/NN than/IN we/PRP had/VBD before/IN ./PUNCT
 And/CC therefore/RB have/VBP a/DT successful/JJ conclusion/NN to/TO the/DT day/NN ./PUNCT
 and/CC you'll/RB be/VB doing/VBG various/JJ designs/NNS throughout/IN the/DT day/NN to/TO meet/VB this/DT end/NN ./PUNCT
 during/IN the/DT course/NN of/IN our/PRP$ day/NN we/PRP might/MD make/VB decisions/NNS based/VBN on/IN information/NN or/CC meetings/NNS that/WDT would/MD change/VB where/WRB we're/NN going/VBG ./PUNCT
 
-Where/WRB we/PRP We/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN this/DT meeting/NN ./PUNCT
-we've/NN got/VBD five/CD minutes/NNS before/IN the/DT end/NN of/IN the/DT meeting/NN ./PUNCT
 Next/JJ meeting/NN in/IN thirty/NN minutes/NNS ./PUNCT
 Are/IN we/PRP all/DT clear/VBP what/WP objectives/VBZ we're/VBP looking/VBG to/TO meet/VB in/IN the/DT next/JJ thirty/NN minutes/NNS ?/PUNCT
-And/CC I/PRP I'll/NNP try/NN and/CC write/VB up/RP some/DT minutes/NNS of/IN this/DT meeting/NN to/TO to/TO give/VB it/PRP to/TO you/PRP for/IN the/DT next/JJ meeting/NN ./PUNCT
-
-We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
-So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
-But/CC at/IN this/DT point/NN in/IN time/NN you're/NN right/NN that/WDT shall/MD we/PRP make/VB it/PRP just/RB a/DT T_V_/NNP ./PUNCT
 
 Because/IN a/DT lot/NN of/IN systems/NNS are/VBP T_V_/NNP video/NN combined/VBN now/RB ,/PUNCT
 or/CC T_V_/NNP D_V_D_/NNP combined/VBD ./PUNCT
@@ -89,12 +90,11 @@ But/CC now/RB you/PRP you'll/VBP move/VB out/RB from/IN the/DT microphone/NN and
 because/IN with/IN most/JJS of/IN the/DT animals/NNS if/IN you're/JJ going/VBG away/RB on/IN holiday/NN or/CC whatever/NN ,/PUNCT you've/CC gotta/JJ spend/JJ money/NN or/CC get/VB a/DT friend/NN or/CC whatever/WDT to/TO look/VB after/IN them/PRP for/IN you/PRP ./PUNCT
 
 So/RB what/WP my/PRP$ daughters/NNS have/VBP got/VBN at/IN the/DT moment/NN is/VBZ they've/JJ got/VBD a/DT few/JJ fish/NN
+Whereas/IN if/IN you/PRP got/VBD fish/JJ ,/PUNCT you/PRP just/RB gotta/VB put/VBD the/DT food/NN in/IN a/DT dripper/NN feed/NN which/WDT feeds/VBZ them/PRP over/IN the/DT couple/NN of/IN weeks/NNS that/WDT you're/VBP away/RB
 fish/NN are/VBP are/VBP not/RB are/VBP reasonable/JJ pets/NNS in/IN that/DT they're/NN low/JJ maintenance/NN ./PUNCT
 
 and/CC I/PRP like/VBP my/PRP$ animal/NN that/IN looks/VBZ nothing/NN like/IN a/DT bear/NN because/IN maybe/RB because/IN there's/NN so/RB many/JJ cartoon/NN characters/NNS made/VBD up/RP after/IN the/DT bear/NN
 like/IN the/DT jungle/NN book/NN characters/NNS and/CC like/IN that/DT ./PUNCT
-
-Whereas/IN if/IN you/PRP got/VBD fish/JJ ,/PUNCT you/PRP just/RB gotta/VB put/VBD the/DT food/NN in/IN a/DT dripper/NN feed/NN which/WDT feeds/VBZ them/PRP over/IN the/DT couple/NN of/IN weeks/NNS that/WDT you're/VBP away/RB
 
 So/RB does/VBZ anyone/NN have/VB any/DT thoughts/NNS as/IN to/TO the/DT tool/NN training/NN that/WDT is/VBZ required/VBN ?/PUNCT
 

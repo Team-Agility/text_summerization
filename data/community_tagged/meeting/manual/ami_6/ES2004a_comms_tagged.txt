@@ -55,12 +55,14 @@ finance-wise/NN ,/PUNCT we've/NN got/VBD a/DT selling/NN price/NN at/IN twenty/J
 
 ,/PUNCT and/CC profit/NN aim/NN is/VBZ fifty/JJ million/CD Euros/NNP ,/PUNCT
 
-One/CD point/NN four/CD Euro/NNP would/MD make/VB a/DT Pound/NN like/IN that/DT ./PUNCT
-
-that's/NN gonna/NN be/VB a/DT problem/NN anyway/RB with/IN the/DT older/JJR generation/NN perhaps/RB ,/PUNCT
 Is/VBZ it/PRP possible/JJ that/IN for/IN the/DT older/JJR generation/NN you/PRP could/MD have/VB like/IN an/DT extra/JJ button/NN that/IN you/PRP press/VBP for/IN large/JJ print/NN like/IN you/PRP do/VBP in/IN large/JJ print/NN books/NNS ?/PUNCT
 
+that's/NN gonna/NN be/VB a/DT problem/NN anyway/RB with/IN the/DT older/JJR generation/NN perhaps/RB ,/PUNCT
+
 production/NN cost's/NN at/IN twelve/NN fifty/NN ,/PUNCT so/IN
+
+One/CD point/NN four/CD Euro/NNP would/MD make/VB a/DT Pound/NN like/IN that/DT ./PUNCT
+about/RB seventeen/NN ,/PUNCT seventeen/JJ Pounds/NNP ,/PUNCT something/NN like/IN that/DT ./PUNCT
 
 half/NN of/IN the/DT selling/NN price/NN is/VBZ taken/VBN up/RP by/IN building/VBG it/PRP ./PUNCT
 
@@ -84,33 +86,31 @@ we've/NN got/VBD half/PDT an/DT hour/NN before/IN the/DT next/JJ meeting/NN ,/PU
 and/CC you/PRP did/VBD say/VB earlier/JJR it's/NN got/VBD to/TO be/VB a/DT accessible/JJ and/CC usable/JJ by/IN all/DT age/NN groups/NNS
 Big/NNP target/NN group/NN ./PUNCT
 
-about/RB seventeen/NN ,/PUNCT seventeen/JJ Pounds/NNP ,/PUNCT something/NN like/IN that/DT ./PUNCT
-
 I/PRP had/VBD a/DT quick/JJ look/NN at/IN the/DT company/NN website/NN
 
 Something/VBG that's/JJ easily/RB moulded/VBN and/CC produced/VBN ./PUNCT
 
 ,/PUNCT leave/VB me/PRP a/DT space/NN at/IN the/DT bottom/NN ,/PUNCT
 
-,/PUNCT I'm/NNP very/RB impressed/JJ with/IN your/PRP$ artistic/JJ skills/NNS ,/PUNCT
-
-I/PRP don't/VBP think/VB it's/VB a/DT case/NN of/IN worrying/VBG about/IN different/JJ languages/NNS and/CC things/NNS like/IN that/DT ,/PUNCT
-
-An/DT eagle/NN ,/PUNCT again/RB I'm/NNP thinking/VBG on/IN my/PRP$ feet/NNS goodness/NN ./PUNCT
-
-firstly/RB it/PRP was/VBD an/DT attempt/NN at/IN a/DT T_/NNP Rex/NNP
+grannies/NNS to/TO kids/NNS ,/PUNCT maybe/RB even/RB pooches/NNS should/MD be/VB able/JJ to/TO use/VB it/PRP ./PUNCT
 
 And/CC I/PRP see/VBP them/PRP as/IN majestic/NN ,/PUNCT and/CC independent/JJ ,/PUNCT and/CC proud/NN ./PUNCT
 
-grannies/NNS to/TO kids/NNS ,/PUNCT maybe/RB even/RB pooches/NNS should/MD be/VB able/JJ to/TO use/VB it/PRP ./PUNCT
+firstly/RB it/PRP was/VBD an/DT attempt/NN at/IN a/DT T_/NNP Rex/NNP
+
+,/PUNCT I'm/NNP very/RB impressed/JJ with/IN your/PRP$ artistic/JJ skills/NNS ,/PUNCT
+
+It's/NNP not/RB a/DT vampire/NN bat/NN honestly/RB ./PUNCT
+
+An/DT eagle/NN ,/PUNCT again/RB I'm/NNP thinking/VBG on/IN my/PRP$ feet/NNS goodness/NN ./PUNCT
 
 pretty/RB huge/JJ margin/NN ./PUNCT
+
+I/PRP don't/VBP think/VB it's/VB a/DT case/NN of/IN worrying/VBG about/IN different/JJ languages/NNS and/CC things/NNS like/IN that/DT ,/PUNCT
 
 You/PRP mean/VBP to/TO save/VB it/PRP lesser/JJR number/NN ./PUNCT
 
 and/CC I/PRP get/VBP to/TO do/VB another/DT fantastic/JJ PowerPoint/NNP presentation/NN ./PUNCT
-
-It's/NNP not/RB a/DT vampire/NN bat/NN honestly/RB ./PUNCT
 
 talk/NN about/IN the/DT project/NN plan/NN ,/PUNCT
 

@@ -60,31 +60,29 @@ on/IN top/NN are/VBP the/DT basic/JJ options/NNS on/IN top/NN ,/PUNCT
 The/DT production/NN cost/NN are/VBP about/IN half/PDT the/DT price/NN of/IN selling/VBG price/NN ,/PUNCT
 Because/IN we/PRP sell/VBP it/PRP lonely/RB from/IN the/DT t/NN and/CC not/RB with/IN the/DT television/NN ,/PUNCT we/PRP sell/VBP it/PRP apart/RB ./PUNCT
 
-,/PUNCT this/DT is/VBZ about/IN twenty/NN five/CD minutes/NNS ,/PUNCT this/DT meeting/NN ./PUNCT
-We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
-
 And/CC we/PRP have/VBP to/TO make/VB a/DT profit/NN of/IN fifty/JJ million/CD Euros/NNP ,/PUNCT
 can/MD someone/NN make/VB a/DT calculation/NN about/IN how/WRB many/JJ we/PRP have/VBP to/TO sell/VB of/IN these/DT to/TO make/VB fifty/JJ million/CD ,/PUNCT
 
 Or/CC we/PRP have/VBP to/TO make/VB something/NN like/IN mobile/JJ phones/NNS that/IN you/PRP can/MD fold/VB it/PRP opem/PRP ./PUNCT
 how/WRB much/JJ is/VBZ your/PRP$ standards/NNS mobile/IN phone/NN recharger/NN ?/PUNCT
 
+,/PUNCT this/DT is/VBZ about/IN twenty/NN five/CD minutes/NNS ,/PUNCT this/DT meeting/NN ./PUNCT
+what/WP time/NN did/VBD we/PRP start/VB this/DT meeting/NN ,/PUNCT
+We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
+
 I/PRP set/VBP something/NN on/IN paper/NN already/RB ,/PUNCT size/NN ,/PUNCT looks/VBZ ,/PUNCT usable/JJ ,/PUNCT
 the/DT buttons/NNS on/IN usable/JJ places/NNS ,/PUNCT
 
-For/IN the/DT next/JJ time/NN you/PRP have/VBP to/TO put/VB it/PRP exactly/RB on/IN the/DT square/NN ,/PUNCT so/IN your/PRP$ laptop/NN ./PUNCT
+that's/IN the/DT spe/NN the/DT specifications/NNS of/IN the/DT components/NNS and/CC the/DT properties/NNS and/CC the/DT specifications/NNS of/IN the/DT user/JJ interface/NN ./PUNCT
+for/IN m/NN for/IN me/PRP the/DT Marketing/NNP Expert/NNP ,/PUNCT the/DT user/NN requirements/NNS specification/NN ,/PUNCT do/VBP I/PRP need/VBP to/TO think/VB as/IN a/DT user/NN ,/PUNCT
 
-what/WP time/NN did/VBD we/PRP start/VB this/DT meeting/NN ,/PUNCT
+For/IN the/DT next/JJ time/NN you/PRP have/VBP to/TO put/VB it/PRP exactly/RB on/IN the/DT square/NN ,/PUNCT so/IN your/PRP$ laptop/NN ./PUNCT
 
 line/NN width/NN ten/NN ./PUNCT
 Half/NNP past/JJ ten/NN ./PUNCT
 
 And/CC you/PRP already/RB saw/VBD all/DT that/IN you/PRP here/RB can/MD put/VB things/NNS in/IN the/DT red/JJ project/NN map/NN ./PUNCT
 but/CC I/PRP what/WP the/DT project/NN projection/NN costs/NNS are/VBP for/IN such/JJ a/DT thing/NN ./PUNCT
-
-it/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT user-friendly/JJ
-that's/IN the/DT spe/NN the/DT specifications/NNS of/IN the/DT components/NNS and/CC the/DT properties/NNS and/CC the/DT specifications/NNS of/IN the/DT user/JJ interface/NN ./PUNCT
-for/IN m/NN for/IN me/PRP the/DT Marketing/NNP Expert/NNP ,/PUNCT the/DT user/NN requirements/NNS specification/NN ,/PUNCT do/VBP I/PRP need/VBP to/TO think/VB as/IN a/DT user/NN ,/PUNCT
 
 and/CC we/PRP have/VBP to/TO use/VB a/DT different/JJ pen/NN colours/NNS and/CC different/JJ thickness/NN of/IN the/DT pen/NN ./PUNCT
 Maybe/RB you/PRP should/MD hold/VB your/PRP$ pen/FW a/DT bit/RB more/RBR to/TO the/DT back/NN ,/PUNCT
@@ -95,6 +93,8 @@ but/CC a/DT home/NN station/NN is/VBZ a/DT really/RB good/JJ idea/NN ,/PUNCT
 
 You/PRP have/VBP to/TO draw/VB a/DT favourite/JJ animal/NN on/IN the/DT whiteboard/NN
 but/CC it's/VB an/DT animal/NN that/WDT lives/VBZ in/IN the/DT water/NN ./PUNCT
+
+it/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT user-friendly/JJ
 
 Technical/JJ fun/NN fu/NN
 

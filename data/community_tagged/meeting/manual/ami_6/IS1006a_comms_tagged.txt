@@ -88,9 +88,9 @@ It/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ and/CC user/JJ friendly
 
 Then/RB you/PRP can/MD watch/VB what/WP your/PRP$ you/PRP could/MD also/RB record/VB your/PRP$ sequence/NN of/IN actions/NNS ,/PUNCT
 
-So/RB your/PRP$ personal/JJ coach/NN will/MD send/VB you/PRP some/DT instruction/NN for/IN this/DT thirty/NN minutes/NNS ./PUNCT
-
 you/PRP c/VBP you/PRP can/MD easily/RB remove/VB the/DT frame/NN ./PUNCT
+
+So/RB your/PRP$ personal/JJ coach/NN will/MD send/VB you/PRP some/DT instruction/NN for/IN this/DT thirty/NN minutes/NNS ./PUNCT
 
 and/CC if/IN I'm/NNP left-hander/NN I/PRP use/VBP this/DT switch/NN to/TO follow/VB the/DT main/JJ operations/NNS ./PUNCT
 

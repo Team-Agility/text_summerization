@@ -1,7 +1,6 @@
 and/CC that's/VB if/IN we're/JJ gonna/NNS make/VBP a/DT remote/JJ control/NN ,/PUNCT it/PRP should/MD actually/RB work/VB for/IN what/WP it's/NN doing/VBG ./PUNCT
 
 are/VBP we/PRP designing/VBG a/DT remote/JJ control/NN for/IN a/DT television/NN only/RB
-,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
 
 Because/IN that/DT is/VBZ one/CD thing/NN that/WDT remotes/VBZ tend/VBP to/TO have/VB buttons/NNS that/IN the/DT T_V_s/NNP no/RB longer/RB have/VB as/RB ./PUNCT
 
@@ -18,6 +17,9 @@ but/CC not/RB necessarily/RB on/IN the/DT m/NN the/DT normal/JJ remote/NN ./PUNC
 but/CC that/DT just/RB has/VBZ your/PRP$ major/JJ buttons/NNS for/IN that/DT work/NN for/IN everything/NN ,/PUNCT volume/NN control/NN ,/PUNCT on/IN ,/PUNCT off/RB ,/PUNCT
 
 and/CC I/PRP I'm/VBP the/DT Industrial/NNP Designer/NNP on/IN this/DT project/NN ./PUNCT
+
+,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
+So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
 
 all/PDT the/DT whatever/WDT else/RB we/PRP have/VBP programmed/VBN into/IN it's/JJ all/DT just/RB in/IN its/PRP$ separate/JJ place/NN and/CC not/RB like/IN all/PDT the/DT on/IN buttons/NNS together/RB ,/PUNCT
 
@@ -48,8 +50,6 @@ or/CC should/MD we/PRP just/RB stick/VB to/TO having/VBG television/NN related/V
 and/CC if/IN if/IN you'd/NN save/VBP the/DT more/RBR complicated/JJ functions/NNS maybe/RB for/IN separate/JJ remotes/NNS that/IN you/PRP wouldn't/VBP need/VB to/TO use/VB every/DT day/NN ./PUNCT
 
 would/MD we/PRP even/RB technically/RB be/VB possible/JJ to/TO include/VB video/JJ recorder/NN functions/NNS on/IN it/PRP ?/PUNCT
-
-So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
 
 the/DT conceptional/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ,/PUNCT
 and/CC then/RB the/DT detailed/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ./PUNCT
@@ -112,9 +112,9 @@ and/CC I/PRP they're/VBP pretty/RB neat/JJ little/JJ tools/NNS ./PUNCT
 we'd/NNS like/IN to/TO sell/VB it/PRP for/IN about/IN twenty/NN five/CD Euro/NNP with/IN the/DT profit/NN aim/NN of/IN fifteen/JJ million/CD Euro/NNP from/IN our/PRP$ sales/NNS
 in/IN order/NN to/TO make/VB a/DT profit/NN of/IN this/DT magnitude/NN ,/PUNCT we/PRP need/VBP to/TO be/VB able/JJ to/TO produce/VB each/DT one/CD at/IN a/DT maximum/NN of/IN twelve/NN fifty/NN Euro/NNP ./PUNCT
 
-I/PRP feel/VBP like/IN you/PRP end/VBP up/RP with/IN multimedia/NN overload/NN ./PUNCT
-
 I'm/NN from/IN around/IN D_C_/NNP ish/NN in/IN the/DT U_S_/NNP ./PUNCT
+
+I/PRP feel/VBP like/IN you/PRP end/VBP up/RP with/IN multimedia/NN overload/NN ./PUNCT
 
 our/PRP$ agenda/NN today/NN is/VBZ we/PRP are/VBP gonna/JJ do/VBP a/DT little/JJ opening/NN
 I/PRP live/VBP I/PRP live/VBP right/JJ across/IN the/DT street/NN from/IN an/DT open/JJ space/NN in/IN California/NNP ./PUNCT

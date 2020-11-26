@@ -1,22 +1,28 @@
 so it not gonna it's not gonna be a multi-purpose remote control ,
-it seems like the young users of remote controls really like the fancy new technology , like an L_C_D_ screen on the remote control , speech recognition .
-First point is , seventy five percent of the users find the most repo remote controls very ugly ,
+is that they want the slogan and the logo to be recognised more in the remote .
 they use teletext and not the internet on a remote control .
-people used to get lost off the remote controller ,
+but it came out that a lot of buttons weren't even used on a remote control .
+Just to get less buttons on the remote control , to make it easier and quicker to learn .
 what I did was I dissected current remote controls
 what I did was I checked remote controls
 and the remote controls of today are all infrared ,
 And the thing about that is the remote controls have to act as a T_V_ or a stereo ,
 that wouldn't mean a cheap remote control for us .
-that would be extra components , extra designs , larger g remote control .
-because one the one hand you make the remote control compatible for elder users just by scaling up the pictures .
+If somebody says , where is the remote , then it goes beep beep ,
+make a remote that fits easily in the hands
+that he means that maybe by some option make that remote control and the T_V_ match ,
 the functions , know , like the menus or the parental control must be all by the done by the remote control and not by the television .
 
-one hundred respondents were involved
-but it came out that a lot of buttons weren't even used on a remote control .
-So you can have a remote control full of buttons , a hundreds of buttons ,
-Just to get less buttons on the remote control , to make it easier and quicker to learn .
+Could you use perhaps one button for multiple functions ,
+Like I said , use one button for m multiple functions ,
+If you have fifty functions you don't want fifty buttons t to be shown at the same time ,
 
+so if we want to build a remote control with Bluetooth then the T_V_ should have Bluetooth too in order to communicate ,
+What do you think about incorporating Bluetooth or a radio receiver in the place-holder next to the T_V_ , connected to the T_V_ ?
+in order to receive the signals from what's on T_V_ and such .
+because in order for the remote to process something from the T_V_ , like to synchronise and you have to send and receive ,
+
+displaying to the user that something has happened .
 Do we want to use a menu display on the T_V_ ?
 if you use a memory display on the T_V_ , you can simply push a more menu and then select the options you want to have and press .
 if you use many options in one buttle button , display the menu on the T_V_
@@ -24,44 +30,39 @@ so that it's dif dis displayed from displayed here ,
 you can de display it on the old style .
 and it displays all your menu options .
 
-but that if you want to do that , then you can't escape the fact that there will be buttons which give s more options than one .
-Do we want to use a few options and might not be so or original , or multi-purpose as we thought ,
-So maybe we'll loose a few option options ,
-Not first change menu options or switch something .
-like televi some o older telephones use a l maybe it's possible to flip them open and just expand the number of options that are normally visible .
-that he means that maybe by some option make that remote control and the T_V_ match ,
-b but make it a separate option in the menu ,
-and maybe we can look out if there's options that the remote in its memory can see what kinda T_V_ it is ,
-, it's a Philips , this and that , and then give the options that are capable
-Now we just connect the T_V_ type to a set of options , in just in the memory ,
-the memory pops up the options .
-
 When you mentioned improving functions , what what do you mean by that
-Could you use perhaps one button for multiple functions ,
-like example pressing it in longer makes it switch to an different function .
 but what I did think about was when you mentioned about the the cup-holder , is why not introduce a speech function like where is the remote .
 when the battery stops functioning we could just use you could just go out and buy a new one .
 we have to keep it simple . Not too many gadgets and functions ,
-Like I said , use one button for m multiple functions ,
 I'm going to give a presentation abut some of the technical functions of these design and usability functions .
-If you have fifty functions you don't want fifty buttons t to be shown at the same time ,
 maybe we should just ease down on the functionality to to keep it accessible
 or at least putting them somewhere on the remote where they're not in the way for the most important functions .
 you you just see a menu from system functions or teletext functions , and you just choose one ,
-an elder parents or grandparent picks up the remote from the little child and who's all in the systems functions , you'll have to have the possibility to turn off the T_V_ or to switch the channel without using all the menu structures to get back to the primary functions .
 and the other functions , the more difficult functions to be maybe on the touch screen ,
 Export . Maybe not export function .
 
+one hundred respondents were involved
 but at the moment teletext is , th the best thing you can get on T_V_ , like getting information .
-What do you think about incorporating Bluetooth or a radio receiver in the place-holder next to the T_V_ , connected to the T_V_ ?
 but nothing's happening on the T_V_ ,
 current T_V_s can even send infrared .
 you can use when you how do you call it , s synchronized , the remote and the T_V_ ,
 they they all have to be programmed to fit your T_V_
 if you look at the manuals from universal remotes , there are maybe three four hundreds T_V_s at maximum . If you have all of them , all the old and new T_V_s summed up ,
+But , on the other hand on the other hand , if you have a remote and buy a new T_V_ that isn't incorporated in the remote
 already digital information is sent t to the standards , T_V_ connections ,
 so maybe j they we can send that information along with standard T_V_
 You don't buy a T_V_ every week , new teev so .
+
+but that if you want to do that , then you can't escape the fact that there will be buttons which give s more options than one .
+Do we want to use a few options and might not be so or original , or multi-purpose as we thought ,
+So maybe we'll loose a few option options ,
+Not first change menu options or switch something .
+like televi some o older telephones use a l maybe it's possible to flip them open and just expand the number of options that are normally visible .
+b but make it a separate option in the menu ,
+and maybe we can look out if there's options that the remote in its memory can see what kinda T_V_ it is ,
+, it's a Philips , this and that , and then give the options that are capable
+Now we just connect the T_V_ type to a set of options , in just in the memory ,
+the memory pops up the options .
 
 And one of the ideas was maybe use touch screen ,
 it's maybe an option if you use an L_C_D_ or a touch screen ,
@@ -76,17 +77,29 @@ and use the lower part of the touch screen for the rest .
 So you think it's will be better to have a t kinda total touch screen .
 so use just for special options a part of the touch screen .
 I've one little question about a total touch screen
-because elderly people may be not used to a touch screen ,
 You can display actual buttons on the touch screens .
 because , it's just not the same when you touch a touch screen
 A touch screen , like Microsoft al already developed something like that for multi-media applications .
 Paper size A_ four . screen size . In this directory .
 
-is that they want the slogan and the logo to be recognised more in the remote .
-If somebody says , where is the remote , then it goes beep beep ,
-make a remote that fits easily in the hands
-I th don't think that's that takes a lot of storage space or some just varia variables .
-But , on the other hand on the other hand , if you have a remote and buy a new T_V_ that isn't incorporated in the remote
+According to the frequency of use versus importance investigation , following buttons are most important .
+and in the second table the importance of those buttons .
+So you can have a remote control full of buttons , a hundreds of buttons ,
+when a button is prush pushed in , a electric current goes through here ,
+That's that's so the h user won't be thinking , did the button be pressed , w what happened .
+make clear buttons , easy to use .
+and if possible , the buttons should give a dr direct action , not first select
+and don't use combination of t of two buttons at the same time or pressing buttons three times for five seconds ,
+keep the primary buttons visible .
+But th the important buttons m make them always accessible and pushable and clear
+
+people from sixteen to forty five watch a lot of T_V_ , more than people who are el elder .
+people used to get lost off the remote controller ,
+, because recently I saw news item on T_V_ about new telephones for elder people .
+W we are aiming for younger people
+that if you di display buttons about the same as they would look on a normal remote all elderly people will to do .
+
+because elderly people may be not used to a touch screen ,
 
 but maybe use a hierarch hierarchy structure .
 and then at the top or at the bottom , some menus like settings or that you can drop down .
@@ -99,15 +112,29 @@ You just have a f a few selected buttons and a few menus ,
 The menus are not identical for all th for all T_V_s ,
 so this wouldn't be a extra feature to incorporate the men menus of these .
 
-and in the second table the importance of those buttons .
-when a button is prush pushed in , a electric current goes through here ,
-make clear buttons , easy to use .
-and if possible , the buttons should give a dr direct action , not first select
-and don't use combination of t of two buttons at the same time or pressing buttons three times for five seconds ,
+it seems like the young users of remote controls really like the fancy new technology , like an L_C_D_ screen on the remote control , speech recognition .
+First point is , seventy five percent of the users find the most repo remote controls very ugly ,
+and eighty percent of the users would spend more money when a remote control would look fancy .
+so that would mean extra cost for the user
+So that's just to to explain the of to make it clearer to the user .
+that would be extra components , extra designs , larger g remote control .
+because one the one hand you make the remote control compatible for elder users just by scaling up the pictures .
+
+we shouldn't make a big remote control for simple functions ,
 Use big clear buttons . Not too many .
-keep the primary buttons visible .
-But th the important buttons m make them always accessible and pushable and clear
+and that's a big ad advantage ,
+but if you display it on L_C_D_ screen with r really big numbers
 so they don't you don't have a big thing full of buttons
+My executive big room with the panting .
+
+the remote control shou should onl only be used for the television ,
+And those interpreted by the device , in this case the television .
+our remote won't be able to work on all televisions .
+If the user is pushing a button he should know if the television or n at least remote is reacting and not just that the batteries may be low .
+the channels are different on each te television ,
+if you lock on a remote , let's say channel fifteen , channel fifteen on this television is different than channel fifteen on the other television ,
+the point that you wanna use one controller for hypothetically each television ,
+And also like a clapping li like device that pops open .
 
 so maybe it's an idea for us to design ex placeholder on side of the , , of the T_V_
 but if you pick the idea , the left idea
@@ -119,41 +146,24 @@ In codes , y you get a b a book with codes .
 and you press code four five on the in the remote
 press start , bling , updated .
 
-the plan is that each one of you , so not me but only you will present the things you worked on the last half hour .
-the remote control shou should onl only be used for the television ,
-And those interpreted by the device , in this case the television .
-our remote won't be able to work on all televisions .
-If the user is pushing a button he should know if the television or n at least remote is reacting and not just that the batteries may be low .
-the channels are different on each te television ,
-the point that you wanna use one controller for hypothetically each television ,
-And also like a clapping li like device that pops open .
+we have to impro improve the most used functions , as I said here , switching channels , teletext and volume controls .
+like example pressing it in longer makes it switch to an different function .
+just in the middle the general functions , like play , channel switching ,
+an elder parents or grandparent picks up the remote from the little child and who's all in the systems functions , you'll have to have the possibility to turn off the T_V_ or to switch the channel without using all the menu structures to get back to the primary functions .
+which allows parents to switch to all channels ,
+if children the PIN code , they can't switch to violent channels or
+but maybe if you log in first as a parent , you address the channels
+vi violent channel ,
 
-thing is when you buy a remote , you set the channels ,
-they aren't set in a preset order ,
-then you set the priority to only parents ,
-
-So that's maybe something for the User Interface Designer .
-so that would mean extra cost for the user
-displaying to the user that something has happened .
-That's that's so the h user won't be thinking , did the button be pressed , w what happened .
-So that's just to to explain the of to make it clearer to the user .
-what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one ,
-so if you going to design a remote that looks good , that shouldn't weigh over the if it's possible to make , , but also the user friendliness ,
-
-and eighty percent of the users would spend more money when a remote control would look fancy .
-so why should we invent w spend more time on those .
-we shouldn't be spending time on teletext and st things like that ,
-I figure that would be spending too much money and time
-but should we spend money or and time on building a receiver into the remote control ?
-
+we should be able to build a relatively cheap a cheap remote .
 where it will be received on the receiving end .
 we should stick by with infrared transmitting and no receiving .
 because when you want teletext on infrared you'd have to build in a receiver too ,
 but whe when you start building something like this you have to build a receiver into the t into the remotes ,
 then it's be back to the building a receiving if it's actually worth it to build it in ,
+the specifi specific instructions for the next meeting you will all will receive at the the email .
 
-we have to impro improve the most used functions , as I said here , switching channels , teletext and volume controls .
-and if you're looking for teletext you'll be searching for half an hour
+that's pretty pretty normal ,
 especially the important buttons , if you want to switch channel , change your volume , use teletext , it it has to work at once
 if you want to s put on stand-by or change the channel , that should always be possible to do .
 if you want to change the volume or channel that is always accessible and easy
@@ -161,58 +171,44 @@ as being apparent that the children cannot use this change the settings of the T
 so they want the normal functions like teletext , volume changing , to be , , kinda traditionals
 then there's always , there are always possibilities to change the colour and the brightness and the volume
 
-we shouldn't make a big remote control for simple functions ,
-and that's a big ad advantage ,
-Ju just a simple log-in , something like that .
-but if you display it on L_C_D_ screen with r really big numbers
-My executive big room with the panting .
-
-just in the middle the general functions , like play , channel switching ,
-which allows parents to switch to all channels ,
-if children the PIN code , they can't switch to violent channels or
-if you lock on a remote , let's say channel fifteen , channel fifteen on this television is different than channel fifteen on the other television ,
-but maybe if you log in first as a parent , you address the channels
-vi violent channel ,
-
-The method I used was giving orders to our usability lab to do a questionnaire .
-so if we want to build a remote control with Bluetooth then the T_V_ should have Bluetooth too in order to communicate ,
-that's translated into electric sig electronic signals
-in order to receive the signals from what's on T_V_ and such .
-because in order for the remote to process something from the T_V_ , like to synchronise and you have to send and receive ,
-the specifi specific instructions for the next meeting you will all will receive at the the email .
-
 welcome back . At the functional design meeting
+if you want to use a play and back and stop ,
+how late do we have to get back be back here ?
+
+the plan is that each one of you , so not me but only you will present the things you worked on the last half hour .
+So that's maybe something for the User Interface Designer .
 I'll be explaining a bit about working design about the project .
+what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one ,
+so if you going to design a remote that looks good , that shouldn't weigh over the if it's possible to make , , but also the user friendliness ,
 and for some design issues , put a logo on it
 And so an elder designer picks up th the of
 
+so why should we invent w spend more time on those .
+we shouldn't be spending time on teletext and st things like that ,
+I figure that would be spending too much money and time
+but should we spend money or and time on building a receiver into the remote control ?
+each time I I had a summary on what you told and what you personal think .
+
+So in theory you'd actually just move the problem ,
 but the infrared button works only via the chip and the subcomponent to the switch
 this case it switches a button ,
 just hide the few buttons o of switching it open , the usual .
 if multiple machines are used , create easy switch between the machines ,
 But but you can open a from your pr from your laptop .
 
-that's pretty pretty normal ,
-people from sixteen to forty five watch a lot of T_V_ , more than people who are el elder .
-, because recently I saw news item on T_V_ about new telephones for elder people .
-and maybe use it in some aesthetic aesthetic form .
-W we are aiming for younger people
-And th those young people , . Y you saw it in my marketing report , they like the new fancy ,
-that if you di display buttons about the same as they would look on a normal remote all elderly people will to do .
+The method I used was giving orders to our usability lab to do a questionnaire .
+that's translated into electric sig electronic signals
+thing is when you buy a remote , you set the channels ,
+they aren't set in a preset order ,
+then you set the priority to only parents ,
 
 Second findings out of the questionnaire are the opinion the opinions of the audience about current remote controls .
 , persons were asked what the buttons were they use most , how much an hour ,
 as I mentioned ready , we have some Bluetooth
 because my personal opinion is is not to do Bluetooth or radio waves ,
 So I my personal opinion is no receiver .
-each time I I had a summary on what you told and what you personal think .
 I bring it to my personal room .
 I gotta bring it home .
-
-The energy source would be a battery , simple battery
-the energy source is connected to the infrared button ,
-maybe we can incorporate some U_S_B_ or a firewire connection ,
-and you could probably make a connection to an telephone line or a internet connection .
 
 the current customers are in the age group of forty years and older ,
 but with this new remote they will would like to reach a group younger than forty .
@@ -224,30 +220,28 @@ we should aim at the audience from sixteen to forty five .
 second , and that's important for the Marketing Expert ,
 I have some new findings on Marketing Expert level ,
 and my marketing department generated a report with a lot of results .
-According to the frequency of use versus importance investigation , following buttons are most important .
 if we have to stick with current technologies and , the restrictions of what's is on the market today , you should keep it s at this .
+And th those young people , . Y you saw it in my marketing report , they like the new fancy ,
 but you have an international market range ,
-
-and use all the facilities so that you have either SMARTboards , the Word files , what you whatever you want .
-we should be able to build a relatively cheap a cheap remote .
-and in immediately , a l a bulb lights up
-or an update , software update .
-it's most cheap or cheapest to just do the updates at the service centre or at the shop .
 
 the second one is from sixty four forty six to sixty five .
 , as you can see here , the market share for the first audience is about sixty percent sixty five .
 second audience is thirty five percent .
 , first of all it's the biggest share , the biggest audience , sixty five percent .
 
-So in theory you'd actually just move the problem ,
-if you want to use a play and back and stop ,
-how late do we have to get back be back here ?
+and use all the facilities so that you have either SMARTboards , the Word files , what you whatever you want .
+The energy source would be a battery , simple battery
+the energy source is connected to the infrared button ,
+Ju just a simple log-in , something like that .
+maybe we can incorporate some U_S_B_ or a firewire connection ,
+and you could probably make a connection to an telephone line or a internet connection .
 
-and will put the minutes that I have at the end of the session in the shared folder .
-Also the minutes of the previous session are also in the shared folder now ,
+and internet will be the main focus .
 , because it's one of the discussion points of the previous session .
-so s they're updated in the shared folder too .
-is it possible to store this on the share documents or what
+and why several possibilities that we discussed in the earlier meeting falls off .
+so tha that's some of the main points .
+that in the middle are the main keys ,
+th the main points in this in this meeting is how it's going to look
 
 so not more than ten minutes per presentation each ,
 Tim and Janus don't talk to ten minutes ,
@@ -258,17 +252,23 @@ Thirty minutes lunch break ?
 Thirty minutes lunch break , .
 The questionnaire , fill in we fill out d after lunch or
 
-and internet will be the main focus .
-and why several possibilities that we discussed in the earlier meeting falls off .
-so tha that's some of the main points .
-when you visit an internet site you don't want fifty links to see ,
-that in the middle are the main keys ,
-th the main points in this in this meeting is how it's going to look
-I have a Philips H_ fifty five
-and download the newest firmware from from the internet .
+and will put the minutes that I have at the end of the session in the shared folder .
+Also the minutes of the previous session are also in the shared folder now ,
+or an update , software update .
+it's most cheap or cheapest to just do the updates at the service centre or at the shop .
+so s they're updated in the shared folder too .
+is it possible to store this on the share documents or what
 
 I had an email from the management board
 But it's strange that the manage board the management board said that the teletext will be outdated by the internet .
 I've added the this four things from the management board just to keep in mind .
 because all things are stored in smart board dot X_D_K_
+
+and in immediately , a l a bulb lights up
+when you visit an internet site you don't want fifty links to see ,
+and if you're looking for teletext you'll be searching for half an hour
+and maybe use it in some aesthetic aesthetic form .
+I have a Philips H_ fifty five
+I th don't think that's that takes a lot of storage space or some just varia variables .
+and download the newest firmware from from the internet .
 

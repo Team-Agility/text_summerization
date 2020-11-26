@@ -11,8 +11,6 @@ Here/RB is/VBZ what/WP the/DT functional/JJ design/NN is/VBZ supposed/VBN to/TO 
 
 So/RB ,/PUNCT we/PRP looking/VBG for/IN a/DT working/JJ design/NN when/WRB we/PRP come/VBP back/RB ./PUNCT
 
-After/IN we've/NN finished/VBD the/DT remote/JJ control/NN we'll/NN get/VB to/TO that/DT ./PUNCT
-
 Now/RB ,/PUNCT the/DT discussion/NN I/PRP is/VBZ does/VBZ anyone/NN of/IN you/PRP have/VBP experience/VBN with/IN remote/NN control/NN ?/PUNCT
 
 my/PRP$ role/NN is/VBZ industrial/JJ designer/NN
@@ -25,10 +23,10 @@ Three/CD different/JJ types/NNS of/IN design/NN that/WDT we're/VBZ gonna/JJ be/V
 
 and/CC my/PRP$ responsibilities/NNS are/VBP deal/NN with/IN the/DT technical-functional/JJ designs/NNS
 
+After/IN we've/NN finished/VBD the/DT remote/JJ control/NN we'll/NN get/VB to/TO that/DT ./PUNCT
 now/RB having/VBG used/VBN a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN it/PRP ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO change/VB ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN
 
 That/DT is/VBZ it's/JJ gonna/NN be/VB individual/JJ work/NN and/CC then/RB at/IN the/DT meeting/NN we'll/JJ discuss/NN what/WP we/PRP have/VBP come/VBN up/RP with/IN ./PUNCT
-there/EX will/MD be/VB individual/JJ work/NN whic/NN and/CC then/RB discussion/NN afterwards/NNS ./PUNCT
 
 so/RB ,/PUNCT so/IN it's/JJ really/RB the/DT beep/NN or/CC ,/PUNCT or/CC a/DT light/JJ should/MD blink/VB ./PUNCT
 Beep/NNP or/CC it's/VB a/DT light/NN ,/PUNCT maybe/RB it's/VBZ a/DT light/NN ./PUNCT
@@ -36,6 +34,8 @@ Beep/NNP or/CC it's/VB a/DT light/NN ,/PUNCT maybe/RB it's/VBZ a/DT light/NN ./P
 Yes/UH ,/PUNCT I/PRP feel/VBP that/IN all/PDT the/DT remote/NN should/MD be/VB very/RB compact/JJ ./PUNCT
 
 I'm/NNP just/RB saying/VBG throw/JJ signal/JJ meaning/NN just/RB whether/IN it's/NN a/DT beep/NN or/CC whether/IN a/DT light/NN or/CC
+
+there/EX will/MD be/VB individual/JJ work/NN whic/NN and/CC then/RB discussion/NN afterwards/NNS ./PUNCT
 
 And/CC the/DT marketing/NN manager/NN is/VBZ coming/VBG up/RP with/IN some/DT user/JJ requirement/NN specification/NN ,/PUNCT
 
@@ -70,10 +70,10 @@ And/CC do/VB you/PRP think/VB a/DT good/JJ c/NN clue/NN for/IN that/DT is/VBZ th
 
 Like/IN trendy/JJ no/DT like/JJ f/NN for/IN earlier/JJR we/PRP saw/VBD maybe/RB it/PRP should/MD be/VB something/NN trendy/JJ ./PUNCT
 
+Then/RB ,/PUNCT tool/NN training/NN try/VB out/RP the/DT white/JJ board/NN ,/PUNCT
+
 profit/NN aim/NN for/IN the/DT company/NN is/VBZ fifty/JJ million/CD Euro/NNP ,/PUNCT
 At/IN twelve/JJ fifty/JJ Euros/NNP per/IN
-
-Then/RB ,/PUNCT tool/NN training/NN try/VB out/RP the/DT white/JJ board/NN ,/PUNCT
 
 ,/PUNCT my/PRP$ idea/NN is/VBZ maybe/RB that/IN the/DT minute/NN it's/NN really/RB hidden/JJ ,/PUNCT in/IN other/JJ words/NNS if/IN it's/NNS like/IN in/IN a/DT dark/JJ spot/NN ,/PUNCT meaning/VBG like/IN a/DT newspaper/NN is/VBZ on/IN top/NN ,/PUNCT a/DT sweater/NN is/VBZ on/IN top/NN or/CC it's/NN behind/IN a/DT plant/NN ,/PUNCT at/IN that/DT moment/NN it's/NN like/IN ,/PUNCT it's/NN like/IN ,/PUNCT what/WP you/PRP call/VBP it/PRP a/DT light/JJ s/NN sensors/NNS ,/PUNCT ?/PUNCT
 
@@ -102,19 +102,19 @@ to/TO materials/NNS ,/PUNCT cost/NN ,/PUNCT etcetera/NN ./PUNCT
 
 I/PRP exp/VBP I/PRP s/VBP we/PRP use/VBP 'em/PRP we/PRP use/VBP 'em/PRP ,/PUNCT right/RB ,/PUNCT everyday/RB ./PUNCT
 
-,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
-
 But/CC it/PRP could/MD be/VB someplace/VBN really/RB obvious/JJ and/CC you/PRP still/RB wouldn't/VBP be/VB able/JJ to/TO find/VB it/PRP ./PUNCT
 
-like/IN kidney/NN shape/NN feels/NNS better/RBR in/IN your/PRP$ hand/NN ,/PUNCT ./PUNCT
+,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
 
 participant/NN can/MD draw/VB their/PRP$ favourite/JJ animal/NN ./PUNCT
 
+like/IN kidney/NN shape/NN feels/NNS better/RBR in/IN your/PRP$ hand/NN ,/PUNCT ./PUNCT
+
 ,/PUNCT because/IN you're/NN s/NN because/IN you're/NN silly/RB ./PUNCT Because/IN people/NNS are/VBP silly/RB ./PUNCT
 
-because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS lose/VBP them/PRP ./PUNCT They/PRP can't/VBP find/VB it/PRP ./PUNCT
-
 Fat/NNP ,/PUNCT a/DT fat/JJ cat/NN ./PUNCT
+
+because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS lose/VBP them/PRP ./PUNCT They/PRP can't/VBP find/VB it/PRP ./PUNCT
 
 have/VB more/JJR buttons/NNS on/IN it/PRP or/CC maybe/RB clearly/RB better/RBR marked/JJ buttons/NNS ,/PUNCT ,/PUNCT things/NNS like/IN that/DT ?/PUNCT
 

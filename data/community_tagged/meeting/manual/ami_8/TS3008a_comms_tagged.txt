@@ -128,11 +128,11 @@ Antek/NNP Ahmet/NNP ./PUNCT And/CC Joost/NNP ./PUNCT
 
 He's/NNP crying/NN because/IN it's/NN ugl/NN because/IN of/IN his/PRP$ ugliness/NN ./PUNCT
 
+,/PUNCT this/DT the/DT maybe/NN is/VBZ some/DT aspect/NN of/IN the/DT ,/PUNCT or/CC some/DT point/NN at/IN which/WDT we/PRP can/MD excel/VB by/IN making/VBG it/PRP very/RB useful/JJ ./PUNCT
+
 We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
 
 Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
-
-,/PUNCT this/DT the/DT maybe/NN is/VBZ some/DT aspect/NN of/IN the/DT ,/PUNCT or/CC some/DT point/NN at/IN which/WDT we/PRP can/MD excel/VB by/IN making/VBG it/PRP very/RB useful/JJ ./PUNCT
 
 Plus/CC ,/PUNCT the/DT big/JJ forehead/NN and/CC a/DT small/JJ ,/PUNCT a/DT small/JJ actual/JJ face/NN ./PUNCT
 

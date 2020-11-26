@@ -44,9 +44,9 @@ when/WRB I'm/NNP watching/VBG T_V_/NNP I'm/NNP just/RB using/VBG like/IN five/CD
 
 if/IN you/PRP buy/VBP it/PRP separately/RB from/IN your/PRP$ phone/NN it's/NN probably/RB expensive/JJ ,/PUNCT
 
-on/IN top/NN are/VBP the/DT basic/JJ options/NNS on/IN top/NN ,/PUNCT
-
 how/WRB m/JJ how/WRB mu/JJ how/WRB expensive/JJ is/VBZ a/DT normal/JJ recharger/NN ?/PUNCT
+
+on/IN top/NN are/VBP the/DT basic/JJ options/NNS on/IN top/NN ,/PUNCT
 
 so/RB if/IN you/PRP have/VBP a/DT clear/JJ button/NN with/IN an/DT good/JJ icon/NN on/IN it/PRP ,/PUNCT it/PRP should/MD be/VB clear/JJ as/IN ./PUNCT
 

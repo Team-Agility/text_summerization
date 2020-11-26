@@ -75,8 +75,6 @@ As/IN you/PRP can/MD see/VB we've/JJ got/VBD the/DT smart/JJ boards/NNS here/RB 
 everybody/NN knows/VBZ how/WRB to/TO work/VB with/IN the/DT white/JJ board/NN now/RB ?/PUNCT
 haunted/VBN white/JJ board/NN ./PUNCT
 
-as/IN you/PRP can/MD see/VB we/PRP g/VB all/DT going/VBG to/TO draw/VB a/DT animal/NN ./PUNCT Just/NNP to/TO just/RB to/TO get/VB a/DT bit/NN familiar/JJ with/IN it/PRP ./PUNCT
-
 our/PRP$ profit/NN aim/NN is/VBZ fifty/JJ million/CD Euros/NNP ./PUNCT
 
 we/PRP have/VBP our/PRP$ opening/NN acquaintance/NN ,/PUNCT tool/NN training/NN ,/PUNCT project/NN plan/NN description/NN closing/NN ./PUNCT
@@ -96,6 +94,9 @@ so/RB if/IN you/PRP have/VBP a/DT document/NN you/PRP wanna/VBP show/VB ,/PUNCT 
 
 then/RB I'll/NNP meet/NN you/PRP in/IN about/IN a/DT half/NN an/DT hour/NN ,/PUNCT ./PUNCT
 
+as/IN you/PRP can/MD see/VB we/PRP g/VB all/DT going/VBG to/TO draw/VB a/DT animal/NN ./PUNCT Just/NNP to/TO just/RB to/TO get/VB a/DT bit/NN familiar/JJ with/IN it/PRP ./PUNCT
+They're/NNP brilliant/JJ animal/NN animals/NNS ./PUNCT
+
 now/RB I'm/NNP gonna/NN hand/NN over/IN the/DT pen/NN on/IN the/DT new/JJ blank/JJ sheet/NN to/TO you/PRP ./PUNCT
 
 it's/NN pretty/RB skinny/JJ cat/NN ./PUNCT
@@ -110,9 +111,9 @@ Other/JJ ideas/NNS ?/PUNCT Quick/NNP ideas/NNS ./PUNCT
 
 Thought/NNP it/PRP might/MD be/VB handy/JJ to/TO put/VB a/DT battery/NN status/NN display/NN on/IN it/PRP ./PUNCT
 
-so/RB you/PRP have/VBP to/TO got/VB the/DT little/JJ device/NN inside/IN your/PRP$ room/NN ,/PUNCT
-
 A/DT blank/JJ new/JJ document/NN for/IN each/DT person/NN ./PUNCT
+
+so/RB you/PRP have/VBP to/TO got/VB the/DT little/JJ device/NN inside/IN your/PRP$ room/NN ,/PUNCT
 
 I'll/NNP start/NN with/IN the/DT presentation/NN kick/VBD off/RP ./PUNCT
 Any/DT questions/NNS about/IN this/DT presentation/NN ?/PUNCT Kick/NNP off/RP presentation/NN ./PUNCT
@@ -123,8 +124,6 @@ and/CC you'll/NNS have/VBP wires/NNS and/CC microphones/NNS that/WDT will/MD rec
 broad/JJ T_V_/NNP at/IN home/NN ,/PUNCT and/CC a/DT D_V_D_/NNP player/NN ,/PUNCT
 
 We've/NNP got/VBD about/RB five/CD or/CC ten/VB minutes/NNS left/VBN for/IN discussion/NN ./PUNCT
-
-They're/NNP brilliant/JJ animal/NN animals/NNS ./PUNCT
 
 just/RB on/IN a/DT side/NN note/NN ,/PUNCT why/WRB is/VBZ it/PRP my/PRP$ laptop/NN is/VBZ only/RB giving/VBG me/PRP a/DT black/JJ screen/NN ?/PUNCT
 
@@ -138,5 +137,6 @@ It's/NNP my/PRP$ characteristic/JJ characteristic/JJ about/IN the/DT dolphin/NN 
 little/JJ blue/JJ dot/NN they/PRP always/RB get/VBP sprayed/VBN on/IN their/PRP$ butts/NN ./PUNCT
 
 but/CC just/RB if/IN you/PRP hear/VBP something/NN you/PRP can/MD write/VB down/RP ,/PUNCT just/RB write/VB it/PRP down/RP ./PUNCT
+
 because/IN if/IN you/PRP wan/VBP ar/NNS are/VBP going/VBG to/TO do/VB it/PRP like/IN this/DT then/RB it/PRP will/MD be/VB a/DT stripe/NN ./PUNCT
 

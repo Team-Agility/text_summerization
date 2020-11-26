@@ -2,6 +2,8 @@ Do we only have to do phase one , the functional design ?
 
 we're supposed to develop a new remote control ,
 
+and then the same buttons control your video .
+
 the User Interface Designer should specify the technical functions .
 
 That are the basic options for a remote control .
@@ -31,9 +33,6 @@ that it activates or deactivates specific functions ,
 
 individual work , meeting .
 
-and then the same buttons control your video .
-but you'll ne need several other buttons for a video player .
-
 from a marketing perspective , the function des design phase consists out of the user requirements .
 
 And then use your Windows media centre under your T_V_ with the same remote control . So with the switch , one single switch
@@ -57,6 +56,8 @@ then we have a meeting to discuss the results , etcetera .
 
 therefore we have to do some internet search . for what applications do current remote controls support , and what are f featur features of current and future televisions ?
 
+but you'll ne need several other buttons for a video player .
+
 You need a play and a forw fast forward and a stop function .
 
 And at the end of the day we have a final meeting .
@@ -66,15 +67,14 @@ And and for a t teletext you need additional buttons as ,
 and you should draw an animal . you should explain with different colours and with different pen widths .
 And you should explain why you draw that particular animal .
 
-Do I have to explain why I chose this this animal ?
-
 Move to the meeting room .
+
+Do I have to explain why I chose this this animal ?
+It's my favourite pet animal ,
 
 there are a few means to reach that by doing research to see what existing products are there out in the market .
 
 I in the file option menu .
-
-It's my favourite pet animal ,
 
 we can sell them at twenty five Euros .
 the aim is to reach to sell as much as fifty million Euros .
@@ -87,9 +87,9 @@ It uses infrared light to communicate the signal to the T_V_ apparatus or stereo
 
 and in every step I have a s specific task to perform or whatever .
 
-Is this part of our a acquai or introduction to each other ?
-
 opening acquaintance , tool training , how to use the things here . project plan discussion , and then the rest of the meeting .
+
+Is this part of our a acquai or introduction to each other ?
 
 And at the end of the day we should have a prototype drawn up .
 
@@ -110,9 +110,9 @@ according to the coffee machine example , I have batteries to supply energy ,
 
 they're cute , they're independent and cuddly ,
 
-They l look like mole legs . With sharp nails on .
-
 we have available the smart board and the whiteboard .
+
+They l look like mole legs . With sharp nails on .
 
 that's a fr friendly turtle I .
 

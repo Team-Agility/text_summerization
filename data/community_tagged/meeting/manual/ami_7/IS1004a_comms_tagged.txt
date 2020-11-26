@@ -1,8 +1,8 @@
 So/RB ,/PUNCT not/RB the/DT favourite/NN animal/NN ,/PUNCT but/CC I'll/NNP draw/VBP elephant/NN ./PUNCT
 
-So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
-
 and/CC will/MD m/VB we/PRP will/MD meet/VB to/TO to/TO discuss/VB and/CC take/VB decisions/NNS about/IN what/WP you've/NN you/PRP did/VBD and/CC what/WP we/PRP will/MD do/VB next/RB ./PUNCT
+
+So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
 
 we'll/NN discuss/VBZ a/DT f/NN a/DT fly/NN or/CC do/VB we'll/JJR do/VB another/DT meeting/NN abo/NN on/IN elephants/NNS ./PUNCT
 
@@ -33,9 +33,9 @@ so/RB another/DT important/JJ part/NN of/IN the/DT project/NN is/VBZ about/IN mo
 
 And/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN of/IN the/DT animals/NNS ,/PUNCT
 
-so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
-
 I'm/NNP Michael/NNP ./PUNCT I'm/NNP the/DT user/JJ interface/NN designer/NN ./PUNCT
+
+so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
 
 should/MD it/PRP be/VB specific/JJ remote/VB control/NN to/TO some/DT specific/JJ device/NN ?/PUNCT
 
@@ -47,9 +47,9 @@ but/CC I/PRP if/IN that's/VBN if/IN that's/VBN the/DT requirement/NN that/IN we/
 
 because/IN you/PRP can/MD actually/RB draw/VB it/PRP pretty/RB in/IN the/DT corner/NN of/IN a/DT white/JJ board/NN ./PUNCT
 
-The/DT second's/NN a/DT conceptual/JJ design/NN ,/PUNCT
-
 And/CC I/PRP am/VBP Hemant/NNP ,/PUNCT the/DT industrial/JJ designer/NN ./PUNCT
+
+The/DT second's/NN a/DT conceptual/JJ design/NN ,/PUNCT
 
 So/IN it/PRP should/MD be/VB the/DT topic/NN of/IN maybe/NN of/IN the/DT next/JJ meeting/NN just/RB to/TO have/VB an/DT overview/NN of/IN this/DT and/CC in/IN which/WDT direction/NN we/PRP should/MD go/VB ./PUNCT
 
@@ -95,11 +95,11 @@ At/IN least/JJS few/JJ hundred/CD years/NNS ago/RB when/WRB there/EX was/VBD no/
 
 and/CC it's/JJ black/JJ as/IN ,/PUNCT so/IN it/PRP can/MD he/PRP it/PRP can/MD hide/VB itself/PRP very/RB easily/RB
 
+Hi/NNP I'm/NNP Guillermo/NNP ./PUNCT I'm/NNP the/DT Marketing/NNP Expert/NNP ./PUNCT
+
 is/VBZ this/DT a/DT stand-alone/JJ unit/NN that/WDT we're/VBZ gonna/JJ be/VB selling/VBG ?/PUNCT
 
 you/PRP have/VBP to/TO work/VB on/IN the/DT technical/JJ functions/NNS ,/PUNCT
-
-Hi/NNP I'm/NNP Guillermo/NNP ./PUNCT I'm/NNP the/DT Marketing/NNP Expert/NNP ./PUNCT
 
 so/RB ,/PUNCT I/PRP we're/VBP gonna/JJ need/NN to/TO find/VB out/RP what's/NN actually/RB ,/PUNCT what/WP people/NNS ar/VBP are/VBP willing/JJ to/TO pay/VB for/IN
 

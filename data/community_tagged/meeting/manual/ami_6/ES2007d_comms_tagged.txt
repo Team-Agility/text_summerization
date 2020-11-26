@@ -63,10 +63,10 @@ But/CC then/RB you/PRP ring/VBG 'em/PRP and/CC you/PRP find/VBP them/PRP ./PUNCT
 
 you've/NN w/WRB everyone's/NN come/VB up/IN with/IN their/PRP$ own/JJ individual/JJ ideas/NNS in/IN their/PRP$ own/JJ different/JJ departments/NNS ,/PUNCT
 
+and/CC then/RB you/PRP can/MD also/RB there's/VB a/DT numeric/JJ keypad/NN on/IN the/DT top/NN so/IN you/PRP can/MD key/VB directly/RB to/TO the/DT channel/NN if/IN you/PRP want/VBP ./PUNCT
+
 they're/NN in/IN diff/JJ special/JJ colours/NNS ,/PUNCT
 ,/PUNCT they're/VBZ a/DT special/JJ form/NN there/RB in/IN shapes/NNS and/CC ./PUNCT
-
-and/CC then/RB you/PRP can/MD also/RB there's/VB a/DT numeric/JJ keypad/NN on/IN the/DT top/NN so/IN you/PRP can/MD key/VB directly/RB to/TO the/DT channel/NN if/IN you/PRP want/VBP ./PUNCT
 
 because/IN I/PRP remember/VBP like/IN ,/PUNCT peopl/NN if/IN my/PRP$ Mom/NNP ever/RB did/VBD it/PRP but/CC I/PRP remember/VBP other/JJ people's/NN Moms/NNP making/VBG like/IN home-made/JJ Play-Doh/NNP where/WRB you/PRP just/RB like/IN make/VBP the/DT colouring/NN and/CC make/VB some/DT dough/NN ./PUNCT
 I/PRP love/VBP the/DT smell/NN of/IN that/DT Play-Doh/NNP ./PUNCT
@@ -74,12 +74,12 @@ I/PRP love/VBP the/DT smell/NN of/IN that/DT Play-Doh/NNP ./PUNCT
 It/PRP make/VBP watching/VBG T_V_/NNP healthy/JJ ./PUNCT
 ,/PUNCT and/CC if/IN you're/RB not/RB having/VBG a/DT good/JJ time/NN with/IN the/DT T_V_/NNP ,/PUNCT you/PRP can/MD f/VB throw/VB it/PRP about/RB ,/PUNCT ./PUNCT
 
-when/WRB this/DT meeting's/NN finished/VBN like/IN officially/RB ,/PUNCT there/EX b/SYM we'll/NN get/VB a/DT questionnaire/NN to/TO fill/VB in/IN ./PUNCT
-we're/NN gonna/NN get/VB asked/VBN to/TO fill/VB out/RP another/DT questionnaire/NN ./PUNCT
+Your/PRP$ index/NN finger/NN is/VBZ channel/VBN up/RP ,/PUNCT middle/JJ finger/NN is/VBZ channel/VBN down/RP ,/PUNCT
 
 ,/PUNCT wanna/WP put/VBD in/IN as/IN Project/NNP Manager/NNP the/DT ,/PUNCT little/JJ bit/NN of/IN praise/NN for/IN everybody/NN here/RB for/IN how/WRB they've/JJ worked/VBN on/IN it/PRP ,/PUNCT
 
-Your/PRP$ index/NN finger/NN is/VBZ channel/VBN up/RP ,/PUNCT middle/JJ finger/NN is/VBZ channel/VBN down/RP ,/PUNCT
+when/WRB this/DT meeting's/NN finished/VBN like/IN officially/RB ,/PUNCT there/EX b/SYM we'll/NN get/VB a/DT questionnaire/NN to/TO fill/VB in/IN ./PUNCT
+we're/NN gonna/NN get/VB asked/VBN to/TO fill/VB out/RP another/DT questionnaire/NN ./PUNCT
 
 That/DT was/VBD the/DT main/JJ criteria/NNS from/IN the/DT last/JJ meeting/NN ,/PUNCT it/PRP had/VBD to/TO be/VB chew/JJ proof/NN ./PUNCT
 That/DT was/VBD our/PRP$ main/JJ technological/JJ innovation/NN
@@ -113,13 +113,13 @@ We're/NNP not/RB we're/VBZ not/RB ,/PUNCT tying/VBG our/PRP$ cart/NN to/TO that/
 Just/RB don't/NN sh/VBD don't/JJ throw/VB it/PRP at/IN any/DT of/IN the/DT ornaments/NNS and/CC break/VB them/PRP ./PUNCT
 ,/PUNCT you/PRP can/MD break/VB the/DT ornaments/NNS ,/PUNCT but/CC you/PRP won't/VBP break/VB that/DT ./PUNCT
 
-So/RB the/DT case/NN ,/PUNCT we've/WP gone/VBN for/IN the/DT double/JJ curved/NN ./PUNCT
+And/CC it's/NN got/VBD the/DT b/NN the/DT black/JJ and/CC yellow/JJ and/CC blue/JJ ./PUNCT
 
-I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP than/IN have/VBP five/CD minutes/NNS of/IN silence/NN ./PUNCT
+So/RB the/DT case/NN ,/PUNCT we've/WP gone/VBN for/IN the/DT double/JJ curved/NN ./PUNCT
 
 ,/PUNCT you/PRP could/MD still/RB flush/VB it/PRP down/RP the/DT toilet/NN theoretically/RB ,/PUNCT but/CC
 
-And/CC it's/NN got/VBD the/DT b/NN the/DT black/JJ and/CC yellow/JJ and/CC blue/JJ ./PUNCT
+I/PRP it's/VBP probably/RB better/RBR that/IN we/PRP wrap/VBP it/PRP up/RP than/IN have/VBP five/CD minutes/NNS of/IN silence/NN ./PUNCT
 
 It's/NNP made/VBD edible/JJ kids/NNS eat/NN it/PRP ,/PUNCT
 

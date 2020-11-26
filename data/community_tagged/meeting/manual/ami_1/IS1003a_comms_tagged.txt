@@ -43,9 +43,9 @@ and/CC the/DT product/NN costs/NNS will/MD be/VB not/RB more/RBR than/IN twelve/
 And/CC you/PRP have/VBP to/TO keep/VB it/PRP under/IN twelve/NN Euros/NNP and/CC f/JJ fifty/NN ,/PUNCT so/RB ./PUNCT
 you/PRP have/VBP to/TO keep/VB in/IN mind/NN that/IN the/DT product/NN cost/NN won't/NN be/VB maxim/RB more/JJR than/IN twelve/VB dot/JJ fifty/JJ Euros/NNP ./PUNCT
 
-There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
-
 as/IN we/PRP want/VBP to/TO sell/VB it/PRP in/IN the/DT entire/JJ world/NN ,/PUNCT
+
+There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
 
 And/CC and/CC the/DT next/JJ meeting/NN will/MD start/VB in/IN thirty/NN minutes/NNS ,/PUNCT
 we/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN the/DT meeting/NN ./PUNCT

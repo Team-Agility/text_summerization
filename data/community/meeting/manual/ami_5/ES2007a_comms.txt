@@ -1,13 +1,11 @@
+, you want one remote that maybe can work all of the functions of T_V_
+
 . it's a T_V_ remote control .
 A new remote control for T_V_ .
+but the functions that we're that we want are that it can control the T_V_ ,
 maybe we should just concentrate on having a good T_V_ remote ,
 
-I'm not if it's a good idea to have a two sided remote though ,
-
 so you gotta you go , you're gonna be the one that's working out what buttons we need . .
-
-, you want one remote that maybe can work all of the functions of T_V_
-but the functions that we're that we want are that it can control the T_V_ ,
 
 but like at the same time you don't wanna really busy remote with a thousand buttons on it .
 see what people want in a remote , what buttons are used more often , and s like that .
@@ -23,14 +21,11 @@ you actually just putting three or four different remotes together but making th
 Remotes spinning out from other remotes and having little nested remotes inside .
 like we had five or six remotes and they would be lying on the c on the coach ,
 
-We should have a back-up plan of just a really good television remote control , that just that is just for a T_V_ , but it's just a really good , one .
+, we're before we close the meeting , we're supposed to come up with some ideas for
 
 Project method , functional design , individual work , another meeting ,
 conceptual design , individual work , and a meeting of details design ,
 individual work and a meeting .
-
-, we're before we close the meeting , we're supposed to come up with some ideas for
-and then after we've found out what we can like , some different ideas , we can then go and do the research to find out if these any of these ideas are feasible or not .
 
 Or grandma as , it's like what is the mute button .
 or big buttons for touchy buttons for
@@ -42,11 +37,15 @@ F flip it open and you've got all the buttons , or you flip it closed and you've
 
 Sorta find a niche for our remote , like market it to a certain p people ,
 
+and then after we've found out what we can like , some different ideas , we can then go and do the research to find out if these any of these ideas are feasible or not .
+
 Miss Industrial Designer , would you like to go first ?
 Industrial Designer , you are the one , , you're gonna be working out box it goes in , I so ,
 
-. so we still have time in our next meeting to come up with the actual concept for the user interface ,
-User Interface Designer , that's that's
+have one very complicated one on one side with all the D_V_D_ and V_C_R_ access and ,
+real keep it really simple on one side and the other side be very complicated .
+One side for kids , one side for adults .
+I'm not if it's a good idea to have a two sided remote though ,
 
 like a lock f like a lock functs function on it like you have on your telephones ,
 it doesn't have to have a flip function , it can just have a lock function ,
@@ -59,6 +58,11 @@ stage one was technical functions design ,
 
 I by the end of this meeting we should have at least a rough conception
 , we've been warned to finish the meeting now .
+
+We should have a back-up plan of just a really good television remote control , that just that is just for a T_V_ , but it's just a really good , one .
+and you'd come and sit down and , the telephone's the television switched on .
+
+. so we still have time in our next meeting to come up with the actual concept for the user interface ,
 
 See , I'm just thinking bearing in mind th we've gotta we have to have something that's cheap to make .
 You're the one that's gotta go and find out do th do the research ,
@@ -77,9 +81,9 @@ It g can't be more than twelve fifty per unit .
 
 the last slide wanted us to maybe discuss longer what our ideas where .
 
-have one very complicated one on one side with all the D_V_D_ and V_C_R_ access and ,
-real keep it really simple on one side and the other side be very complicated .
-One side for kids , one side for adults .
+It's original , trendy and it's user-friendly .
+User Interface Designer , that's that's
+User requirements specifications .
 
 . Miss mar Miss Marketing ?
 
@@ -108,21 +112,17 @@ No porn channel for children .
 selling price twenty five Euros ,
 profit aim fifty million Euros .
 
-It's original , trendy and it's user-friendly .
-User requirements specifications .
-
 Market range internationally sold .
 
 I honestly can't draw for toffee . .
 
-and you'd come and sit down and , the telephone's the television switched on .
+Do you want to use the wipe the m the wiper and wipe it off ?
 
+And they can feel when a human's got problems so
 it would be very hard to use in the way that you mani manipulate it .
 we're sounds like we're all a bit gadget heads
 
-Do you want to use the wipe the m the wiper and wipe it off ?
 but then you'll have to describe in writing how the rest of it looks .
-Video and ts hi-fi and .
 
-And they can feel when a human's got problems so
+Video and ts hi-fi and .
 

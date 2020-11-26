@@ -1,4 +1,3 @@
-which maybe which may seem quite high but if our looks are if the re remote control we design have a good better better look designs , then we can hope that consumers will prefer these g remote controls .
 And the second thing , some companies they think that they should have more and more functions of the users or in their remote controls ,
 but rather than those having more functions in the remote controls we should emphasise what actually consumer want , what they operate , rather than making it too complicated .
 So this will not only reduce the cost of our remote controls but it will increase our profit also .
@@ -18,8 +17,19 @@ and then the remote control would know what's being produced by the television .
 , a consideration too is that these remotes get abused a lot ,
 A_M_I_ scenario controller .
 and it feels a bit different from all the other remote controls .
+my reaction to an all-yellow remote control wouldn't be anything other than horror , so
 
+Seventy five percent of users they do find it that the remote controls available in the market are ugly .
+and even the good thing about this is that eighty percent of users they are willing to pay high pay more for this good looking remote controls also .
+Because mostly it has been found that fifty percent of the users they use only ten percent of the buttons ,
+so there is no point of having ninety percent buttons making the remote controls too bulky , too complicated too expensive a because I believe that technology is useful only if the consumers they want to use it .
+They find that thirt thirty five percent thirty four percent of the consumers they find too difficult to operate a remote control .
+and as Raj pointed out , only ten percent fifty percent of people only use ten percent of the buttons ,
+because people mor fifty percent people they find that the remote controls are often lost somewhere in the remote , in the room .
+
+, these are different age group persons
 If we look at the costs whether the consumers they are willing to pay more for speech recognition in a remote control or not , we can find that they up to a thirty five years age group we have a very good disliking for this point , like for speech recognition in a remote control .
+, personally I prefer this one just because it's looks easier use ,
 So , I noticed your talk about speech recognition and whistling ,
 And a novel feature which we just brought up was this automatic speech recognition feature or noise detection feature for when you lose the remote ,
 Is that just switches on the speech recognition and it's entirely speech operated , is it ?
@@ -32,17 +42,26 @@ and that also takes out the speech recognition in terms of the interference of i
 , it takes cheap speech recognition ,
 we're gonna scratch the speech recognition as a bit of a
 And it'd be a small vocabulary speech recognition system ,
+, speech recognition , limited buttons , organic design .
+no , ethics , that's gonna cost us money .
 
 , me again , Rajan the Marketing Expert .
+, yes , I have to look at the market potential for this product ,
+then the methodology I adopted to find out all this was market survey .
 A a detailed market survey on consumers was done to find out their likings and dislikings , what they prefer what they not prefer , w what problems they do encounter in all this type of things .
 And what we got was , we found that if you , what they th what problems they are having with different remote controls available in the market .
-Seventy five percent of users they do find it that the remote controls available in the market are ugly .
-and even the good thing about this is that eighty percent of users they are willing to pay high pay more for this good looking remote controls also .
-Because mostly it has been found that fifty percent of the users they use only ten percent of the buttons ,
-so there is no point of having ninety percent buttons making the remote controls too bulky , too complicated too expensive a because I believe that technology is useful only if the consumers they want to use it .
 if we look at this data how h how what are the problems the consumers are facing with the existing remote controls in the market .
-They find that thirt thirty five percent thirty four percent of the consumers they find too difficult to operate a remote control .
-and as Raj pointed out , only ten percent fifty percent of people only use ten percent of the buttons ,
+no , that was going on ravs Raj's marketing research I .
+
+we have to take care of this fact also like our design , should be appropriate , should be good looking for the consumers .
+which maybe which may seem quite high but if our looks are if the re remote control we design have a good better better look designs , then we can hope that consumers will prefer these g remote controls .
+, so I'm the interface design designer ,
+So I looked at existing designs
+so what we can miss out on the buttons we can make up for in design and how it looks .
+So as the Industrial Designer my job is to take an input from you guys ,
+and having personally worked with all these products I have a great deal of experience with with industrial design of these .
+so here's , a great schematic that my apprentice designer gave me .
+more complicated design that rav Raj
 
 and I and that most of the users of the rem T_V_ are belong to this age group .
 which include , , space craft , coffee makers , and bullet trains
@@ -53,25 +72,9 @@ a microphone by the T_V_ speaker and a transmitter there that sends back to your
 But , then you have like the little se separate module by the T_V_ speaker
 That could also be built into the T_V_ though , which might make our remote control a bit obsolete .
 
-, as we have decided in the last meeting that I have to find out ,
-then the methodology I adopted to find out all this was market survey .
-So sorta strike a balance between a few and a
-then an another thing was about this losing the remote and trying to find it again .
-If you do have this sorta speech interface to it , you don't even need to find it .
-the find the finder things it's I could probably write the circuit diagram for that myself .
-
-we have to take care of this fact also like our design , should be appropriate , should be good looking for the consumers .
-, so I'm the interface design designer ,
-So I looked at existing designs
-so what we can miss out on the buttons we can make up for in design and how it looks .
-So as the Industrial Designer my job is to take an input from you guys ,
-so here's , a great schematic that my apprentice designer gave me .
-more complicated design that rav Raj
-
 User Interface Designer ,
 I'm concerned with w what effect the apparatus should have on the user
 and then as for the user interface it should be trendy ,
-as for the user interface problem , , too many buttons . Give it one button
 the unirs the user interface
 the canonical user interface for these would be just a bunch of buttons ,
 and lastly the transmission interface is , just some engineering thing you don't have to worry about .
@@ -88,6 +91,17 @@ we can still use the glow in the dark as a gimmick essentially ,
 and we can have a trimming as , of the glow in the dark material , just as gimmickyness .
 What as about the material is maybe not this material , but maybe more like this rubbery material ,
 
+left mouse button .
+right , so more low tech and not too many buttons .
+and practical limitations which I kinda threw out the window .
+as for the user interface problem , , too many buttons . Give it one button
+personal preferences , programmable options which just require a small amount of memory ,
+that's a good idea actually I like the programmable options .
+we also want to limit the number of buttons
+On the number of buttons , functions and .
+but like in a basic sense that you could have your basic selection of buttons ,
+So we'll stick with programmability for the buttons that we do have .
+
 and we should provide pl spe proper manuals for its use also so as that people consumers could easily learn .
 and also the information that Raj gave us was very useful about what people like , what people dislike .
 and what people fashionable , because we said people between twenty five and thirty five were the main buyers of our T_V_ .
@@ -97,45 +111,22 @@ We had that to dis-include teletext because it's become outdated , and everybody
 maybe Raj you could find out what people would think about that ,
 If you think about standard interfaces that people use already , Windows-style drop down menus or whatever ,
 and if you hit a menu at the top you have
-because people mor fifty percent people they find that the remote controls are often lost somewhere in the remote , in the room .
-no , that was going on ravs Raj's marketing research I .
 
-left mouse button .
-or organic , , more organic shape .
-right , so more low tech and not too many buttons .
-and practical limitations which I kinda threw out the window .
-we also want to limit the number of buttons
-On the number of buttons , functions and .
-but like in a basic sense that you could have your basic selection of buttons ,
-organic globby feeling to it then you might have trouble incorporating the screen .
-So we'll stick with programmability for the buttons that we do have .
-, speech recognition , limited buttons , organic design .
-wi with the more organic shape of it won't be as it won't as have many sharp corners as that , so that's something good ,
-
-even if the market goes for the available remote control is less even then we can sell it at twenty five Euros ,
-it was fifty million Euros ?
-And we gotta sell twenty five of them ?
-Fifty million was prof
-now it's fif fifty million Euros we've gotta we've g
-so we're making that at twelve and a half Euros a time .
-
-and if you just click that it'll go ahead , one at a time .
-, yes , I have to look at the market potential for this product ,
-so we as a company we want to make our products trendy and fashionable , it's a big concern of ours .
-And also the company want to keep it stuck to the T_V_ for to keep down the production time .
-and I jotted down some notes as to what are the b needs and what novel features we can add to differentiate our product from the others .
-so Raj told us that consumers are willing to spend more for fancy products ,
-and he also mentioned that the current products don't always match users' operating behaviour .
-and unfortunately all I had to work on was our our corporate archives of the great products we've made before ,
-and having personally worked with all these products I have a great deal of experience with with industrial design of these .
-I more realistically then , we need a product that's got some kinda nifty outer casing ,
-
-that's a good idea actually I like the programmable options .
-And that's a basic R_F_ frequency so it'll be cheap .
-And it could be somewhere in the room y that you've no idea where it is and it would still do its job .
+minutes from the last meeting which were essentially that we had decided on roles for each of you ,
+, as we have decided in the last meeting that I have to find out ,
+if you think about these base stations now it's essentially just a lead with a self connecting brake in it ,
+So sorta strike a balance between a few and a
+then an another thing was about this losing the remote and trying to find it again .
+If you do have this sorta speech interface to it , you don't even need to find it .
 Alright , so n sorta if we're gon if we're gonna go with the idea of of feedback , remote finder , then that kinda stuffs that one out then .
-that takes back the R_F_ the R_F_ remote idea as .
+the find the finder things it's I could probably write the circuit diagram for that myself .
 And I'll see if argue with boss about putting the
+
+a much easier thing is just any loud noise like clapping , shouting , ,
+it didn't work very though because of this noise interference problem .
+but if you can work around that noise problem
+Right and then it would do just , subtractive cancellation of the noise .
+I thin we'll just pretend that's not a problem .
 
 w what I didn't actually realise it was that the this is for a specific television .
 the basic that was the basic function to send messages to the television set .
@@ -143,6 +134,14 @@ which I'm presuming means it's for a specific television ,
 We'll use the basic functions for a television .
 They mentioned if the television says you are listening to B_B_C_ one .
 you can't expect the television manufacturers to put that feature into their T_V_s .
+
+even if the market goes for the available remote control is less even then we can sell it at twenty five Euros ,
+, which the twenty five to thirty five is usual , .
+it was fifty million Euros ?
+And we gotta sell twenty five of them ?
+Fifty million was prof
+now it's fif fifty million Euros we've gotta we've g
+so we're making that at twelve and a half Euros a time .
 
 Easy finder with the a whistle function ,
 you could have the instead of a whistle if it's got the voice recognition you could have it just , , where are you ? .
@@ -158,13 +157,14 @@ So this is also a very goo major factor to loo take into consideration to enhanc
 tha that would be a consideration to take into account yes .
 and this will definitely enhance our market sales ,
 
-because T_F_T_ have just released is it a remote control for presentations or and a big seven inch big screen , anyway , so
-so a the inkling I'm getting from little bits of web chatter that I'm getting sent is that they're quite interested in a T_F_T_ display , interactive display .
-like the thing about the there's the problem with the T_F_T_ or the L_C_D_ thing is if you're also wanting the
-do we want to go with the T_F_T_ idea or the is that far too expensive ?
-there's a good chance the T_F_T_ screen would break or get damaged .
-So is that one of our definite requirements that they wa that it needs a T_F_T_ screen ?
-no it's much cheaper than the T_F_T_ , it's just a microphone and some integrated circuits .
+and if you just click that it'll go ahead , one at a time .
+so we as a company we want to make our products trendy and fashionable , it's a big concern of ours .
+And also the company want to keep it stuck to the T_V_ for to keep down the production time .
+and I jotted down some notes as to what are the b needs and what novel features we can add to differentiate our product from the others .
+so Raj told us that consumers are willing to spend more for fancy products ,
+and he also mentioned that the current products don't always match users' operating behaviour .
+and unfortunately all I had to work on was our our corporate archives of the great products we've made before ,
+I more realistically then , we need a product that's got some kinda nifty outer casing ,
 
 actually I'll get to that at the end point number four ,
 I want to point out that our motto , put the fashion in electronics ,
@@ -176,20 +176,18 @@ we said colours and fashion w were important
 so maybe just like a little l line that's around the outside and then you can make the rest a different colour .
 So we have to safety point of view also , we have to take care .
 
-a much easier thing is just any loud noise like clapping , shouting , ,
-and then , what would the response be ? It beeps back at you ?
-and any noise over a certain threshold it'll pick up as a distress signal from you and it'll beep back and say here I am of this sort .
-But surely that would have to be specific rather than above a threshold if you had a loud movie on you're likely to get it beeping back at you .
-, I if you're going for a globular shape you could have it working its way round it .
-it didn't work very though because of this noise interference problem .
-but if you can work around that noise problem
-Right and then it would do just , subtractive cancellation of the noise .
-you just shout your command to it and it would do it for you if it's within , within hearing range .
-I thin we'll just pretend that's not a problem .
+because T_F_T_ have just released is it a remote control for presentations or and a big seven inch big screen , anyway , so
+so a the inkling I'm getting from little bits of web chatter that I'm getting sent is that they're quite interested in a T_F_T_ display , interactive display .
+And it could be somewhere in the room y that you've no idea where it is and it would still do its job .
+like the thing about the there's the problem with the T_F_T_ or the L_C_D_ thing is if you're also wanting the
+do we want to go with the T_F_T_ idea or the is that far too expensive ?
+there's a good chance the T_F_T_ screen would break or get damaged .
+So is that one of our definite requirements that they wa that it needs a T_F_T_ screen ?
+no it's much cheaper than the T_F_T_ , it's just a microphone and some integrated circuits .
+And also , integrating the , remember to integrate the logo and the s slogan .
 
 P press F_ five to start it first .
 F_ eight . Function F_ eight .
-and then how do I press the big one , to get it on to the big
 , F_ five and escape'll bring it back and just the left button for advancing .
 do I press F_ five is it ? escape ?
 So I plug it in , press F_ five ?
@@ -200,34 +198,36 @@ You could programme it with your channels and then you say like B_B_C_ one and i
 or a an advert for B_B_C_ two on B_B_C_ one'll switch the channel for you kinda thing .
 and so there was a lot of this , you'd be watching the T_V_ and then all of a sudden it'd pick up a noise and turn it off or or turn the volume off ,
 to change the channel or to turn the T_V_ on and off ,
+I was about to tell you about the changes before the meeting , and then the meeting turned up , so
 
+kicked over whatever it runs on underneath as .
+or rechargeable station because it's a pain when you run out of batteries .
+and then , what would the response be ? It beeps back at you ?
+and any noise over a certain threshold it'll pick up as a distress signal from you and it'll beep back and say here I am of this sort .
+But surely that would have to be specific rather than above a threshold if you had a loud movie on you're likely to get it beeping back at you .
+An energy source which'd probably just be your regular batteries
+with batteries we don't need to provide , we provide the first batteries , but it's more , it's that's cheaper to just provide batteries .
+And that's a basic R_F_ frequency so it'll be cheap .
+you just shout your command to it and it would do it for you if it's within , within hearing range .
+that takes back the R_F_ the R_F_ remote idea as .
+And what else was I thinking of that I haven't written down and therefore fallen out my head ,
+
+and then how do I press the big one , to get it on to the big
 , everything , all their the corporate website and everything's yellow .
 bright yellow logo in our
 We could go completely out of the box and make the thing a big red ball foam ball .
 it's gonna have to be it's gonna be have a big yellow foam ball , , .
 yellow , yellow ball . Right .
-my reaction to an all-yellow remote control wouldn't be anything other than horror , so
 Small logo with the like a small yellow strip or y yellow with the logo in it .
 
-, these are different age group persons
-, which the twenty five to thirty five is usual , .
-, personally I prefer this one just because it's looks easier use ,
-personal preferences , programmable options which just require a small amount of memory ,
-And what else was I thinking of that I haven't written down and therefore fallen out my head ,
-no , ethics , that's gonna cost us money .
+or organic , , more organic shape .
+, I if you're going for a globular shape you could have it working its way round it .
+organic globby feeling to it then you might have trouble incorporating the screen .
+means if children catch hold of your or if they chew it shouldn't be too harmful .
+wi with the more organic shape of it won't be as it won't as have many sharp corners as that , so that's something good ,
+And then ch children will love it .
 
 can you put all these reports in the project documents folder if they're not already in there as .
 pro project documents .
 Project documents , , it's on your desktop as .
-means if children catch hold of your or if they chew it shouldn't be too harmful .
-And then ch children will love it .
-
-minutes from the last meeting which were essentially that we had decided on roles for each of you ,
-kicked over whatever it runs on underneath as .
-or rechargeable station because it's a pain when you run out of batteries .
-An energy source which'd probably just be your regular batteries
-with batteries we don't need to provide , we provide the first batteries , but it's more , it's that's cheaper to just provide batteries .
-if you think about these base stations now it's essentially just a lead with a self connecting brake in it ,
-And also , integrating the , remember to integrate the logo and the s slogan .
-I was about to tell you about the changes before the meeting , and then the meeting turned up , so
 

@@ -58,9 +58,9 @@ but/CC when/WRB you/PRP change/VBP channels/NNS you/PRP can/MD have/VB you/PRP c
 
 So/RB ma/JJ I/PRP prefer/VBP to/TO have/VB the/DT off/RP button/NN at/IN the/DT top/JJ right/NN ,/PUNCT
 
-so/RB y/RB because/IN I/PRP am/VBP left/RB handed/VBN I/PRP use/VBP like/IN this/DT ,/PUNCT say/VBP if/IN you're/RB right/JJ handed/VBN you/PRP use/VBP like/IN this/DT
-
 Too/RB expensive/JJ for/IN twelve/NN Euro/NNP ?/PUNCT
+
+so/RB y/RB because/IN I/PRP am/VBP left/RB handed/VBN I/PRP use/VBP like/IN this/DT ,/PUNCT say/VBP if/IN you're/RB right/JJ handed/VBN you/PRP use/VBP like/IN this/DT
 
 ./PUNCT Colour/NNP ,/PUNCT size/NN ,/PUNCT sh/NN
 
@@ -72,9 +72,9 @@ and/CC for/IN that/DT we're/NN going/VBG all/DT to/TO work/VB individually/RB an
 
 I'm/NNP the/DT Project/NNP Manager/NNP Christa/NNP Pavlov/NNP
 
-But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
-
 'tis/CD big/JJ number/NN ./PUNCT
+
+But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
 
 And/CC that's/VB already/RB more/RBR complex/JJ to/TO go/VB to/TO channel/VB twenty/CD five/CD ./PUNCT
 
@@ -92,9 +92,9 @@ the/DT user/JJ requirement/NN specifications/NNS ,/PUNCT
 
 Then/RB you/PRP can/MD watch/VB what/WP your/PRP$ you/PRP could/MD also/RB record/VB your/PRP$ sequence/NN of/IN actions/NNS ,/PUNCT
 
-So/RB your/PRP$ personal/JJ coach/NN will/MD send/VB you/PRP some/DT instruction/NN for/IN this/DT thirty/NN minutes/NNS ./PUNCT
-
 you/PRP c/VBP you/PRP can/MD easily/RB remove/VB the/DT frame/NN ./PUNCT
+
+So/RB your/PRP$ personal/JJ coach/NN will/MD send/VB you/PRP some/DT instruction/NN for/IN this/DT thirty/NN minutes/NNS ./PUNCT
 
 and/CC if/IN I'm/NNP left-hander/NN I/PRP use/VBP this/DT switch/NN to/TO follow/VB the/DT main/JJ operations/NNS ./PUNCT
 

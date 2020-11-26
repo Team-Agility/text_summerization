@@ -1,8 +1,9 @@
-the/DT User/NNP Interface/NNP Designer/NNP should/MD specify/VB the/DT technical/JJ functions/NNS ./PUNCT
 Do/VB we/PRP only/RB have/VBP to/TO do/VB phase/VB one/CD ,/PUNCT the/DT functional/JJ design/NN ?/PUNCT
 
 we're/NN supposed/VBD to/TO develop/VB a/DT new/JJ remote/NN control/NN ,/PUNCT
 That/DT are/VBP the/DT basic/JJ options/NNS for/IN a/DT remote/JJ control/NN ./PUNCT
+
+the/DT User/NNP Interface/NNP Designer/NNP should/MD specify/VB the/DT technical/JJ functions/NNS ./PUNCT
 
 and/CC we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ users/NNS ./PUNCT What/WP w/VBD what/WP would/MD they/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN ?/PUNCT especially/RB for/IN future/JJ users/NNS ,/PUNCT
 
@@ -82,18 +83,17 @@ and/CC in/IN every/DT step/NN I/PRP have/VBP a/DT s/NN specific/JJ task/NN to/TO
 
 Is/VBZ this/DT part/NN of/IN our/PRP$ a/DT acquai/NN or/CC introduction/NN to/TO each/DT other/JJ ?/PUNCT
 
-opening/VBG acquaintance/NN ,/PUNCT tool/NN training/NN ,/PUNCT how/WRB to/TO use/VB the/DT things/NNS here/RB ./PUNCT project/NN plan/NN discussion/NN ,/PUNCT and/CC then/RB the/DT rest/NN of/IN the/DT meeting/NN ./PUNCT
-
 And/CC reserve/VB the/DT possibility/NN to/TO add/VB other/JJ features/NNS ./PUNCT
 
 that's/NN quite/PDT a/DT big/JJ amount/NN of/IN money/NN ./PUNCT
 
 Can/MD you/PRP use/VB one/CD blank/JJ sheet/NN per/IN drawing/VBG ?/PUNCT Or/CC
 
+opening/VBG acquaintance/NN ,/PUNCT tool/NN training/NN ,/PUNCT how/WRB to/TO use/VB the/DT things/NNS here/RB ./PUNCT project/NN plan/NN discussion/NN ,/PUNCT and/CC then/RB the/DT rest/NN of/IN the/DT meeting/NN ./PUNCT
+we/PRP have/VBP a/DT financial/JJ aspect/NN to/TO this/DT project/NN ./PUNCT
+
 And/CC for/IN the/DT changing/VBG up/RP to/TO the/DT to/TO all/PDT the/DT channels/NNS and/CC changing/VBG the/DT volume/NN ./PUNCT
 ,/PUNCT you/PRP wanna/VBP ch/JJ flip/VBP the/DT channel/NN
-
-we/PRP have/VBP a/DT financial/JJ aspect/NN to/TO this/DT project/NN ./PUNCT
 
 according/VBG to/TO the/DT coffee/NN machine/NN example/NN ,/PUNCT I/PRP have/VBP batteries/NNS to/TO supply/VB energy/NN ,/PUNCT
 

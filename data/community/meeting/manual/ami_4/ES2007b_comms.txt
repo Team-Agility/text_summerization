@@ -1,19 +1,10 @@
 , we all know that it's a remote control that we're gonna be dealing with .
 And the chip will be controlled by the user interface .
+, we're desi we're designing and marketing a television remote control unit .
 so things that seem like absolute must-haves would be a volume control ,
 If if remote control , if telephones can be fashionable , then maybe remote control units can be .
 , for our marketing report we observed remote control users in a usability lab ,
 current remote controls do not match with the operating behaviour of the user .
-
-it's worked for the last fifty years .
-I've never seen that with in all my years in the remote business .
-they're the ones that have been working for twenty years .
-I don't think there's any point in making a remote control unit that's gonna last for fifty years ,
-
-So seventy five per cent of users find the remote control ugly .
-eighty f eighty per cent of them would spend more money if the rem remote control looked really and fancy .
-per cent of the users say that they only use ten per cent of the buttons on a remote ,
-seventy five per cent of users say they zap .
 
 people want a remote that's familiar , that has their favourite functionalities and does the basics , but
 so we can improve what's out there and maintain that , the basic functionality that people want .
@@ -24,14 +15,29 @@ People people from the age of thirty f there's a big drop off there .
 For people up to the age of thirty five , you're kinda saying , , they want it .
 most people that have the money are people from the age of thirty five to fifty five ,
 
-So the working design , I've got a very quick presentation on this ,
-, we're desi we're designing and marketing a television remote control unit .
-So I'm doing the user interface design .
-, and , as far as methods , I was looking at already existing remotes , trying to find some inspiration from designs that are already out there .
-Now going back to the industrial design of it ,
-Take your headsets off , kick back , smoke 'em if you got 'em .
+it's worked for the last fifty years .
+I've never seen that with in all my years in the remote business .
+they're the ones that have been working for twenty years .
 
-'S just a bit nicer calling people by their names .
+So seventy five per cent of users find the remote control ugly .
+eighty f eighty per cent of them would spend more money if the rem remote control looked really and fancy .
+per cent of the users say that they only use ten per cent of the buttons on a remote ,
+seventy five per cent of users say they zap .
+So fifteen to twenty five said like ninety two ninety one per cent of them said yes .
+
+, and , as far as methods , I was looking at already existing remotes , trying to find some inspiration from designs that are already out there .
+have a look if there's any w any medical background we can find out about this .
+
+so the majority except for the forty five to fifty five year olds for some reason didn't want a voice activated one .
+if it's twelve fifty per unit .
+I don't think there's any point in making a remote control unit that's gonna last for fifty years ,
+
+the twenty five to thirty five year old , and thirty five , and the thirty five to forty five , forty five point seven per cent say no , so
+so , it's not even like fifty that's th thirty five per cent .
+
+because we need to find out what people want before we make firm decisions on this .
+total number of people tested were a hundred just so ,
+so that hundred people were tested and these were the findings .
 it doesn't like match how people behave .
 I was thinking something easy to use , especially for older people .
 has to look really , flashy groovy for people to buy it .
@@ -40,10 +46,15 @@ has to look really , flashy groovy for people to buy it .
 either you if you wanna watch the telly you're in the room ,
 and they also remotes often get lost in the room , so nobody can find them .
 
-because we need to find out what people want before we make firm decisions on this .
-total number of people tested were a hundred just so ,
-so that hundred people were tested and these were the findings .
-have a look if there's any w any medical background we can find out about this .
+So the working design , I've got a very quick presentation on this ,
+So I'm doing the user interface design .
+Now going back to the industrial design of it ,
+
+And so in the research that I was doing there's two types of remotes ,
+This is slog but this is the slogan , this is the type .
+
+and what I didn't mention yet really is the like the ergonomic design .
+so that's something we should have a look into then i when desi when designing the ergonomics of
 
 If you haven't had time to prepare one , you can draw on the noteboard ,
 takes too much time to learn how to use a new remote .
@@ -55,19 +66,6 @@ as far as the infra-red signal , do we have control over , , how far away you ca
 , maybe we want one with a strong signal stream .
 , we can make the signal strong enough to go through walls if you fancy it .
 even if it's a physical , , a f a like a f a physical switch or a physical cover for the remote , even something like that , then yes ,
-
-And so in the research that I was doing there's two types of remotes ,
-This w research that you've been doing looki looking at other , , existing units .
-This is slog but this is the slogan , this is the type .
-
-So fifteen to twenty five said like ninety two ninety one per cent of them said yes .
-the twenty five to thirty five year old , and thirty five , and the thirty five to forty five , forty five point seven per cent say no , so
-so , it's not even like fifty that's th thirty five per cent .
-
-We're not w designing something that you can plug in a headset to and connect to your laptop computer and .
-and what I didn't mention yet really is the like the ergonomic design .
-there's mice for your computers that are very ergonomic
-so that's something we should have a look into then i when desi when designing the ergonomics of
 
 ones that are engineering centred and ones that are more user centred ,
 So , the engineering centred ones provide a lot of functionality ,
@@ -84,8 +82,9 @@ And our motto is we put the fashion in electronics .
 So it's kinda gotta look it's gotta look new and s something fashionable .
 , see we've gotta keep the company image .
 
-but the younger generation who we are catering for , like who have most of the money nowadays , do want a voice act speech recognition in a remote .
-but do the younger generation have the money ?
+'S just a bit nicer calling people by their names .
+also with with buttons , a thing called R_S_I_ ,
+There's loads of companies that called R_R_ .
 
 , the company it's , from what see from our other products , are yellow with blue writing on them . .
 So are we headed towards like a b a big yellow and black remote as far as
@@ -101,41 +100,48 @@ rep repetitive strain injury
 , repetitive strains injury ,
 we just want need to cover our arses so that people aren't gonna sue us in ten years' time , say your remote control gave me repetitive strain injury .
 
-also with with buttons , a thing called R_S_I_ ,
-Maybe it could be , instead of pressing button it could be just touching a
-There's loads of companies that called R_R_ .
+This w research that you've been doing looki looking at other , , existing units .
+another exists like you said in mobile phones .
+I know my grandmother doesn't like mobile phones ,
+
+and also we asked them whether they wanted whether they'd be interested in voice activating .
+but the younger generation who we are catering for , like who have most of the money nowadays , do want a voice act speech recognition in a remote .
+but do the younger generation have the money ?
 
 It's never gonna be more than it's never gonna be , you kno unless you've got a T_V_ the size of a football pitch , it's not doesn't have to go that far ,
 people who watch T_V_ maybe too often , keep changing channel hurts their wrist .
-
-if you haven't done a PowerPoint thingy , it doesn't matter ,
-if it's twelve fifty per unit .
-
-another exists like you said in mobile phones .
-I know my grandmother doesn't like mobile phones ,
 
 But if it's a R_R_ , it would be Real Reaction ,
 Not one colour , but the pattern needs to be recognisable .
 But it could come in different colours and have the R_R_ colours just somewhere
 like just around the lock button could be the R_R_ logo or colours and
 
-and also we asked them whether they wanted whether they'd be interested in voice activating .
-so the majority except for the forty five to fifty five year olds for some reason didn't want a voice activated one .
-
+channel keys up-down ,
+but then also a numerical key pad so that they can just key directly to the channel that they want , rather than doing up-down ,
 that's k flicking quickly between channels .
 you wanna navigate the channels quickly I .
 
-channel keys up-down ,
-but then also a numerical key pad so that they can just key directly to the channel that they want , rather than doing up-down ,
+We're not w designing something that you can plug in a headset to and connect to your laptop computer and .
+Reissa . Let's plug you in , baby .
+Take your headsets off , kick back , smoke 'em if you got 'em .
+
+so wanna rather than going Miss Marketing and Miss this and Miss that wanted to know your names again .
+I prefer the pe I prefer the human touch personally .
+and this overlaps with what the marketing person , Reissa ,
+Maybe it could be , instead of pressing button it could be just touching a
 
 No like cha always changing batteries can get like annoying .
 swi I th changing your batteries once every six months is not really a pain , but
-energy source , that would be batteries .
 mean we can look into using the s , , the little tiny weeny batteries , all like special long-lasting batteries . .
 
 and we also gave participants questionnaires to fill out .
 So Project Manager , it's participant one at A_M_I_ .
 it's just par participant one , participant two .
+
+I can't re I've really crap at remembering everyone's name
+when you haven't been getting hit with spam on your computers and , , filling out silly questionnaires and things .
+there's mice for your computers that are very ergonomic
+have any of you lot been getting loads of crap spam on your computers ?
 
 we should probably consult with our legal department .
 we can do some really in that department , the ergonomic department , we can make some really good improvements .
@@ -146,31 +152,25 @@ They're having a lunch break at the moment , but .
 Are we are we finished ahead of schedule ?
 If we've if we've finished at five minutes before the meeting's supposed to finish , then that means we get an extra five minutes for lunch .
 
-I can't re I've really crap at remembering everyone's name
-when you haven't been getting hit with spam on your computers and , , filling out silly questionnaires and things .
-have any of you lot been getting loads of crap spam on your computers ?
-
-so wanna rather than going Miss Marketing and Miss this and Miss that wanted to know your names again .
-C_A_T_H_ E_R_ I_N_E_ .
-I prefer the pe I prefer the human touch personally .
-but it also lets you play your movie , stop your movie , fast-forward , all this , freeze frame .
-and this overlaps with what the marketing person , Reissa ,
-Reissa . Let's plug you in , baby .
-
 and I'm gonna be making notes and sending them off to the powers that be and .
 , alternate energy source , like win wind power or
+energy source , that would be batteries .
 
 which I if access the web page from here ,
-what do you guys have a yea or nay on that a feeling about whether that's really necessary ?
-it's like , , like s you said earlier on ab a flip thing , something like that ,
 What about just from the prospective of our manufacturing cost ?
-
 I would say scra I'd say scrap that straight off .
+
+it's like , , like s you said earlier on ab a flip thing , something like that ,
+So maybe tracking devices is a good idea .
+
+if you haven't done a PowerPoint thingy , it doesn't matter ,
+Gab Gabriel let's let's hear from you on such things .
 , in the project announcement , you've got the addresses , .
 Can you all d e-mail me your e-mail addresses ?
 
-So maybe tracking devices is a good idea .
+C_A_T_H_ E_R_ I_N_E_ .
+but it also lets you play your movie , stop your movie , fast-forward , all this , freeze frame .
+what do you guys have a yea or nay on that a feeling about whether that's really necessary ?
 
 Double S_ A_ ,
-Gab Gabriel let's let's hear from you on such things .
 

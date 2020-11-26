@@ -5,35 +5,38 @@ and the aim for the project is to create a to design a new remote control
 
 but that most people th will buy the remote control because
 
+what ideas do you have to design a new remote control ,
+the main idea of this remote control is
+
+but then you have to find your other remote control if you want to search .
+
 Perhaps that you have a lot of road remotes r road con remote controls .
 You had different remote controls for different devices .
 but it'll get very big the remote control .
 you got th the same size remote control you use everyday ,
 when p when the customers will buy this remote control , they already have the remote control which companies with the standards remote control with which comes with the television .
 but they don't use the same signal , on remote control .
-
-what ideas do you have to design a new remote control ,
-the main idea of this remote control is
-
-but then you have to find your other remote control if you want to search .
+always with r universal remotes you have to choose the code .
 
 but it is impossible to to accommodate all the buttons on the s on the difference different televisions sets on one remote control . It's impossible .
 Because you can't use a Panasonic remote control on a Philips television .
+
+And I hope our project group will not be slow ,
+And I hope also reach a lot with this project .
 
 But not the buttons used to search on the channels on your television .
 You don't have to integrate the buttons to search the channels on your television .
 
 maybe for which market segments should we aim ,
 
+and we are hoping to achieve that by aiming for an international market .
+
 It consists of three phases , namely the functional design , conceptual design and detailed design .
 the Industrial Designer will take a look at the working design ,
 
-And I hope we have the expertise to create such a project such a product .
-
 I'm the Project Manager of this project ,
-and I hope to look forward to a very pleasing end of this project .
-And I hope our project group will not be slow ,
-And I hope also reach a lot with this project .
+
+And I hope we have the expertise to create such a project such a product .
 
 I also h hope we have a pleasant working with with each other .
 
@@ -42,16 +45,13 @@ maybe a minimalist design , the least possible amount of buttons .
 and my function is User Interface Design , .
 The User Interface Designer will work out the technical functions design .
 
-And we're hoping for a aim of fifty million Euros
-
-the way we hope to achieve that is the following methods .
-and we are hoping to achieve that by aiming for an international market .
-
 and I'd like to hear who you are and what your functions are on this project .
 
-always with r universal remotes you have to choose the code .
-
 you don't want to bother people with loads of buttons ,
+
+and I hope to look forward to a very pleasing end of this project .
+
+the way we hope to achieve that is the following methods .
 
 there's a possibility to g to put those buttons behind some protection
 but the usual buttons such as zapping as you call it in Dutch . and the volume control are only the only possible buttons to use directly .
@@ -69,6 +69,9 @@ or that you just should aim for the normal T_V_s
 
 the most functions we will use will be to add a new page ,
 
+from the finance department I have learned that we are aiming for a selling price of twenty five Euros .
+And we're hoping for a aim of fifty million Euros
+
 Because Sony television has the opportunity to s to make to make it possible for to see on one side of the screen teletext , and on the other side just n regular television .
 But like the two pages on the same screen , like teletext and normal television , that's nowadays standard , .
 
@@ -79,8 +82,6 @@ we have some expertise from different pieces of the company .
 
 and I hope you will introduce yourself in a few minutes ,
 five minutes and the meeting's over , right on schedule .
-
-As you can see , all of these phases consists of two parts , namely individual work part and a meeting
 
 the Marketing Expert will will take a look at the user requirement specification .
 
@@ -117,7 +118,8 @@ I expect everything will be much clearer with the instructions we will receive s
 and a favourite characteristic can be just one word .
 the favourite charis characteristic is that the long neck ,
 
-from the finance department I have learned that we are aiming for a selling price of twenty five Euros .
+As you can see , all of these phases consists of two parts , namely individual work part and a meeting
+In the meantime there's time for some individual actions .
 
 And you can also let's see it's here change the colour of your pen ,
 and change the line width like to five .
@@ -129,8 +131,6 @@ and specific instructions will be sent to you through your personal coach .
 I've wrote down some examples here of what we can speak about .
 
 as you probably have noticed there are little black fields on the table .
-
-In the meantime there's time for some individual actions .
 
 play , pause , stop .
 

@@ -2,8 +2,8 @@ as a team we're going to be designing and creating a new remote control .
 And so we have to , , come up with a way to , to create a , a remote control , where
 
 Also the conceptual design and the detailed design for the final product .
+, I'll be doing some trend-watching in the conceptual design , and product evaluation for the design phase .
 Same with conceptual design and detailed design .
-, one thing we'd have to think about internationally is in the design of , , like different kinds of , , V_C_R_s .
 
 I'm the Industrial Designer for this project .
 
@@ -13,8 +13,6 @@ So this is a television remote control ?
 Yes , it's a television remote control .
 a your personal experiences with remote controls , and , areas you see that , , could be improved in your experience with them .
 Anything about , , the look of the , , remote control that you might have ideas about .
-
-, I'll be doing some trend-watching in the conceptual design , and product evaluation for the design phase .
 
 , I'm going to be responsible for the functional design phase .
 I will also be responsible for the functional design phase , the conceptual design phase and the detailed design phase of the user interface design .
@@ -27,6 +25,8 @@ You'll be beginning your , your working design .
 , U_I_D_ the technical functions design will , will be worked on the next thirty minutes .
 
 This is the first meeting for developing our , our new product .
+
+, one thing we'd have to think about internationally is in the design of , , like different kinds of , , V_C_R_s .
 
 Do yous not find that , , like , there's a lot of , , buttons on your remote control , and you what half of them do .
 There's some remote controls where there's a hidden panel , so all those buttons that you don't really use unless you're programming .
@@ -45,28 +45,27 @@ My name's Tara and I'm the User Interface Designer .
 , we want this to be a marketable product that can be trendy ,
 
 but at this point in the , in the first meeting it can be any ideas that we just throw out there .
-
 Or not present but bring to the meeting .
 
-So you just have like the number buttons , power button , T_V_ video button .
+You can press a button on your wall , signal ,
 
 I'm Heather , I'm your Project Manager .
 
 , I'll be telling you guys about the user requirement specifications for our new product .
 and , , we need the user requirements from the manag
 
+I find that in the dark it's often hard to button you're pushing .
+So you just have like the number buttons , power button , T_V_ video button .
+
 So this is time for us to bring our initial ideas , any suggestions that you may have so far ,
 
-I find that in the dark it's often hard to button you're pushing .
-
 we can like the price to create it will be significantly less .
+
+One thing that , , we're going to do is become more acquainted with the , the tools that we have access to for our project .
 
 , our next meeting will be in half an hour .
 So you have half an hour to , , think about what you want to present .
 , you will get specific instructions , , of what to do in the next half an hour .
-
-And it landed by a wall and let me look at it for about two minutes .
-You can press a button on your wall , signal ,
 
 , wanna make this selling price of twenty five Euros .
 
@@ -84,13 +83,13 @@ But they're just so friendly and warm and animals ,
 I am a big animal lover .
 But this part was all brown and then it has these big blue dots like this .
 
-And tool training is one thing that we're going to be doing today ,
-One thing that , , we're going to do is become more acquainted with the , the tools that we have access to for our project .
-
+like all sorts of animals , but for the moment I'm gonna draw a cat , in memory of my poor cat that died recently .
 Not as artistic as Heather's drawing .
 I'm tempted to draw a snail I draw them sometimes and they're really easy to draw .
 
-like all sorts of animals , but for the moment I'm gonna draw a cat , in memory of my poor cat that died recently .
+And it landed by a wall and let me look at it for about two minutes .
+
+And tool training is one thing that we're going to be doing today ,
 
 , we'd like to , to , , make fifty million Euro .
 , we want it to cost , , absolute maximum of twelve Euro and fifty cents .
@@ -123,14 +122,15 @@ Maybe it could be , instead of like a standard rectangular shape , it could be ,
 
 it can really combat its enemies , even like it's a it's an herbivore but , , it can really defend itself .
 
-and I'm like , this is the middle of Scotland in like March .
-
 In a way it looks awkward , because it's on spindly legs
-But it can really overcome harsh terrain ,
+Do you hear the eraser buzzing while you do that ?
 
+But it can really overcome harsh terrain ,
 and although it's gorgeous it's also very dangerous , because it has strong antlers ,
 
-Just gonna attempt to make this into a slide show .
+and I'm like , this is the middle of Scotland in like March .
+
 there was a green , it was a green ring ,
-Do you hear the eraser buzzing while you do that ?
+
+Just gonna attempt to make this into a slide show .
 

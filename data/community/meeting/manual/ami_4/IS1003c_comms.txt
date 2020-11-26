@@ -1,6 +1,6 @@
-and we'll have to decide on the remote control concept
-The second concept is a fancy controller ,
-It is an interesting concept to see to have voice control .
+and to stay with the Google controller or a fancy controller .
+Maybe try to mix the Google controller and the fancy controller ?
+So maybe we'll just focus on the Google controller plus the fancy controller ,
 
 but suppose you got a cold . You have a mute remote controller .
 But it's changing how the remote control is gonna be built .
@@ -18,24 +18,28 @@ and the colour of the the society will be really it will be seen in the remote c
 It it just the microphone is embedded in the controller .
 but so you need a camera and a microphone inside your remote control .
 
+and we'll have to decide on the remote control concept
+and finally we'll close the decision .
+The second concept is a fancy controller ,
+we have to take decisions about the component concepts , about the energy .
+It is an interesting concept to see to have voice control .
+
+because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition ,
+And what about voice recognition , do we have microphones ?
+but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object .
+do you think it should be only voice recognition and gesture recognition ?
+but you when you choose a new mobile , you choose the one with voice recognition .
+Because that with the voice and gesture recognition there are still some disadvantages with this .
+
 we want give the customers the impression that our controller is very attractive ,
-, if you cannot find your controller , you can just just speak something such as , , one two .
 that's the advantage of intelligent controller .
 It's a very smart , it's a very smart controller maybe
-and to stay with the Google controller or a fancy controller .
-Maybe try to mix the Google controller and the fancy controller ?
 but there's no big difference between the traditional controller .
-So maybe we'll just focus on the Google controller plus the fancy controller ,
 
 I want the controller to be easy to use , but with sophisticated functions .
 So it's a combination of easy to use and sophisticated functions .
 Just want to have something controller which is in a intelligent controller , easy to use , sophisticated and fancy .
-
-because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition ,
-And what about voice recognition , do we have microphones ?
-do you think it should be only voice recognition and gesture recognition ?
-but you when you choose a new mobile , you choose the one with voice recognition .
-Because that with the voice and gesture recognition there are still some disadvantages with this .
+if he has something that works fine and is really fancy , looks and it's easy to use , easy to use .
 
 Would y would you replace your controller with a controller with similar function if you do not have some function inside it that
 we can add some function like for browsing in internet , so like that .
@@ -48,11 +52,9 @@ because this technology is for limited wor or limited wor lexical recognition ,
 second point is they still want it to be technologically innovative ,
 the remote control has to be technologically innovative , it's three .
 
-so we need to have coop some cooperation with some research institute on speech recognition and gesture recognition .
 but how is how risky is it to trust like speech recognition or gesture recognition ?
 For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very
 The recognition system will be able to understand French .
-I'm if the user pays the same price , he's happy to have recognition .
 I don't see how adding speech or gesture recognition would make the remote control look more like Google .
 the user is not only interested in having speech or gesture recognition
 so maybe it's related to what you've said with the speech recognition and so on .
@@ -62,14 +64,20 @@ it's easy for you to remember it . Or to recognise it ,
 It's it means when you sell this controller in China it's can recognise Chinese .
 It's r if you sell this controller in France it can recognise French .
 
-but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object .
-If you want to use voice or gesture you need to be free , without any object .
-and put it on T_V_ and just to recognize gestures and voice .
-Because the p the problem see with the voice or the gesture itself wh what can happen in a family i if
-but you need a receiver to recognize the gestures and the voice .
+but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?
+so they say channel four channel three all the time ,
+if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one .
 
+And with no increase in the pri production price of the remote control ?
+Because of this product this technology has already been developed .
+stick to the first two parts . So what's the difference between our controller with other products in the market ?
+but it's a feature to distinguish our product from our from other products .
+But you have to think , the user is the one who gonna buy the product
+
+, if you cannot find your controller , you can just just speak something such as , , one two .
 will it will be wooden di wooden remote control
 but , , something wooden will be like , I high cl so a special high class ,
+, even if it is not completely wood , but just a part of the , , will be wooden , in wood
 this is this maybe doesn't really fit with the wooden design .
 and try to find maybe a shape for the wooden remote control .
 
@@ -88,22 +96,21 @@ or if you want to watch T_V_ in the darkness
 the problem is I'm we can infer i if you have v voice control why not to put it directly on the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually ,
 But it will be embedded on the T_V_ and not on the remote control ,
 
-if he has something that works fine and is really fancy , looks and it's easy to use , easy to use .
-At the same time , it's important that it's easy to use .
-Then easy to use it's not so important actually with respect to other y other ones .
-
-but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?
-but w we want something th that works all the time , every day , every hour , for everyone .
-and you will have next time to show us modelling a cl a clay remote control ,
+If you want to use voice or gesture you need to be free , without any object .
+and put it on T_V_ and just to recognize gestures and voice .
+Because the p the problem see with the voice or the gesture itself wh what can happen in a family i if
+but you need a receiver to recognize the gestures and the voice .
 
 but as the expert told us , most of the people want to use the remote control to zap t to zap between channels .
 and so it can be interesting for people to have this remote con It can be something interesting to make people buy it , .
 maybe we can do some marketing studies asking people if they're interested
 
-Because of this product this technology has already been developed .
-stick to the first two parts . So what's the difference between our controller with other products in the market ?
-but it's a feature to distinguish our product from our from other products .
-But you have to think , the user is the one who gonna buy the product
+you so you can build a black box
+just to meet the user requirements I would just do a s short anal analysis of the remote control market
+And remember as I said last meeting , we really have to build a fashion remote control
+
+At the same time , it's important that it's easy to use .
+Then easy to use it's not so important actually with respect to other y other ones .
 
 I will let our User Interface Designer speak first , Mister David Jordan .
 first I will present the concept of user interface .
@@ -112,59 +119,57 @@ the u the user f the u user interface should be very cute , very g
 some time it's very convenient to use voice interface and gesture interface than use button .
 and what about the user interface concept ?
 
-you so you can build a black box
 and i if you we want to put fashion in electronics maybe we can try to do something with wood .
 and to have a better overview of what's the fashion in general I've checked more than only the remote control market ,
 Even if it's in general fashion , we want it to be in the remote control .
 and then if we combine this with the fashion from Milan and Paris
 tha that was the main point , , from the trend in fashion .
-And remember as I said last meeting , we really have to build a fashion remote control
 
-so they say channel four channel three all the time ,
-And mayb maybe we can have the switching mode to pass from voice controller to
-if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one .
-You can see they can switch form one modality to another .
-Even it is for s just some kids , , switching channels one two three four .
+Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?
+but w we want something th that works all the time , every day , every hour , for everyone .
+and you will have next time to show us modelling a cl a clay remote control ,
 
 user really want a fancy look and feel .
 And then if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance .
 So we see fancy look an look and feel is the most important one ,
 
-And with no increase in the pri production price of the remote control ?
-we have to take care of the twelve Euros
-it will fit on the price we want , twel twelve Euros ,
+And mayb maybe we can have the switching mode to pass from voice controller to
+You can see they can switch form one modality to another .
+But that , , switching from one country to another will be a problem ,
+Even it is for s just some kids , , switching channels one two three four .
 
 commands , words and use them when you don't want to use your fingers .
 Not very complex commands , but easy commands ,
 adding some vocal commands .
 So you will have to work on the look and feel design , to have the easy to use , powerful and fancy remote control with some added value such as the simple vocal commands recognition .
 
-let's start our second me meeting on conceptual design .
-as the previous meeting I will be the secretary
-Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?
-just to meet the user requirements I would just do a s short anal analysis of the remote control market
-again , it's similar to what I've said in the previous meeting .
-the next meeting will start in thirty meeti minutes
-
 or will it be a battery like the classical battery
 but about the price of adding this solar battery , would it be something really that will increase the price of production more ,
 if we want to have battery , regular battery and the solar energy battery it could be it'll it will add a little bit of the price ,
-
-so will it be d solar energy alimentation
 maybe using solar energy and with battery would be something interesting ,
-And it can be correlated to energy , solar energy , so for the marketing aspect ,
-for these supplements the solar energy would be something quite interesting and not maybe too difficult to add .
 
 With this advanced features we we can attract a lot of user .
 and maybe it can attract all the ecological k consumers
 
+so we need to have coop some cooperation with some research institute on speech recognition and gesture recognition .
+we just have some cooperation with some research institute ,
+we don't have to do some basic research on this field .
+
 the other thing I want to discuss also is which alimentation , electric alimentation do you want to have ,
+so will it be d solar energy alimentation
 in some country where you are in the countryside and you are far from , , the cities in some place in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come
+And it can be correlated to energy , solar energy , so for the marketing aspect ,
+for these supplements the solar energy would be something quite interesting and not maybe too difficult to add .
 
 where , the button the buttons are unlighted during the night ,
 the buttons I pr I prefer , , the L_C_D_ lighted buttons
 a touch screen will be t as expensive as the L_C_D_ buttons so .
 Like the one you've shown , David , with all the buttons and i it sounds good technically
+But we could maybe have both like part of wood and some rubber for the buttons ,
+
+we have to take care of the twelve Euros
+I'm if the user pays the same price , he's happy to have recognition .
+it will fit on the price we want , twel twelve Euros ,
 
 What about the touch scr touch screen ? .
 And the other point I haven't mention is people wan want to have a spongy touch ,
@@ -174,19 +179,18 @@ you will have to work more , Baba , on the spongy way to add spongy touch to the
 It was the design use to show you the design of what is inside a what is inside and what are the different component of the r
 So it will be interesting so I could show you some picture of what is inside
 
-but there is one problem that Baba talked about is the international
-But that , , switching from one country to another will be a problem ,
-it will be interesting after your presentation to have Baba's presentation .
-the plastic material is more common
-but the problem is which material do you need to be spongy ?
-So you will have Baba and David Jordan you will have to work together on the prototype
+let's start our second me meeting on conceptual design .
+as the previous meeting I will be the secretary
+again , it's similar to what I've said in the previous meeting .
+the next meeting will start in thirty meeti minutes
 
 If you have the language , you have to develop for each country .
 tha that's why we have to do language adaptation .
 if you do language adaptation , there should be no problem .
 
-and finally we'll close the decision .
-we have to take decisions about the component concepts , about the energy .
+but there is one problem that Baba talked about is the international
+it will be interesting after your presentation to have Baba's presentation .
+So you will have Baba and David Jordan you will have to work together on the prototype
 
 the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or very expensive ,
 but that low level will be , , it is an interim module .
@@ -194,16 +198,12 @@ and so maybe something very low level wou would be enough .
 cheap imprint so you s you propose low level chips would be enough to have something working .
 maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood .
 
-, even if it is not completely wood , but just a part of the , , will be wooden , in wood
+the plastic material is more common
+but the problem is which material do you need to be spongy ?
 plastic-like , but rubber , mayb maybe , , rubber-like
-But we could maybe have both like part of wood and some rubber for the buttons ,
-
-we just have some cooperation with some research institute ,
-we don't have to do some basic research on this field .
+And that some specific instructions will be sent to you by your personal coach .
 
 Wha what we really see this year is that everything from clothes to shoes and furniture is inspired by fruits and vegetables ,
 we go to the fruits and vede vegetables .
 no not forgetting about the fruits and vegetables trends .
-
-And that some specific instructions will be sent to you by your personal coach .
 

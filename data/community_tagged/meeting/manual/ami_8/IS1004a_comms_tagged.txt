@@ -1,8 +1,8 @@
 So/RB ,/PUNCT not/RB the/DT favourite/NN animal/NN ,/PUNCT but/CC I'll/NNP draw/VBP elephant/NN ./PUNCT
 
-So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
-
 and/CC will/MD m/VB we/PRP will/MD meet/VB to/TO to/TO discuss/VB and/CC take/VB decisions/NNS about/IN what/WP you've/NN you/PRP did/VBD and/CC what/WP we/PRP will/MD do/VB next/RB ./PUNCT
+
+So/RB you/PRP have/VBP to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT
 
 we'll/NN discuss/VBZ a/DT f/NN a/DT fly/NN or/CC do/VB we'll/JJR do/VB another/DT meeting/NN abo/NN on/IN elephants/NNS ./PUNCT
 
@@ -33,9 +33,9 @@ so/RB another/DT important/JJ part/NN of/IN the/DT project/NN is/VBZ about/IN mo
 
 And/CC then/RB there's/VB a/DT difference/NN in/IN the/DT trunk/NN of/IN the/DT animals/NNS ,/PUNCT
 
-so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
-
 I'm/NNP Michael/NNP ./PUNCT I'm/NNP the/DT user/JJ interface/NN designer/NN ./PUNCT
+
+so/RB ,/PUNCT it/PRP seems/VBZ the/DT first/JJ thing/NN that/WDT they've/VBZ kinda/JJR specified/VBN is/VBZ the/DT price/NN like/IN based/VBN on/IN how/WRB much/JJ profit/NN we/PRP wanna/VBP make/VB ,/PUNCT
 
 should/MD it/PRP be/VB specific/JJ remote/VB control/NN to/TO some/DT specific/JJ device/NN ?/PUNCT
 
@@ -83,9 +83,9 @@ but/CC at/IN the/DT end/NN all/PDT the/DT spiders/NNS kinda/VBP flew/JJ away/RB 
 
 I/PRP have/VBP watched/VBN that/IN lions/NNS di/VBP didn't/JJ hunt/NN it's/VBD the/DT female/JJ lions/NNS who/WP hunt/VBP ,/PUNCT
 
-So/IN they/PRP did/VBD this/DT in/IN in/IN Charlotte's/NNP Web/NNP that/IN movie/NN
-
 and/CC it/PRP can/MD move/VB all/DT about/IN the/DT web/NN in/IN two/CD dimensions/NNS ./PUNCT
+
+So/IN they/PRP did/VBD this/DT in/IN in/IN Charlotte's/NNP Web/NNP that/IN movie/NN
 
 if/IN it's/VBN the/DT male/NN who/WP hunts/VBZ or/CC it's/VB the/DT female/NN ,/PUNCT
 

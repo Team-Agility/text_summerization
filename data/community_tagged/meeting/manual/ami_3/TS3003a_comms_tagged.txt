@@ -1,17 +1,17 @@
 our/PRP$ project/NN aim/NN is/VBZ as/IN you/PRP can/MD see/VB a/DT new/JJ remote/NN control/NN ./PUNCT
 does/VBZ everybody/NN has/VBZ experiences/NNS with/IN remote/NN controls/NNS ,/PUNCT and/CC not/RB the/DT ordinary/JJ mote/NN controls/NNS ,/PUNCT but/CC also/RB a/DT little/JJ bit/NN different/JJ ones/NNS ?/PUNCT Like/IN you/PRP can/MD use/VB for/IN other/JJ ?/PUNCT
 And/CC it's/VB it/PRP would/MD be/VB best/RBS to/TO just/RB make/VB one/CD remote/NN control/NN that/WDT can/MD operate/VB them/PRP all/DT ./PUNCT
-that/IN if/IN you/PRP can/MD put/VB different/JJ devices/NNS in/IN one/CD remote/NN control/NN ,/PUNCT it/PRP makes/VBZ it/PRP a/DT lot/NN easier/JJR as/IN ./PUNCT
 And/CC other/JJ functions/NNS for/IN a/DT remote/JJ control/NN ?/PUNCT
 my/PRP$ remote/NN control/NN tends/VBZ to/TO fall/VB a/DT lot/NN ./PUNCT
-
-we/PRP put/VBP a/DT lot/NN of/IN effort/NN in/IN design/NN and/CC in/IN the/DT product/NN itself/PRP ./PUNCT
-After/IN the/DT functional/JJ design/NN ,/PUNCT then/RB the/DT conceptual/JJ design/NN and/CC the/DT detailed/JJ design/NN ./PUNCT
-The/DT Industrial/NNP Designer/NNP is/VBZ going/VBG to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT components/NNS design/NN and/CC a/DT bit/NN of/IN the/DT look/NN and/CC feel/VB design/NN ./PUNCT
 
 And/CC we've/NN got/VBD our/PRP$ User/NNP Interface/NNP Designer/NNP ./PUNCT
 the/DT User/NNP Interface/NNP Designer/NNP is/VBZ going/VBG to/TO do/VB the/DT technical/JJ function/NN design/NN ,/PUNCT user/JJ interface/NN concept/NN and/CC user/JJ interface/NN design/NN ./PUNCT
 I'll/NNP pass/VBD the/DT pen/NN to/TO our/PRP$ User/NNP Interface/NNP Designer/NNP ./PUNCT
+
+we/PRP put/VBP a/DT lot/NN of/IN effort/NN in/IN design/NN and/CC in/IN the/DT product/NN itself/PRP ./PUNCT
+First/NNP is/VBZ functional/JJ des/NNS design/NN ,/PUNCT individual/JJ work/NN ,/PUNCT meetings/NNS ./PUNCT
+After/IN the/DT functional/JJ design/NN ,/PUNCT then/RB the/DT conceptual/JJ design/NN and/CC the/DT detailed/JJ design/NN ./PUNCT
+The/DT Industrial/NNP Designer/NNP is/VBZ going/VBG to/TO work/VB on/IN the/DT working/VBG design/NN ,/PUNCT components/NNS design/NN and/CC a/DT bit/NN of/IN the/DT look/NN and/CC feel/VB design/NN ./PUNCT
 
 I/PRP will/MD put/VB the/DT minutes/NNS from/IN this/DT meeting/NN in/IN our/PRP$ project/NN folder/NN ./PUNCT
 then/RB I'll/NNP put/VBD the/DT minutes/NNS from/IN this/DT meeting/NN in/IN the/DT project/NN folder/NN ,/PUNCT
@@ -26,8 +26,9 @@ And/CC Industrial/NNP Designer/NNP there's/NN also/RB user/RB friendly/JJ and/CC
 I'm/NNP Bart/NNP the/DT project/NN manager/NN
 project/NN method/NN is/VBZ there/EX are/VBP three/CD phases/IN we/PRP are/VBP going/VBG through/IN ./PUNCT
 
-First/NNP is/VBZ functional/JJ des/NNS design/NN ,/PUNCT individual/JJ work/NN ,/PUNCT meetings/NNS ./PUNCT
-then/RB I'll/NNP meet/NN you/PRP in/IN about/IN a/DT half/NN an/DT hour/NN ,/PUNCT ./PUNCT
+that/IN we/PRP won't/VBP make/VB remote/JJ controls/NNS with/IN small/JJ televisions/NNS inside/IN ,/PUNCT and/CC like/IN that/DT ./PUNCT
+so/RB you/PRP have/VBP to/TO got/VB the/DT little/JJ device/NN inside/IN your/PRP$ room/NN ,/PUNCT
+that/IN if/IN you/PRP can/MD put/VB different/JJ devices/NNS in/IN one/CD remote/NN control/NN ,/PUNCT it/PRP makes/VBZ it/PRP a/DT lot/NN easier/JJR as/IN ./PUNCT
 
 because/IN you/PRP can/MD draw/VB with/IN it/PRP on/IN this/DT page/NN in/IN the/DT think/NN it/PRP is/VBZ form/NN of/IN ./PUNCT
 and/CC it's/VB easy/JJ to/TO draw/VB your/PRP$ findings/NNS and/CC drawings/NNS on/IN there/RB ./PUNCT
@@ -65,20 +66,20 @@ Here/RB is/VBZ a/DT simple/JJ tool/NN bar/NN ./PUNCT
 we/PRP have/VBP our/PRP$ opening/NN acquaintance/NN ,/PUNCT tool/NN training/NN ,/PUNCT project/NN plan/NN description/NN closing/NN ./PUNCT
 as/IN you/PRP can/MD see/VB it's/VB the/DT opening/NN ,/PUNCT aquaintance/NN tool/NN training/NN ./PUNCT
 
-that/IN we/PRP won't/VBP make/VB remote/JJ controls/NNS with/IN small/JJ televisions/NNS inside/IN ,/PUNCT and/CC like/IN that/DT ./PUNCT
-so/RB you/PRP have/VBP to/TO got/VB the/DT little/JJ device/NN inside/IN your/PRP$ room/NN ,/PUNCT
-
 if/IN you/PRP have/VBP any/DT ideas/NNS or/CC if/IN you/PRP wanna/VBP draw/JJ anything/NN on/IN the/DT white/JJ board/NN ,/PUNCT just/RB ask/VB
 Other/JJ ideas/NNS ?/PUNCT Quick/NNP ideas/NNS ./PUNCT
+
+Maybe/RB it's/RB easier/JJR to/TO draw/VB the/DT smaller/JJR line/NN width/NN ,/PUNCT ./PUNCT
 
 it's/NN save/NN ,/PUNCT print/NN ,/PUNCT move/VB back/RB or/CC forward/RB one/CD page/NN ./PUNCT
 move/NN along/RB to/TO the/DT project/NN finance/NN ./PUNCT
 
-So/RB that's/JJ pretty/RB handy/JJ when/WRB you/PRP have/VBP a/DT video/NN recorder/NN or/CC D_V_D_/NNP player/NN downstairs/NNS and/CC you've/NN got/VBD a/DT link/NN to/TO your/PRP$ T_V_/NNP on/IN the/DT second/JJ floor/NN ./PUNCT So/RB that's/IN a/DT pretty/NN handy/NN
-
 You/PRP can/MD use/VB this/DT pen/NN by/IN holding/VBG it/PRP like/IN a/DT little/JJ child/NN ./PUNCT
 Because/IN if/IN you/PRP hold/VBP it/PRP like/IN this/DT ,/PUNCT the/DT sensors/NNS will/MD get/VB blocked/JJ
 if/IN you're/RB going/VBG to/TO draw/VB like/IN really/RB fast/JJ then/RB the/DT pen/NN won't/NN hold/VB up/RP ./PUNCT
+
+it's/NN pretty/RB skinny/JJ cat/NN ./PUNCT
+So/RB that's/JJ pretty/RB handy/JJ when/WRB you/PRP have/VBP a/DT video/NN recorder/NN or/CC D_V_D_/NNP player/NN downstairs/NNS and/CC you've/NN got/VBD a/DT link/NN to/TO your/PRP$ T_V_/NNP on/IN the/DT second/JJ floor/NN ./PUNCT So/RB that's/IN a/DT pretty/NN handy/NN
 
 and/CC you'll/NNS have/VBP wires/NNS and/CC microphones/NNS that/WDT will/MD record/VB your/PRP$ voice/NN ./PUNCT
 broad/JJ T_V_/NNP at/IN home/NN ,/PUNCT and/CC a/DT D_V_D_/NNP player/NN ,/PUNCT
@@ -87,12 +88,11 @@ so/IN we/PRP got/VBP like/IN a/DT lot/NN of/IN remote/NN controls/NNS ,/PUNCT on
 so/RB it's/JJ ab/NN it's/NN handy/JJ if/IN we/PRP have/VBP a/DT little/JJ bit/NN of/IN training/VBG first/JJ ./PUNCT
 Thought/NNP it/PRP might/MD be/VB handy/JJ to/TO put/VB a/DT battery/NN status/NN display/NN on/IN it/PRP ./PUNCT
 
-You/PRP can/MD also/RB select/VB the/DT current/JJ colour/NN and/CC the/DT line/NN width/NN ./PUNCT
-the/DT only/JJ thing/NN we/PRP have/VBP to/TO look/VB after/IN is/VBZ that/IN we/PRP use/VBP different/JJ colours/NNS ,/PUNCT and/CC different/JJ line/NN width/NN ./PUNCT
-Maybe/RB it's/RB easier/JJR to/TO draw/VB the/DT smaller/JJR line/NN width/NN ,/PUNCT ./PUNCT
-
 as/IN you/PRP can/MD see/VB we/PRP g/VB all/DT going/VBG to/TO draw/VB a/DT animal/NN ./PUNCT Just/NNP to/TO just/RB to/TO get/VB a/DT bit/NN familiar/JJ with/IN it/PRP ./PUNCT
 They're/NNP brilliant/JJ animal/NN animals/NNS ./PUNCT
+
+You/PRP can/MD also/RB select/VB the/DT current/JJ colour/NN and/CC the/DT line/NN width/NN ./PUNCT
+the/DT only/JJ thing/NN we/PRP have/VBP to/TO look/VB after/IN is/VBZ that/IN we/PRP use/VBP different/JJ colours/NNS ,/PUNCT and/CC different/JJ line/NN width/NN ./PUNCT
 
 only/RB undo/JJ ,/PUNCT you/PRP can/MD undo/VB a/DT little/JJ piece/NN of/IN drawing/VBG ./PUNCT
 This/DT is/VBZ typically/RB a/DT undo/JJ action/NN ,/PUNCT ./PUNCT
@@ -102,16 +102,16 @@ Any/DT questions/NNS about/IN this/DT presentation/NN ?/PUNCT Kick/NNP off/RP pr
 
 we/PRP choose/VBP form/NN of/IN current/JJ colour/NN
 
-We've/NNP got/VBD about/RB five/CD or/CC ten/VB minutes/NNS left/VBN for/IN discussion/NN ./PUNCT
+because/IN if/IN you/PRP wan/VBP ar/NNS are/VBP going/VBG to/TO do/VB it/PRP like/IN this/DT then/RB it/PRP will/MD be/VB a/DT stripe/NN ./PUNCT
+then/RB I'll/NNP meet/NN you/PRP in/IN about/IN a/DT half/NN an/DT hour/NN ,/PUNCT ./PUNCT
+
+just/RB on/IN a/DT side/NN note/NN ,/PUNCT why/WRB is/VBZ it/PRP my/PRP$ laptop/NN is/VBZ only/RB giving/VBG me/PRP a/DT black/JJ screen/NN ?/PUNCT
 
 but/CC just/RB if/IN you/PRP hear/VBP something/NN you/PRP can/MD write/VB down/RP ,/PUNCT just/RB write/VB it/PRP down/RP ./PUNCT
-it's/NN pretty/RB skinny/JJ cat/NN ./PUNCT
+We've/NNP got/VBD about/RB five/CD or/CC ten/VB minutes/NNS left/VBN for/IN discussion/NN ./PUNCT
 
 And/CC just/RB sum/VB up/RP a/DT few/JJ of/IN its/PRP$ favourite/JJ characteristics/NNS ./PUNCT
 It's/NNP my/PRP$ characteristic/JJ characteristic/JJ about/IN the/DT dolphin/NN ./PUNCT It/PRP lives/VBZ for/IN the/DT fun/NN ./PUNCT
-
-because/IN if/IN you/PRP wan/VBP ar/NNS are/VBP going/VBG to/TO do/VB it/PRP like/IN this/DT then/RB it/PRP will/MD be/VB a/DT stripe/NN ./PUNCT
-just/RB on/IN a/DT side/NN note/NN ,/PUNCT why/WRB is/VBZ it/PRP my/PRP$ laptop/NN is/VBZ only/RB giving/VBG me/PRP a/DT black/JJ screen/NN ?/PUNCT
 
 little/JJ blue/JJ dot/NN they/PRP always/RB get/VBP sprayed/VBN on/IN their/PRP$ butts/NN ./PUNCT
 

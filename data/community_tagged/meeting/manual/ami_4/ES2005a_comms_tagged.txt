@@ -34,11 +34,11 @@ But/CC but/CC to/TO sell/VB it/PRP for/IN twenty/NN five/CD you/PRP need/VBP a/D
 
 because/IN people/NNS really/RB li/VBP like/IN to/TO play/VB with/IN it/PRP when/WRB they/PRP are/VBP watching/VBG movies/NNS or/CC playing/VBG with/IN or/CC playing/VBG with/IN their/PRP$ C_D_/NNP player/NN ,/PUNCT M_P_/NNP three/CD player/NN like/IN any/DT electronic/JJ devices/NNS ./PUNCT
 
-we're/NN k/NN having/VBG another/DT meeting/NN in/IN half/PDT an/DT hour/NN
-
 ,/PUNCT maybe/RB more/RBR like/IN a/DT P_D_A_/NNP ,/PUNCT just/RB hand/NN held/VBD ,/PUNCT
 
-Shapes/NNS and/CC colours/NNS and/CC how/WRB to/TO make/VB it/PRP attractive/JJ ./PUNCT
+we're/NN k/NN having/VBG another/DT meeting/NN in/IN half/PDT an/DT hour/NN
 
 And/CC ,/PUNCT other/JJ instructions/NNS will/MD come/VB from/IN the/DT personal/JJ coach/NN ./PUNCT
+
+Shapes/NNS and/CC colours/NNS and/CC how/WRB to/TO make/VB it/PRP attractive/JJ ./PUNCT
 

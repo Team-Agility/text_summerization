@@ -1,6 +1,6 @@
 You have the pen function , eraser function .
 And then a different remote control with different functions on different places , and half of the functions a are removed , or whatever .
-, but most television remote controls support other functions as .
+the technical functions design .
 
 , the project aim is to design a new remote control .
 , we're gonna brainstorm about what kemoro romo remote control it's gonna be .
@@ -10,13 +10,13 @@ I don't th I don't think the four of us got problems with remote controls ,
 , so what we need is a clear remote control with
 . It's a television remote control .
 , television remote control .
+, but most television remote controls support other functions as .
 
 , it consists of three levels of design .
 we begin with the functional design , then we go to the conceptual design and the detailed design .
 Every level of design consists of some individual work , and we close it with a meeting .
 You all received an email with a example of our explanation of what the particular level of design means to the different functions ,
 The the Industrial Designer will w or the working design , ,
-the technical functions design .
 
 I if touch the power button .
 and you can make new sheets by by pu puttin pressing on the blank button .
@@ -35,11 +35,12 @@ The selling price of our remote control is gonna be twenty five Euros .
 And our profit aim is fifteen million Euros .
 and the production cost should be a maximum of twelve Euro fifty per remote control .
 
-The User Interface Designer
-is it a User Inter User Interface
-
 And it's clear you can put the in the project documents presentations .
 Project joc project documents is for showing on the white-board .
+
+The User Interface Designer
+is it a User Inter User Interface
+And the Management Expert of the Marketing Expert . User requirements specifi
 
 and you can change the line width and the colour of the pen by pressing on forward ,
 which y you have to select pen format . And then select current colour or line width .
@@ -61,43 +62,42 @@ Next meeting starts in thirty minutes .
 , but we've gonna put some a is it so user-friendliness , is a pri priority in this case , or
 original , trendly , and user-friendly
 
-, every participant should draw his favourite animal and some of its favourite characteristics ,
-, I'm gonna draw a p piranha . , a fish .
-I have su to sum up its favourite characteris
 but the easiest animal think is a bird .
-, tell us something about your favourite characteristics of these particular birds .
+I why , but a cat is a very smart animal .
 
 there's a document folder called the sh shared document folder .
 You can upload your documents to that folder and then you can open them over here ,
 
-It's like a very simple paint application .
-, I th yo we have to keep it simple , to get a whole market .
-
-We have the smart-boards , the thes those two boards .
-This is the presentation boards , wh which one I'm using right now .
-No , I saw the file , the smart-board that X_B_K_ but
-I why , but a cat is a very smart animal .
+, every participant should draw his favourite animal and some of its favourite characteristics ,
+I have su to sum up its favourite characteris
+, tell us something about your favourite characteristics of these particular birds .
+He's crying because it's ugl because of his ugliness .
 
 That w , then you're the usability man , so this gonna be a very important task for you then .
 or is important that we leave at exact
 
-so you can do your PowerPoint presentations on this screen .
-, but we're all familiar with Microsoft PowerPoint , are we ?
+We have the smart-boards , the thes those two boards .
+This is the presentation boards , wh which one I'm using right now .
+No , I saw the file , the smart-board that X_B_K_ but
 
-The market range is international , so it's gonna be sold world-wide ,
-And the Management Expert of the Marketing Expert . User requirements specifi
+It's like a very simple paint application .
+, I th yo we have to keep it simple , to get a whole market .
+Specific instructions will be sent to you by your personal coach .
 
 And then you have to place your laptop exactly on the marked spot .
 It's important to place your laptop exactly on the marked spot over here .
 
+so you can do your PowerPoint presentations on this screen .
+Plus , the big forehead and a small , a small actual face .
+, but we're all familiar with Microsoft PowerPoint , are we ?
+
+, I'm gonna draw a p piranha . , a fish .
+The market range is international , so it's gonna be sold world-wide ,
+, this the maybe is some aspect of the , or some point at which we can excel by making it very useful .
+
 Joost , Guido , Antek .
 Antek Ahmet . And Joost .
 
-He's crying because it's ugl because of his ugliness .
-Specific instructions will be sent to you by your personal coach .
-
 , I like its sharp razor sharp teeth .
-Plus , the big forehead and a small , a small actual face .
-, this the maybe is some aspect of the , or some point at which we can excel by making it very useful .
 We gonna skip back to the goals probably . ,
 

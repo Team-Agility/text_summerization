@@ -1,6 +1,7 @@
 user/JJ interface/NN design/NN d/JJ industrial/JJ design/NN ?/PUNCT
 
 it/PRP will/MD be/VB a/DT an/DT international/JJ remote/NN control/NN ,/PUNCT
+
 so/RB really/RB the/DT remote/JJ control/NN to/TO be/VB international/JJ ./PUNCT
 
 the/DT user/JJ interface/NN design/NN is/VBZ he/PRP will/MD design/VB how/WRB the/DT user/NN will/MD the/DT relation/NN between/IN the/DT user/NN and/CC the/DT remote/JJ control/NN so/RB
@@ -57,9 +58,9 @@ you/PRP have/VBP to/TO keep/VB in/IN mind/NN that/IN the/DT product/NN cost/NN w
 
 you'll/NN ha/NN all/DT have/VBP your/PRP$ spethisfispis/NN specif/NN specific/JJ role/NN
 
-There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
-
 as/IN we/PRP want/VBP to/TO sell/VB it/PRP in/IN the/DT entire/JJ world/NN ,/PUNCT
+
+There/EX was/VBD a/DT step/NN about/IN drawing/VBG something/NN in/IN the/DT board/NN ,/PUNCT
 
 we/PRP have/VBP twenty/JJ five/CD minutes/NNS for/IN the/DT meeting/NN ./PUNCT
 

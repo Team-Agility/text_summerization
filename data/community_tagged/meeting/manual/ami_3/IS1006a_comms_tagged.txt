@@ -19,21 +19,18 @@ but/CC you/PRP could/MD look/VB at/IN what/WP the/DT other/JJ people/NNS have/VB
 
 that's/IN the/DT aim/NN for/IN the/DT price/NN for/IN the/DT remote/JJ control/NN ./PUNCT
 
+colourful/NN ,/PUNCT because/IN nobody/NN has/VBZ colourful/JJ remote/NNS control/NN
+maybe/RB we/PRP can/MD change/VB the/DT colours/NN that/WDT at/IN least/JJS the/DT frame/NN ./PUNCT
+
 then/RB it's/VBZ the/DT remote/JJ control/NN for/IN the/DT sound/NN system/NN ,/PUNCT or/CC for/IN your/PRP$ refrigerator/NN
 
 ,/PUNCT my/PRP$ daughter/NN likes/VBZ l/JJ remote/NN controls/NNS ./PUNCT
 So/IN she/PRP likes/VBZ buttons/NNS which/WDT make/VBP click/NN ,/PUNCT
 
-colourful/NN ,/PUNCT because/IN nobody/NN has/VBZ colourful/JJ remote/NNS control/NN
-So/RB colour/JJ ,/PUNCT robustness/NN ,/PUNCT easy/JJ to/TO use/VB ,/PUNCT size/NN ,/PUNCT
-./PUNCT Colour/NNP ,/PUNCT size/NN ,/PUNCT sh/NN
-
 Remote/NNP controls/VBZ children/NNS proof/NN ./PUNCT
 It/PRP has/VBZ to/TO be/VB wha/JJ baby/NN proof/NN
 
 it/PRP could/MD be/VB only/RB a/DT screen/NN which/WDT would/MD change/VB depending/VBG on/IN the/DT use/NN or/CC even/RB the/DT user/NN ./PUNCT
-
-Just/RB tr/JJ try/NN to/TO who/WP is/VBZ a/DT User/NNP Interface/NNP Designer/NNP ./PUNCT
 
 the/DT important/JJ points/NNS we/PRP have/VBP to/TO t/VB talk/NN about/IN are/VBP it's/JJ functional/JJ design/NN ,/PUNCT it's/JJ conceptual/JJ design/NN ,/PUNCT and/CC desail/NN detailed/VBN design/NN ./PUNCT
 
@@ -41,13 +38,16 @@ some/DT discussion/NN and/CC then/RB we/PRP talk/VBP of/IN the/DT next/JJ meetin
 
 ./PUNCT So/NNP ,/PUNCT some/DT idea/NN with/IN cellular/JJ phone/NN with/IN a/DT screen/NN that/WDT will/MD tell/VB you/PRP what/WP
 
-maybe/RB we/PRP can/MD change/VB the/DT colours/NN that/WDT at/IN least/JJS the/DT frame/NN ./PUNCT
-you/PRP c/VBP you/PRP can/MD easily/RB remove/VB the/DT frame/NN ./PUNCT
-
 So/RB ma/JJ I/PRP prefer/VBP to/TO have/VB the/DT off/RP button/NN at/IN the/DT top/JJ right/NN ,/PUNCT
 
 I'm/NNP the/DT Project/NNP Manager/NNP Christa/NNP Pavlov/NNP
 and/CC we/PRP speak/VBP about/IN this/DT tool/NN we're/NN going/VBG to/TO design/VB and/CC try/VB to/TO make/VB a/DT project/NN plan/NN ,/PUNCT
+
+It/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ and/CC user/JJ friendly/RB ./PUNCT
+Just/RB tr/JJ try/NN to/TO who/WP is/VBZ a/DT User/NNP Interface/NNP Designer/NNP ./PUNCT
+
+So/RB colour/JJ ,/PUNCT robustness/NN ,/PUNCT easy/JJ to/TO use/VB ,/PUNCT size/NN ,/PUNCT
+./PUNCT Colour/NNP ,/PUNCT size/NN ,/PUNCT sh/NN
 
 but/CC when/WRB you/PRP change/VBP channels/NNS you/PRP can/MD have/VB you/PRP can/MD just/RB go/VB to/TO the/DT next/JJ one/NN or/CC go/VB to/TO channel/VB twenty/CD five/CD ./PUNCT
 And/CC that's/VB already/RB more/RBR complex/JJ to/TO go/VB to/TO channel/VB twenty/CD five/CD ./PUNCT
@@ -66,18 +66,18 @@ Too/RB expensive/JJ for/IN twelve/NN Euro/NNP ?/PUNCT
 
 and/CC for/IN that/DT we're/NN going/VBG all/DT to/TO work/VB individually/RB and/CC then/RB have/VB meeting/NN during/IN the/DT whole/JJ day/NN ./PUNCT
 
-But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
-
 'tis/CD big/JJ number/NN ./PUNCT
+
+But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
 
 at/IN least/JJS it/PRP should/MD hold/VB in/IN your/PRP$ hand/NN n/RB properly/RB ,/PUNCT like/IN ./PUNCT
 
 M_E_/NNP the/DT user/NN requirements/NNS ?/PUNCT
 the/DT user/JJ requirement/NN specifications/NNS ,/PUNCT
 
-It/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ and/CC user/JJ friendly/RB ./PUNCT
-
 Then/RB you/PRP can/MD watch/VB what/WP your/PRP$ you/PRP could/MD also/RB record/VB your/PRP$ sequence/NN of/IN actions/NNS ,/PUNCT
+
+you/PRP c/VBP you/PRP can/MD easily/RB remove/VB the/DT frame/NN ./PUNCT
 
 ,/PUNCT but/CC without/IN any/DT extremes/NNS like/IN n/JJ not/RB of/IN this/DT size/NN ,/PUNCT not/RB too/RB large/JJ ./PUNCT ./PUNCT
 

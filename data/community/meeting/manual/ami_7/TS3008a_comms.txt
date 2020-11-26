@@ -4,18 +4,18 @@
 
 the technical functions design .
 
-, so what we need is a clear remote control with
-
 You have the pen function , eraser function .
+
 And then a different remote control with different functions on different places , and half of the functions a are removed , or whatever .
 
 , tell me about your experiences with the remote controls .
 Do you have good experiences with remote controls ?
 
-, the project aim is to design a new remote control .
-
 , we're gonna brainstorm about what kemoro romo remote control it's gonna be .
 I don't th I don't think the four of us got problems with remote controls ,
+, so what we need is a clear remote control with
+
+, the project aim is to design a new remote control .
 
 All th all the buttons which apply to the text functions in one
 not like the button to enter text on top of the remote control and the button to , , to minimise it to this or whatever o other functions somewhere else .
@@ -45,8 +45,6 @@ I if touch the power button .
 The User Interface Designer
 is it a User Inter User Interface
 
-on blank sheets with different colours , with different pen widths .
-
 , first we're gonna gonna try some different things with the tools we have over here , so you get acquainted with these meeting tools .
 
 , and that's an important part for you then , with gogors regards to the user-friendly part of it .
@@ -55,11 +53,13 @@ Are they difficult to understand , or maybe they don't interact with different e
 
 and you can make new sheets by by pu puttin pressing on the blank button .
 
+and you can change the line width and the colour of the pen by pressing on forward ,
+on blank sheets with different colours , with different pen widths .
+
 Hi-fi set is not often used as I know of in combination with television .
 
 But , the D_V_D_ players and home cinema sets often double as stereo hi-fi sets probably .
 
-and you can change the line width and the colour of the pen by pressing on forward ,
 which y you have to select pen format . And then select current colour or line width .
 And so in the format menu you can choose the different colours and pen widths .
 
@@ -67,6 +67,8 @@ Project joc project documents is for showing on the white-board .
 
 , every participant should draw his favourite animal and some of its favourite characteristics ,
 , tell us something about your favourite characteristics of these particular birds .
+
+, I th yo we have to keep it simple , to get a whole market .
 
 And our profit aim is fifteen million Euros .
 
@@ -84,12 +86,7 @@ Or someth something special , like M_P_ three player inside of it , or
 there's a document folder called the sh shared document folder .
 You can upload your documents to that folder and then you can open them over here ,
 
-It's like a very simple paint application .
-, I th yo we have to keep it simple , to get a whole market .
-
 examples of the tool training , project plan discussion and the closing .
-
-so you can do your PowerPoint presentations on this screen .
 
 I why , but a cat is a very smart animal .
 
@@ -105,6 +102,11 @@ This is the presentation boards , wh which one I'm using right now .
 We have the smart-boards , the thes those two boards .
 No , I saw the file , the smart-board that X_B_K_ but
 
+so you can do your PowerPoint presentations on this screen .
+, but we're all familiar with Microsoft PowerPoint , are we ?
+
+It's like a very simple paint application .
+
 , I'm gonna draw a p piranha . , a fish .
 
 I have su to sum up its favourite characteris
@@ -114,8 +116,6 @@ It's important to place your laptop exactly on the marked spot over here .
 
 The market range is international , so it's gonna be sold world-wide ,
 
-, but we're all familiar with Microsoft PowerPoint , are we ?
-
 Joost , Guido , Antek .
 Antek Ahmet . And Joost .
 
@@ -123,11 +123,11 @@ Antek Ahmet . And Joost .
 
 He's crying because it's ugl because of his ugliness .
 
-Specific instructions will be sent to you by your personal coach .
+, this the maybe is some aspect of the , or some point at which we can excel by making it very useful .
 
 We gonna skip back to the goals probably . ,
 
-, this the maybe is some aspect of the , or some point at which we can excel by making it very useful .
+Specific instructions will be sent to you by your personal coach .
 
 Plus , the big forehead and a small , a small actual face .
 

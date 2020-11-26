@@ -47,9 +47,9 @@ And/CC also/RB for/IN the/DT V_C_R_/NNP and/CC D_V_D_/NNP player/NN
 Maybe/RB for/IN the/DT D_V_D_/NNP pla/NN player/NN ,/PUNCT
 this/DT if/IN you/PRP have/VBP to/TO n/VB know/VB if/IN it's/JJ for/IN s/NN a/DT T_V_/NNP ,/PUNCT a/DT D_V_D_/NNP player/NN ,/PUNCT all/PDT that/DT things/NNS ./PUNCT
 
-on/IN top/NN are/VBP the/DT basic/JJ options/NNS on/IN top/NN ,/PUNCT
-
 how/WRB m/JJ how/WRB mu/JJ how/WRB expensive/JJ is/VBZ a/DT normal/JJ recharger/NN ?/PUNCT
+
+on/IN top/NN are/VBP the/DT basic/JJ options/NNS on/IN top/NN ,/PUNCT
 
 so/RB if/IN you/PRP have/VBP a/DT clear/JJ button/NN with/IN an/DT good/JJ icon/NN on/IN it/PRP ,/PUNCT it/PRP should/MD be/VB clear/JJ as/IN ./PUNCT
 

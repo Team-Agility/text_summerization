@@ -4,20 +4,16 @@ So we've conducted a survey on the use of remote controls
 what we found was that there are several things that the user don't like in remote controls .
 is that it seems that they were people are ready to pay for and look and fancy looking remote control ,
 people are very frustrated w with their remote controls
+but you can't phone your remote control .
 And because of the fact that there are so many buttons in these remote controls
 so most of the people say they how to they to use properly their r remote controls .
 So we've conducted a survey about whether people would like or not to have this functionality in their remote control
 We should only make a remote control , nothing more . Nothing more than this , just a remote control .
 Market is a of remote controls it better ,
 For personal preferences that to make a baby-proof remote control it got to be a titanium .
-it can be just a menu which can be controlled with a left , right , up , down and enter .
 but i like we talk about universal remote control .
-but since we are focusing only on T_V_ remote controls
-since we are focusing on our interface device remote control
 Think of a all these young people who would love to say that this remote control only works for them ,
 like a user taking his remote control
-because since we are only focusing on T_V_ remote control
-like so suppose people are really they just they don't touch the remote
 So in a given room there might be more than one remote control .
 Speakers in the remote cont
 
@@ -28,16 +24,33 @@ and it the current facilities that they offer do not match what people really wa
 And most of the buttons on current remote controls are not used ,
 that may be used by u the user in the current available remote controls
 current remote controls they are never easy enough to use .
+it's not an easy field to play ,
 
-that we want to fulfil the from the technical part
+we will only concentrate on T_V_ for the moment
+but since we are focusing only on T_V_ remote controls
+as the basic function of remote control is sending some message to the device , like T_V_ or V_C_R_ or D_V_D_ player etcetera .
+since we are focusing on our interface device remote control
+that's passing information to the T_V_ device .
+because since we are only focusing on T_V_ remote control
+
 but people want to have control on volume
-Only buttons we need is on off , volume , channels and maybe some options else ,
 And another feature that I would like to implement is volume control .
-Suppose you set u you set up some volume
 The user will just be able to say can you pump up the vo pump up the volume
 volume and decrease or increase ,
 which controls power , volume and this part and this D_S_P_s .
+then it particularly sends some information to the chip like in some form , like volume and like this key .
 Like , if I want to put volume up I like do I take my remote control do like something like
+
+so we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using .
+People want to have a power button .
+Only buttons we need is on off , volume , channels and maybe some options else ,
+I would say the simplest one as long as there are the I find the buttons that I need every time I need a button .
+And all these buttons should be easy to find and to click ,
+when you watch a movie and you want to change something , you always try to find a good button and click it ,
+like you can de you can just button the number
+And then these messages these key buttons can be transferred into some message
+and then we have user interface like the keypad and buttons we want ,
+what about the idea of automatic on off on the button , .
 
 So now it really depends on the targeting wha who are we targeting with this remote control ?
 if we are targeting young people then it's probably something we have to consider .
@@ -47,44 +60,18 @@ for this budget like twelve Euros .
 because v our target is only like twelve point five Euros
 Sh should we target a user personalised remote control ?
 
-Like something to like t phones . Some of the phones have some of this s functionality .
-phone you can always phone your phone
-but you can't phone your remote control .
-
-so we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using .
-People want to have a power button .
-I would say the simplest one as long as there are the I find the buttons that I need every time I need a button .
-And all these buttons should be easy to find and to click ,
-when you watch a movie and you want to change something , you always try to find a good button and click it ,
-first , power on and off can be made fully automatic .
-like you can de you can just button the number
-And then these messages these key buttons can be transferred into some message
-what about the idea of automatic on off on the button , .
-
+In general the early adopters of a new device are young people ,
 it's from a much easier device like air conditioning .
 And let us include two features into this device ,
-we will only concentrate on T_V_ for the moment
 if you want to go for a universal then we ought to limit for functions for each of our devices .
 So now the technical aspects of this new device .
-as the basic function of remote control is sending some message to the device , like T_V_ or V_C_R_ or D_V_D_ player etcetera .
+I am an expert in industrial design of all electronic devices
 So we will have a p portable device which will send message to the main device like T_V_ .
-So we need to have some energy source to do what to do the functions , what we want on this portable device .
 and then it will generate some information to the main device .
 Then we will have the main control in the main device to do the particular action what we want .
-mainly the energy source like the battery
 which sends the information to the main device .
-that's passing information to the T_V_ device .
-so we have the main energy source
+and then we have some inside some chip in the device .
 I heard of devices where you just whistle them
-
-that's for what the biggest frustration of the user
-and I am responsible for User Interface Design .
-that's gonna be less technical functions but more User Interface and current intentions and everything which is linked with this .
-and then we have user interface like the keypad and buttons we want ,
-And since I also want to know feedback from our Marketing Expert and User Interface ,
-and we can also train the speech recogniser for particular user
-so user can say , suppose they're watching a tennis match then they can say after one hour I
-the U_I_D_ Mark will be focused on the user interface concept
 
 It seems that people find teletext relevant ,
 tell you that in a l in a scale between one and ten relevant not relevant to relevant people scored a six on this ,
@@ -92,22 +79,34 @@ but just know that people find it somehow relevant .
 Young people , probably because it's a buzz word , find it very relevant .
 should we aim at the young people or not ?
 we should aim at the young people .
-In general the early adopters of a new device are young people ,
 and finding it easily just by touch .
+like it can turn on the light for you just to f find it easily ,
 Again , this to have some interaction like suppose people use D_S_P_
+like so suppose people are really they just they don't touch the remote
+like all these people do that their lights are turning on with clapping .
 
+And n then you have things which are very much less often used like the settings . Audio settings , screen settings , even teletext and channel settings .
+Suppose you set u you set up some volume
+set up your T_V_ set like channels that you use they're one , two , three and five ,
+
+first , power on and off can be made fully automatic .
 Then we'll have switch in our main device to do particular operations ,
 so this battery , once you s switch on it will take power
 because we have only very few words like power , switch on or some like
 actually we can have one switch to like switch on , on and off , this processor
 and y you how much time you need to switch on or switch off
 
+One of the thing the trend that you are probably aware of is the possibility the eventual possibility of having speech recognition in your remote control ,
+because since our User Interface speech recognition
+and also Marketing Expert for the speech recognition is really handy ,
+and we can have some speech recognition and in our g generally small digital signal processing chip
+and we can also train the speech recogniser for particular user
+anyway volume is not really speech recognition problem ,
+Did you consider the r gest gesture recognition ?
+
 channel selection is very important , very often used .
-And n then you have things which are very much less often used like the settings . Audio settings , screen settings , even teletext and channel settings .
-it's not an easy field to play ,
 if I want to go to directly to channel twenty five , how would I do can I do that with this ?
 that's not so easy to go just next when you have hundreds of channels .
-set up your T_V_ set like channels that you use they're one , two , three and five ,
 and you will never have to go to a twenty fives channel .
 in one remote control that I've seen , instead of doing that d you could just say these are the cha ch channel three , twenty eight , forty eight and sixty four are those that I want to by cycled with my next button .
 So even if they are only watching four or five channels , they want to zap out of the one hundred channels ,
@@ -115,71 +114,72 @@ like how many people really need to go to channel number twenty five and then to
 so some T_V_s will have different encryption codes for doing s channel changing and these things .
 they don't really follow same channels strict
 
-One of the thing the trend that you are probably aware of is the possibility the eventual possibility of having speech recognition in your remote control ,
-is not to forget about Occam razor .
-Mm-hmm . And from the discussion we had do you can you make it on the whiteboard , or .
-because since our User Interface speech recognition
-and also Marketing Expert for the speech recognition is really handy ,
-anyway volume is not really speech recognition problem ,
-Did you consider the r gest gesture recognition ?
+that's for what the biggest frustration of the user
+it's repetitivity stress injury .
+and I am responsible for User Interface Design .
+puts fashion into electronics
+And since I also want to know feedback from our Marketing Expert and User Interface ,
+so user can say , suppose they're watching a tennis match then they can say after one hour I
+and our m Market Expert Sammy Benjo on the trend watching .
 
 W we'll have a screen with a back light
 I would propose this concept for design , just few buttons , a screen with a back light which can change colours , titanium
 wha what is the use usefulness of the screen ?
+it can be just a menu which can be controlled with a left , right , up , down and enter .
 its main purpose is a back light ,
-like it can turn on the light for you just to f find it easily ,
 All the rest , we sh we'll put it into this menu on the screen .
-like all these people do that their lights are turning on with clapping .
 
 I hope you're ready for this functional design meeting .
+that we want to fulfil the from the technical part
 and I hope this is going to help you to design it correctly .
-it's repetitivity stress injury .
-puts fashion into electronics
+Like something to like t phones . Some of the phones have some of this s functionality .
+phone you can always phone your phone
+However , Project Manager asked me to give you some presentation about technical functions design .
+that's gonna be less technical functions but more User Interface and current intentions and everything which is linked with this .
+Our question of the style , we should remember that our company
 It's a question to our technical design , our two engineers .
-I am an expert in industrial design of all electronic devices
+I'll check in my department if there's someone specialist in that .
 So now I'll briefly describe the working design of our remote control .
-Then we will work again for thirty minutes individual work ,
-and our m Market Expert Sammy Benjo on the trend watching .
-like before specific instruction will be sent to you by your personal coach .
+Mm-hmm . And from the discussion we had do you can you make it on the whiteboard , or .
 
-and I previously devised many like digital calculators and electronic calculators .
-it's mainly digital signal processing chip because
-and then we have some inside some chip in the device .
-and we can have some speech recognition and in our g generally small digital signal processing chip
-
-and I'd like to show you some of the results we found on this survey .
-and our method is going to be , provide simple
-simple desires into simple actions .
-we can have another , like s simple speech recogniser on our D_S_B_ chip .
-so that and we will put the small simple speech recogniser
-you can find even simple mobile device like any mobile brand you can have these voice dialers or these things , .
+, it's electromagnetic waves maybe effect .
+because infrared uses some electromagnetic technology ,
+And a general method which is seems to be very useful for our task
+sensing sensor machine that knows
+So we need to have some energy source to do what to do the functions , what we want on this portable device .
+It's generally in the form of infrared or some s sensor information .
+mainly the energy source like the battery
+And then we'll have the infrared L_E_D_ source
+so we have the main energy source
 
 we want to know to at the end to know the new project's requirement
 The full page presentation ,
 because i I spent lots of time doing this presentation , so .
 so we should probably spend lots of time in and effort in that .
-However , Project Manager asked me to give you some presentation about technical functions design .
 One thing is that as I said in my presentation people really do like to z zap .
-and you can change mode zapping mode or
 
 and then you move out or you move to the other corner of the room
 Like , you want to change the chair or you want to move to the armchair from the sofa , and then the volume changes .
-According to your distance to and the angle maybe , if you have a stereo system .
+and you can change mode zapping mode or
 which some pressing buttons or keys or like moving jack like that .
-
-, it's electromagnetic waves maybe effect .
-because infrared uses some electromagnetic technology ,
-And a general method which is seems to be very useful for our task
-Our question of the style , we should remember that our company
-sensing sensor machine that knows
-I'll check in my department if there's someone specialist in that .
-It's generally in the form of infrared or some s sensor information .
-And then we'll have the infrared L_E_D_ source
 now I see th this the picture in front of my eyes
-then it particularly sends some information to the chip like in some form , like volume and like this key .
 
+is not to forget about Occam razor .
+and our method is going to be , provide simple
+simple desires into simple actions .
+we can have another , like s simple speech recogniser on our D_S_B_ chip .
+so that and we will put the small simple speech recogniser
+you can find even simple mobile device like any mobile brand you can have these voice dialers or these things , .
+like before specific instruction will be sent to you by your personal coach .
+
+and I'd like to show you some of the results we found on this survey .
+According to your distance to and the angle maybe , if you have a stereo system .
+and I previously devised many like digital calculators and electronic calculators .
+it's mainly digital signal processing chip because
 so I'll input the connections to all this components .
 so if you want to add some more components we can incorporate them .
+Then we will work again for thirty minutes individual work ,
 and in this one want to be more focused on the individual actions the on the components
 you will focus on the component concept
+the U_I_D_ Mark will be focused on the user interface concept
 

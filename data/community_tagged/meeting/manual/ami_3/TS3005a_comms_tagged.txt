@@ -1,21 +1,20 @@
 what's/VB your/PRP$ experience/NN with/IN remote/NN controls/NNS ,/PUNCT
 What's/VB your/PRP$ experience/NN with/IN remote/NN control/NN ?/PUNCT
 
+when/WRB p/NN when/WRB the/DT customers/NNS will/MD buy/VB this/DT remote/JJ control/NN ,/PUNCT they/PRP already/RB have/VBP the/DT remote/NN control/NN which/WDT companies/NNS with/IN the/DT standards/NNS remote/VB control/NN with/IN which/WDT comes/VBZ with/IN the/DT television/NN ./PUNCT
+but/CC then/RB you/PRP have/VBP to/TO find/VB your/PRP$ other/JJ remote/JJ control/NN if/IN you/PRP want/VBP to/TO search/VB ./PUNCT
 but/CC that/IN most/JJS people/NNS th/VBP will/MD buy/VB the/DT remote/JJ control/NN because/IN
 
+and/CC the/DT aim/NN for/IN the/DT project/NN is/VBZ to/TO create/VB a/DT to/TO design/VB a/DT new/JJ remote/NN control/NN
 what/WP ideas/NNS do/VBP you/PRP have/VB to/TO design/VB a/DT new/JJ remote/NN control/NN ,/PUNCT
+the/DT main/JJ idea/NN of/IN this/DT remote/JJ control/NN is/VBZ
+
 Perhaps/RB that/IN you/PRP have/VBP a/DT lot/NN of/IN road/NN remotes/NNS r/VBP road/NN con/NN remote/NN controls/NNS ./PUNCT
 You/PRP had/VBD different/JJ remote/NN controls/NNS for/IN different/JJ devices/NNS ./PUNCT
 but/CC it'll/JJ get/VB very/RB big/JJ the/DT remote/JJ control/NN ./PUNCT
 you/PRP got/VBD th/RB the/DT same/JJ size/NN remote/VB control/NN you/PRP use/VBP everyday/JJ ,/PUNCT
-the/DT main/JJ idea/NN of/IN this/DT remote/JJ control/NN is/VBZ
-when/WRB p/NN when/WRB the/DT customers/NNS will/MD buy/VB this/DT remote/JJ control/NN ,/PUNCT they/PRP already/RB have/VBP the/DT remote/NN control/NN which/WDT companies/NNS with/IN the/DT standards/NNS remote/VB control/NN with/IN which/WDT comes/VBZ with/IN the/DT television/NN ./PUNCT
-but/CC then/RB you/PRP have/VBP to/TO find/VB your/PRP$ other/JJ remote/JJ control/NN if/IN you/PRP want/VBP to/TO search/VB ./PUNCT
 but/CC they/PRP don't/VBP use/VB the/DT same/JJ signal/NN ,/PUNCT on/IN remote/JJ control/NN ./PUNCT
 always/RB with/IN r/NN universal/JJ remotes/VBZ you/PRP have/VBP to/TO choose/VB the/DT code/NN ./PUNCT
-
-and/CC the/DT aim/NN for/IN the/DT project/NN is/VBZ to/TO create/VB a/DT to/TO design/VB a/DT new/JJ remote/NN control/NN
-And/CC I/PRP hope/VBP we/PRP have/VBP the/DT expertise/NN to/TO create/VB such/JJ a/DT project/NN such/JJ a/DT product/NN ./PUNCT
 
 but/CC it/PRP is/VBZ impossible/JJ to/TO to/TO accommodate/VB all/PDT the/DT buttons/NNS on/IN the/DT s/NN on/IN the/DT difference/NN different/JJ televisions/NNS sets/NNS on/IN one/CD remote/NN control/NN ./PUNCT It's/NNP impossible/JJ ./PUNCT
 Because/IN you/PRP can't/VBP use/VB a/DT Panasonic/NNP remote/NN control/NN on/IN a/DT Philips/NNP television/NN ./PUNCT
@@ -25,22 +24,22 @@ You/PRP don't/VBP have/VB to/TO integrate/VB the/DT buttons/NNS to/TO search/VB 
 
 I'm/NNP the/DT Project/NNP Manager/NNP of/IN this/DT project/NN ,/PUNCT
 and/CC I/PRP hope/VBP to/TO look/VB forward/RB to/TO a/DT very/RB pleasing/JJ end/NN of/IN this/DT project/NN ./PUNCT
+And/CC I/PRP hope/VBP we/PRP have/VBP the/DT expertise/NN to/TO create/VB such/JJ a/DT project/NN such/JJ a/DT product/NN ./PUNCT
 And/CC I/PRP hope/VBP our/PRP$ project/NN group/NN will/MD not/RB be/VB slow/JJ ,/PUNCT
 And/CC I/PRP hope/VBP also/RB reach/VBP a/DT lot/NN with/IN this/DT project/NN ./PUNCT
 
+and/CC my/PRP$ function/NN is/VBZ User/NNP Interface/NNP Design/NNP ,/PUNCT ./PUNCT
 It/PRP consists/VBZ of/IN three/CD phases/NNS ,/PUNCT namely/RB the/DT functional/JJ design/NN ,/PUNCT conceptual/JJ design/NN and/CC detailed/JJ design/NN ./PUNCT
 maybe/RB a/DT minimalist/NN design/NN ,/PUNCT the/DT least/JJS possible/JJ amount/NN of/IN buttons/NNS ./PUNCT
+The/DT User/NNP Interface/NNP Designer/NNP will/MD work/VB out/RP the/DT technical/JJ functions/NNS design/NN ./PUNCT
 the/DT Industrial/NNP Designer/NNP will/MD take/VB a/DT look/NN at/IN the/DT working/VBG design/NN ,/PUNCT
 
-and/CC my/PRP$ function/NN is/VBZ User/NNP Interface/NNP Design/NNP ,/PUNCT ./PUNCT
-The/DT User/NNP Interface/NNP Designer/NNP will/MD work/VB out/RP the/DT technical/JJ functions/NNS design/NN ./PUNCT
-
+the/DT way/NN we/PRP hope/VBP to/TO achieve/VB that/DT is/VBZ the/DT following/JJ methods/NNS ./PUNCT
 and/CC we/PRP are/VBP hoping/VBG to/TO achieve/VB that/IN by/IN aiming/VBG for/IN an/DT international/JJ market/NN ./PUNCT
 maybe/RB for/IN which/WDT market/NN segments/NNS should/MD we/PRP aim/VB ,/PUNCT
-or/CC that/IN you/PRP just/RB should/MD aim/VB for/IN the/DT normal/JJ T_V_s/NNP
 
 I/PRP also/RB h/VBP hope/NN we/PRP have/VBP a/DT pleasant/JJ working/VBG with/IN with/IN each/DT other/JJ ./PUNCT
-the/DT way/NN we/PRP hope/VBP to/TO achieve/VB that/DT is/VBZ the/DT following/JJ methods/NNS ./PUNCT
+then/RB we/PRP have/VBP to/TO head/VB back/RB to/TO our/PRP$ offices/NNS and/CC start/VB working/NN ./PUNCT
 
 and/CC I'd/NNP like/IN to/TO hear/VB who/WP you/PRP are/VBP and/CC what/WP your/PRP$ functions/NNS are/VBP on/IN this/DT project/NN ./PUNCT
 the/DT most/RBS functions/NNS we/PRP will/MD use/VB will/MD be/VB to/TO add/VB a/DT new/JJ page/NN ,/PUNCT
@@ -56,6 +55,8 @@ so/RB that/IN option/NN is/VBZ not/RB optional/JJ for/IN those/DT people/NNS ./P
 to/TO go/VB back/RB and/CC forward/RB between/IN pages/NNS ,/PUNCT
 back/RB to/TO business/NN ,/PUNCT back/RB to/TO the/DT money/NN part/NN ./PUNCT
 
+or/CC that/IN you/PRP just/RB should/MD aim/VB for/IN the/DT normal/JJ T_V_s/NNP
+
 Because/IN Sony/NNP television/NN has/VBZ the/DT opportunity/NN to/TO s/VB to/TO make/VB to/TO make/VB it/PRP possible/JJ for/IN to/TO see/VB on/IN one/CD side/NN of/IN the/DT screen/NN teletext/NN ,/PUNCT and/CC on/IN the/DT other/JJ side/NN just/RB n/RB regular/JJ television/NN ./PUNCT
 But/CC like/IN the/DT two/CD pages/NNS on/IN the/DT same/JJ screen/NN ,/PUNCT like/IN teletext/JJ and/CC normal/JJ television/NN ,/PUNCT that's/NN nowadays/RB standard/RB ,/PUNCT ./PUNCT
 
@@ -66,15 +67,14 @@ from/IN the/DT finance/NN department/NN I/PRP have/VBP learned/VBN that/IN we/PR
 And/CC we're/VB hoping/VBG for/IN a/DT aim/NN of/IN fifty/JJ million/CD Euros/NNS
 And/CC the/DT production/NN cost/NN will/MD be/VB twelve/JJ Euro/NNP fifty/NN max/NN ./PUNCT
 
-then/RB we/PRP have/VBP to/TO head/VB back/RB to/TO our/PRP$ offices/NNS and/CC start/VB working/NN ./PUNCT
-
 My/PRP$ job/NN is/VBZ in/IN the/DT company/NN to/TO promote/VB company/NN or/CC promote/NN products/NNS to/TO the/DT customers/NNS ./PUNCT
 we/PRP have/VBP some/DT expertise/NN from/IN different/JJ pieces/NNS of/IN the/DT company/NN ./PUNCT
 
 and/CC I/PRP hope/VBP you/PRP will/MD introduce/VB yourself/PRP in/IN a/DT few/JJ minutes/NNS ,/PUNCT
+five/CD minutes/NNS and/CC the/DT meeting's/NN over/IN ,/PUNCT right/RB on/IN schedule/NN ./PUNCT
+
 our/PRP$ next/JJ meeting/NN will/MD start/VB we're/VB a/DT little/JJ bit/NN early/JJ ,/PUNCT but/CC our/PRP$ next/JJ meeting/NN will/MD start/VB in/IN thirty/NN minutes/NNS ./PUNCT
 meeting/NN will/MD close/VB in/IN five/CD minutes/NNS ./PUNCT
-five/CD minutes/NNS and/CC the/DT meeting's/NN over/IN ,/PUNCT right/RB on/IN schedule/NN ./PUNCT
 
 And/CC you/PRP can/MD also/RB delete/VB an/DT entire/JJ page/NN ,/PUNCT
 but/CC you/PRP shouldn't/VBP delete/VB an/DT entire/JJ page/NN ,/PUNCT
@@ -110,12 +110,12 @@ And/CC you/PRP can/MD also/RB let's/VB see/NN it's/NN here/RB change/VBP the/DT 
 and/CC change/VB the/DT line/NN width/NN like/IN to/TO five/CD ./PUNCT
 and/CC showed/VBD you/PRP how/WRB to/TO pick/VB a/DT colour/NN ,/PUNCT
 
-as/IN you/PRP probably/RB have/VBP noticed/VBN there/EX are/VBP little/JJ black/JJ fields/NNS on/IN the/DT table/NN ./PUNCT
-
-easy/JJ to/TO r/VB to/TO recognise/VB as/IN a/DT giraffe/NN ./PUNCT
 I've/NNP wrote/VBD down/RB some/DT examples/NNS here/RB of/IN what/WP we/PRP can/MD speak/VB about/IN ./PUNCT
 
+as/IN you/PRP probably/RB have/VBP noticed/VBN there/EX are/VBP little/JJ black/JJ fields/NNS on/IN the/DT table/NN ./PUNCT
+
 As/IN you/PRP can/MD see/VB ,/PUNCT this/DT is/VBZ the/DT same/JJ tool/NN bar/NN as/IN is/VBZ located/VBN here/RB ./PUNCT
+easy/JJ to/TO r/VB to/TO recognise/VB as/IN a/DT giraffe/NN ./PUNCT
 play/NN ,/PUNCT pause/NN ,/PUNCT stop/NN ./PUNCT
 
 I've/NNP drawn/VBZ a/DT dolphin/NN because/IN of/IN its/PRP$ intelligence/NN ./PUNCT

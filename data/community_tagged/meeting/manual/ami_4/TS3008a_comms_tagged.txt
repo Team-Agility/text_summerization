@@ -7,9 +7,10 @@ the/DT technical/JJ functions/NNS design/NN ./PUNCT
 You/PRP have/VBP the/DT pen/JJ function/NN ,/PUNCT eraser/JJR function/NN ./PUNCT
 And/CC then/RB a/DT different/JJ remote/NN control/NN with/IN different/JJ functions/NNS on/IN different/JJ places/NNS ,/PUNCT and/CC half/NN of/IN the/DT functions/NNS a/DT are/VBP removed/VBN ,/PUNCT or/CC whatever/WDT ./PUNCT
 
-,/PUNCT we're/WP gonna/JJ brainstorm/NN about/IN what/WP kemoro/VBD romo/JJ remote/JJ control/NN it's/NN gonna/NN be/VB ./PUNCT
 ,/PUNCT tell/VB me/PRP about/IN your/PRP$ experiences/NNS with/IN the/DT remote/JJ controls/NNS ./PUNCT
 Do/VBP you/PRP have/VB good/JJ experiences/NNS with/IN remote/NN controls/NNS ?/PUNCT
+
+,/PUNCT we're/WP gonna/JJ brainstorm/NN about/IN what/WP kemoro/VBD romo/JJ remote/JJ control/NN it's/NN gonna/NN be/VB ./PUNCT
 I/PRP don't/VBP th/JJ I/PRP don't/VBP think/VB the/DT four/CD of/IN us/PRP got/VBD problems/NNS with/IN remote/JJ controls/NNS ,/PUNCT
 ,/PUNCT so/RB what/WP we/PRP need/VBP is/VBZ a/DT clear/JJ remote/NN control/NN with/IN
 
@@ -42,26 +43,26 @@ but/CC if/IN you/PRP see/VBP elderly/JJ people/NNS ,/PUNCT all/PDT these/DT butt
 The/DT User/NNP Interface/NNP Designer/NNP
 is/VBZ it/PRP a/DT User/NNP Inter/NNP User/NNP Interface/NNP
 
+,/PUNCT and/CC that's/VB an/DT important/JJ part/NN for/IN you/PRP then/RB ,/PUNCT with/IN gogors/NNS regards/NNS to/TO the/DT user-friendly/JJ part/NN of/IN it/PRP ./PUNCT
+
 And/CC it's/VB clear/JJ you/PRP can/MD put/VB the/DT in/IN the/DT project/NN documents/NNS presentations/NNS ./PUNCT
 Project/NN joc/NN project/NN documents/NNS is/VBZ for/IN showing/VBG on/IN the/DT white-board/NN ./PUNCT
 
 and/CC you/PRP can/MD make/VB new/JJ sheets/NNS by/IN by/IN pu/NN puttin/NN pressing/VBG on/IN the/DT blank/JJ button/NN ./PUNCT
 
 and/CC you/PRP can/MD change/VB the/DT line/NN width/NN and/CC the/DT colour/NN of/IN the/DT pen/NN by/IN pressing/VBG on/IN forward/NN ,/PUNCT
+which/WDT y/NN you/PRP have/VBP to/TO select/VB pen/JJ format/NN ./PUNCT And/CC then/RB select/VB current/JJ colour/NN or/CC line/NN width/NN ./PUNCT
 on/IN blank/JJ sheets/NNS with/IN different/JJ colours/NNS ,/PUNCT with/IN different/JJ pen/JJ widths/NNS ./PUNCT
+And/CC so/RB in/IN the/DT format/NN menu/NN you/PRP can/MD choose/VB the/DT different/JJ colours/NNS and/CC pen/JJ widths/NNS ./PUNCT
 
 But/CC ,/PUNCT the/DT D_V_D_/NNP players/NNS and/CC home/NN cinema/NN sets/NNS often/RB double/RB as/IN stereo/JJ hi-fi/JJ sets/NNS probably/RB ./PUNCT
 Hi-fi/NNP set/NN is/VBZ not/RB often/RB used/VBN as/IN I/PRP know/VBP of/IN in/IN combination/NN with/IN television/NN ./PUNCT
-
-which/WDT y/NN you/PRP have/VBP to/TO select/VB pen/JJ format/NN ./PUNCT And/CC then/RB select/VB current/JJ colour/NN or/CC line/NN width/NN ./PUNCT
-And/CC so/RB in/IN the/DT format/NN menu/NN you/PRP can/MD choose/VB the/DT different/JJ colours/NNS and/CC pen/JJ widths/NNS ./PUNCT
 
 examples/NNS of/IN the/DT tool/NN training/NN ,/PUNCT project/NN plan/NN discussion/NN and/CC the/DT closing/NN ./PUNCT
 ,/PUNCT first/JJ we're/NN gonna/NN gonna/NN try/VB some/DT different/JJ things/NNS with/IN the/DT tools/NNS we/PRP have/VBP over/VBN here/RB ,/PUNCT so/IN you/PRP get/VBP acquainted/VBN with/IN these/DT meeting/NN tools/NNS ./PUNCT
 
 ,/PUNCT I/PRP forget/VBP I/PRP forget/VBP the/DT whole/JJ acquaintance/NN part/NN ,/PUNCT but/CC we/PRP all/DT know/VBP each/DT other/JJ ./PUNCT
 the/DT technical/JJ part/NN of/IN the/DT process/NN is/VBZ something/NN you're/JJ gonna/NN look/NN after/IN for/IN ,/PUNCT
-,/PUNCT and/CC that's/VB an/DT important/JJ part/NN for/IN you/PRP then/RB ,/PUNCT with/IN gogors/NNS regards/NNS to/TO the/DT user-friendly/JJ part/NN of/IN it/PRP ./PUNCT
 
 ,/PUNCT some/DT of/IN the/DT oje/NN objectives/NNS are/VBP that/DT is/VBZ has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT and/CC user-friendly/RB ./PUNCT
 ,/PUNCT but/CC we've/VBP gonna/VBN put/VB some/DT a/DT is/VBZ it/PRP so/RB user-friendliness/JJ ,/PUNCT is/VBZ a/DT pri/JJ priority/NN in/IN this/DT case/NN ,/PUNCT or/CC
@@ -107,12 +108,11 @@ Antek/NNP Ahmet/NNP ./PUNCT And/CC Joost/NNP ./PUNCT
 ,/PUNCT I/PRP like/VBP its/PRP$ sharp/JJ razor/NN sharp/JJ teeth/NN ./PUNCT
 
 He's/NNP crying/NN because/IN it's/NN ugl/NN because/IN of/IN his/PRP$ ugliness/NN ./PUNCT
-
 Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
 
-We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
-
 ,/PUNCT this/DT the/DT maybe/NN is/VBZ some/DT aspect/NN of/IN the/DT ,/PUNCT or/CC some/DT point/NN at/IN which/WDT we/PRP can/MD excel/VB by/IN making/VBG it/PRP very/RB useful/JJ ./PUNCT
+
+We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
 
 Plus/CC ,/PUNCT the/DT big/JJ forehead/NN and/CC a/DT small/JJ ,/PUNCT a/DT small/JJ actual/JJ face/NN ./PUNCT
 

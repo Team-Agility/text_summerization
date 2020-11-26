@@ -4,8 +4,7 @@ It's a pineapple remote controls .
 , pineapple remote control .
 That's that's pineapple remote control . it's fine .
 
-we had three keys key points to for this remote control design ,
-
+thi this remote control will stay a prototype .
 so whe where is the remote control ?
 So we'll have to evaluate the your proposed remote control ,
 if we're we all agree on the fabrica of building of this remote control , we'll evaluate the production .
@@ -26,8 +25,16 @@ In the traditional key traditional controller use button to select the channel
 you compare with traditional tr traditional controller ?
 it's easier than traditional controller .
 If you use traditional controller you have to put a button , but now you don't have to put button ,
-the smaller the so you can c you can control the scale .
 But in the traditional controller , how do how can you control the scale ?
+
+If you want to turn the ball , it's very convenient for you to turn the ball to change the channel .
+So you can turn to change the channel .
+but how intuitive is it to turn things to change channels ?
+and you can turn like that to change the channel ?
+it depend on the angle you turn the
+It is a turn off t turn off button , maybe .
+S But I di I didn't see where the t f the turn off t turn on turn off button so much activates
+We could turn we could turn everything in either yellow or black .
 
 we call it a mushroom design .
 It's looks like some mushroom , so we call it mushroom design .
@@ -41,19 +48,6 @@ but it's not like really mushroom because you have like lemon shape , ,
 The sha the bowl shape people like .
 I'm not so happy about the fruit shape , .
 One thing I like is the shape , because it's not like the the remote controls you can put in your pocket , on in your jacket .
-
-So you can turn to change the channel .
-but how intuitive is it to turn things to change channels ?
-and you can turn like that to change the channel ?
-, but when you're zapping you're changing from one channel to the other ,
-But it's good to follow the f flow and make it now and after , , if the people change their mind you change also the product .
-, you customise it every ti so every ti if people change , you just change the appearance , and y you can keep
-
-If you want to turn the ball , it's very convenient for you to turn the ball to change the channel .
-it depend on the angle you turn the
-It is a turn off t turn off button , maybe .
-S But I di I didn't see where the t f the turn off t turn on turn off button so much activates
-We could turn we could turn everything in either yellow or black .
 
 I if this is a channel one . So it c it could be channel two , channel three , channel four , channel five .
 ju just imagine you have fifty channels
@@ -74,14 +68,23 @@ We're just at twelve fifty Euros .
 and the twelve fifty twelve twelve
 We had some problems going to twelve Euros and .
 
+So push button then it's the next expensive one .
+maybe f you have five with push buttons , so we can just , , try to modify some of them to have .
+there's a problem with the push button .
+Which part is the most expensive part ?
+
 you can think about a yellow T_V_ now after a fruit T_V_ or .
 , just a lemon T_V_ it'd be yellow lemon .
 T_V_ is more like fifteen years , maybe , so .
-We can think about T_V_ with where you can change the aspects o like for the cell phones , .
 It's interesting , maybe we can create a line of T_V_ with a tr
 A T_V_ for autumn and a T_V_ for winter , , so it's
 you told me you h you d you lost your control your T_V_
 it's will enlight your house , your home and your T_V_ , so .
+
+we had three keys key points to for this remote control design ,
+So , four point three point five , it means it's acceptable .
+tha that's the weak point ,
+tha that was good but we should have more brainstorming like meetings , maybe .
 
 , maybe two scroll wheel , as we have the coarse to fine scroll wheel .
 An but we have integrated scroll wheel with push dut button .
@@ -89,50 +92,39 @@ Integrated scroll wheel push button
 So if we have all integrated i in the scroll wheel and push button , it's
 scroll wheel with push button on it .
 
-So push button then it's the next expensive one .
-maybe f you have five with push buttons , so we can just , , try to modify some of them to have .
-there's a problem with the push button .
-Which part is the most expensive part ?
-It's but it I don't think it's such a problem just putting the logo somewhere .
+the second key feature is that s circle channel selection .
+but now we have a s circle , so we can turn this ball to t to select channel .
+So it's v , you can put it in the table so you can turn the ball to cha to select the channel
+th that's why if you put it in the table , be careful , somebody will eat it .
 
-, to integrate the fruit aspect ,
-You could f we could do a fruit collection of electronics things . Electronic device .
-Maybe what you can do a test . Put it outside , and if bees come , it's really fruit .
+, but when you're zapping you're changing from one channel to the other ,
+But it's good to follow the f flow and make it now and after , , if the people change their mind you change also the product .
+We can think about T_V_ with where you can change the aspects o like for the cell phones , .
+, you customise it every ti so every ti if people change , you just change the appearance , and y you can keep
+
+It looks like a pineapple with cherry on top .
+But I d m that it will be good to do some more work to transform this into a pineapple .
+It's a pineapple now , it has changed . It's a pineapple .
+
+Vegetables . Mushroom is a vegetable .
 
 let's go for our detailed design meeting .
 and our Industrial Designer , Baba .
 I'm this would be the unique design the market .
 , so it's a fuzzy design , and a unique design .
 
-Vegetables . Mushroom is a vegetable .
+, to integrate the fruit aspect ,
 we take into account what you said about fruit and vegetable .
 , fancy was defined by s fruit and vegetable look .
-
-So I will still play the role of the secretary ,
-the second key feature is that s circle channel selection .
-but now we have a s circle , so we can turn this ball to t to select channel .
-So it's v , you can put it in the table so you can turn the ball to cha to select the channel
-th that's why if you put it in the table , be careful , somebody will eat it .
-
-It looks like a pineapple with cherry on top .
-But I d m that it will be good to do some more work to transform this into a pineapple .
-you can transform the wood into plastic , maybe .
-It's a pineapple now , it has changed . It's a pineapple .
-
-thi this remote control will stay a prototype .
-but don't touch don't destroy your prototype .
-and we had a project prototype presentation with the evaluation .
-So as we all agree to accept , under certain conditions , the prototype , we'll have look to the final sh financial view .
-Final prototype , , ye .
+You could f we could do a fruit collection of electronics things . Electronic device .
+Maybe what you can do a test . Put it outside , and if bees come , it's really fruit .
 
 the basic colour is yellow and red .
 Yellow is our company colour ,
 So we used two basic colour , yellow and red .
 The colour , is the colour acceptable ?
 Black then is a regular colour , so .
-The mood of persons , the fashions
 , but the colour , the colour is more is most important ,
-So we have the logo , we have the colour , and we have the fashion in electronics ,
 
 this is a revolutionary solar receptor that we can put outside and
 The solar cell is too expensive .
@@ -141,12 +133,9 @@ Maybe don't bat no battery , only solar cells .
 But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be
 And designing , looking at the chips , the solar cells and and it was very informative for .
 
-So , four point three point five , it means it's acceptable .
-tha that's the weak point ,
-tha that was good but we should have more brainstorming like meetings , maybe .
-
-So there are several key features of our pr prototype .
 So w we'll try to judge this feature with a one to seven scale ,
+, that's difficult . That's dif that's difficult .
+the smaller the so you can c you can control the scale .
 it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after .
 
 I'm no I'm not definitely convinced it's the best way to if you wanna jump from , , one to twenty ?
@@ -164,6 +153,13 @@ The first is a circle and the second is a triangle s piece .
 the third feature is a stable triangle base .
 this sta this triangle base is very stable , so
 So you can you have base , triangle base so you the T_V_ you can
+
+So there are several key features of our pr prototype .
+but don't touch don't destroy your prototype .
+, maybe improving the texture of like having it less smooth or
+and we had a project prototype presentation with the evaluation .
+So as we all agree to accept , under certain conditions , the prototype , we'll have look to the final sh financial view .
+Final prototype , , ye .
 
 Uncurved , flat , single curved , double curved .
 Double curve , , double curve .
@@ -184,17 +180,21 @@ And sample sensor , sample speaker .
 We have change the electronics to from the sample sensor to regular chip . .
 We have to delete the sample sensor , .
 
-, so you can capture s voice from different directions . .
-the first version , the basic version .
-Advanced version we have speak .
-. hel I will try versions so to see how easy to manage
-
 we'll have first the project presentation by our User Interface Designer , David Jordan ,
 Good choice , mister David Jordan .
 L_C_ display , maybe . Interface .
-So did you enjoy your clay modelling ?
 , mister David Jordan .
 Champagne , mister Baba .
+
+the first version , the basic version .
+Advanced version we have speak .
+, I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .
+. hel I will try versions so to see how easy to manage
+
+So did you enjoy your clay modelling ?
+The mood of persons , the fashions
+It's but it I don't think it's such a problem just putting the logo somewhere .
+So we have the logo , we have the colour , and we have the fashion in electronics ,
 
 so what is inside is what we dis what we talked before about , , the chip ,
 it is a low level chip , and
@@ -203,11 +203,11 @@ You said previously that you there's microphone inside an
 I see , you have microphone array embedded .
 Single simple chip on print ?
 
+So I will still play the role of the secretary ,
 So it depend on how d do you define fancy .
 First one is we have to judge the fancy look and feel .
-, that's difficult . That's dif that's difficult .
-
-, maybe improving the texture of like having it less smooth or
 So you count one degree , two degrees , no .
-, I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .
+
+, so you can capture s voice from different directions . .
+you can transform the wood into plastic , maybe .
 

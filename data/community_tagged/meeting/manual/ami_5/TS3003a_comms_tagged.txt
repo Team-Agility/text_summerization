@@ -20,10 +20,9 @@ First/NNP is/VBZ functional/JJ des/NNS design/NN ,/PUNCT individual/JJ work/NN ,
 that/IN we/PRP won't/VBP make/VB remote/JJ controls/NNS with/IN small/JJ televisions/NNS inside/IN ,/PUNCT and/CC like/IN that/DT ./PUNCT
 that/IN if/IN you/PRP can/MD put/VB different/JJ devices/NNS in/IN one/CD remote/NN control/NN ,/PUNCT it/PRP makes/VBZ it/PRP a/DT lot/NN easier/JJR as/IN ./PUNCT
 
-But/CC then/RB first/RB you/PRP have/VBP to/TO select/VB the/DT pen/JJ function/NN ./PUNCT
+so/IN we/PRP have/VBP to/TO work/VB together/RB to/TO reach/VB our/PRP$ aims/NNS ./PUNCT
 
 We/PRP are/VBP going/VBG to/TO work/VB with/IN a/DT lot/NN of/IN high-tech/JJ tools/NNS here/RB ,/PUNCT
-so/IN we/PRP have/VBP to/TO work/VB together/RB to/TO reach/VB our/PRP$ aims/NNS ./PUNCT
 
 move/NN along/RB to/TO the/DT project/NN finance/NN ./PUNCT
 
@@ -38,28 +37,35 @@ project/NN method/NN is/VBZ there/EX are/VBP three/CD phases/IN we/PRP are/VBP g
 
 if/IN you/PRP have/VBP any/DT ideas/NNS or/CC if/IN you/PRP wanna/VBP draw/JJ anything/NN on/IN the/DT white/JJ board/NN ,/PUNCT just/RB ask/VB
 
-and/CC it's/VB easy/JJ to/TO draw/VB your/PRP$ findings/NNS and/CC drawings/NNS on/IN there/RB ./PUNCT
+I/PRP if/IN you've/NN noticed/VBN ,/PUNCT but/CC we're/VBP working/VBG for/IN Real/JJ Reaction/NN ./PUNCT
 
-is/VBZ there/EX a/DT project/NN documents/NNS folder/VB ?/PUNCT
-so/RB if/IN you/PRP have/VBP a/DT document/NN you/PRP wanna/VBP show/VB ,/PUNCT just/RB open/VB it/PRP from/IN the/DT folder/NN ./PUNCT
+because/IN you/PRP can/MD draw/VB with/IN it/PRP on/IN this/DT page/NN in/IN the/DT think/NN it/PRP is/VBZ form/NN of/IN ./PUNCT
+and/CC it's/VB easy/JJ to/TO draw/VB your/PRP$ findings/NNS and/CC drawings/NNS on/IN there/RB ./PUNCT
 
 Our/PRP$ production/NN cost/NN can/MD be/VB maximal/JJ twelve/NN and/CC a/DT half/NN Euros/NNP ,/PUNCT
 But/CC I/PRP if/IN that/DT will/MD exceed/VB the/DT production/NN costs/NNS ./PUNCT
 But/CC they'll/NN also/RB really/RB drag/VB up/RP the/DT production/NN costs/NNS ,/PUNCT
 
+But/CC then/RB first/RB you/PRP have/VBP to/TO select/VB the/DT pen/JJ function/NN ./PUNCT
+now/RB I'm/NNP gonna/NN hand/NN over/IN the/DT pen/NN on/IN the/DT new/JJ blank/JJ sheet/NN to/TO you/PRP ./PUNCT
+
 And/CC the/DT marketing/NN expert/NN is/VBZ doing/VBG a/DT little/JJ bit/NN of/IN user/JJ requirement/NN specification/NN ,/PUNCT trend/NN watching/NN and/CC project/NN product/NN ev/JJ evaluation/NN ./PUNCT
 so/IN we/PRP have/VBP to/TO focus/VB on/IN different/JJ users/NNS ,/PUNCT different/JJ cultures/NNS ,/PUNCT and/CC different/JJ trends/NNS as/IN ./PUNCT
 
-because/IN you/PRP can/MD draw/VB with/IN it/PRP on/IN this/DT page/NN in/IN the/DT think/NN it/PRP is/VBZ form/NN of/IN ./PUNCT
-
-I/PRP if/IN you've/NN noticed/VBN ,/PUNCT but/CC we're/VBP working/VBG for/IN Real/JJ Reaction/NN ./PUNCT
 But/CC on/IN the/DT corporate/JJ information/NN side/NN there's/VBD a/DT th/NN there/EX was/VBD Real/JJ Remote/NNP instead/RB of/IN Real/JJ Reaction/NNP ./PUNCT
 Real/JJ Remote/NNP is/VBZ not/RB really/RB the/DT company/NN we're/NN we/PRP are/VBP ,/PUNCT
 It's/NNP a/DT real/JJ dead/JJ sheep/NN ,/PUNCT
 
+You/PRP can/MD use/VB this/DT pen/NN by/IN holding/VBG it/PRP like/IN a/DT little/JJ child/NN ./PUNCT
+if/IN you're/RB going/VBG to/TO draw/VB like/IN really/RB fast/JJ then/RB the/DT pen/NN won't/NN hold/VB up/RP ./PUNCT
+
 As/IN you/PRP can/MD see/VB we've/JJ got/VBD the/DT smart/JJ boards/NNS here/RB and/CC here/RB in/IN the/DT white/JJ board/NN ./PUNCT
 everybody/NN knows/VBZ how/WRB to/TO work/VB with/IN the/DT white/JJ board/NN now/RB ?/PUNCT
 haunted/VBN white/JJ board/NN ./PUNCT
+
+is/VBZ there/EX a/DT project/NN documents/NNS folder/VB ?/PUNCT
+A/DT blank/JJ new/JJ document/NN for/IN each/DT person/NN ./PUNCT
+so/RB if/IN you/PRP have/VBP a/DT document/NN you/PRP wanna/VBP show/VB ,/PUNCT just/RB open/VB it/PRP from/IN the/DT folder/NN ./PUNCT
 
 in/IN the/DT white/JJ board/NN here/RB there's/VBZ a/DT little/JJ tool/JJ bar/NN on/IN this/DT side/NN ./PUNCT
 Here/RB is/VBZ a/DT simple/JJ tool/NN bar/NN ./PUNCT
@@ -74,10 +80,6 @@ just/RB try/VB to/TO remember/VB these/DT points/NNS ./PUNCT Selling/VBG price/N
 
 So/RB that's/JJ pretty/RB handy/JJ when/WRB you/PRP have/VBP a/DT video/NN recorder/NN or/CC D_V_D_/NNP player/NN downstairs/NNS and/CC you've/NN got/VBD a/DT link/NN to/TO your/PRP$ T_V_/NNP on/IN the/DT second/JJ floor/NN ./PUNCT So/RB that's/IN a/DT pretty/NN handy/NN
 
-You/PRP can/MD use/VB this/DT pen/NN by/IN holding/VBG it/PRP like/IN a/DT little/JJ child/NN ./PUNCT
-Because/IN if/IN you/PRP hold/VBP it/PRP like/IN this/DT ,/PUNCT the/DT sensors/NNS will/MD get/VB blocked/JJ
-if/IN you're/RB going/VBG to/TO draw/VB like/IN really/RB fast/JJ then/RB the/DT pen/NN won't/NN hold/VB up/RP ./PUNCT
-
 then/RB I'll/NNP meet/NN you/PRP in/IN about/IN a/DT half/NN an/DT hour/NN ,/PUNCT ./PUNCT
 
 and/CC you'll/NNS have/VBP wires/NNS and/CC microphones/NNS that/WDT will/MD record/VB your/PRP$ voice/NN ./PUNCT
@@ -89,8 +91,6 @@ Thought/NNP it/PRP might/MD be/VB handy/JJ to/TO put/VB a/DT battery/NN status/N
 
 as/IN you/PRP can/MD see/VB we/PRP g/VB all/DT going/VBG to/TO draw/VB a/DT animal/NN ./PUNCT Just/NNP to/TO just/RB to/TO get/VB a/DT bit/NN familiar/JJ with/IN it/PRP ./PUNCT
 They're/NNP brilliant/JJ animal/NN animals/NNS ./PUNCT
-
-now/RB I'm/NNP gonna/NN hand/NN over/IN the/DT pen/NN on/IN the/DT new/JJ blank/JJ sheet/NN to/TO you/PRP ./PUNCT
 
 it's/NN pretty/RB skinny/JJ cat/NN ./PUNCT
 
@@ -104,23 +104,23 @@ Other/JJ ideas/NNS ?/PUNCT Quick/NNP ideas/NNS ./PUNCT
 
 so/RB you/PRP have/VBP to/TO got/VB the/DT little/JJ device/NN inside/IN your/PRP$ room/NN ,/PUNCT
 
-A/DT blank/JJ new/JJ document/NN for/IN each/DT person/NN ./PUNCT
-
 I'll/NNP start/NN with/IN the/DT presentation/NN kick/VBD off/RP ./PUNCT
 Any/DT questions/NNS about/IN this/DT presentation/NN ?/PUNCT Kick/NNP off/RP presentation/NN ./PUNCT
 
 we/PRP choose/VBP form/NN of/IN current/JJ colour/NN
 
+We've/NNP got/VBD about/RB five/CD or/CC ten/VB minutes/NNS left/VBN for/IN discussion/NN ./PUNCT
+
 just/RB on/IN a/DT side/NN note/NN ,/PUNCT why/WRB is/VBZ it/PRP my/PRP$ laptop/NN is/VBZ only/RB giving/VBG me/PRP a/DT black/JJ screen/NN ?/PUNCT
 
 it's/NN save/NN ,/PUNCT print/NN ,/PUNCT move/VB back/RB or/CC forward/RB one/CD page/NN ./PUNCT
 
-but/CC just/RB if/IN you/PRP hear/VBP something/NN you/PRP can/MD write/VB down/RP ,/PUNCT just/RB write/VB it/PRP down/RP ./PUNCT
-We've/NNP got/VBD about/RB five/CD or/CC ten/VB minutes/NNS left/VBN for/IN discussion/NN ./PUNCT
+Because/IN if/IN you/PRP hold/VBP it/PRP like/IN this/DT ,/PUNCT the/DT sensors/NNS will/MD get/VB blocked/JJ
 
 And/CC just/RB sum/VB up/RP a/DT few/JJ of/IN its/PRP$ favourite/JJ characteristics/NNS ./PUNCT
 It's/NNP my/PRP$ characteristic/JJ characteristic/JJ about/IN the/DT dolphin/NN ./PUNCT It/PRP lives/VBZ for/IN the/DT fun/NN ./PUNCT
 
+but/CC just/RB if/IN you/PRP hear/VBP something/NN you/PRP can/MD write/VB down/RP ,/PUNCT just/RB write/VB it/PRP down/RP ./PUNCT
 little/JJ blue/JJ dot/NN they/PRP always/RB get/VBP sprayed/VBN on/IN their/PRP$ butts/NN ./PUNCT
 
 because/IN if/IN you/PRP wan/VBP ar/NNS are/VBP going/VBG to/TO do/VB it/PRP like/IN this/DT then/RB it/PRP will/MD be/VB a/DT stripe/NN ./PUNCT

@@ -2,11 +2,12 @@ A multifunctional remote control , which can be used for several entertainment d
 A single function remote control is simpler to use , but it means you have to have other remote controls for your other entertainment devices .
 , I was just wondering about the , what Genevieve said before , about having like some hidden controls like having the outer casing .
 , so what I'll be talking about now is the equivalent for a remote control .
+, I've done some marketing research , a lot of interviews with remote control users , , and some internet research .
 , to influence our remote control .
+Current remote controls do not match the operating behaviour of the user .
 You mean that they would spend more money on a fancy-looking remote control ?
 , they're willing to spend money on a remote control with personality .
 As opposed to your basic , , oval black , all same size button remote control .
-So people wanna be able to turn on the T_V_ with the remote control .
 So it looks like something that we're gonna want to do some research on and include on our remote control .
 Remote controls are often lost somewhere .
 , takes too much time to learn how to use a new remote control .
@@ -16,7 +17,6 @@ But if we wanna make fifty million , and have everyone want this remote control 
 Like their priorities might not be a fancy remote control , when they're just starting out
 And if one of the largest , , or most complained about thing is that it takes so long to get to know how to use a remote control ,
 we don't have the resources or possibility of using the internet with the remote control ,
-So , , all the remote controls must have our We'll incorporate our logo and colour in some way .
 isn't our remote control for all T_V_s ,
 It would be able to use the same reception on the remote c control I , but the actual device would have to have its own infrared signaller .
 , I was just gonna throw out there the thought about personalising the remote control .
@@ -31,24 +31,20 @@ And a single function remote control , used specifically for the television .
 So as far as we know , , a single function television remote control is us usable internationally ?
 . So I'll be discussing the functional requirements of this remote control .
 The functional requirements of that was to produce hot coffee quickly .
+, so the youngest age group , fifteen to twenty five .
+Interestingly enough , twenty five to thirty five is the lowest amount . , that would , are willing to pay extra .
+So I we're gonna have to figure out what age group we're , we're targeting ,
 , if we are targeting young adults , it looks like something that would pay off .
 I agree with if we're targeting young adults then it would be something we should look into .
+, and finally , whoops , my personal preferences and thoughts .
+if we wanted to concentrate on fifteen to twenty five years olds , we could go for the fancy .
+And we should keep in mind that fifteen to twenty five year olds might not have twenty five Euros to spend on a remote control .
+Early twenties , that's the age group .
+, for one thing , because Having controls with D_V_D_ , V_C_R_ , that thing , would really complicate the design of the remote control . , we've decided not to include them and make it a specific , just a specific television function .
 , so , now we need to discuss , and come to a decision on our remote control functions , of how this is going to be .
 , we have to decide on a target group and the functions of the remote control .
 
 I'm the User User Interface Designer .
-Does anyone object and , and find the multifunctional might be a better way to go ?
-because we're trying to do so much , that if we're trying to make a unique , user-friendly , dadada , and it's also multi also multifunctional , , we're gonna go over budget for one thing .
-, seventy five percent of users of remote controls find them ugly .
-Eighty percent of users would spend more money when a remote control would look fancy .
-Current remote controls do not match the operating behaviour of the user .
-that eighty percent of users would spend more money when a remote control would look fancy .
-, seventy five percent of remote control users said that they zap a lot .
-, and fifty percent of users say they only use ten percent of the buttons .
-And how important the users find them .
-so in my opinion it should be , , user-friendly and unique .
-
-So I suppose it does need like high contact , , high quality machinery , and very specific machinery ,
 , the technical functions design of the apparatus is the effect the apparatus should have .
 By taking inspiration from other similar designs , we'll try and come up with an original trendy remote control , which is sellable international .
 There're two functional design options .
@@ -56,23 +52,18 @@ There're two functional design options .
 And that would probably , , I d , what you said before about it being a more profitable simplistic design .
 And with this we'll have more room in the budget probably to make a more original design .
 We'll have more money to go into the design side of it .
+, and we should also be looking to trends in clothing and interior design . Not just in electronic fashion .
+, we should be looking towards trends in both clothing and interior design .
 but could be very difficult to get the specific design .
 We need to decide if that is our intention is , is a simplistic design .
 , our priority really should be unique design .
-, for one thing , because Having controls with D_V_D_ , V_C_R_ , that thing , would really complicate the design of the remote control . , we've decided not to include them and make it a specific , just a specific television function .
 This is for the design , the design of the product is that we wanna create , more of a sense that people know that this is from our company .
-
-, but the relevance of that button is nine out of ten .
-Relevance of that button , our users found was ten , ten out of ten .
-, ditto for volume selection , so ten out of ten .
-, just if it was kinda the same way that a cell how a cellphone will light up for about ten , fifteen seconds when you touch a button , after having not touched it for a while .
-, if instead of a constant light up on the , on the remote control , if it lights up for ten seconds when it's touched again .
-Because usually you're not fooling around for it for more than what ten seconds .
 
 , multifunctional controls can be difficult to use , as the multitude of buttons can be confusing .
 so it might be very appealing if , , we have very concise buttons .
 And actually to go with that , I'm gonna give you some statistics on the relevancy of the buttons , how much they're used .
 So the power button , , in an hour is only used once .
+, but the relevance of that button is nine out of ten .
 so as you said we want a durable button that's not gonna run down .
 So like a running banner , underneath
 it's a button that you press , and then you , , like a menu pops up .
@@ -83,26 +74,18 @@ right , if w if we're minimising buttons , we might be able to make them actuall
 , so if you touch the button , it reactivates it .
 . If you touch the button and then it could be , it could be lit up as .
 
-Zapping meaning they go through channels a lot .
-because I find with channel-changers that , , a lot of the numbers get rubbed down if they're printed on the button .
-Channel selection is used a hundred and sixty eight times on average per hour .
-Not as much as channel selection , but still significant .
-it's just information that , like television timetables , what's on now , what's on next , on every channel , and
-, channel settings . Zero point zero one times an hour . Relevance of three .
-if you get a new T_V_ set , you tune in all the channels ,
-I if it'd be , if we'd still have a remote , or if you're talking to your television and saying change channel .
-I the channel that you're on , the v the volume setting .
-S like up arrow down arrow for , for volume .
-But then the like up button and down button for the channel , channel changing .
-so if , if you're like changing the volume during a movie .
-
-A large percentage of the public would pay for voice recognition on the remote controls .
+Not every , not a hundred percent of everything we produce ,
+One thing we have to consider is our one hundred percent turnover goal that we have for our financial sector .
+We'll still have to investigate the financial implications .
+, seventy five percent of users of remote controls find them ugly .
+, the other twenty five percent didn't specify if they love them or found them , , neutral .
+Eighty percent of users would spend more money when a remote control would look fancy .
+that eighty percent of users would spend more money when a remote control would look fancy .
+, seventy five percent of remote control users said that they zap a lot .
+, and fifty percent of users say they only use ten percent of the buttons .
 Ninety one point two percent said that they would pay extra money to have voice recogni voice recognition included on their remote control .
-because if people can activate the television with their voice then they won't be using a , they won't be talking into a remote , I'm .
-So , voice recognition might be a little too extreme for us .
-, I th myself , voice recognition scares me off .
-, , a sixteen year old boy would say , I'd pay extra for voice recognition , until they realise that's three months allowance .
-So no L_C_D_ , no teletext , and no voice recognition .
+Seeing as ninety percent , over ninety percent would pay for it .
+Because we need to investigate the financial implications .
 
 And it needs to allow a person to have a portable desi device , so they can control the television from wherever they are .
 They don't need to actually manually touch the television set .
@@ -114,26 +97,53 @@ And probably more sellable just because it's more compatible with a r a wider ra
 , it's just that , when we're creating it , we're , we have to make it compatible with different brands of devices .
 And it would be easier to make it compatible with just different brands of television devices rather than other ent ,
 , as opposed to standing up and turning on the television set .
-, audio settings is used on average zero point eight times an hour .
-Screen settings , which means brightness , colour etcetera , zero point five times an hour .
 although in theory it doesn't tend to be when you're watching television ,
-teletext at your fingers , without having to access that through the television .
 I'm that could be inex inexpensive because we could use the same infrared
-Maybe something adhesive that you could like stick onto the back of any set that would be not very obtrusive .
+
+Zapping meaning they go through channels a lot .
+because I find with channel-changers that , , a lot of the numbers get rubbed down if they're printed on the button .
+Not as much as channel selection , but still significant .
+And you have page numbers like for the menu ,
+and you press the page numbers with your remote , and it , it'll come up .
+it's just information that , like television timetables , what's on now , what's on next , on every channel , and
+, and you can see that number decreases a bit with ol s
+, ages like from thirty five to sixty five which show lower numbers probably won't be as concerned .
+I if it'd be , if we'd still have a remote , or if you're talking to your television and saying change channel .
+S like up arrow down arrow for , for volume .
+But then the like up button and down button for the channel , channel changing .
+so if , if you're like changing the volume during a movie .
+And as you're saying like numbers can wear off if they're just like painted on , printed .
 
 A automatically , lights up at first touch .
-and then an alarm from the handset would sound where it was , hopefully in the room .
-And if there was conversation in the room at the same time ,
-the way fluorescent lights lose their brightness after certain time , so
+Relevance of that button , our users found was ten , ten out of ten .
+, ditto for volume selection , so ten out of ten .
+But , , we could discuss those other options that you brought up , Genevieve .
 thought that it , it might be sucking more battery power , if there , if it is a light up .
 I the other option , referring to the battery thing is , how cellphones will t light up for fifteen seconds , when you're s and then it goes ,
 I know , I'm thinking of mostly when you're watching a movie you turn all the lights off right .
 And you don't want to turn on the lights , to turn it down , because there's suddenly an explosion , and it's gonna wake up the baby .
 but we should discuss this light subject a little bit more before we close .
+, just if it was kinda the same way that a cell how a cellphone will light up for about ten , fifteen seconds when you touch a button , after having not touched it for a while .
+, if instead of a constant light up on the , on the remote control , if it lights up for ten seconds when it's touched again .
 and you , you touch it and it just lights up a bit , and it gives a faint glow .
-So if you have all the lights off in your living room , you'll temporarily see it .
-there are now like loads , or a huge range of different colours that it could light up in as ,
-Every time the , that it lit up , you c that could light up as .
+Because usually you're not fooling around for it for more than what ten seconds .
+
+Channel selection is used a hundred and sixty eight times on average per hour .
+, audio settings is used on average zero point eight times an hour .
+Screen settings , which means brightness , colour etcetera , zero point five times an hour .
+, channel settings . Zero point zero one times an hour . Relevance of three .
+if you get a new T_V_ set , you tune in all the channels ,
+I the channel that you're on , the v the volume setting .
+Maybe something adhesive that you could like stick onto the back of any set that would be not very obtrusive .
+
+And another thing with lots of surfing , we'd probably have to work on something that could be a lot more durable ,
+an L_C_D_ screen though might be something that , , you can shift through pages li the way this PowerPoint is working .
+just , just a screen , like a computer screen .
+You'd have an L_C_D_ versus just a , a normal clock .
+Like on the top of a cellphone , the little L_C_D_ screen .
+I'm that something like an L_C_D_ screen or remote control would be just furthering that problem .
+Are we going to write off the L_C_D_ option ?
+So no L_C_D_ , no teletext , and no voice recognition .
 
 which would just take in the light during the day , and then as soon as they go off they would glow in the dark .
 , the glow-in-the-dark , fluorescent , whatever , system , is a go ahead .
@@ -145,56 +155,46 @@ Because it might , for our design purposes , , the lighting up thing might be be
 it might be perceived as tacky , glow-in-the-dark .
 I was thinking though , if it was glow-in-the-dark , you could put the Real Reaction symbol as glow-in-the-dark , and then it would be constantly advertised .
 
-And another thing with lots of surfing , we'd probably have to work on something that could be a lot more durable ,
-an L_C_D_ screen though might be something that , , you can shift through pages li the way this PowerPoint is working .
-just , just a screen , like a computer screen .
-You'd have an L_C_D_ versus just a , a normal clock .
-Like on the top of a cellphone , the little L_C_D_ screen .
-I'm that something like an L_C_D_ screen or remote control would be just furthering that problem .
-Are we going to write off the L_C_D_ option ?
+This would actually show the circuit diagram .
+I it just shows what energy source .
+who's famous , what T_V_ shows are being watched ,
+Hopefully the person's not turning on and off the T_V_ .
+So people wanna be able to turn on the T_V_ with the remote control .
+T_V_ has like information , it has information on holidays , the news , entertainment .
+And something that might further complicate it is that the T_V_ makes noise itself .
+Complicated jus complicating things even fo .
+the same signal through that and it could just like make a little beeping noise .
+C then it would only be a applicable to one T_V_ set ,
+, unless some way , it could have some universal connection to like the socket , the same socket that the T_V_'s supplied from .
+And if we'd want to go with like T_V_ show themes .
+, , we could gain out of that by advertising certain T_V_ shows , or
 
-, the other twenty five percent didn't specify if they love them or found them , , neutral .
-And you have page numbers like for the menu ,
-and you press the page numbers with your remote , and it , it'll come up .
-, so the youngest age group , fifteen to twenty five .
-, and you can see that number decreases a bit with ol s
-Interestingly enough , twenty five to thirty five is the lowest amount . , that would , are willing to pay extra .
-So I we're gonna have to figure out what age group we're , we're targeting ,
-, ages like from thirty five to sixty five which show lower numbers probably won't be as concerned .
-if we wanted to concentrate on fifteen to twenty five years olds , we could go for the fancy .
-And we should keep in mind that fifteen to twenty five year olds might not have twenty five Euros to spend on a remote control .
-Early twenties , that's the age group .
-the shape of the numbers is a really good idea .
-And as you're saying like numbers can wear off if they're just like painted on , printed .
+and firstly I wanted to remind you about our company motto and purpose .
+So , , all the remote controls must have our We'll incorporate our logo and colour in some way .
+So , , perhaps our logo on the bottom , or wherever you feel like it would look good .
+we need to , we probably would have to have that colour and , and logo decided upon .
+but for the purposes of this meeting I , I wasn't offered a , like a type of logo or colour ,
+It's probably R_ R_R_ in yellow .
+there are now like loads , or a huge range of different colours that it could light up in as ,
+which could like link in with the company colours .
+Like it could be blue or green or yellow ,
 
 You would have to hire a number of people , and it might be more expensive .
+So I suppose it does need like high contact , , high quality machinery , and very specific machinery ,
 , so it is something that people care about . It's not , it's not ignored in the household .
 , so it's not used very often , but people still find it relevant .
 , biggest frustrations of the people that we interviewed .
 So that was already discussed by Poppy . How we could have a , an alarm system so that people can find it .
+Repetitive strain injury .
 and depending on how many members you have in households .
-we should definitely go ahead with the alarm system idea that you had .
-, so like big b buttons , for people you are visually impaired .
-And it could , if it's that softer rubber material it'll be , maybe , , , better for people with els no
-, it , you , you mentioned face plates .
-So if there's something that diff , like five different face plates .
-You could start out with three , and if , if we hit it big then we can add some on .
-
-I , I only , , received my emails later on . I was too busy carried away doing my own thing ,
-, I've done some marketing research , a lot of interviews with remote control users , , and some internet research .
-Like the internet you can send emails and You've no interaction .
+because if people can activate the television with their voice then they won't be using a , they won't be talking into a remote , I'm .
 I that's something we can all take back to our respective research .
 And we have to keep in mind the , the reliability of our research .
-Before we go into more discussion on we want this design to look like , I've received some information from the management that will affect some of our decisions .
-Another thing that might affect other decisions is that the management feels that teletext is outdated , because more people are using the internet now .
-And so we won't concern ourselves with navigating the teletext option .
-Were they , was the management suggesting use of the internet rather than teletext , or just avoiding both altogether ?
-So , , perhaps our logo on the bottom , or wherever you feel like it would look good .
-we need to , we probably would have to have that colour and , and logo decided upon .
-But , , we could discuss those other options that you brought up , Genevieve .
-but another thing is that if we're reaching an international crowd , , I know for one that in North America there is no such thing as teletext , so it'd be really superfluous .
-And also y , Heather you mentioned before , like how it should be accessible to everybody .
-that completes most of our our more practical decisions .
+, so , the older generations we should be catering to a bit more .
+, so like big b buttons , for people you are visually impaired .
+And it could , if it's that softer rubber material it'll be , maybe , , , better for people with els no
+or like we've just limited t with the , just ordinary phosphorescent so
+You could start out with three , and if , if we hit it big then we can add some on .
 , that might be com problematic with copyright issues .
 
 And I hope you had a productive last thirty minutes .
@@ -208,53 +208,54 @@ Would we be the company that would break down these , or metals ?
 we could probably empl employ a , a side company to do that for us .
 But it would be our responsibility to get that done and to dispose of the products that we made .
 , so we'll have to investigate how much that will cost us , cost the company ,
-and firstly I wanted to remind you about our company motto and purpose .
-So we believe in providing international market with fashionable products .
 So if we're , if we're aiming to make this an international university , universally accepted product
-which could like link in with the company colours .
 
-This would actually show the circuit diagram .
-I it just shows what energy source .
-who's famous , what T_V_ shows are being watched ,
-Hopefully the person's not turning on and off the T_V_ .
-T_V_ has like information , it has information on holidays , the news , entertainment .
-And something that might further complicate it is that the T_V_ makes noise itself .
-C then it would only be a applicable to one T_V_ set ,
-, unless some way , it could have some universal connection to like the socket , the same socket that the T_V_'s supplied from .
-And if we'd want to go with like T_V_ show themes .
-, , we could gain out of that by advertising certain T_V_ shows , or
+and then an alarm from the handset would sound where it was , hopefully in the room .
+and other bits which are gonna wear out with time , or not usable , they might be like be able to put into scrap metal .
+And if there was conversation in the room at the same time ,
+we should definitely go ahead with the alarm system idea that you had .
+the way fluorescent lights lose their brightness after certain time , so
+So if you have all the lights off in your living room , you'll temporarily see it .
+Every time the , that it lit up , you c that could light up as .
 
+the first presentation we'll be looking at is Poppy's presentation .
 which we are all familiar with when we're using a mobile phone , fam familiar .
-Not every , not a hundred percent of everything we produce ,
-One thing we have to consider is our one hundred percent turnover goal that we have for our financial sector .
-, hence our motto , we put the fashion in electronics .
-, and we should also be looking to trends in clothing and interior design . Not just in electronic fashion .
-, we should be looking towards trends in both clothing and interior design .
-Any trends that are going on in , in the public , even media ,
-Seeing as ninety percent , over ninety percent would pay for it .
-Complicated jus complicating things even fo .
-It's probably R_ R_R_ in yellow .
-the same signal through that and it could just like make a little beeping noise .
+Does anyone object and , and find the multifunctional might be a better way to go ?
+because we're trying to do so much , that if we're trying to make a unique , user-friendly , dadada , and it's also multi also multifunctional , , we're gonna go over budget for one thing .
+are you ready for your presentation Genevieve ?
+And how important the users find them .
+A large percentage of the public would pay for voice recognition on the remote controls .
+So , voice recognition might be a little too extreme for us .
+so in my opinion it should be , , user-friendly and unique .
+, I th myself , voice recognition scares me off .
+, , a sixteen year old boy would say , I'd pay extra for voice recognition , until they realise that's three months allowance .
 Or vibrate just the same as a mobile phone .
-Like it could be blue or green or yellow ,
 Like you can have changeable mobile covers .
+
+I , I only , , received my emails later on . I was too busy carried away doing my own thing ,
+So we believe in providing international market with fashionable products .
+, hence our motto , we put the fashion in electronics .
+Any trends that are going on in , in the public , even media ,
+Like the internet you can send emails and You've no interaction .
+teletext at your fingers , without having to access that through the television .
+Before we go into more discussion on we want this design to look like , I've received some information from the management that will affect some of our decisions .
+Another thing that might affect other decisions is that the management feels that teletext is outdated , because more people are using the internet now .
+And so we won't concern ourselves with navigating the teletext option .
+Were they , was the management suggesting use of the internet rather than teletext , or just avoiding both altogether ?
+but another thing is that if we're reaching an international crowd , , I know for one that in North America there is no such thing as teletext , so it'd be really superfluous .
+And also y , Heather you mentioned before , like how it should be accessible to everybody .
+that completes most of our our more practical decisions .
+, it , you , you mentioned face plates .
+So if there's something that diff , like five different face plates .
 
 welcome back fro to the second meeting .
 and Being hooked up to the PowerPoint for this meeting isn't very necessary for myself ,
 because it'll be more about , what you guys are bringing to the meeting today .
-the first presentation we'll be looking at is Poppy's presentation .
 , on a functional side of things , we found out that wh from our previous meeting , we decided that there're certain points that will make our product unique .
 , another thing we d missed out on the last meeting was the fact that we should consider the environmental impact of our design .
-Something like the case , if it's scratched , you would want to reuse it , but you might be able to melt it down and reuse it again somewhere else .
 , we'll have to see if that can meet our financial goals as .
-are you ready for your presentation Genevieve ?
 , if you all remember from the email we got before our very first kick-off meeting , with the coffee machine ?
-Repetitive strain injury .
-, and finally , whoops , my personal preferences and thoughts .
-, so , the older generations we should be catering to a bit more .
-but for the purposes of this meeting I , I wasn't offered a , like a type of logo or colour ,
 I missed the last moment , reading that .
-or like we've just limited t with the , just ordinary phosphorescent so
 Like a Bart Simpson faceplate .
 , the environmental factor , we didn't bring that up again .
 
@@ -265,10 +266,9 @@ So , all the individual components could be easily separated , and then some cou
 This , , self-destructible metal , it allows for recycling materials ?
 apart from the , the bits that hold it all together would be made out of this shape-memory alloy .
 , and then the company could then just use , make use of this shape-memory alloys to split up the components ,
-and other bits which are gonna wear out with time , or not usable , they might be like be able to put into scrap metal .
+Something like the case , if it's scratched , you would want to reuse it , but you might be able to melt it down and reuse it again somewhere else .
 the fact of the shape-memory alloys is that they , they don't need to be manually de deconstructed .
 Like , you don't have to individually unscrew all the screws .
 Because of this , their properties are smart material .
-We'll still have to investigate the financial implications .
-Because we need to investigate the financial implications .
+the shape of the numbers is a really good idea .
 

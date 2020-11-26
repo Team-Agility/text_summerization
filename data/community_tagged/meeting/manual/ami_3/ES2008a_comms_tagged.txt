@@ -1,24 +1,23 @@
-we/PRP are/VBP creating/VBG a/DT new/JJ remote/NN control/NN which/WDT we/PRP have/VBP three/CD goals/NNS about/IN ,/PUNCT
-your/PRP$ first/JJ ideas/NNS about/IN creating/VBG a/DT new/JJ r/NN remote/NN control/NN ,/PUNCT
-
-I'm/NNP hoping/VBG that/IN we/PRP can/MD all/DT work/VB together/RB to/TO achieve/VB all/DT three/CD of/IN those/DT ./PUNCT
 and/CC that's/VB if/IN we're/JJ gonna/NNS make/VBP a/DT remote/JJ control/NN ,/PUNCT it/PRP should/MD actually/RB work/VB for/IN what/WP it's/NN doing/VBG ./PUNCT
 but/CC that/DT just/RB has/VBZ your/PRP$ major/JJ buttons/NNS for/IN that/DT work/NN for/IN everything/NN ,/PUNCT volume/NN control/NN ,/PUNCT on/IN ,/PUNCT off/RB ,/PUNCT
 
-but/CC not/RB necessarily/RB on/IN the/DT m/NN the/DT normal/JJ remote/NN ./PUNCT
+are/VBP we/PRP designing/VBG a/DT remote/JJ control/NN for/IN a/DT television/NN only/RB
+,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
+So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
+
+we/PRP are/VBP creating/VBG a/DT new/JJ remote/NN control/NN which/WDT we/PRP have/VBP three/CD goals/NNS about/IN ,/PUNCT
+your/PRP$ first/JJ ideas/NNS about/IN creating/VBG a/DT new/JJ r/NN remote/NN control/NN ,/PUNCT
 
 I've/NNP used/VBD ,/PUNCT I've/NNP used/VBD remote/NN controls/NNS ,/PUNCT for/IN things/NNS like/IN T_V_/NNP and/CC the/DT C_D_/NNP player/NN and/CC video/NN recorder/NN
 especially/RB ,/PUNCT like/IN if/IN I'm/NNP watching/VBG T_V_/NNP I/PRP have/VBP to/TO have/VB three/CD separate/JJ remote/NN controls/NNS of/IN in/IN front/NN of/IN me/PRP ,/PUNCT ,/PUNCT one/CD for/IN the/DT T_V_/NNP ,/PUNCT one/CD for/IN the/DT digital/JJ box/NN ,/PUNCT one/CD for/IN m/NN the/DT video/NN recorder/NN as/IN ./PUNCT ./PUNCT
 
-and/CC because/IN this/DT is/VBZ such/JJ this/DT is/VBZ for/IN television/NN it's/NN a/DT we/PRP have/VBP a/DT market/NN range/NN of/IN Internet/NNP ,/PUNCT like/IN it's/NN an/DT international/JJ market/NN range/NN ,/PUNCT
-are/VBP we/PRP designing/VBG a/DT remote/JJ control/NN for/IN a/DT television/NN only/RB
-or/CC should/MD we/PRP just/RB stick/VB to/TO having/VBG television/NN related/VBN buttons/NNS on/IN it/PRP ?/PUNCT
-,/PUNCT if/IN it/PRP if/IN we're/NN taking/VBG it/PRP just/RB new/JJ product/NN a/DT new/JJ television/NN remote/NN control/NN that's/VBZ not/RB like/JJ doesn't/NNS say/VBP ./PUNCT
-So/IN we/PRP should/MD maybe/RB we/PRP should/MD assume/VB that/IN i/JJ t/VBP it's/NN just/RB a/DT television/NN that/IN we're/VBZ wanting/VBG to/TO control/VB ./PUNCT
-
 and/CC I/PRP I'm/VBP the/DT Industrial/NNP Designer/NNP on/IN this/DT project/NN ./PUNCT
 and/CC I'm/NNP the/DT User/NNP Interface/NNP Designer/NNP for/IN the/DT project/NN ./PUNCT ./PUNCT
 the/DT industrial/JJ design/NN ,/PUNCT Alima/NNP will/MD be/VB doing/VBG the/DT working/VBG design/NN ./PUNCT
+
+My/PRP$ dad/NN has/VBZ a/DT whole/JJ drawer/NN at/IN home/NN of/IN remotes/NNS for/IN various/JJ things/NNS ,/PUNCT
+it/PRP seems/VBZ we/PRP have/VBP a/DT little/JJ bit/NN of/IN a/DT conflict/NN over/IN to/TO combining/VBG all/PDT the/DT remotes/NNS cont/VBP together/RB versus/IN having/VBG f/JJ five/CD different/JJ remotes/NNS ./PUNCT
+but/CC not/RB necessarily/RB on/IN the/DT m/NN the/DT normal/JJ remote/NN ./PUNCT
 
 I/PRP hate/VBP when/WRB there's/NNS like/IN four/CD different/JJ buttons/NNS and/CC you/PRP have/VBP to/TO press/VB to/TO actually/RB turn/VB on/IN the/DT T_V_/NNP
 so/RB i/JJ it's/NN just/RB simpler/RB just/RB to/TO just/RB turn/VB around/RP the/DT T_V_/NNP itself/PRP ,/PUNCT
@@ -40,25 +39,27 @@ like/IN are/VBP there/EX some/DT remotes/NNS that/IN don't/VBP require/VB like/I
 or/CC do/VB all/DT remotes/NNS require/VBP batteries/NNS ?/PUNCT
 like/IN tho/NNS those/DT are/VBP the/DT batteries/NNS that/WDT are/VBP used/VBN in/IN a/DT lot/NN of/IN M_P_/NNP three/CD players/NNS now/RB and/CC that/IN thing/NN ./PUNCT ./PUNCT
 
-My/PRP$ dad/NN has/VBZ a/DT whole/JJ drawer/NN at/IN home/NN of/IN remotes/NNS for/IN various/JJ things/NNS ,/PUNCT
-it/PRP seems/VBZ we/PRP have/VBP a/DT little/JJ bit/NN of/IN a/DT conflict/NN over/IN to/TO combining/VBG all/PDT the/DT remotes/NNS cont/VBP together/RB versus/IN having/VBG f/JJ five/CD different/JJ remotes/NNS ./PUNCT
-
 so/RB maybe/RB have/VBP like/IN one/CD remote/NN that/WDT has/VBZ the/DT main/JJ functions/NNS on/IN ,/PUNCT off/RB ,/PUNCT channel/NNS changing/VBG ,/PUNCT volume/NN ,/PUNCT and/CC another/DT rote/NN remote/NN with/IN all/PDT the/DT special/JJ things/NNS ./PUNCT
 you're/NN gonna/NN m/NNS need/VBP those/DT special/JJ functions/NNS occasionally/RB ./PUNCT
 
 And/CC then/RB we'll/VB move/NN into/IN the/DT project/NN plan/NN ,/PUNCT
-And/CC one/CD thing/NN I/PRP particularly/RB like/VBP is/VBZ if/IN you/PRP are/VBP not/RB moving/VBG it/PRP around/IN to/TO get/VB it/PRP to/TO work/VB with/IN the/DT infra-red/JJ ./PUNCT
-
-and/CC then/RB draw/VB your/PRP$ favourite/NN animal/NN
-I'm/NNP supposed/VBD to/TO draw/VB my/PRP$ favourite/JJ animal/NN ./PUNCT
-And/CC I'll/NNP try/NN and/CC draw/VB my/PRP$ favourite/JJ animal/NN ./PUNCT
-
 and/CC I'm/NNP Project/NNP Manager/NNP ,/PUNCT from/IN California/NNP ./PUNCT
 We're/NNP gonna/NN talk/NN about/IN project/NN finances/NNS ./PUNCT
+
+I'm/NNP hoping/VBG that/IN we/PRP can/MD all/DT work/VB together/RB to/TO achieve/VB all/DT three/CD of/IN those/DT ./PUNCT
+And/CC one/CD thing/NN I/PRP particularly/RB like/VBP is/VBZ if/IN you/PRP are/VBP not/RB moving/VBG it/PRP around/IN to/TO get/VB it/PRP to/TO work/VB with/IN the/DT infra-red/JJ ./PUNCT
+
+and/CC because/IN this/DT is/VBZ such/JJ this/DT is/VBZ for/IN television/NN it's/NN a/DT we/PRP have/VBP a/DT market/NN range/NN of/IN Internet/NNP ,/PUNCT like/IN it's/NN an/DT international/JJ market/NN range/NN ,/PUNCT
+or/CC should/MD we/PRP just/RB stick/VB to/TO having/VBG television/NN related/VBN buttons/NNS on/IN it/PRP ?/PUNCT
 
 I'm/NNP just/RB gonna/RB have/VBP a/DT little/JJ PowerPoint/NNP presentation/NN for/IN us/PRP ,/PUNCT for/IN our/PRP$ kick-off/JJ meeting/NN ./PUNCT
 the/DT conceptional/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ,/PUNCT
 and/CC then/RB the/DT detailed/JJ design/NN ,/PUNCT individual/JJ work/NN and/CC a/DT meeting/NN ./PUNCT
+
+and/CC then/RB draw/VB your/PRP$ favourite/NN animal/NN
+I'm/NNP supposed/VBD to/TO draw/VB my/PRP$ favourite/JJ animal/NN ./PUNCT
+I/PRP have/VBP no/DT drawing/VBG skills/NNS whatsoever/RB ./PUNCT
+And/CC I'll/NNP try/NN and/CC draw/VB my/PRP$ favourite/JJ animal/NN ./PUNCT
 
 sounds/NNS like/IN we've/NN had/VBD a/DT good/JJ little/JJ discussion/NN for/IN our/PRP$ first/JJ ideas/NNS ./PUNCT
 so/IN we/PRP can/MD continue/VB discussing/VBG more/JJR new/JJ ideas/NNS if/IN you'd/NNS like/IN ,/PUNCT
@@ -76,8 +77,6 @@ user/NN requirements/NNS ,/PUNCT so/IN you'll/RB be/VB hearing/VBG about/IN diff
 A_/NNP L_/NNP I_/NNP M_/NNP A_/NNP ./PUNCT
 that/DT would/MD last/JJ a/DT lot/NN longer/JJR than/IN like/IN double/JJ A_s/NNP ./PUNCT
 
-I/PRP have/VBP no/DT drawing/VBG skills/NNS whatsoever/RB ./PUNCT
-
 I'm/NNP really/RB excited/VBD to/TO start/VB this/DT team/NN ./PUNCT
 what/WP we're/VBD gonna/JJ do/NN is/VBZ start/VB off/IN with/IN let's/JJ start/VBP off/RP with/IN Amina/NNP ./PUNCT
 
@@ -89,6 +88,8 @@ and/CC I/PRP they're/VBP pretty/RB neat/JJ little/JJ tools/NNS ./PUNCT
 
 we'd/NNS like/IN to/TO sell/VB it/PRP for/IN about/IN twenty/NN five/CD Euro/NNP with/IN the/DT profit/NN aim/NN of/IN fifteen/JJ million/CD Euro/NNP from/IN our/PRP$ sales/NNS
 in/IN order/NN to/TO make/VB a/DT profit/NN of/IN this/DT magnitude/NN ,/PUNCT we/PRP need/VBP to/TO be/VB able/JJ to/TO produce/VB each/DT one/CD at/IN a/DT maximum/NN of/IN twelve/NN fifty/NN Euro/NNP ./PUNCT
+
+I'm/NN from/IN around/IN D_C_/NNP ish/NN in/IN the/DT U_S_/NNP ./PUNCT
 
 I/PRP feel/VBP like/IN you/PRP end/VBP up/RP with/IN multimedia/NN overload/NN ./PUNCT
 
@@ -102,7 +103,6 @@ it/PRP needs/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ and/CC user-friendly/
 
 so/RB we're/JJ gonna/NN divide/NN us/PRP up/RP into/IN three/CD compa/NNS three/CD parts/NNS ./PUNCT
 
-I'm/NN from/IN around/IN D_C_/NNP ish/NN in/IN the/DT U_S_/NNP ./PUNCT
 And/CC you/PRP will/MD get/VB specific/JJ instructions/NNS sent/VBN by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
 
 Just/RB make/VB you/PRP keep/VB checking/VBG the/DT company/NN web/VBZ site/NN and/CC the/DT emails/NNS ./PUNCT

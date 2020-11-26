@@ -22,13 +22,10 @@ Three/CD different/JJ types/NNS of/IN design/NN that/WDT we're/VBZ gonna/JJ be/V
 and/CC my/PRP$ responsibilities/NNS are/VBP deal/NN with/IN the/DT technical-functional/JJ designs/NNS
 
 After/IN we've/NN finished/VBD the/DT remote/JJ control/NN we'll/NN get/VB to/TO that/DT ./PUNCT
-Like/IN the/DT remote/NN control/NN which/WDT we/PRP use/VBP for/IN T_V_/NNP ,/PUNCT it/PRP shou/VBD it/PRP should/MD be/VB used/VBN f/NN for/IN some/DT other/JJ purpose/NN also/RB ,/PUNCT like/IN controlling/VBG the/DT temperature/NN inside/IN the/DT house/NN or/CC for/IN air-conditioners/NNS ,/PUNCT or/CC for/IN heating/VBG system/NN ./PUNCT
-And/CC and/CC they/PRP suddenly/RB the/DT phone/NN rings/NNS and/CC they/PRP want/VBP to/TO turn/VB the/DT T_V_/NNP off/NN and/CC they/PRP say/VBP ,/PUNCT where/WRB the/DT hell/NN is/VBZ my/PRP$ remote/JJ control/NN ?/PUNCT
+now/RB having/VBG used/VBN a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN it/PRP ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO change/VB ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN
 
 the/DT main/JJ responsibility/NN is/VBZ user/JJ interface/NN ./PUNCT
 and/CC specifications/NNS of/IN user/JJ interface/NN and/CC dealing/VBG with/IN user/JJ interface/NN design/NN ./PUNCT
-
-now/RB having/VBG used/VBN a/DT remote/JJ control/NN for/IN years/NNS does/VBZ anybody/NN already/RB have/VBP like/IN an/DT idea/NN like/IN things/NNS you/PRP didn't/VBP like/IN with/IN it/PRP ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO change/VB ,/PUNCT things/NNS you/PRP would/MD like/VB to/TO improve/VB with/IN this/DT thing/NN
 
 That/DT is/VBZ it's/JJ gonna/NN be/VB individual/JJ work/NN and/CC then/RB at/IN the/DT meeting/NN we'll/JJ discuss/NN what/WP we/PRP have/VBP come/VBN up/RP with/IN ./PUNCT
 there/EX will/MD be/VB individual/JJ work/NN whic/NN and/CC then/RB discussion/NN afterwards/NNS ./PUNCT
@@ -48,6 +45,9 @@ and/CC voice/NN or/CC clapping/VBG it's/NN not/RB specific/JJ enough/RB ./PUNCT
 like/IN friendliness/NN ,/PUNCT and/CC what/WP we/PRP just/RB discussed/VBN in/IN general/JJ ./PUNCT
 
 or/CC or/CC if/IN it's/JJ really/RB ,/PUNCT if/IN it's/VBN really/RB in/IN a/DT dark/JJ spot/NN that/IN it/PRP gives/VBZ out/RP a/DT sound/NN or/CC a/DT signal/NN ./PUNCT
+
+Like/IN the/DT remote/NN control/NN which/WDT we/PRP use/VBP for/IN T_V_/NNP ,/PUNCT it/PRP shou/VBD it/PRP should/MD be/VB used/VBN f/NN for/IN some/DT other/JJ purpose/NN also/RB ,/PUNCT like/IN controlling/VBG the/DT temperature/NN inside/IN the/DT house/NN or/CC for/IN air-conditioners/NNS ,/PUNCT or/CC for/IN heating/VBG system/NN ./PUNCT
+And/CC and/CC they/PRP suddenly/RB the/DT phone/NN rings/NNS and/CC they/PRP want/VBP to/TO turn/VB the/DT T_V_/NNP off/NN and/CC they/PRP say/VBP ,/PUNCT where/WRB the/DT hell/NN is/VBZ my/PRP$ remote/JJ control/NN ?/PUNCT
 
 If/IN lost/VBN signal/NN with/IN b/NN throw/NN signal/NN ,/PUNCT ./PUNCT
 
@@ -97,9 +97,9 @@ I/PRP hope/VBP the/DT kitty/JJ cat/NN is/VBZ hungry/JJ I/PRP don't/VBP like/IN s
 
 to/TO materials/NNS ,/PUNCT cost/NN ,/PUNCT etcetera/NN ./PUNCT
 
-But/CC it/PRP could/MD be/VB someplace/VBN really/RB obvious/JJ and/CC you/PRP still/RB wouldn't/VBP be/VB able/JJ to/TO find/VB it/PRP ./PUNCT
-
 I/PRP exp/VBP I/PRP s/VBP we/PRP use/VBP 'em/PRP we/PRP use/VBP 'em/PRP ,/PUNCT right/RB ,/PUNCT everyday/RB ./PUNCT
+
+But/CC it/PRP could/MD be/VB someplace/VBN really/RB obvious/JJ and/CC you/PRP still/RB wouldn't/VBP be/VB able/JJ to/TO find/VB it/PRP ./PUNCT
 
 ,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
 

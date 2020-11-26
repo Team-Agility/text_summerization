@@ -45,9 +45,9 @@ should/MD be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT and/CC ,/PUNCT ,/PUNCT use
 In/IN in/IN that/DT moment/NN it/PRP has/VBZ a/DT sensor/NN ,/PUNCT i/VB it/PRP gets/VBZ a/DT certain/JJ darkness/NN ,/PUNCT it/PRP ge/VBZ has/VBZ a/DT sensor/NN and/CC it/PRP gives/VBZ out/RP a/DT signal/NN whether/IN that/DT be/VB a/DT light/JJ signal/NN or/CC a/DT beep/NN ,/PUNCT
 So/IN the/DT light/NN sensor/NN would/MD activate/VB the/DT signal/NN ./PUNCT
 
-like/IN friendliness/NN ,/PUNCT and/CC what/WP we/PRP just/RB discussed/VBN in/IN general/JJ ./PUNCT
-
 and/CC voice/NN or/CC clapping/VBG it's/NN not/RB specific/JJ enough/RB ./PUNCT
+
+like/IN friendliness/NN ,/PUNCT and/CC what/WP we/PRP just/RB discussed/VBN in/IN general/JJ ./PUNCT
 
 or/CC or/CC if/IN it's/JJ really/RB ,/PUNCT if/IN it's/VBN really/RB in/IN a/DT dark/JJ spot/NN that/IN it/PRP gives/VBZ out/RP a/DT sound/NN or/CC a/DT signal/NN ./PUNCT
 
@@ -107,19 +107,19 @@ to/TO materials/NNS ,/PUNCT cost/NN ,/PUNCT etcetera/NN ./PUNCT
 
 I/PRP exp/VBP I/PRP s/VBP we/PRP use/VBP 'em/PRP we/PRP use/VBP 'em/PRP ,/PUNCT right/RB ,/PUNCT everyday/RB ./PUNCT
 
-,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
-
 But/CC it/PRP could/MD be/VB someplace/VBN really/RB obvious/JJ and/CC you/PRP still/RB wouldn't/VBP be/VB able/JJ to/TO find/VB it/PRP ./PUNCT
 
-like/IN kidney/NN shape/NN feels/NNS better/RBR in/IN your/PRP$ hand/NN ,/PUNCT ./PUNCT
+,/PUNCT i/NN if/IN it/PRP were/VBD like/JJ on/IN top/NN of/IN your/PRP$ bookcase/NN and/CC you/PRP usually/RB kept/VBD it/PRP on/IN the/DT coffee/NN table/NN
 
 participant/NN can/MD draw/VB their/PRP$ favourite/JJ animal/NN ./PUNCT
 
+like/IN kidney/NN shape/NN feels/NNS better/RBR in/IN your/PRP$ hand/NN ,/PUNCT ./PUNCT
+
 ,/PUNCT because/IN you're/NN s/NN because/IN you're/NN silly/RB ./PUNCT Because/IN people/NNS are/VBP silly/RB ./PUNCT
 
-because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS lose/VBP them/PRP ./PUNCT They/PRP can't/VBP find/VB it/PRP ./PUNCT
-
 Fat/NNP ,/PUNCT a/DT fat/JJ cat/NN ./PUNCT
+
+because/IN one/CD of/IN the/DT big/JJ things/NNS that/IN happens/VBZ is/VBZ people/NNS lose/VBP them/PRP ./PUNCT They/PRP can't/VBP find/VB it/PRP ./PUNCT
 
 have/VB more/JJR buttons/NNS on/IN it/PRP or/CC maybe/RB clearly/RB better/RBR marked/JJ buttons/NNS ,/PUNCT ,/PUNCT things/NNS like/IN that/DT ?/PUNCT
 

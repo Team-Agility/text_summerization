@@ -67,9 +67,9 @@ and/CC for/IN that/DT we're/NN going/VBG all/DT to/TO work/VB individually/RB an
 
 I'm/NNP the/DT Project/NNP Manager/NNP Christa/NNP Pavlov/NNP
 
-But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
-
 'tis/CD big/JJ number/NN ./PUNCT
+
+But/CC for/IN standard/JJ actions/NNS you/PRP usually/RB what/WP do/VBP you/PRP do/VB ,/PUNCT you/PRP change/VBP channels/NNS ,/PUNCT you/PRP adjust/VBP volume/NN ,/PUNCT and/CC nothing/NN else/RB ./PUNCT
 
 at/IN least/JJS it/PRP should/MD hold/VB in/IN your/PRP$ hand/NN n/RB properly/RB ,/PUNCT like/IN ./PUNCT
 

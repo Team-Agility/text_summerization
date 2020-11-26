@@ -6,9 +6,10 @@ the/DT User/NNP Interface/NNP Designer/NNP should/MD specify/VB the/DT technical
 
 That/DT are/VBP the/DT basic/JJ options/NNS for/IN a/DT remote/JJ control/NN ./PUNCT
 
+we're/NN work/NN we're/NN working/VBG from/IN top/JJ to/TO bottom/VB ./PUNCT functional/JJ design/NN ,/PUNCT
+
 and/CC we/PRP can/MD interview/NN current/JJ users/NNS and/CC future/JJ users/NNS ./PUNCT What/WP w/VBD what/WP would/MD they/PRP like/VB to/TO see/VB on/IN a/DT new/JJ remote/NN control/NN ?/PUNCT especially/RB for/IN future/JJ users/NNS ,/PUNCT
 
-we're/NN work/NN we're/NN working/VBG from/IN top/JJ to/TO bottom/VB ./PUNCT functional/JJ design/NN ,/PUNCT
 this/DT industrati/JJ Industrial/NNP Designer/NNP should/MD produce/VB a/DT working/JJ design/NN ./PUNCT
 I/PRP had/VBD to/TO focus/VB on/IN the/DT working/VBG design/NN ,/PUNCT which/WDT you/PRP said/VBD ./PUNCT
 the/DT use/NN of/IN the/DT Industrial/NNP Designer/NNP can/MD work/VB on/IN the/DT working/VBG design/NN ,/PUNCT etcetera/NN ./PUNCT
@@ -94,8 +95,6 @@ that's/NN quite/PDT a/DT big/JJ amount/NN of/IN money/NN ./PUNCT
 
 Can/MD you/PRP use/VB one/CD blank/JJ sheet/NN per/IN drawing/VBG ?/PUNCT Or/CC
 
-that's/VB both/DT original/JJ ,/PUNCT trendy/JJ and/CC user-friendly/JJ ./PUNCT
-
 And/CC for/IN the/DT changing/VBG up/RP to/TO the/DT to/TO all/PDT the/DT channels/NNS and/CC changing/VBG the/DT volume/NN ./PUNCT
 ,/PUNCT you/PRP wanna/VBP ch/JJ flip/VBP the/DT channel/NN
 
@@ -103,11 +102,12 @@ we/PRP have/VBP a/DT financial/JJ aspect/NN to/TO this/DT project/NN ./PUNCT
 
 according/VBG to/TO the/DT coffee/NN machine/NN example/NN ,/PUNCT I/PRP have/VBP batteries/NNS to/TO supply/VB energy/NN ,/PUNCT
 
-they're/NN cute/NN ,/PUNCT they're/JJ independent/JJ and/CC cuddly/RB ,/PUNCT
-
+that's/VB both/DT original/JJ ,/PUNCT trendy/JJ and/CC user-friendly/JJ ./PUNCT
 that's/VB a/DT fr/NN friendly/JJ turtle/NN I/PRP ./PUNCT
 
-They/PRP l/VBP look/VBP like/IN mole/NN legs/NNS ./PUNCT With/IN sharp/JJ nails/NNS on/IN ./PUNCT
+they're/NN cute/NN ,/PUNCT they're/JJ independent/JJ and/CC cuddly/RB ,/PUNCT
 
 we/PRP have/VBP available/JJ the/DT smart/JJ board/NN and/CC the/DT whiteboard/NN ./PUNCT
+
+They/PRP l/VBP look/VBP like/IN mole/NN legs/NNS ./PUNCT With/IN sharp/JJ nails/NNS on/IN ./PUNCT
 

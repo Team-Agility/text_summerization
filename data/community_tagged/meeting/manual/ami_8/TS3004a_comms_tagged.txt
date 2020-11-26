@@ -3,15 +3,13 @@ so/RB a/DT lot/NN of/IN buttons/NNS on/IN the/DT remote/JJ control/NN ./PUNCT
 we/PRP just/RB say/VBP that's/JJ universal/JJ remote/VB control/NN ./PUNCT
 
 first/RB we/PRP have/VBP three/CD steps/NNS of/IN making/VBG the/DT remote/JJ control/NN ./PUNCT
+Why/WRB should/MD you/PRP use/VB a/DT touchscreen/NN on/IN a/DT remote/JJ control/NN ?/PUNCT
+You/PRP can/MD put/VB games/NNS on/IN your/PRP$ remote/NN control/NN ./PUNCT Whatever/WDT ./PUNCT
+So/IN it/PRP doesn't/VBZ matter/RBR what/WP place/NN it/PRP is/VBZ on/IN the/DT remote/JJ control/NN ,/PUNCT
 
 So/RB maybe/RB we/PRP have/VBP to/TO keep/VB it/PRP like/IN a/DT square/NN ,/PUNCT just/RB normal/JJ remote/JJ control/NN ./PUNCT
 
 And/CC we/PRP have/VBP to/TO look/VB what/WP the/DT market/NN is/VBZ doing/VBG for/IN what/WP remote/NN controls/NNS are/VBP in/IN the/DT market/NN ./PUNCT
-
-we're/NN gonna/NNS have/VBP a/DT little/JJ discussion/NN about/IN what/WP experience/NN are/VBP with/IN a/DT remote/JJ control/NN the/DT and/CC everything/NN ,/PUNCT
-Why/WRB should/MD you/PRP use/VB a/DT touchscreen/NN on/IN a/DT remote/JJ control/NN ?/PUNCT
-You/PRP can/MD put/VB games/NNS on/IN your/PRP$ remote/NN control/NN ./PUNCT Whatever/WDT ./PUNCT
-So/IN it/PRP doesn't/VBZ matter/RBR what/WP place/NN it/PRP is/VBZ on/IN the/DT remote/JJ control/NN ,/PUNCT
 
 does/VBZ it/PRP has/VBZ to/TO b/VB have/VB to/TO be/VB like/IN a/DT different/JJ form/NN than/IN a/DT normal/JJ remote/NN control/NN
 
@@ -20,6 +18,8 @@ what/WP we/PRP know/VBP is/VBZ that/IN we/PRP have/VBP to/TO sell/VB this/DT rem
 my/PRP$ first/JJ question/NN was/VBD does/VBZ it/PRP have/VB to/TO be/VB a/DT universal/JJ remote/NN control/NN ?/PUNCT
 
 And/CC we/PRP have/VBP to/TO care/VB for/IN the/DT strength/NN of/IN the/DT remote/JJ control/NN ,/PUNCT
+
+we're/NN gonna/NNS have/VBP a/DT little/JJ discussion/NN about/IN what/WP experience/NN are/VBP with/IN a/DT remote/JJ control/NN the/DT and/CC everything/NN ,/PUNCT
 
 ./PUNCT If/IN you/PRP if/IN you/PRP make/VBP to/TO fold/VB open/JJ it's/NN or/CC also/RB an/DT the/DT strength/NN is/VBZ not/RB s/JJ as/RB good/JJ as/IN a/DT normal/JJ remote/NN control/NN ./PUNCT
 
@@ -78,9 +78,9 @@ can/MD someone/NN make/VB a/DT calculation/NN about/IN how/WRB many/JJ we/PRP ha
 
 maybe/RB it's/JJ very/RB hard/JJ to/TO make/VB it/PRP fold/JJ open/JJ and/CC to/TO l/VB look/NN like/IN it's/JJ very/RB
 
-We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
-
 And/CC we/PRP have/VBP to/TO make/VB a/DT profit/NN of/IN fifty/JJ million/CD Euros/NNP ,/PUNCT
+
+We/PRP have/VBP to/TO close/VB this/DT to/TO finish/VB this/DT meeting/NN ,/PUNCT
 
 how/WRB much/JJ is/VBZ your/PRP$ standards/NNS mobile/IN phone/NN recharger/NN ?/PUNCT
 
@@ -94,13 +94,14 @@ The/DT production/NN cost/NN are/VBP about/IN half/PDT the/DT price/NN of/IN sel
 
 Half/NNP past/JJ ten/NN ./PUNCT
 
-but/CC I/PRP what/WP the/DT project/NN projection/NN costs/NNS are/VBP for/IN such/JJ a/DT thing/NN ./PUNCT
-
 For/IN the/DT next/JJ time/NN you/PRP have/VBP to/TO put/VB it/PRP exactly/RB on/IN the/DT square/NN ,/PUNCT so/IN your/PRP$ laptop/NN ./PUNCT
 
 what/WP time/NN did/VBD we/PRP start/VB this/DT meeting/NN ,/PUNCT
 
 And/CC you/PRP already/RB saw/VBD all/DT that/IN you/PRP here/RB can/MD put/VB things/NNS in/IN the/DT red/JJ project/NN map/NN ./PUNCT
+but/CC I/PRP what/WP the/DT project/NN projection/NN costs/NNS are/VBP for/IN such/JJ a/DT thing/NN ./PUNCT
+
+that's/IN the/DT spe/NN the/DT specifications/NNS of/IN the/DT components/NNS and/CC the/DT properties/NNS and/CC the/DT specifications/NNS of/IN the/DT user/JJ interface/NN ./PUNCT
 
 and/CC a/DT lots/JJ lots/NNS of/IN kids/NNS use/VBP it/PRP
 
@@ -111,15 +112,14 @@ Maybe/RB you/PRP should/MD hold/VB your/PRP$ pen/FW a/DT bit/RB more/RBR to/TO t
 
 these/DT pens/NNS would/MD be/VB just/RB you/PRP write/VBP it/PRP down/RP and/CC you/PRP download/VBP it/PRP to/TO Word/NNP ,/PUNCT
 
-it/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT user-friendly/JJ
-that's/IN the/DT spe/NN the/DT specifications/NNS of/IN the/DT components/NNS and/CC the/DT properties/NNS and/CC the/DT specifications/NNS of/IN the/DT user/JJ interface/NN ./PUNCT
-
 but/CC a/DT home/NN station/NN is/VBZ a/DT really/RB good/JJ idea/NN ,/PUNCT
 
 You/PRP have/VBP to/TO draw/VB a/DT favourite/JJ animal/NN on/IN the/DT whiteboard/NN
 but/CC it's/VB an/DT animal/NN that/WDT lives/VBZ in/IN the/DT water/NN ./PUNCT
 
 I/PRP set/VBP something/NN on/IN paper/NN already/RB ,/PUNCT size/NN ,/PUNCT looks/VBZ ,/PUNCT usable/JJ ,/PUNCT
+
+it/PRP has/VBZ to/TO be/VB original/JJ ,/PUNCT trendy/JJ ,/PUNCT user-friendly/JJ
 
 Technical/JJ fun/NN fu/NN
 

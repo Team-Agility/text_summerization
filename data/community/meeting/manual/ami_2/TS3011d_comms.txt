@@ -1,7 +1,3 @@
-The remote control offers enough features .
-If you ask yourself it offers enough features , I don't think it is it has all the features a normal remote has .
-So th this this is a remote control with a very high level of features .
-
 It becomes a very dull remote control , I know .
 but there are two parts in this remote control .
 The feel of the remote control is spongy .
@@ -19,6 +15,11 @@ with the voice recognition feature
 the voice recognition is hard to learn , .
 because those remote controls don't offer voice recognition
 
+The remote control offers enough features .
+If you ask yourself it offers enough features , I don't think it is it has all the features a normal remote has .
+So th this this is a remote control with a very high level of features .
+I missed a feature to easily select a slide and distribute it to the laptops .
+
 And after a while they start to develop some skills in the voice recognition functions ,
 but the voice recognition could add a lot .
 You can add very m much functionality by using the voice recognition mode .
@@ -27,8 +28,15 @@ v with a voice recognition you could add anything you want ,
 we do think it's what if with ease of use , w which prefers the which the customer of the user prefers .
 novice users u use this device as normal users use a c a remote control .
 When you have a more advanced , elaborate user , , such a user really would like to explore all these additional functions .
-But the more advanced functions are probably a bit harder .
+and it's easy to use for both types of users .
 but I an advanced user will find the voice recognition function easy to use ,
+but you c you can just say find and he repeats find .
+
+when this is our only option , we should even consider changing the casing ,
+because there's very little added value in an enhanced case with these dull functions .
+because if we use a double-curved case , we could not use solar .
+Looking at the user needs , we only don't we don't have the double-curved case .
+There are cases in which the outside casing is can be how d how do you prono is moldable .
 
 That's the same as on the top of it with the round button .
 al although by pressing the button for I n two , three seconds , you could also say it you'd disable it with a little beep and
@@ -36,13 +44,13 @@ Push-buttons are buttons are not the most expensive ,
 And a plastic b just plastic buttons , a plas instead of rubber .
 because a regular programmable remote control contains , , really a lot of buttons . At at least forty buttons .
 
-when this is our only option , we should even consider changing the casing ,
-because there's very little added value in an enhanced case with these dull functions .
+But the more advanced functions are probably a bit harder .
+A and the function of filling an an oval or an object .
+
+maybe not all that fancy , but just way more easy basic
+but I agree it's not a fancy high-tech device . Definitely not , no .
 I think it would have been more fancy if we used the titanium housing the casing .
 it could have been more fancy by using the double-curved case . It would have been even more fancy ,
-because if we use a double-curved case , we could not use solar .
-Looking at the user needs , we only don't we don't have the double-curved case .
-There are cases in which the outside casing is can be how d how do you prono is moldable .
 
 That's the basic idea , . Of our prototype .
 ease of use does not only apply to the most basic functions .
@@ -52,25 +60,17 @@ the basic layout doesn't offem offer much ,
 Although we , but we could still make a remote control that ap applies more to young people
 it is possible to make a device that attracts a little bit more to young people .
 
-it's w way above above the twelve Euro fifty .
-if you look at the w what we could do to make it more to make it just between the twelve Euro fifty ,
-And costs were twelve fifty .
-
-maybe not all that fancy , but just way more easy basic
-and it's easy to use for both types of users .
-but you c you can just say find and he repeats find .
-that would be very easy if you could say , I want to use this for my own work or my own presentation further on
-if you save this image , you can open it in your shared work folder .
-
 grey or black like that . Whatever cost the least .
 but do add extra cost .
+But even now , if only our production costs w were exceeded the double ,
+Think . Production cost was were t was twenty two ?
 I kn I know from a few years ago , it costed hundred Gilders .
 But w we weren't aware of the prices of the costs .
 
-th this is device which has a learning curve .
-but I agree it's not a fancy high-tech device . Definitely not , no .
-So you could enter any comment you like , as long it's able to as long as our device is able to reproduce the infrared signal .
-But whether or not our clients are willing to pay twenty five Euros for this device is doub is , is not .
+it's w way above above the twelve Euro fifty .
+if you look at the w what we could do to make it more to make it just between the twelve Euro fifty ,
+Twelve Euro forty cents I came up with by leaving out the solar cells ,
+And costs were twelve fifty .
 
 They n they need to understand what how to change channels and change the volume ,
 you could use two of them to programme the channels on the two channel button ,
@@ -78,10 +78,9 @@ you have to assign two channel new channels .
 the most important function is easy to use . The the zapping , channel switching , volume .
 Maybe you have to programme it once , so to that l respond to a certain word or a certain sentence , something like where are you , and then it will sing I'm here . So something like that .
 
-We do not have the time o now to redesign the product .
-we should not stay too long on this subject because of the time ,
-But even now , if only our production costs w were exceeded the double ,
-Think . Production cost was were t was twenty two ?
+th this is device which has a learning curve .
+So you could enter any comment you like , as long it's able to as long as our device is able to reproduce the infrared signal .
+But whether or not our clients are willing to pay twenty five Euros for this device is doub is , is not .
 
 the price , the number of items and the sum .
 this is what I would call our luxury model .
@@ -91,28 +90,21 @@ th this design is not within our price model .
 Type of m maybe another market segment .
 Because we compare all these characteristics with market with the real market .
 I've we've succe succeed in developing a product that's actually quite good , but not for this market , and not for this price .
-I type faster than I write .
+
+So you're actually promoting Bluetooth . Or blue tongue .
+. That is it's a new feature next to Bluetooth to disable all Bluetooth devices .
+
+Could could I see the scroll bar as as a shortcut ?
+And what makes it very expensive is the solar cell .
+And the scroll wheel . The solar
 
 you thought of some evaluation crit criteria ?
 because if we evaluate it , we can also determine if our objectives are good .
 we are evaluating this design now . This prototype .
-A and the function of filling an an oval or an object .
-
-And what makes it very expensive is the solar cell .
-Twelve Euro forty cents I came up with by leaving out the solar cells ,
-And the scroll wheel . The solar
-It's a giraffe eating a eating leaves from a tree .
+we'll go further on with the rest of the evaluation . About the project itself , not about the product .
 
 So high quality , low acceptance .
 The product is b high qua has a high quality and is advanced .
-
-but we can evaluate the process and the satisfaction on how things went .
-we'll go further on with the rest of the evaluation . About the project itself , not about the product .
-What did you think about the process , the project process ?
-
-just walk through it step by step .
-So you're actually promoting Bluetooth . Or blue tongue .
-. That is it's a new feature next to Bluetooth to disable all Bluetooth devices .
 
 the drawing on the b on the board is r right from the pen .
 The drawing cap capabilities are very limited .
@@ -122,27 +114,35 @@ looking at room for creativity , there was w way too the choice of components wa
 So we could be we could've been creative . But it was tempered by the choice of components and the price .
 We we thought of possibilities who are not possible with the current offer of manufacturing components .
 
-I missed it to be able to contact you in between and say , hey Roo .
-I missed a feature to easily select a slide and distribute it to the laptops .
-Private room , Roo .
+We do not have the time o now to redesign the product .
+we should not stay too long on this subject because of the time ,
+Pop pop up the champagne .
 
-Could could I see the scroll bar as as a shortcut ?
+but we can evaluate the process and the satisfaction on how things went .
+It could have been a little bit more innovative u by using the kinetic energy source ,
 depends on what you implement in the speech feat
+What did you think about the process , the project process ?
+
+but if I would say a three , then it's six , and four is ten . Divided by four is two point five .
+the means , the SMARTboard , the digital pen . Did you like 'em ?
+The p the pointing of the pen is not the place where it writes
+I type faster than I write .
+But it's a great solution for a known problem , writing down some notes , some inf information , and then forgetting your notebook somewhere and losing all that information .
+I only think it's th the shape of the pen is too big .
+
+just walk through it step by step .
+when taken in account the situation , we performed pretty .
+that would be very easy if you could say , I want to use this for my own work or my own presentation further on
+if you save this image , you can open it in your shared work folder .
 
 Because we use spec specic special materials , the last item .
 w what they want wanted was colours and soft materials .
 A simple , dull , one-coloured box .
 
-but if I would say a three , then it's six , and four is ten . Divided by four is two point five .
-the means , the SMARTboard , the digital pen . Did you like 'em ?
-The p the pointing of the pen is not the place where it writes
-But it's a great solution for a known problem , writing down some notes , some inf information , and then forgetting your notebook somewhere and losing all that information .
-I only think it's th the shape of the pen is too big .
-
+I missed it to be able to contact you in between and say , hey Roo .
 It's not quite ergonomic . Eco ergonomic .
-Pop pop up the champagne .
+Private room , Roo .
 
-It could have been a little bit more innovative u by using the kinetic energy source ,
-when taken in account the situation , we performed pretty .
 It it was calibrated just before this meeting . the one before , the third meeting .
+It's a giraffe eating a eating leaves from a tree .
 

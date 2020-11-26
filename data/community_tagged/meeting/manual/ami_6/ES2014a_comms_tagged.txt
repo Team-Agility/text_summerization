@@ -1,11 +1,11 @@
-Experience/NN with/IN remote/JJ control/NN ,/PUNCT first/JJ ideas/NNS ./PUNCT New/NNP remote/NN ./PUNCT
-And/CC sometimes/RB they/PRP remote/VBP controls/NNS defeat/VBP their/PRP$ own/JJ purpose/NN
 Or/CC are/VBP we/PRP just/RB doing/VBG the/DT design/NN of/IN the/DT remote/NN control/NN itself/PRP ,/PUNCT
 
 you/PRP just/RB said/VBD at/IN the/DT start/NN it/PRP was/VBD a/DT television/NN remote/NN control/NN ,/PUNCT
 Television/NNP remote/VB control/NN ./PUNCT
 
 So/IN we/PRP have/VBP the/DT project/NN team/NN ,/PUNCT which/WDT is/VBZ to/TO to/TO come/VB up/RP with/IN a/DT new/JJ r/NN remote/NN control/NN device/NN ./PUNCT
+Experience/NN with/IN remote/JJ control/NN ,/PUNCT first/JJ ideas/NNS ./PUNCT New/NNP remote/NN ./PUNCT
+And/CC sometimes/RB they/PRP remote/VBP controls/NNS defeat/VBP their/PRP$ own/JJ purpose/NN
 
 I/PRP with/IN some/DT remote/JJ controls/NNS the/DT buttons/NNS were/VBD a/DT little/JJ small/JJ
 
@@ -32,9 +32,6 @@ method/NN of/IN doing/VBG this/DT is/VBZ split/VBN up/RP as/IN you/PRP can/MD se
 to/TO help/VB you/PRP folks/VB design/VB our/PRP$ new/JJ model/NN as/IN it/PRP were/VBD ./PUNCT
 For/IN U_I_D_/NNP the/DT technical/JJ functions/NNS design/NN ./PUNCT
 
-So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
-But/CC at/IN this/DT point/NN in/IN time/NN you're/NN right/NN that/WDT shall/MD we/PRP make/VB it/PRP just/RB a/DT T_V_/NNP ./PUNCT
-
 in/IN each/DT of/IN these/DT phases/NNS we'll/VBP be/VB handing/VBG over/IN to/TO yourselves/NNS ,/PUNCT the/DT designers/NNS of/IN this/DT this/DT device/NN ./PUNCT
 we've/NN done/VBN some/DT research/NN about/IN what/WP the/DT cutting/NN edge/NN hand/NN held/VBD devices/NNS are/VBP ,/PUNCT
 
@@ -45,6 +42,10 @@ And/CC I/PRP I'll/NNP try/NN and/CC write/VB up/RP some/DT minutes/NNS of/IN thi
 during/IN the/DT course/NN of/IN our/PRP$ day/NN we/PRP might/MD make/VB decisions/NNS based/VBN on/IN information/NN or/CC meetings/NNS that/WDT would/MD change/VB where/WRB we're/NN going/VBG ./PUNCT
 
 as/IN you/PRP rightly/RB said/VBD ,/PUNCT there's/VBD nothing/NN more/RBR annoying/NN than/IN having/VBG three/CD or/CC four/CD devices/NNS littered/VBD about/IN the/DT about/IN the/DT room/NN ./PUNCT
+
+We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
+So/RB I/PRP we're/VBP looking/VBG at/IN having/VBG a/DT discussion/NN at/IN this/DT point/NN in/IN time/NN
+But/CC at/IN this/DT point/NN in/IN time/NN you're/NN right/NN that/WDT shall/MD we/PRP make/VB it/PRP just/RB a/DT T_V_/NNP ./PUNCT
 
 And/CC so/RB depending/VBG what/WP the/DT the/DT overhead/JJ costs/NNS are/VBP will/MD determine/VB how/WRB many/JJ units/NNS we're/VBP looking/VBG to/TO sell/VB or/CC projecting/VBG to/TO sell/VB at/IN this/DT point/NN in/IN time/NN ./PUNCT
 
@@ -57,15 +58,12 @@ So/RB if/IN you've/NNS got/VBD a/DT combined/JJ system/NN ,/PUNCT it/PRP could/M
 
 Marketing/NN ,/PUNCT the/DT user/NN requirement/NN specification/NN ./PUNCT
 
+So/RB it's/JJ possible/JJ that/IN we/PRP could/MD devise/VB a/DT system/NN where/WRB you're/RB holding/VBG a/DT miniature/NN computer/NN which/WDT is/VBZ controlling/VBG all/DT your/PRP$ your/PRP$ television/NN ,/PUNCT your/PRP$ stereo/NN ,/PUNCT
+
 And/CC having/VBG meetings/NNS so/RB that/IN we/PRP can/MD during/IN the/DT course/NN of/IN the/DT day/NN come/VB up/RP with/IN a/DT better/JJR inst/NN implement/NN than/IN we/PRP had/VBD before/IN ./PUNCT
 And/CC therefore/RB have/VBP a/DT successful/JJ conclusion/NN to/TO the/DT day/NN ./PUNCT
 
 one/CD of/IN the/DT things/NNS we/PRP found/VBD from/IN the/DT market/NN research/NN is/VBZ that/IN people/NNS often/RB get/VBP confused/VBN by/IN the/DT number/NN of/IN buttons/NNS on/IN them/PRP as/IN ./PUNCT
-
-We've/NNP had/VBD more/JJR time/NN to/TO prepare/VB over/IN this/DT side/NN ,/PUNCT
-
-That's/NNP that's/NN maybe/RB something/NN for/IN the/DT future/NN when/WRB you/PRP can/MD talk/VB to/TO your/PRP$ television/NN ,/PUNCT but/CC
-So/RB it's/JJ possible/JJ that/IN we/PRP could/MD devise/VB a/DT system/NN where/WRB you're/RB holding/VBG a/DT miniature/NN computer/NN which/WDT is/VBZ controlling/VBG all/DT your/PRP$ your/PRP$ television/NN ,/PUNCT your/PRP$ stereo/NN ,/PUNCT
 
 Work/NN has/VBZ been/VBN done/VBN on/IN this/DT project/NN where/WRB by/IN twenty/NN five/CD Euros/NNP is/VBZ the/DT expected/JJ selling/NN price/NN ./PUNCT
 
@@ -73,6 +71,8 @@ and/CC therefore/RB to/TO to/TO get/VB a/DT bigger/JJR market/NN share/NN and/CC
 That/DT information/NN has/VBZ come/VBN from/IN our/PRP$ marketing/NN manager/NN here/RB ./PUNCT
 
 we/PRP have/VBP the/DT starting/NN base/NN was/VBD the/DT original/JJ which/WDT has/VBZ been/VBN in/IN existence/NN now/RB for/IN a/DT period/NN of/IN time/NN ./PUNCT
+
+That's/NNP that's/NN maybe/RB something/NN for/IN the/DT future/NN when/WRB you/PRP can/MD talk/VB to/TO your/PRP$ television/NN ,/PUNCT but/CC
 
 and/CC change/VB the/DT water/NN every/DT couple/NN of/IN months/NNS ,/PUNCT
 So/RB whereas/RB in/IN the/DT past/JJ you'd/NN have/VBP to/TO get/VB up/RP to/TO change/VB the/DT channel/NN ,/PUNCT

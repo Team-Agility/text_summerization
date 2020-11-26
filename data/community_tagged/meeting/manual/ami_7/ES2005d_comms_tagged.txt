@@ -2,15 +2,17 @@ because/IN whatever/WDT companies/NNS they/PRP launch/VBP their/PRP$ products/NN
 this/DT also/RB like/IN whether/IN it/PRP will/MD be/VB fashionable/JJ to/TO have/VB these/DT products/NNS in/IN the/DT as/IN a/DT fruit/NN shape/NN ./PUNCT
 like/IN ,/PUNCT these/DT products/NNS are/VBP in/IN fruit/NN shape/NN ,/PUNCT
 
-like/IN ,/PUNCT this/DT product/NN me/PRP me/PRP this/DT meets/VBZ all/DT company/NN strategy/NN
-
 We/PRP will/MD give/VB the/DT rating/NN to/TO this/DT product/NN based/VBN on/IN the/DT user/NN requirements/NNS ,/PUNCT whether/IN it/PRP meets/VBZ the/DT user/NN requirements/NNS or/CC not/RB ,/PUNCT this/DT product/NN ./PUNCT
 So/IN we/PRP will/MD see/VB whether/IN this/DT product/NN meets/VBZ all/DT user/NN requirements/NNS or/CC not/RB ./PUNCT
 what/WP do/VBP you/PRP think/VB whether/IN it/PRP meets/VBZ all/DT user/NN requirements/NNS or/CC not/RB ?/PUNCT
-So/RB since/IN our/PRP$ product/NN meets/VBZ all/PDT these/DT requirements/NNS ,/PUNCT so/IN I/PRP would/MD also/RB prefer/VB to/TO give/VB it/PRP rank/VB one/CD ./PUNCT
 
 personally/RB I/PRP wi/VBP that/IN in/IN terms/NNS of/IN trends/NNS ,/PUNCT these/DT products/NNS are/VBP quite/RB good/JJ ,/PUNCT
 Our/PRP$ product/NN meets/VBZ the/DT f/NN the/DT fashion/NN trends/NNS of/IN the/DT market/NN ./PUNCT
+
+So/RB since/IN our/PRP$ product/NN meets/VBZ all/PDT these/DT requirements/NNS ,/PUNCT so/IN I/PRP would/MD also/RB prefer/VB to/TO give/VB it/PRP rank/VB one/CD ./PUNCT
+
+kept/NN to/TO the/DT company/NN strategy/NN ,/PUNCT so/IN I/PRP would/MD go/VB for/IN a/DT one/CD ,/PUNCT as/IN we/PRP not/RB only/RB kept/VBD it/PRP ,/PUNCT but/CC we/PRP were/VBD limited/VBN by/IN
+like/IN ,/PUNCT this/DT product/NN me/PRP me/PRP this/DT meets/VBZ all/DT company/NN strategy/NN
 
 w/NN we/PRP together/RB have/VBP to/TO decide/VB wha/VB what/WP rating/NN we/PRP will/MD give/VB to/TO this/DT product/NN and/CC everything/NN ./PUNCT
 
@@ -24,8 +26,6 @@ not/RB only/RB in/IN terms/NNS of/IN providing/VBG quality/NN products/NNS ,/PUN
 but/CC also/RB in/IN terms/NNS of/IN providing/VBG environmental/JJ safe/JJ products/NNS ,/PUNCT
 like/IN our/PRP$ product/NN should/MD be/VB as/IN per/IN customers'/NN requirement/NN ,/PUNCT as/IN per/IN latest/JJS technology/NN ,/PUNCT and/CC it/PRP should/MD be/VB environmental/JJ safe/JJ ./PUNCT
 
-kept/NN to/TO the/DT company/NN strategy/NN ,/PUNCT so/IN I/PRP would/MD go/VB for/IN a/DT one/CD ,/PUNCT as/IN we/PRP not/RB only/RB kept/VBD it/PRP ,/PUNCT but/CC we/PRP were/VBD limited/VBN by/IN
-
 It/PRP had/VBD all/PDT the/DT basic/JJ buttons/NNS that/IN they/PRP needed/VBD as/IN as/IN the/DT new/JJ technology/NN that/WDT people/NNS said/VBD they/PRP wanted/VBD ./PUNCT
 
 ./PUNCT As/RB far/RB as/IN the/DT technology/NN it/PRP its'/VBZ got/VBD the/DT latest/JJS trends/NNS in/IN speech/NN technology/NN ,/PUNCT
@@ -33,12 +33,11 @@ It/PRP had/VBD all/PDT the/DT basic/JJ buttons/NNS that/IN they/PRP needed/VBD a
 Then/RB marketing/VBG strategy/NN of/IN the/DT company/NN ./PUNCT
 As/IN we/PRP have/VBP already/RB discussed/VBN that/IN our/PRP$ company/NN is/VBZ quite/RB in/IN the/DT market/NN ,/PUNCT
 
+Some/DT children/NNS like/IN to/TO buy/VB banana/JJ shape/NN ,/PUNCT some/DT apple/NN shape/NN ,/PUNCT some/DT even/RB pineapple/JJ shape/NN ,/PUNCT some/DT orange/NN shape/NN ./PUNCT
+
 But/CC if/IN a/DT person/NN doesn't/NN like/IN banana/NN ,/PUNCT or/CC orange/NN ,/PUNCT you/PRP are/VBP limiting/VBG him/PRP ./PUNCT
 
 Basic/JJ requirements/NNS but/CC of/IN the/DT pro/NN of/IN the/DT project/NN ./PUNCT
-
-I/PRP don't/VBP think/VB that/DT counts/VBZ as/IN a/DT curve/NN ,/PUNCT that's/NN just/RB a/DT shape/NN ./PUNCT
-Some/DT children/NNS like/IN to/TO buy/VB banana/JJ shape/NN ,/PUNCT some/DT apple/NN shape/NN ,/PUNCT some/DT even/RB pineapple/JJ shape/NN ,/PUNCT some/DT orange/NN shape/NN ./PUNCT
 
 ,/PUNCT let's/VBZ just/RB enter/RBR in/IN the/DT evaluation/NN criteria/NNS ./PUNCT
 So/IN these/DT are/VBP the/DT three/CD crite/NN criterias/NN for/IN our/PRP$ evaluation/NN of/IN our/PRP$ product/NN ./PUNCT
@@ -52,6 +51,8 @@ Means/NNS because/IN we/PRP have/VBP already/RB stated/VBN that/IN people/NNS do
 
 ,/PUNCT so/IN the/DT buttons/NNS would/MD be/VB like/IN ,/PUNCT individual/JJ users/NNS ,/PUNCT or/CC
 When/WRB the/DT user/NN requirement/NN is/VBZ essentially/RB just/RB to/TO operate/VB the/DT T_V_/NNP ,/PUNCT
+
+I/PRP don't/VBP think/VB that/DT counts/VBZ as/IN a/DT curve/NN ,/PUNCT that's/NN just/RB a/DT shape/NN ./PUNCT
 
 going/VBG on/IN the/DT specifications/NNS that/IN we/PRP had/VBD ,/PUNCT that/IN fruit/NN and/CC vegetables/NNS are/VBP quite/RB popular/JJ ,/PUNCT and/CC that/IN people/NNS like/IN something/NN that/WDT is/VBZ good/JJ to/TO look/VB at/IN and/CC not/RB many/JJ buttons/NNS ,/PUNCT I/PRP would/MD give/VB it/PRP ,/PUNCT
 
@@ -122,20 +123,19 @@ that's/IN the/DT charging/VBG base/NN prongs/NNS at/IN the/DT bottom/NN ./PUNCT
 Hold/VB on/IN till/NN I/PRP find/VBP it/PRP ,/PUNCT
 like/IN keeping/VBG in/IN mind/NN all/PDT the/DT safety/NN issues/NNS ./PUNCT
 
-That's/NN it/PRP ,/PUNCT another/DT couple/NN of/IN days/NNS holiday/JJ pay/NN might/MD be/VB in/IN order/NN for/IN all/DT of/IN you/PRP ./PUNCT
+main/JJ problem/NN that/IN we/PRP have/VBP unfortunately/RB being/VBG finance/NN ./PUNCT
 
 You/PRP just/RB select/VB one/CD box/NN outsi/NN
 
 it'll/NN be/VB made/VBN out/IN of/IN a/DT rubbery/NN latex/NN ,/PUNCT new/JJ material/NN that/WDT we've/VBZ got/VBD ./PUNCT
 
+It's/NNP to/TO induce/VB more/JJR television/NN watching/NN I/PRP suppose/VBP or/CC
+but/CC we/PRP couldn't/VBP reach/VB any/DT proper/JJ goals/NNS ,/PUNCT we/PRP couldn't/VBP use/VB these/DT ,/PUNCT
+That's/NN it/PRP ,/PUNCT another/DT couple/NN of/IN days/NNS holiday/JJ pay/NN might/MD be/VB in/IN order/NN for/IN all/DT of/IN you/PRP ./PUNCT
+
 but/CC it/PRP doesn't/VBZ have/VBP that/DT fancy/NN solar/JJ power/NN or/CC the/DT vibrating/VBG energy/NN mechanism/NN ./PUNCT
 
 so/IN you/PRP can/MD speak/VB into/IN it/PRP like/IN a/DT little/JJ walkie-talkie/NN as/IN for/IN speak/JJ recognition/NN ./PUNCT
-
-main/JJ problem/NN that/IN we/PRP have/VBP unfortunately/RB being/VBG finance/NN ./PUNCT
-but/CC we/PRP couldn't/VBP reach/VB any/DT proper/JJ goals/NNS ,/PUNCT we/PRP couldn't/VBP use/VB these/DT ,/PUNCT
-
-It's/NNP to/TO induce/VB more/JJR television/NN watching/NN I/PRP suppose/VBP or/CC
 
 But/CC if/IN there/EX is/VBZ anything/NN you/PRP think/VBP we've/NNS missed/VBN out/IN there/RB ,/PUNCT then/RB ,/PUNCT ,/PUNCT feel/VB free/JJ to/TO add/VB it/PRP ./PUNCT
 

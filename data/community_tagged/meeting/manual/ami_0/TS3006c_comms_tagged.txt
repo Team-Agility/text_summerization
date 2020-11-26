@@ -1,59 +1,76 @@
-we/PRP can/MD use/VB a/DT scroll/NN buttons/NNS for/IN the/DT menus/NN ,/PUNCT
-but/CC we/PRP already/RB decided/VBD to/TO go/VB for/IN the/DT f/NN for/IN the/DT pushbuttons/NNS ,/PUNCT for/IN the/DT arrow/NN buttons/NNS ./PUNCT
-But/CC do/VBP j/NNS do/VB we/PRP do/VB the/DT speech/NN just/RB for/IN the/DT basic/JJ options/NNS ,/PUNCT for/IN the/DT simple/JJ buttons/NNS ?/PUNCT
-display/NN on/IN the/DT upper/JJ side/NN with/IN the/DT menu/NN button/NN and/CC maybe/RB a/DT some/DT cancel/JJ button/NN or/CC save/VB button/NN ./PUNCT
-Otherwise/RB you/PRP would/MD have/VB a/DT simple/JJ chip/NN ,/PUNCT just/RB for/IN pressing/VBG buttons/NNS ./PUNCT But/CC we/PRP need/VBP more/JJR ./PUNCT
-To/TO switch/VB from/IN buttons/NNS to/TO interface/VB ./PUNCT If/IN you/PRP turn/VBP it/PRP a/DT little/JJ ./PUNCT
-or/CC preferably/RB even/RB keep/VB the/DT simple/JJ buttons/NNS here/RB ,/PUNCT and/CC then/RB under/IN the/DT screen/NN even/RB you/PRP could/MD put/VB more/RBR advanced/JJ buttons/NNS ./PUNCT
-But/CC you/PRP can/MD hide/VB the/DT and/CC the/DT back/JJ button/NN ./PUNCT
-Those/DT buttons/NNS ?/PUNCT And/CC the/DT simple/JJ buttons/NNS here/RB ,/PUNCT
-The/DT the/DT press/NN buttons/NNS ./PUNCT Should/MD they/PRP be/VB white/JJ or/CC black/JJ or/CC
-But/CC maybe/RB the/DT buttons/NNS ,/PUNCT all/DT buttons/NNS in/IN red/JJ is/VBZ maybe/RB a/DT bad/JJ contrast/NN for/IN colourblind/NN people/NNS ./PUNCT
-we/PRP skip/VBP this/DT I/PRP ./PUNCT Sound/NNP button/VBD press/NN ./PUNCT
-So/IN the/DT pl/NN the/DT plastic/NN buttons/NNS also/RB help/VBP because/IN of/IN they/PRP are/VBP only/RB lit/JJ during/IN interaction/NN ./PUNCT So/RB
-Let's/NNP fill/NN i/NN fill/VBP in/IN the/DT buttons/NNS later/RB ./PUNCT
-could/MD make/VB an/DT a/DT volume/NN button/NN scroll/NN ,/PUNCT volume/NN button/NN ./PUNCT
-So/IN the/DT with/IN the/DT scroll/NN is/VBZ more/RBR futuristic/JJ than/IN the/DT standard/JJ arrow/NN buttons/NNS ./PUNCT
-
-this/DT is/VBZ the/DT fruit/NN and/CC vegetables/NNS looks/NNS of/IN fresh/JJ bright/JJ colours/NNS ./PUNCT
 nothing/NN about/IN the/DT buttons/NNS but/CC just/RB sponge/JJ thing/NN ,/PUNCT and/CC some/DT fruit/NN and/CC colours/NNS
 but/CC the/DT colours/NNS ,/PUNCT you/PRP can/MD make/VB it/PRP make/VB the/DT colours/NN with/IN LEDs/NNP beneath/VBP the/DT buttons/NNS ./PUNCT
+If/IN you/PRP press/VBP a/DT button/NN and/CC you/PRP can/MD disable/VB the/DT colour/NN LEDs/NNP for/IN people/NNS that/WDT don't/VBP like/IN it/PRP ./PUNCT
 kids/NNS can/MD make/VB it/PRP look/VB more/RBR flashy/JJ with/IN different/JJ kinds/NNS of/IN colours/NNS
 So/IN the/DT keywords/NNS are/VBP primary/JJ co/NN colours/NNS ,/PUNCT spongey/NN ?/PUNCT
-Or/CC blue/VB ?/PUNCT Dark/NNP blue/NN or/CC
+so/RB it's/JJ better/JJR to/TO have/VB some/DT basic/JJ print/NN and/CC then/RB a/DT fruit/NN print/NN in/IN some/DT primary/JJ colours/NNS ./PUNCT
+I/PRP what/WP colours/NN should/MD the/DT basic/JJ print/NN be/VB like/IN ?/PUNCT
 If/IN you/PRP make/VBP it/PRP just/RB a/DT bl/NN give/VB it/PRP a/DT blue/JJ colour/NN ,/PUNCT then/RB it's/VB just/RB a/DT neutral/JJ colour/NN ,/PUNCT
-So/RB that's/VB a/DT dark/JJ blue/NN basic/JJ colour/NN I/PRP ./PUNCT
 So/IN it/PRP not/RB only/RB in/IN the/DT colours/NN of/IN the/DT LEDs/NNP ,/PUNCT that/IN we/PRP want/VBP something/NN to/TO keep/VB it/PRP visible/JJ times/NNS ,/PUNCT
 if/IN you/PRP if/IN flashing/VBG colour/VBP so/RB you/PRP can't/VBP lose/VB it/PRP ,/PUNCT ./PUNCT
-but/CC it's/NN should/MD be/VB more/JJR real/JJ dark/NN blue/NN ,/PUNCT so/IN the/DT contrast/NN with/IN the/DT fruit/NN objects/VBZ is/VBZ pretty/RB high/JJ ./PUNCT
 ,/PUNCT the/DT colour/NN of/IN the/DT background/NN of/IN the/DT display/NN ?/PUNCT
 I/PRP don't/VBP it/PRP s/PRP has/VBZ to/TO be/VB a/DT sixty/JJ sixty/NN six/CD five/CD thousand/NNS colour/NN ,/PUNCT so/RB too/RB expensive/JJ ./PUNCT
-Green/NNP is/VBZ too/RB old-fashioned/JJ ./PUNCT But/CC blue/JJ ,/PUNCT blue's/NN ./PUNCT J/NN
 As/RB long/RB as/IN you/PRP loo/VBP use/RB high/JJ contrast/NN between/IN the/DT background/NN and/CC the/DT foreground/NN colour/NN ./PUNCT
-And/CC if/IN the/DT background/NN is/VBZ very/RB dark/JJ blue/NN
 But/CC don't/NN we/PRP wanna/VBP make/VB the/DT background/NN the/DT bright/JJ colo/NN colours/NN ?/PUNCT So/RB th/IN the/DT total/NN of/IN very/RB bright/JJ ?/PUNCT
 It's/NNP actually/RB a/DT pretty/JJ trendy/JJ colour/NN at/IN the/DT moment/NN ./PUNCT
-But/CC if/IN you/PRP use/VBP green/JJ on/IN blue/NN ,/PUNCT those/DT colours/NNS will/MD look/VB the/DT same/JJ ./PUNCT
 You/PRP better/JJR bet/VB better/JJR keep/VB the/DT LED/NNP and/CC the/DT button/NN itself/PRP in/IN the/DT same/JJ colour/NN I/PRP ./PUNCT
 what/WP we/PRP should/MD do/VB is/VBZ make/VB a/DT see-through/JJ plastic/NN button/NN ,/PUNCT with/IN one/CD coloured/NN LED/NNP behind/IN it/PRP ./PUNCT
 
+we/PRP can/MD use/VB a/DT scroll/NN buttons/NNS for/IN the/DT menus/NN ,/PUNCT
+but/CC we/PRP already/RB decided/VBD to/TO go/VB for/IN the/DT f/NN for/IN the/DT pushbuttons/NNS ,/PUNCT for/IN the/DT arrow/NN buttons/NNS ./PUNCT
+display/NN on/IN the/DT upper/JJ side/NN with/IN the/DT menu/NN button/NN and/CC maybe/RB a/DT some/DT cancel/JJ button/NN or/CC save/VB button/NN ./PUNCT
+Otherwise/RB you/PRP would/MD have/VB a/DT simple/JJ chip/NN ,/PUNCT just/RB for/IN pressing/VBG buttons/NNS ./PUNCT But/CC we/PRP need/VBP more/JJR ./PUNCT
+that/IN you/PRP scroll/VBP with/IN your/PRP$ thumb/NN ,/PUNCT with/IN the/DT arrows/NNS ,/PUNCT and/CC then/RB confirm/NN ./PUNCT
+To/TO switch/VB from/IN buttons/NNS to/TO interface/VB ./PUNCT If/IN you/PRP turn/VBP it/PRP a/DT little/JJ ./PUNCT
 so/RB the/DT buttons/NNS are/VBP on/IN top/NN here/RB ,/PUNCT and/CC you/PRP flip/VBP it/PRP over/IN that/DT way/NN ./PUNCT
-the/DT more/RBR advanced/JJ options/NNS were/VBD for/IN the/DT menu/NN ./PUNCT
+or/CC preferably/RB even/RB keep/VB the/DT simple/JJ buttons/NNS here/RB ,/PUNCT and/CC then/RB under/IN the/DT screen/NN even/RB you/PRP could/MD put/VB more/RBR advanced/JJ buttons/NNS ./PUNCT
+But/CC you/PRP can/MD hide/VB the/DT and/CC the/DT back/JJ button/NN ./PUNCT
 And/CC the/DT menu/NN button/NN also/RB because/IN when/WRB you/PRP flip/VBP it/PRP open/JJ
 and/CC you/PRP can/MD maybe/VB even/RB drop/VB the/DT menu/NN button/NN because/IN maybe/RB if/IN you/PRP flip/VBP it/PRP open/JJ it/PRP will/MD auto/NN activate/VB amauto/NN automatically/RB ./PUNCT
 So/RB b/JJ but/CC you/PRP have/VBP t/VBN you/PRP need/VBP some/DT button/NN to/TO flip/VB this/DT open/JJ ./PUNCT
 and/CC it/PRP says/VBZ menu/NN and/CC it/PRP flips/VBZ open/JJ and/CC then/RB you/PRP have/VBP the/DT buttons/NNS to/TO control/VB it/PRP ,/PUNCT in/IN combination/NN with/IN your/PRP$
-it's/NN not/RB very/RB very/RB strong/JJ if/IN you/PRP drop/VBP it/PRP one/CD time/NN ./PUNCT
-you/PRP can/MD adjust/VB the/DT angle/NN to/TO which/WDT it/PRP flips/VBZ ./PUNCT
-
-So/RB from/IN top/JJ view/NN it/PRP looks/VBZ kinda/NNS like/IN this/DT ./PUNCT
-But/CC then/RB the/DT side/NN view/NN can/MD be/VB straight/VBN ./PUNCT If/IN you/PRP have/VBP a/DT pop-up/JJ screen/NN ./PUNCT
-but/CC it's/JJ pretty/RB fresh/JJ ,/PUNCT on/IN the/DT other/JJ side/NN ./PUNCT
-Not/RB only/RB on/IN the/DT front/NN si/VBD the/DT top/JJ side/NN but/CC also/RB the/DT side/NN view/NN ./PUNCT
-L/NNP let's/NNS make/VBP first/JJ the/DT all/PDT the/DT views/NNS ./PUNCT The/DT the/DT front/JJ view/NN ,/PUNCT side/NN view/NN and/CC the/DT back/RB view/NN ./PUNCT
-for/IN the/DT side/NN view/NN ,/PUNCT that/IN the/DT w/NN the/DT basic/JJ section/NN would/MD be/VB rather/RB a/DT bit/NN thicker/NN than/IN the/DT middle/NN ,/PUNCT where/WRB you're/RB holding/VBG it/PRP with/IN your/PRP$
+Those/DT buttons/NNS ?/PUNCT And/CC the/DT simple/JJ buttons/NNS here/RB ,/PUNCT
+But/CC maybe/RB the/DT buttons/NNS ,/PUNCT all/DT buttons/NNS in/IN red/JJ is/VBZ maybe/RB a/DT bad/JJ contrast/NN for/IN colourblind/NN people/NNS ./PUNCT
+And/CC then/RB after/IN that/IN we/PRP can/MD make/VB the/DT user/NN inter/NN interface/NN ./PUNCT
+we/PRP skip/VBP this/DT I/PRP ./PUNCT Sound/NNP button/VBD press/NN ./PUNCT
+So/IN the/DT pl/NN the/DT plastic/NN buttons/NNS also/RB help/VBP because/IN of/IN they/PRP are/VBP only/RB lit/JJ during/IN interaction/NN ./PUNCT So/RB
 only/RB if/IN you/PRP are/VBP going/VBG to/TO put/VB buttons/NNS on/IN the/DT side/NN of/IN the/DT unit/NN ./PUNCT
+Let's/NNP fill/NN i/NN fill/VBP in/IN the/DT buttons/NNS later/RB ./PUNCT
+you/PRP can/MD adjust/VB the/DT angle/NN to/TO which/WDT it/PRP flips/VBZ ./PUNCT
+could/MD make/VB an/DT a/DT volume/NN button/NN scroll/NN ,/PUNCT volume/NN button/NN ./PUNCT
+So/IN the/DT with/IN the/DT scroll/NN is/VBZ more/RBR futuristic/JJ than/IN the/DT standard/JJ arrow/NN buttons/NNS ./PUNCT
+
+One/CD one/CD very/RB important/JJ thing/NN I/PRP was/VBD thinking/VBG about/RB is/VBZ the/DT speech/NN option/NN ./PUNCT
+the/DT visual/JJ representation/NN is/VBZ not/RB there/RB with/IN speech/NN
+No/DT but/CC it/PRP has/VBZ to/TO be/VB combined/VBN with/IN the/DT menu/NN for/IN functions/NNS and/CC
+you/PRP can/MD just/RB match/VB the/DT speech/NN commands/VBZ with/IN the/DT functions/NNS that/WDT are/VBP already/RB present/JJ ./PUNCT
+But/CC do/VBP j/NNS do/VB we/PRP do/VB the/DT speech/NN just/RB for/IN the/DT basic/JJ options/NNS ,/PUNCT for/IN the/DT simple/JJ buttons/NNS ?/PUNCT
+in/IN the/DT last/JJ meeting/NN we/PRP we/PRP were/VBD putting/VBG the/DT simple/NN and/CC the/DT advanced/JJ options/NNS separated/VBN ./PUNCT
+Pressing/VBG the/DT menu/NN option/NN will/MD disable/VB all/DT other/JJ options/NNS on/IN your/PRP$ remote/NN control/NN ./PUNCT
+with/IN a/DT speech/NN display/NN ,/PUNCT sound/NN ,/PUNCT everything/NN you/PRP noted/VBD in/IN your/PRP$ minutes/NNS ./PUNCT
+S/NNP see/VBP this/DT is/VBZ the/DT standard/JJ traditional/JJ type/NN ,/PUNCT where/WRB the/DT form/NN serves/VBZ the/DT function/NN ,/PUNCT ./PUNCT
+but/CC if/IN you/PRP make/VBP it/PRP more/RBR curved/JJ we/PRP can/MD make/VB more/JJR and/CC more/JJR options/NNS for/IN buttons/NNS ./PUNCT
+So/RB that/IN the/DT only/RB the/DT simple/JJ functions/NNS will/MD be/VB visible/JJ at/IN first/JJ ./PUNCT
+the/DT more/RBR advanced/JJ options/NNS were/VBD for/IN the/DT menu/NN ./PUNCT
+So/IN the/DT display/NN we/PRP will/MD put/VB in/IN here/RB ,/PUNCT the/DT basic/JJ functions/NNS in/IN here/RB ,/PUNCT where/WRB it's/NN most/RBS reachable/JJ ./PUNCT
 But/CC do/VBP we/PRP want/VB options/NNS on/IN the/DT side/NN with/IN the/DT buttons/NNS ?/PUNCT
+
+Or/CC blue/VB ?/PUNCT Dark/NNP blue/NN or/CC
+So/RB that's/VB a/DT dark/JJ blue/NN basic/JJ colour/NN I/PRP ./PUNCT
+but/CC it's/NN should/MD be/VB more/JJR real/JJ dark/NN blue/NN ,/PUNCT so/IN the/DT contrast/NN with/IN the/DT fruit/NN objects/VBZ is/VBZ pretty/RB high/JJ ./PUNCT
+Green/NNP is/VBZ too/RB old-fashioned/JJ ./PUNCT But/CC blue/JJ ,/PUNCT blue's/NN ./PUNCT J/NN
+And/CC if/IN the/DT background/NN is/VBZ very/RB dark/JJ blue/NN
+But/CC if/IN you/PRP use/VBP green/JJ on/IN blue/NN ,/PUNCT those/DT colours/NNS will/MD look/VB the/DT same/JJ ./PUNCT
+
+they/PRP gave/VBD me/PRP an/DT idea/NN about/IN what/WP people/NNS want/VBP ./PUNCT
+If/IN you/PRP ,/PUNCT the/DT young/JJ dynamic/JJ people/NNS want/VBP soft/JJ primary/JJ colours/NNS ,/PUNCT which/WDT looks/VBZ like/IN fruits/NNS ,/PUNCT you/PRP can/MD
+it/PRP fits/VBZ most/RBS in/IN what/WP people/NNS wanna/VBP see/VB nowadays/NNS ./PUNCT
+But/CC it/PRP is/VBZ more/RBR longlasting/JJ ,/PUNCT that/IN the/DT people/NNS don't/VBP have/VBP to/TO ever/RB buy/VB batteries/NNS again/RB ./PUNCT
+So/IN you/PRP can/MD change/VB m/RB make/VB it/PRP more/RBR trendy/JJ for/IN younger/JJR people/NNS ./PUNCT
+And/CC if/IN there/EX are/VBP older/JJR people/NNS they/PRP wanted/VBD more/RBR more/RBR luxurous/JJ so/RB that's/RB an/DT a/DT also/RB an/DT option/NN ./PUNCT
+it/PRP has/VBZ also/RB to/TO be/VB luxurous/JJ for/IN rich/JJ people/NNS ./PUNCT
+and/CC people/NNS who/WP want/VBP something/NN ,/PUNCT ,/PUNCT different/JJ ,/PUNCT or/CC more/JJR design/NN ,/PUNCT they/PRP can/MD go/VB for/IN one/CD colour/NN
+And/CC it's/NN also/RB for/IN the/DT children/NNS ,/PUNCT it's/NN for/IN people/NNS not/RB sixteen/JJ years/NNS ./PUNCT
 
 we/PRP have/VBP again/RB three/CD presentations/NNS and/CC then/RB we/PRP have/VBP to/TO decide/VB on/IN what/WDT concepts/VBZ the/DT mobile/JJ phone/NN has/VBZ to/TO f/VB the/DT remote/JJ control/NN has/VBZ to/TO support/VB ./PUNCT
 there/EX has/VBZ been/VBN inv/JJ investigation/NN again/RB ,/PUNCT in/IN the/DT remote/JJ control/NN market/NN ./PUNCT
@@ -63,26 +80,30 @@ it/PRP stands/VBZ for/IN the/DT use/NN of/IN technical/JJ features/NNS that/WDT 
 And/CC the/DT third/JJ development/NN is/VBZ that/IN the/DT remote/JJ control/NN should/MD be/VB easy/JJ to/TO use/VB ./PUNCT
 I/PRP always/RB chuck/VBP my/PRP$ remote/JJ control/NN around/RB ,/PUNCT so/IN
 that's/RB one/CD thing/NN which/WDT I'm/NNP not/RB of/IN how/WRB to/TO implement/VB it/PRP into/IN the/DT remote/JJ control/NN ./PUNCT
-Pressing/VBG the/DT menu/NN option/NN will/MD disable/VB all/DT other/JJ options/NNS on/IN your/PRP$ remote/NN control/NN ./PUNCT
 And/CC and/CC the/DT control/NN thngs/VBZ in/IN the/DT middle/NN ?/PUNCT The/DT the/DT arrows/NNS ?/PUNCT
 but/CC the/DT primary/JJ colours/NNS w/IN we/PRP can/MD create/VB with/IN the/DT LEDs/NNP on/IN the/DT remote/JJ control/NN ./PUNCT
+I/PRP don't/VBP like/IN to/TO call/VB brands/NNS phones/NNS ,/PUNCT
 I/PRP remember/VBP from/IN one/CD of/IN our/PRP$ first/JJ meetings/NNS that/IN people/NNS lose/VBP their/PRP$ remote/NN controls/NNS often/RB ./PUNCT
 they/PRP are/VBP responsible/JJ enough/RB to/TO have/VB a/DT mobile/JJ phone/NN ,/PUNCT so/RB also/RB to/TO deal/VB with/IN their/PRP$ remote/NN control/NN ./PUNCT Yes/UH ./PUNCT
 ./PUNCT It's/NNP called/VBD the/DT Real/NNP Remote/NNP ./PUNCT
 
-they/PRP gave/VBD me/PRP an/DT idea/NN about/IN what/WP people/NNS want/VBP ./PUNCT
-If/IN you/PRP ,/PUNCT the/DT young/JJ dynamic/JJ people/NNS want/VBP soft/JJ primary/JJ colours/NNS ,/PUNCT which/WDT looks/VBZ like/IN fruits/NNS ,/PUNCT you/PRP can/MD
-it/PRP fits/VBZ most/RBS in/IN what/WP people/NNS wanna/VBP see/VB nowadays/NNS ./PUNCT
-But/CC it/PRP is/VBZ more/RBR longlasting/JJ ,/PUNCT that/IN the/DT people/NNS don't/VBP have/VBP to/TO ever/RB buy/VB batteries/NNS again/RB ./PUNCT
-So/IN you/PRP can/MD change/VB m/RB make/VB it/PRP more/RBR trendy/JJ for/IN younger/JJR people/NNS ./PUNCT
-And/CC if/IN there/EX are/VBP older/JJR people/NNS they/PRP wanted/VBD more/RBR more/RBR luxurous/JJ so/RB that's/RB an/DT a/DT also/RB an/DT option/NN ./PUNCT
-it/PRP has/VBZ also/RB to/TO be/VB luxurous/JJ for/IN rich/JJ people/NNS ./PUNCT
-If/IN you/PRP press/VBP a/DT button/NN and/CC you/PRP can/MD disable/VB the/DT colour/NN LEDs/NNP for/IN people/NNS that/WDT don't/VBP like/IN it/PRP ./PUNCT
-and/CC people/NNS who/WP want/VBP something/NN ,/PUNCT ,/PUNCT different/JJ ,/PUNCT or/CC more/JJR design/NN ,/PUNCT they/PRP can/MD go/VB for/IN one/CD colour/NN
-your/PRP$ fingers/NNS have/VBP to/TO fit/VB underneath/NN and/CC
-And/CC it's/NN also/RB for/IN the/DT children/NNS ,/PUNCT it's/NN for/IN people/NNS not/RB sixteen/JJ years/NNS ./PUNCT
+I'm/NNP dealing/VBG with/IN the/DT components/NNS design/NN ./PUNCT
+I/PRP used/VBD some/DT design/NN examples/VBZ we/PRP had/VBD from/IN similar/JJ products/NNS ./PUNCT
+And/CC I/PRP used/VBD possibilities/NNS from/IN our/PRP$ manufacturing/NN department/NN about/IN current/JJ components/NNS which/WDT will/MD have/VB to/TO be/VB implemented/VBN in/IN the/DT design/NN ./PUNCT
+But/CC how/WRB we/PRP would/MD use/VB that/DT into/IN the/DT design/NN of/IN the/DT actual/JJ product/NN ./PUNCT
+the/DT advanced/JJ chip/NN is/VBZ easiest/JJS to/TO implement/VB for/IN the/DT production/NN ,/PUNCT they/PRP can/MD print/VB it/PRP better/JJR ./PUNCT
+we/PRP have/VBP this/DT very/RB basic/JJ trendy/NN design/NN ./PUNCT
+But/CC this/DT is/VBZ the/DT basic/JJ design/NN for/IN the/DT m/NN for/IN the/DT buttons/NNS ./PUNCT
+Next/JJ thirty/NN minutes/NNS to/TO design/VB something/NN so/RB
 
-and/CC shapes/NNS that/WDT are/VBP curved/VBN and/CC not/RB solid/JJ straight/JJ lines/NNS anymore/RB ./PUNCT
+where/WRB your/PRP$ thumbs/NNS would/MD be/VB laying/VBG in/IN the/DT instrument/NN and/CC it/PRP has/VBZ to/TO be/VB to/TO hold/VB ./PUNCT And/CC
+If/IN you/PRP have/VBP it/PRP have/VBP it/PRP in/IN your/PRP$ hand/NN ,/PUNCT you/PRP are/VBP not/RB only/RB you/PRP don't/VBP need/VB one/CD dimension/NN but/CC you/PRP can/MD use/VB other/JJ dimensions/NNS for/IN pressing/VBG the/DT buttons/NNS ./PUNCT
+So/RB it's/RB easier/JJR to/TO hold/VB in/IN your/PRP$ hand/NN ,/PUNCT to/TO y/VB f/NN
+And/CC if/IN you/PRP think/VBP about/IN easy/NNS to/TO use/VB buttons/NNS ,/PUNCT we/PRP have/VBP to/TO ,/PUNCT we/PRP have/VBP to/TO make/VB it/PRP the/DT shape/NN so/IN that/DT it's/NN easy/VBD to/TO hold/VB f/NN for/IN both/DT hands/NNS ,/PUNCT
+but/CC also/RB that/IN you/PRP can/MD reach/VB the/DT buttons/NNS with/IN your/PRP$ thumb/NN ,/PUNCT if/IN you/PRP hold/VBP the/DT machine/NN ./PUNCT
+for/IN the/DT side/NN view/NN ,/PUNCT that/IN the/DT w/NN the/DT basic/JJ section/NN would/MD be/VB rather/RB a/DT bit/NN thicker/NN than/IN the/DT middle/NN ,/PUNCT where/WRB you're/RB holding/VBG it/PRP with/IN your/PRP$
+The/DT middle/NN has/VBZ to/TO be/VB very/RB small/JJ so/IN you/PRP can/MD have/VB it/PRP in/IN your/PRP$ hand/NN ./PUNCT
+
 Single/NNP curved/VBD ,/PUNCT which/WDT means/VBZ that/IN it/PRP has/VBZ curves/NNS in/IN one/CD dimension/NN ./PUNCT
 but/CC that/IN we/PRP will/MD have/VB to/TO go/VB for/IN the/DT double/JJ curved/JJ it's/NN daring/NN and/CC different/JJ from/IN what/WP we/PRP have/VBP now/RB ./PUNCT
 So/RB w/JJ single/JJ curved/VBN ?/PUNCT let's/NNS say/VBP would/MD be/VB a/DT b/NN square/NN box/NN ,/PUNCT but/CC then/RB with/IN curves/NNS on/IN one/CD dimension/NN ./PUNCT
@@ -93,15 +114,8 @@ do/VBP you/PRP have/VB a/DT picture/NN of/IN doubly/RB curved/VBN case/NN ?/PUNC
 And/CC th/NN that/WDT means/VBZ curved/VBN in/IN both/DT dire/JJ dimensions/NNS ./PUNCT
 instead/RB of/IN doubly/RB curved/VBN we/PRP take/VBP a/DT single/JJ curved/NN ./PUNCT So/RB to/TO appeal/VB a/DT little/RB more/RBR to/TO the/DT all/PDT the/DT public/NN ./PUNCT
 so/IN we/PRP keep/VBP it/PRP singly/RB c/VBZ single/JJ curved/VBN then/RB ?/PUNCT
-but/CC if/IN you/PRP make/VBP it/PRP more/RBR curved/JJ we/PRP can/MD make/VB more/JJR and/CC more/JJR options/NNS for/IN buttons/NNS ./PUNCT
 
-where/WRB your/PRP$ thumbs/NNS would/MD be/VB laying/VBG in/IN the/DT instrument/NN and/CC it/PRP has/VBZ to/TO be/VB to/TO hold/VB ./PUNCT And/CC
-If/IN you/PRP have/VBP it/PRP have/VBP it/PRP in/IN your/PRP$ hand/NN ,/PUNCT you/PRP are/VBP not/RB only/RB you/PRP don't/VBP need/VB one/CD dimension/NN but/CC you/PRP can/MD use/VB other/JJ dimensions/NNS for/IN pressing/VBG the/DT buttons/NNS ./PUNCT
-So/RB it's/RB easier/JJR to/TO hold/VB in/IN your/PRP$ hand/NN ,/PUNCT to/TO y/VB f/NN
-And/CC if/IN you/PRP think/VBP about/IN easy/NNS to/TO use/VB buttons/NNS ,/PUNCT we/PRP have/VBP to/TO ,/PUNCT we/PRP have/VBP to/TO make/VB it/PRP the/DT shape/NN so/IN that/DT it's/NN easy/VBD to/TO hold/VB f/NN for/IN both/DT hands/NNS ,/PUNCT
-but/CC also/RB that/IN you/PRP can/MD reach/VB the/DT buttons/NNS with/IN your/PRP$ thumb/NN ,/PUNCT if/IN you/PRP hold/VBP the/DT machine/NN ./PUNCT
-The/DT middle/NN has/VBZ to/TO be/VB very/RB small/JJ so/IN you/PRP can/MD have/VB it/PRP in/IN your/PRP$ hand/NN ./PUNCT
-
+I/PRP first/RB chose/VBD for/IN the/DT battery/NN ,/PUNCT I'm/NNP traditional/JJ and/CC that's/VB the/DT most/RBS obvious/JJ ,/PUNCT easiest/JJS choice/NN to/TO go/VB to/TO ./PUNCT
 and/CC then/RB very/RB bright/RB ,/PUNCT a/DT yellow/JJ banana/NN ,/PUNCT an/DT orange/NN ,/PUNCT a/DT green/JJ apple/NN ,/PUNCT like/IN that/DT ,/PUNCT
 w/NN we/PRP need/VBP very/RB primary/JJ colours/NNS ,/PUNCT like/IN bright/JJ red/JJ ,/PUNCT bright/JJ yellow/NN ./PUNCT
 Those/DT things/NNS were/VBD all/DT like/JJ bright/NN red/JJ ,/PUNCT flashy/JJ ./PUNCT
@@ -109,17 +123,6 @@ And/CC then/RB yellow/VB and/CC orange/NN and/CC red/JJ objects/NNS on/IN it/PRP
 Red/JJ and/CC green/JJ are/VBP actually/RB the/DT b/NN the/DT easiest/JJS to/TO discriminate/VB ./PUNCT Even/RB for/IN colourblind/NN ./PUNCT
 That/DT that's/VBZ a/DT default/NN setting/NN ./PUNCT The/DT the/DT red/JJ buttons/NNS ./PUNCT
 I/PRP was/VBD think/VBP about/IN a/DT red/JJ red/JJ LEDs/NNP and/CC blue/JJ LEDs/NNP and/CC
-
-fashion/NN watch/NN watchers/NNS have/VBP detected/VBN the/DT trends/NNS for/IN young/JJ public/NN ,/PUNCT because/IN that's/JJ our/PRP$ public/JJ ./PUNCT
-we/PRP wanna/VBP appeal/JJ to/TO the/DT young/JJ public/NN with/IN fancy/JJ with/IN flashy/JJ colours/NNS ,/PUNCT and/CC with/IN a/DT lot/NN of/IN shape/NN ./PUNCT
-And/CC I'm/NNP thinking/VBG a/DT drawing/VBG palette/NN ,/PUNCT where/WRB you/PRP have/VBP the/DT shape/NN for/IN your/PRP$ thumb/NN ./PUNCT
-but/CC we/PRP have/VBP hardware/VBN inside/IN ,/PUNCT which/WDT is/VBZ so/IN it/PRP has/VBZ to/TO have/VB some/DT basic/JJ shape/NN ./PUNCT
-so/IN we/PRP should/MD better/RB choose/VB one/CD sh/NN one/CD shape/NN ./PUNCT
-bananas/NNS wierd/VBP shape/NN and/CC other/JJ fruits/NNS also/RB ,/PUNCT
-so/RB it's/JJ better/JJR to/TO have/VB some/DT basic/JJ print/NN and/CC then/RB a/DT fruit/NN print/NN in/IN some/DT primary/JJ colours/NNS ./PUNCT
-I/PRP what/WP colours/NN should/MD the/DT basic/JJ print/NN be/VB like/IN ?/PUNCT
-Shall/NN we/PRP make/VBP some/DT outline/JJ sketches/NNS of/IN the/DT basic/JJ shape/NN first/RB ?/PUNCT
-Sh/NNP sh/VBP shouldn't/NN we/PRP integrate/VBP it/PRP ?/PUNCT
 
 also/RB in/IN countries/NNS where/WRB there's/NN n/VBZ isn't/RB much/JJ light/NN like/IN in/IN Scandinavia/NNP ,/PUNCT they/PRP wouldn't/VBP be/VB y/VBN able/JJ to/TO use/VB it/PRP half/NN of/IN the/DT year/NN ./PUNCT
 And/CC only/RB the/DT L_C_D_/NNP panel/NN will/MD light/VB up/RB and/CC then/RB you/PRP can/MD only/RB change/VB the/DT the/DT options/NNS ./PUNCT
@@ -133,16 +136,39 @@ I/PRP know/VBP you/PRP sh/VBP you/PRP should/MD test/VB it/PRP under/IN under/IN
 Light/NNP only/RB button/VBZ user/NN ca/MD user/VB interaction/NN ./PUNCT
 it's/VB a/DT good/JJ thing/NN that/IN the/DT buttons/NNS aren't/VBP ,/PUNCT that/IN they/PRP are/VBP plastic/JJ ,/PUNCT because/IN then/RB you/PRP can/MD light/VB up/RP the/DT light/NN on/IN when/WRB they/PRP are/VBP usable/JJ ./PUNCT
 
-I/PRP first/RB chose/VBD for/IN the/DT battery/NN ,/PUNCT I'm/NNP traditional/JJ and/CC that's/VB the/DT most/RBS obvious/JJ ,/PUNCT easiest/JJS choice/NN to/TO go/VB to/TO ./PUNCT
-No/DT but/CC it/PRP has/VBZ to/TO be/VB combined/VBN with/IN the/DT menu/NN for/IN functions/NNS and/CC
-you/PRP can/MD just/RB match/VB the/DT speech/NN commands/VBZ with/IN the/DT functions/NNS that/WDT are/VBP already/RB present/JJ ./PUNCT
-we/PRP need/VBP the/DT chip/NN on/IN print/NN to/TO be/VB able/JJ to/TO support/VB the/DT screen/NN and/CC and/CC f/JJ audio/JJ function/NN ./PUNCT
-S/NNP see/VBP this/DT is/VBZ the/DT standard/JJ traditional/JJ type/NN ,/PUNCT where/WRB the/DT form/NN serves/VBZ the/DT function/NN ,/PUNCT ./PUNCT
-So/RB that/IN the/DT only/RB the/DT simple/JJ functions/NNS will/MD be/VB visible/JJ at/IN first/JJ ./PUNCT
-but/CC this/DT part/NN isn't/VBZ functioning/VBG properly/RB ./PUNCT
-So/IN the/DT display/NN we/PRP will/MD put/VB in/IN here/RB ,/PUNCT the/DT basic/JJ functions/NNS in/IN here/RB ,/PUNCT where/WRB it's/NN most/RBS reachable/JJ ./PUNCT
+most/RBS important/JJ aspect/NN for/IN remote/NN control/NN happens/VBZ to/TO be/VB a/DT fancy/JJ look-and-feel/NN ./PUNCT Instead/RB of/IN the/DT current/JJ functional/JJ look-and-feel/NN ./PUNCT
+fancy/JJ stands/NNS for/IN an/DT original/JJ look-and-feel/NN of/IN the/DT case/NN and/CC the/DT interface/NN ./PUNCT
+the/DT first/JJ aspect/NN was/VBD twice/RB as/RB important/JJ as/IN the/DT second/JJ aspect,w/NN which/WDT was/VBD twice/RB as/RB important/JJ as/IN the/DT third/JJ aspect/NN ./PUNCT
+So/RB fancy/JJ look-and-feel/NN is/VBZ the/DT most/RBS important/JJ point/NN of/IN attention/NN ./PUNCT
+I/PRP have/VBP to/TO focus/VB on/IN the/DT basic/JJ look-and-feel/JJ design/NN ./PUNCT
+because/IN it/PRP will/MD feel/VB weird/JJ if/IN you/PRP would/MD make/VB this/DT smaller/JJR and/CC this/DT bigger/JJR that/IN
+Remember/NNP that/IN the/DT weird/JJ pocketphone/NN thingy/NN which/WDT looked/VBD like/IN a/DT Gameboy/NNP ./PUNCT
 
-But/CC it/PRP comes/VBZ down/RB to/TO what/WP you/PRP what/WP you/PRP think/VBP we/PRP should/MD do/VB with/IN the/DT spongey/NN and/CC the/DT fruity/NN looking/VBG type/NN ./PUNCT
+fashion/NN watch/NN watchers/NNS have/VBP detected/VBN the/DT trends/NNS for/IN young/JJ public/NN ,/PUNCT because/IN that's/JJ our/PRP$ public/JJ ./PUNCT
+and/CC shapes/NNS that/WDT are/VBP curved/VBN and/CC not/RB solid/JJ straight/JJ lines/NNS anymore/RB ./PUNCT
+There/EX is/VBZ a/DT lot/NN of/IN factors/NNS involved/VBN in/IN choosing/VBG the/DT components/NNS ./PUNCT
+we/PRP wanna/VBP appeal/JJ to/TO the/DT young/JJ public/NN with/IN fancy/JJ with/IN flashy/JJ colours/NNS ,/PUNCT and/CC with/IN a/DT lot/NN of/IN shape/NN ./PUNCT
+And/CC I'm/NNP thinking/VBG a/DT drawing/VBG palette/NN ,/PUNCT where/WRB you/PRP have/VBP the/DT shape/NN for/IN your/PRP$ thumb/NN ./PUNCT
+but/CC we/PRP have/VBP hardware/VBN inside/IN ,/PUNCT which/WDT is/VBZ so/IN it/PRP has/VBZ to/TO have/VB some/DT basic/JJ shape/NN ./PUNCT
+so/IN we/PRP should/MD better/RB choose/VB one/CD sh/NN one/CD shape/NN ./PUNCT
+bananas/NNS wierd/VBP shape/NN and/CC other/JJ fruits/NNS also/RB ,/PUNCT
+Shall/NN we/PRP make/VBP some/DT outline/JJ sketches/NNS of/IN the/DT basic/JJ shape/NN first/RB ?/PUNCT
+do/VB you/PRP mind/VB if/IN I/PRP draw/VBP in/IN black/JJ then/RB ?/PUNCT For/IN normal/JJ sketches/NNS ./PUNCT
+Sh/NNP sh/VBP shouldn't/NN we/PRP integrate/VBP it/PRP ?/PUNCT
+
+we/PRP covered/VBD that/IN with/IN our/PRP$ screen/NN and/CC and/CC speech/JJ recognition/NN ,/PUNCT
+technolog/NN technological/JJ innovation/NN ,/PUNCT we've/NN covered/VBD that/IN I/PRP ./PUNCT
+You/PRP don't/VBP have/VB to/TO be/VB scared/VBN about/IN bouncing/VBG it/PRP off/RP the/DT g/NN floor/NN and/CC breaking/VBG it/PRP or/CC whatever/WDT ./PUNCT
+we/PRP need/VBP the/DT chip/NN on/IN print/NN to/TO be/VB able/JJ to/TO support/VB the/DT screen/NN and/CC and/CC f/JJ audio/JJ function/NN ./PUNCT
+you/PRP have/VBP it/PRP in/IN your/PRP$ hand/NN so/RB it's/RB a/DT an/DT angle/NN from/IN your/PRP$ eyes/NNS to/TO the/DT screen/NN ./PUNCT
+How/WRB about/IN we/PRP do/VBP a/DT a/DT pop-up/JJ screen/NN ,/PUNCT like/IN the/DT laptop/NN ./PUNCT
+But/CC then/RB the/DT side/NN view/NN can/MD be/VB straight/VBN ./PUNCT If/IN you/PRP have/VBP a/DT pop-up/JJ screen/NN ./PUNCT
+the/DT idea/NN of/IN it/PRP was/VBD ,/PUNCT is/VBZ that/IN because/IN you/PRP close/VBP it/PRP ,/PUNCT you/PRP cover/VBP the/DT L_C_D_/NNP screen/NN and/CC it/PRP won't/RB be/VB vulnerable/JJ to/TO scratches/NNS or/CC whatever/WDT ./PUNCT
+We/PRP just/RB have/VBP to/TO make/VB that/IN the/DT closing/NN mechanism/NN won't/JJ break/NN ./PUNCT
+So/RB if/IN I'm/NNP drawing/VBG and/CC you/PRP think/VBP I'm/NNP not/RB gonna/RB be/VB able/JJ to/TO put/VB a/DT screen/NN in/IN there/RB ,/PUNCT you/PRP have/VBP to/TO correct/VB ./PUNCT
+May/NNP maybe/RB it's/VBZ easier/JJR to/TO integrate/VB the/DT L_C_D_/NNP screen/NN just/RB into/IN this/DT bubble/JJ ./PUNCT
+because/IN if/IN it/PRP falls/VBZ on/IN the/DT other/JJ side/NN ,/PUNCT it/PRP doesn't/VBZ fall/NN on/IN the/DT screen/NN ./PUNCT
+
 the/DT energy/NN source/NN ./PUNCT we/PRP have/VBP four/CD types/NNS ./PUNCT
 the/DT kinetic/JJ provision/NN of/IN energy/NN which/WDT means/VBZ if/IN you/PRP move/VBP the/DT thing/NN ,/PUNCT if/IN you/PRP shake/VBP it/PRP ./PUNCT
 you/PRP can/MD only/RB fit/VB one/CD source/NN of/IN energy/NN on/IN the/DT
@@ -150,82 +176,56 @@ imagine/NN that/IN the/DT kinetic/JJ type/NN energy/NN source/NN would/MD be/VB 
 energy/NN source/NN ,/PUNCT chip/NN type/NN ,/PUNCT case/NN type/NN ./PUNCT And/CC user/JJ interface/NN ./PUNCT
 So/IN we/PRP only/RB ,/PUNCT we/PRP already/RB decided/VBD that/IN kinetic/JJ would/MD be/VB the/DT choice/NN for/IN energy/NN ./PUNCT
 the/DT interface/NN type/NN supplements/NNS ./PUNCT
+your/PRP$ fingers/NNS have/VBP to/TO fit/VB underneath/NN and/CC
 
-I'm/NNP dealing/VBG with/IN the/DT components/NNS design/NN ./PUNCT
-I/PRP used/VBD some/DT design/NN examples/VBZ we/PRP had/VBD from/IN similar/JJ products/NNS ./PUNCT
-And/CC I/PRP used/VBD possibilities/NNS from/IN our/PRP$ manufacturing/NN department/NN about/IN current/JJ components/NNS which/WDT will/MD have/VB to/TO be/VB implemented/VBN in/IN the/DT design/NN ./PUNCT
-I/PRP could/MD not/RB drag/VB the/DT pictures/NNS into/IN the/DT slides/NNS so/RB s/RB so/IN I/PRP don't/VBP have/VBP examples/NNS of/IN how/WRB it/PRP looks/VBZ like/IN ./PUNCT
-There/EX is/VBZ a/DT lot/NN of/IN factors/NNS involved/VBN in/IN choosing/VBG the/DT components/NNS ./PUNCT
-But/CC how/WRB we/PRP would/MD use/VB that/DT into/IN the/DT design/NN of/IN the/DT actual/JJ product/NN ./PUNCT
-for/IN the/DT a/DT case/NN ,/PUNCT there's/VB the/DT traditional/JJ uncurved/JJ flat/JJ hard/JJ case/NN ./PUNCT
-the/DT advanced/JJ chip/NN is/VBZ easiest/JJS to/TO implement/VB for/IN the/DT production/NN ,/PUNCT they/PRP can/MD print/VB it/PRP better/JJR ./PUNCT
-we/PRP have/VBP this/DT very/RB basic/JJ trendy/NN design/NN ./PUNCT
-But/CC this/DT is/VBZ the/DT basic/JJ design/NN for/IN the/DT m/NN for/IN the/DT buttons/NNS ./PUNCT
-We're/NNP going/VBG to/TO produce/VB it/PRP in/IN China/NNP so/RB it's/JJ no/DT problem/NN ./PUNCT
-I/PRP got/VBD my/PRP$ fresh/JJ and/CC fyoo/JJ fruity/NN picture/NN also/RB over/IN there/RB ,/PUNCT so/IN
-It/PRP has/VBZ to/TO be/VB instead/RB of/IN the/DT PlayStation/NNP ,/PUNCT the/DT module/NN ./PUNCT It/PRP has/VBZ to/TO be/VB like/IN the/DT Game/NNP Cube/NNP ,/PUNCT ,/PUNCT
-Next/JJ thirty/NN minutes/NNS to/TO design/VB something/NN so/RB
-Because/IN we/PRP have/VBP en/VBN enough/JJ space/NN for/IN making/VBG a/DT an/DT L_C_D/NNP ./PUNCT
-
-And/CC the/DT feel/NN of/IN the/DT material/NN is/VBZ expected/VBN to/TO be/VB spongey/VBN ./PUNCT
-most/RBS important/JJ aspect/NN for/IN remote/NN control/NN happens/VBZ to/TO be/VB a/DT fancy/JJ look-and-feel/NN ./PUNCT Instead/RB of/IN the/DT current/JJ functional/JJ look-and-feel/NN ./PUNCT
-fancy/JJ stands/NNS for/IN an/DT original/JJ look-and-feel/NN of/IN the/DT case/NN and/CC the/DT interface/NN ./PUNCT
-So/RB fancy/JJ look-and-feel/NN is/VBZ the/DT most/RBS important/JJ point/NN of/IN attention/NN ./PUNCT
-I/PRP have/VBP to/TO focus/VB on/IN the/DT basic/JJ look-and-feel/JJ design/NN ./PUNCT
-because/IN it/PRP will/MD feel/VB weird/JJ if/IN you/PRP would/MD make/VB this/DT smaller/JJR and/CC this/DT bigger/JJR that/IN
-Remember/NNP that/IN the/DT weird/JJ pocketphone/NN thingy/NN which/WDT looked/VBD like/IN a/DT Gameboy/NNP ./PUNCT
-
-we/PRP have/VBP all/DT kinds/NNS of/IN hard/JJ materials/NNS like/IN the/DT hard/JJ plastic/NN ,/PUNCT the/DT wood/NN and/CC the/DT titanium/NN ./PUNCT
 and/CC especially/RB when/WRB the/DT material's/NN rubber/NN ./PUNCT It/PRP can/MD be/VB done/VBN ,/PUNCT ,/PUNCT you/PRP can't/VBP harm/VB it/PRP ,/PUNCT
 And/CC rubber/NN ./PUNCT Rubber/NNP material/NN ./PUNCT
+It/PRP has/VBZ to/TO be/VB instead/RB of/IN the/DT PlayStation/NNP ,/PUNCT the/DT module/NN ./PUNCT It/PRP has/VBZ to/TO be/VB like/IN the/DT Game/NNP Cube/NNP ,/PUNCT ,/PUNCT
+So/RB from/IN top/JJ view/NN it/PRP looks/VBZ kinda/NNS like/IN this/DT ./PUNCT
 An/DT adv/NN an/DT adv/NN and/CC it/PRP will/MD be/VB covered/VBN in/IN some/DT thin/JJ rubber/VBP layer/NN like/IN that/DT ./PUNCT
 We/PRP we/PRP could/MD make/VB some/DT rubber/NN mouse/NN ,/PUNCT with/IN which/WDT you/PRP can/MD change/VB
+but/CC it's/JJ pretty/RB fresh/JJ ,/PUNCT on/IN the/DT other/JJ side/NN ./PUNCT
+Not/RB only/RB on/IN the/DT front/NN si/VBD the/DT top/JJ side/NN but/CC also/RB the/DT side/NN view/NN ./PUNCT
+L/NNP let's/NNS make/VBP first/JJ the/DT all/PDT the/DT views/NNS ./PUNCT The/DT the/DT front/JJ view/NN ,/PUNCT side/NN view/NN and/CC the/DT back/RB view/NN ./PUNCT
 So/RB there's/VB a/DT layer/NN of/IN rubber/NN on/IN the/DT side/NN ./PUNCT
 
-we/PRP covered/VBD that/IN with/IN our/PRP$ screen/NN and/CC and/CC speech/JJ recognition/NN ,/PUNCT
-You/PRP don't/VBP have/VB to/TO be/VB scared/VBN about/IN bouncing/VBG it/PRP off/RP the/DT g/NN floor/NN and/CC breaking/VBG it/PRP or/CC whatever/WDT ./PUNCT
-you/PRP have/VBP it/PRP in/IN your/PRP$ hand/NN so/RB it's/RB a/DT an/DT angle/NN from/IN your/PRP$ eyes/NNS to/TO the/DT screen/NN ./PUNCT
-How/WRB about/IN we/PRP do/VBP a/DT a/DT pop-up/JJ screen/NN ,/PUNCT like/IN the/DT laptop/NN ./PUNCT
-the/DT idea/NN of/IN it/PRP was/VBD ,/PUNCT is/VBZ that/IN because/IN you/PRP close/VBP it/PRP ,/PUNCT you/PRP cover/VBP the/DT L_C_D_/NNP screen/NN and/CC it/PRP won't/RB be/VB vulnerable/JJ to/TO scratches/NNS or/CC whatever/WDT ./PUNCT
-We/PRP just/RB have/VBP to/TO make/VB that/IN the/DT closing/NN mechanism/NN won't/JJ break/NN ./PUNCT
-partly/RB but/CC you/PRP have/VBP to/TO print/VB on/IN the/DT number/NN ./PUNCT Or/CC the/DT sign/NN ./PUNCT
-So/RB if/IN I'm/NNP drawing/VBG and/CC you/PRP think/VBP I'm/NNP not/RB gonna/RB be/VB able/JJ to/TO put/VB a/DT screen/NN in/IN there/RB ,/PUNCT you/PRP have/VBP to/TO correct/VB ./PUNCT
-do/VB you/PRP mind/VB if/IN I/PRP draw/VBP in/IN black/JJ then/RB ?/PUNCT For/IN normal/JJ sketches/NNS ./PUNCT
-May/NNP maybe/RB it's/VBZ easier/JJR to/TO integrate/VB the/DT L_C_D_/NNP screen/NN just/RB into/IN this/DT bubble/JJ ./PUNCT
-because/IN if/IN it/PRP falls/VBZ on/IN the/DT other/JJ side/NN ,/PUNCT it/PRP doesn't/VBZ fall/NN on/IN the/DT screen/NN ./PUNCT
-With/IN a/DT copyright/NN sign/NN after/IN Real/NNP ./PUNCT
-
-I/PRP knew/VBD that/IN I/PRP didn't/VBP have/JJ time/NN so/IN copy/JJ and/CC paste/NN everything/NN into/IN the/DT
-Move/NNP to/TO meeting/NN room/NN ./PUNCT
 fruit/NN and/CC vegetables/NNS will/MD be/VB the/DT most/RBS important/JJ theme/NN for/IN clothing/NN ,/PUNCT shoes/NNS and/CC furniture/NN ./PUNCT
-the/DT first/JJ aspect/NN was/VBD twice/RB as/RB important/JJ as/IN the/DT second/JJ aspect,w/NN which/WDT was/VBD twice/RB as/RB important/JJ as/IN the/DT third/JJ aspect/NN ./PUNCT
+And/CC the/DT feel/NN of/IN the/DT material/NN is/VBZ expected/VBN to/TO be/VB spongey/VBN ./PUNCT
+this/DT is/VBZ the/DT fruit/NN and/CC vegetables/NNS looks/NNS of/IN fresh/JJ bright/JJ colours/NNS ./PUNCT
 so/RB the/DT fruits/NNS and/CC vegetables/NNS in/IN combination/NN with/IN the/DT spongey/JJ material/NN ./PUNCT
-technolog/NN technological/JJ innovation/NN ,/PUNCT we've/NN covered/VBD that/IN I/PRP ./PUNCT
-One/CD one/CD very/RB important/JJ thing/NN I/PRP was/VBD thinking/VBG about/RB is/VBZ the/DT speech/NN option/NN ./PUNCT
-the/DT visual/JJ representation/NN is/VBZ not/RB there/RB with/IN speech/NN
-in/IN the/DT last/JJ meeting/NN we/PRP we/PRP were/VBD putting/VBG the/DT simple/NN and/CC the/DT advanced/JJ options/NNS separated/VBN ./PUNCT
-You/PRP did/VBD read/VB the/DT minutes/NNS I/PRP wrote/VBD ?/PUNCT
-with/IN a/DT speech/NN display/NN ,/PUNCT sound/NN ,/PUNCT everything/NN you/PRP noted/VBD in/IN your/PRP$ minutes/NNS ./PUNCT
-Child/NNP labour/NN man/NN ,/PUNCT we/PRP love/VBP it/PRP ./PUNCT
-Y/NN left/VBD left/VBN and/CC then/RB I/PRP have/VBP to/TO kick/VB you/PRP out/RP ./PUNCT
-but/CC maybe/RB you/PRP can/MD do/VB the/DT evaluation/NN you/PRP don't/VBP have/VB to/TO evaluate/VB yet/RB but/CC you/PRP can/MD make/VB a/DT procedure/NN which/WDT to/TO follow/VB ./PUNCT
-Five/CD minutes/NNS left/VBD before/IN the/DT meeting/NN ends/VBZ ./PUNCT
+I/PRP could/MD not/RB drag/VB the/DT pictures/NNS into/IN the/DT slides/NNS so/RB s/RB so/IN I/PRP don't/VBP have/VBP examples/NNS of/IN how/WRB it/PRP looks/VBZ like/IN ./PUNCT
+But/CC it/PRP comes/VBZ down/RB to/TO what/WP you/PRP what/WP you/PRP think/VBP we/PRP should/MD do/VB with/IN the/DT spongey/NN and/CC the/DT fruity/NN looking/VBG type/NN ./PUNCT
+for/IN the/DT a/DT case/NN ,/PUNCT there's/VB the/DT traditional/JJ uncurved/JJ flat/JJ hard/JJ case/NN ./PUNCT
+we/PRP have/VBP all/DT kinds/NNS of/IN hard/JJ materials/NNS like/IN the/DT hard/JJ plastic/NN ,/PUNCT the/DT wood/NN and/CC the/DT titanium/NN ./PUNCT
+I/PRP got/VBD my/PRP$ fresh/JJ and/CC fyoo/JJ fruity/NN picture/NN also/RB over/IN there/RB ,/PUNCT so/IN
 
-I/PRP can't/VBP cut/VBN and/CC paste/VB it/PRP into/IN the/DT other/JJ folder/NN but/CC
 We're/NNP f/VBZ mainly/RB focusing/VBG on/IN this/DT group/NN ,/PUNCT but/CC I/PRP want/VBP to/TO make/VB the/DT distinction/NN clear/JJ ./PUNCT
 And/CC could/MD you/PRP put/VB that/DT in/IN the/DT group/NN folder/NN ?/PUNCT Of/IN the/DT project/NN folder/NN ./PUNCT
 'S/VBZ the/DT target/NN group/NN ./PUNCT
-that/IN you/PRP scroll/VBP with/IN your/PRP$ thumb/NN ,/PUNCT with/IN the/DT arrows/NNS ,/PUNCT and/CC then/RB confirm/NN ./PUNCT
-I/PRP don't/VBP like/IN to/TO call/VB brands/NNS phones/NNS ,/PUNCT
 maybe/RB a/DT white/JJ a/DT white/JJ backlight/NN ?/PUNCT
 White/NNP backlight/NN ,/PUNCT and/CC dark/NN ./PUNCT
-And/CC then/RB after/IN that/IN we/PRP can/MD make/VB the/DT user/NN inter/NN interface/NN ./PUNCT
+The/DT the/DT press/NN buttons/NNS ./PUNCT Should/MD they/PRP be/VB white/JJ or/CC black/JJ or/CC
 
 So/RB my/PRP$ point/NN of/IN attention/NN is/VBZ especially/RB this/DT part/NN ./PUNCT
 which/WDT we/PRP we/PRP Dutch/VBP refer/VBP to/TO it/PRP as/IN the/DT kneipgatt/NN ./PUNCT
 I/PRP wasn't/VBP able/JJ to/TO finish/VB my/PRP$ personal/JJ preferences/NNS sheet/NN ,/PUNCT
 I/PRP was/VBD working/VBG on/IN some/DT per/IN personal/JJ preferences/NNS ./PUNCT
-So/IN we/PRP need/VBP to/TO sell/VB it/PRP for/IN twenty/NN five/CD Euro/NNP a/DT piece/NN ./PUNCT
 the/DT lower/JJR part/NN doesn't/NN work/NN I/PRP ,/PUNCT
+but/CC maybe/RB you/PRP can/MD do/VB the/DT evaluation/NN you/PRP don't/VBP have/VB to/TO evaluate/VB yet/RB but/CC you/PRP can/MD make/VB a/DT procedure/NN which/WDT to/TO follow/VB ./PUNCT
+but/CC this/DT part/NN isn't/VBZ functioning/VBG properly/RB ./PUNCT
 It's/NNP fun/NN to/TO work/VB with/IN this/DT pen/NN ./PUNCT
+Because/IN we/PRP have/VBP en/VBN enough/JJ space/NN for/IN making/VBG a/DT an/DT L_C_D/NNP ./PUNCT
+
+I/PRP knew/VBD that/IN I/PRP didn't/VBP have/JJ time/NN so/IN copy/JJ and/CC paste/NN everything/NN into/IN the/DT
+I/PRP can't/VBP cut/VBN and/CC paste/VB it/PRP into/IN the/DT other/JJ folder/NN but/CC
+Move/NNP to/TO meeting/NN room/NN ./PUNCT
+You/PRP did/VBD read/VB the/DT minutes/NNS I/PRP wrote/VBD ?/PUNCT
+So/IN we/PRP need/VBP to/TO sell/VB it/PRP for/IN twenty/NN five/CD Euro/NNP a/DT piece/NN ./PUNCT
+We're/NNP going/VBG to/TO produce/VB it/PRP in/IN China/NNP so/RB it's/JJ no/DT problem/NN ./PUNCT
+Child/NNP labour/NN man/NN ,/PUNCT we/PRP love/VBP it/PRP ./PUNCT
+it's/NN not/RB very/RB very/RB strong/JJ if/IN you/PRP drop/VBP it/PRP one/CD time/NN ./PUNCT
+Y/NN left/VBD left/VBN and/CC then/RB I/PRP have/VBP to/TO kick/VB you/PRP out/RP ./PUNCT
+partly/RB but/CC you/PRP have/VBP to/TO print/VB on/IN the/DT number/NN ./PUNCT Or/CC the/DT sign/NN ./PUNCT
+Five/CD minutes/NNS left/VBD before/IN the/DT meeting/NN ends/VBZ ./PUNCT
+With/IN a/DT copyright/NN sign/NN after/IN Real/NNP ./PUNCT
 

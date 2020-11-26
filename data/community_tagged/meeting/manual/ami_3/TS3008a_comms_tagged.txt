@@ -5,13 +5,13 @@
 You/PRP have/VBP the/DT pen/JJ function/NN ,/PUNCT eraser/JJR function/NN ./PUNCT
 And/CC then/RB a/DT different/JJ remote/NN control/NN with/IN different/JJ functions/NNS on/IN different/JJ places/NNS ,/PUNCT and/CC half/NN of/IN the/DT functions/NNS a/DT are/VBP removed/VBN ,/PUNCT or/CC whatever/WDT ./PUNCT
 
-,/PUNCT we're/WP gonna/JJ brainstorm/NN about/IN what/WP kemoro/VBD romo/JJ remote/JJ control/NN it's/NN gonna/NN be/VB ./PUNCT
 ,/PUNCT tell/VB me/PRP about/IN your/PRP$ experiences/NNS with/IN the/DT remote/JJ controls/NNS ./PUNCT
 Do/VBP you/PRP have/VB good/JJ experiences/NNS with/IN remote/NN controls/NNS ?/PUNCT
-I/PRP don't/VBP th/JJ I/PRP don't/VBP think/VB the/DT four/CD of/IN us/PRP got/VBD problems/NNS with/IN remote/JJ controls/NNS ,/PUNCT
-,/PUNCT so/RB what/WP we/PRP need/VBP is/VBZ a/DT clear/JJ remote/NN control/NN with/IN
 
 ,/PUNCT the/DT project/NN aim/NN is/VBZ to/TO design/VB a/DT new/JJ remote/NN control/NN ./PUNCT
+,/PUNCT we're/WP gonna/JJ brainstorm/NN about/IN what/WP kemoro/VBD romo/JJ remote/JJ control/NN it's/NN gonna/NN be/VB ./PUNCT
+I/PRP don't/VBP th/JJ I/PRP don't/VBP think/VB the/DT four/CD of/IN us/PRP got/VBD problems/NNS with/IN remote/JJ controls/NNS ,/PUNCT
+,/PUNCT so/RB what/WP we/PRP need/VBP is/VBZ a/DT clear/JJ remote/NN control/NN with/IN
 
 we/PRP begin/VBP with/IN the/DT functional/JJ design/NN ,/PUNCT then/RB we/PRP go/VBP to/TO the/DT conceptual/JJ design/NN and/CC the/DT detailed/JJ design/NN ./PUNCT
 You/PRP all/DT received/VBD an/DT email/NN with/IN a/DT example/NN of/IN our/PRP$ explanation/NN of/IN what/WP the/DT particular/JJ level/NN of/IN design/NN means/VBZ to/TO the/DT different/JJ functions/NNS ,/PUNCT
@@ -102,12 +102,12 @@ Antek/NNP Ahmet/NNP ./PUNCT And/CC Joost/NNP ./PUNCT
 
 ,/PUNCT I/PRP like/VBP its/PRP$ sharp/JJ razor/NN sharp/JJ teeth/NN ./PUNCT
 
+He's/NNP crying/NN because/IN it's/NN ugl/NN because/IN of/IN his/PRP$ ugliness/NN ./PUNCT
+
 ,/PUNCT this/DT the/DT maybe/NN is/VBZ some/DT aspect/NN of/IN the/DT ,/PUNCT or/CC some/DT point/NN at/IN which/WDT we/PRP can/MD excel/VB by/IN making/VBG it/PRP very/RB useful/JJ ./PUNCT
 
 Specific/JJ instructions/NNS will/MD be/VB sent/VBN to/TO you/PRP by/IN your/PRP$ personal/JJ coach/NN ./PUNCT
 
-We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
-
 Plus/CC ,/PUNCT the/DT big/JJ forehead/NN and/CC a/DT small/JJ ,/PUNCT a/DT small/JJ actual/JJ face/NN ./PUNCT
-He's/NNP crying/NN because/IN it's/NN ugl/NN because/IN of/IN his/PRP$ ugliness/NN ./PUNCT
+We/PRP gonna/VBP skip/JJ back/RB to/TO the/DT goals/NNS probably/RB ./PUNCT ,/PUNCT
 
