@@ -1,5 +1,13 @@
 ## ACL2018_AbsSumm
 
+### Community Detection (Updated to Python3)
+
+Python 3.7 version
+```
+$ python install -r requirements.txt 
+$ python main.py
+```
+
 ### Requirements
 
 Anaconda of Python 2.7 version
