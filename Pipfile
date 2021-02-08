@@ -10,6 +10,7 @@ pandas = "==0.24.2"
 networkx = "==1.11"
 python-igraph = "*"
 igraph = "*"
+numpy = "==1.19.5"
 
 [dev-packages]
 
