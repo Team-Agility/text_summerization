@@ -89,6 +89,7 @@ def read_ami_icsi(path, filler_words):
     utterances = []
     for tmp in list(zip(asr_output['role'].tolist(), asr_output['utt'].tolist())):
         role, utt = tmp
+        utt_org = utt
         for ch in ['{vocalsound}', '{gap}', '{disfmarker}', '{comment}', '{pause}', '@reject@']:
             utt = re.sub(ch, '', utt)
 
@@ -118,13 +119,12 @@ def read_ami_icsi(path, filler_words):
         utt = utt.strip()
 
         if utt != '' and utt != '.' and utt != ' ':
-            utterances.append((role, utt))
+            utterances.append((role, utt, utt_org))
 
     # remove duplicate utterances per speaker
     utterances = sorted(set(utterances), key=utterances.index)
 
-    utterances_indexed = list(zip(range(len(utterances)), list(zip(*utterances))[0], list(zip(*utterances))[1]))
-
+    utterances_indexed = list(zip(range(len(utterances)), list(zip(*utterances))[0], list(zip(*utterances))[1], list(zip(*utterances))[2]))
     return utterances_indexed
 
 

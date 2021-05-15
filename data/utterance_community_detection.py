@@ -18,11 +18,6 @@ data/ami_params_create_community.csv'
 """
 import os
 import sys
-# path_to_root = '/data/gshang/acl2018_abssumm/'
-# path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
-# path_to_root = '/root/project/text-summery/text_summerization/'
-# # os.chdir(path_to_root)
-# sys.path.append(path_to_root)
 
 import string
 import core_rank
@@ -37,10 +32,6 @@ from dictionary_tokenizer import DictionaryTokenizer
 from sklearn.model_selection import ParameterGrid
 nltk.download('averaged_perceptron_tagger')
 
-domain     = 'meeting' # meeting
-dataset_id = 'ami'     # ami, icsi
-language   = 'en'      # en
-# source     = 'asr'     # asr, manual
 source     = 'manual'     # asr, manual
 
 
@@ -48,19 +39,14 @@ source     = 'manual'     # asr, manual
 # ### RESOURCES LOADING ###
 # #########################
 def comm_det():
-    if domain == 'meeting':
-        path_to_stopwords    = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
-        path_to_filler_words = 'resources/stopwords/meeting/filler_words.' + language + '.txt'
-        stopwords = utils.load_stopwords(path_to_stopwords)
-        filler_words = utils.load_filler_words(path_to_filler_words)
+    path_to_stopwords    = 'resources/stopwords/meeting/stopwords.en.dat'
+    path_to_filler_words = 'resources/stopwords/meeting/filler_words.en.txt'
+    stopwords = utils.load_stopwords(path_to_stopwords)
+    filler_words = utils.load_filler_words(path_to_filler_words)
 
-        if dataset_id == 'ami':
-            ids = meeting_lists.ami_development_set + meeting_lists.ami_test_set
-        elif dataset_id == 'icsi':
-            ids = meeting_lists.icsi_development_set + meeting_lists.icsi_test_set
+    ids = meeting_lists.ami_development_set + meeting_lists.ami_test_set
 
-    if language == 'en':
-        path_to_word2vec_keys = 'resources/word2vec_keys.txt'
+    path_to_word2vec_keys = 'resources/word2vec_keys.txt'
     # tokenizer = DictionaryTokenizer(path_to_word2vec_keys) # highly time-consuming
     # tokenizer = TweetTokenizer()
     tagger = PerceptronTagger()
@@ -69,15 +55,11 @@ def comm_det():
     # ### CORPUS LOADING ###
     # ######################
     corpus = {}
+    corpus_org = {}
     for id in ids:
-        if domain == 'meeting':
-            if dataset_id == 'ami' or dataset_id == 'icsi':
-                if source == 'asr':
-                    path = 'data/meeting/' + dataset_id + '/' + id + '.da-asr'
-                elif source == 'manual':
-                    path = 'data/meeting/' + dataset_id + '/' + id + '.da'
-                # filler words will be removed during corpus loading
-                corpus[id] = utils.read_ami_icsi(path, filler_words)
+        path = f'data/meeting/ami/{id}.da'
+        # filler words will be removed during corpus loading
+        corpus[id] = utils.read_ami_icsi(path, filler_words)
 
     # #############################
     # ### CORPUS PRE-PROCESSING ###
@@ -87,7 +69,8 @@ def comm_det():
         utterances_indexed = corpus[id]
         utterances_indexed_tagged = []
         for i in range(len(utterances_indexed)):
-            index, role, utt = utterances_indexed[i]
+            # print(utterances_indexed[i])
+            index, role, utt, urr_org = utterances_indexed[i]
 
             # tokenization
             tokens = utt.split(' ')
@@ -102,10 +85,7 @@ def comm_det():
     # ######################
     # ### PARAMETER GRID ###
     # ######################
-    if dataset_id == 'ami':
-        lsa_n_components_grid = [30]
-    elif dataset_id == 'icsi':
-        lsa_n_components_grid = [60]
+    lsa_n_components_grid = [30]
 
     param_grid = {
         # algorithm: clustering algorithm | kmeans, agglomerative_clustering
@@ -149,7 +129,7 @@ def comm_det():
     # save indexed parameter grid
     import csv
     keys = list(params[0].keys())
-    with open('data/' +  dataset_id + '_params_create_community.csv', 'w') as output_file:
+    with open('data/ami_params_create_community.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(params)
@@ -261,40 +241,39 @@ def comm_det():
             # ### OUTPUT ###
             # ##############
             # output remain utterances
-            if domain == 'meeting':
-                path_to_utterance = 'data/utterance/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
+            path_to_utterance = f'data/utterance/meeting/{source}/ami_{param_id}/'
             if not os.path.exists(path_to_utterance):
                 os.makedirs(path_to_utterance)
 
-            with open(path_to_utterance + id + '_utterances.txt', 'w+') as txtfile:
+            with open(f'{path_to_utterance}{id}_utterances.txt', 'w+') as txtfile:
                 txtfile.write('\n'.join(utterances_remain))
 
             # output community
-            if domain == 'meeting':
-                path_to_community = 'data/community/meeting/'+ source + '/' + dataset_id + '_' + str(param_id) + '/'
+            path_to_community = f'data/community/meeting/{source}/ami_{str(param_id)}/'
             if not os.path.exists(path_to_community):
                 os.makedirs(path_to_community)
 
-            with open(path_to_community + id + '_comms.txt', 'w+') as txtfile:
+            with open(f'{path_to_community}{id}_comms.txt', 'w+') as txtfile:
                 for label in std_comm_labels:
                     for my_label in [sent[0] for i, sent in enumerate(utterances_processed) if membership[i] == label]:
                         to_write = [elt[2] for elt in utterances_indexed if elt[0] == my_label][0]
+                        print('xxxxxxx')
+                        print(to_write)
                         # one utterance per line
-                        txtfile.write(to_write + '\n')
+                        txtfile.write(f'{to_write}\n')
                     # separate communities by white line
                     txtfile.write('\n')
 
             # output tagged community
-            if domain == 'meeting':
-                path_to_community_tagged = 'data/community_tagged/meeting/' + source + '/'+ dataset_id + '_' + str(param_id) + '/'
+            path_to_community_tagged = f'data/community_tagged/meeting/{source}/ami_{param_id}/'
             if not os.path.exists(path_to_community_tagged):
                 os.makedirs(path_to_community_tagged)
 
-            with open(path_to_community_tagged + id + '_comms_tagged.txt', 'w+') as txtfile:
+            with open(f'{path_to_community_tagged}{id}_comms_tagged.txt', 'w+') as txtfile:
                 for label in std_comm_labels:
                     for my_label in [sent[0] for i, sent in enumerate(utterances_processed) if membership[i] == label]:
                         to_write = [elt[2] for elt in utterances_indexed_tagged if elt[0] == my_label][0]
                         # one utterance per line
-                        txtfile.write(to_write + '\n')
+                        txtfile.write(f'{to_write}\n')
                     # separate communities by white line
                     txtfile.write('\n')
