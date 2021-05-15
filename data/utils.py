@@ -1,5 +1,6 @@
 import codecs
 import re
+import json
 import string
 import nltk
 import pandas as pd
@@ -78,17 +79,19 @@ def clean_text(text, stopwords, remove_stopwords=True, pos_filtering=False, stem
     return (tokens)
 
 
-def read_ami_icsi(path, filler_words):
-    asr_output = pd.read_csv(
-        path,
-        sep='\t',
-        header=None,
-        names=['ID', 'start', 'end', 'letter', 'role', 'A', 'B', 'C', 'utt']
-    )
+def read_ami_icsi(word_segmentation_file_path, filler_words):
+    seqs = json.load(open(word_segmentation_file_path))
+    # asr_output = pd.read_csv(
+    #     path,
+    #     sep='\t',
+    #     header=None,
+    #     names=['ID', 'start', 'end', 'letter', 'role', 'A', 'B', 'C', 'utt']
+    # )
 
     utterances = []
-    for tmp in list(zip(asr_output['role'].tolist(), asr_output['utt'].tolist())):
-        role, utt = tmp
+    for tmp in seqs:
+        role = tmp['speaker_id']
+        utt = tmp['segment']
         utt_org = utt
         for ch in ['{vocalsound}', '{gap}', '{disfmarker}', '{comment}', '{pause}', '@reject@']:
             utt = re.sub(ch, '', utt)

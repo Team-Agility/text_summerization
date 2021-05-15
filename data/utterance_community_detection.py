@@ -23,7 +23,6 @@ import string
 import core_rank
 from data import utils
 from data import clustering
-from data.meeting import meeting_lists
 from collections import Counter
 import nltk
 from nltk import PerceptronTagger
@@ -35,6 +34,72 @@ nltk.download('averaged_perceptron_tagger')
 source     = 'manual'     # asr, manual
 
 
+ami_test_set = [
+    'ES2013c',
+    'ES2013d',
+    'ES2014a',
+    'ES2014b',
+    'ES2014c',
+    'ES2014d',
+    'ES2015a',
+    'ES2015b',
+    'ES2015c',
+    'ES2015d',
+    'ES2016a',
+    'ES2016b',
+    'ES2016c',
+    'ES2016d'
+]
+
+ami_development_set = [
+    'ES2002a',
+    'ES2002b',
+    'ES2002c',
+    'ES2002d',
+    'ES2003a',
+    'ES2003b',
+    'ES2003c',
+    'ES2003d',
+    'ES2004a',
+    'ES2004b',
+    'ES2004c',
+    'ES2004d',
+    'ES2005a',
+    'ES2005b',
+    'ES2005c',
+    'ES2005d',
+    'ES2006a',
+    'ES2006b',
+    'ES2006c',
+    'ES2006d',
+    'ES2007a',
+    'ES2007b',
+    'ES2007c',
+    'ES2007d',
+    'ES2008a',
+    'ES2008b',
+    'ES2008c',
+    'ES2008d',
+    'ES2009a',
+    'ES2009b',
+    'ES2009c',
+    'ES2009d',
+    'ES2010a',
+    'ES2010b',
+    'ES2010c',
+    'ES2010d',
+    'ES2011a',
+    'ES2011b',
+    'ES2011c',
+    'ES2011d',
+    'ES2012a',
+    'ES2012b',
+    'ES2012c',
+    'ES2012d',
+    'ES2013a',
+    'ES2013b'
+]
+
 # #########################
 # ### RESOURCES LOADING ###
 # #########################
@@ -44,7 +109,7 @@ def comm_det():
     stopwords = utils.load_stopwords(path_to_stopwords)
     filler_words = utils.load_filler_words(path_to_filler_words)
 
-    ids = meeting_lists.ami_development_set + meeting_lists.ami_test_set
+    ids = ami_development_set + ami_test_set
 
     path_to_word2vec_keys = 'resources/word2vec_keys.txt'
     # tokenizer = DictionaryTokenizer(path_to_word2vec_keys) # highly time-consuming
@@ -57,9 +122,9 @@ def comm_det():
     corpus = {}
     corpus_org_mapped = {}
     for id in ids:
-        path = f'data/meeting/ami/{id}.da'
+        word_segmentation_file_path = f'/mnt/d/Projects/FYP/Datasets/AMI-Corpus-JSON-Data-Manupulator/dataset/{id}/words_segmentation.json'
         # filler words will be removed during corpus loading
-        corpus[id] = utils.read_ami_icsi(path, filler_words)
+        corpus[id] = utils.read_ami_icsi(word_segmentation_file_path, filler_words)
 
     # #############################
     # ### CORPUS PRE-PROCESSING ###
@@ -70,12 +135,12 @@ def comm_det():
         utterances_indexed_tagged = []
         for i in range(len(utterances_indexed)):
             # print(utterances_indexed[i])
-            index, role, utt, utt_org = utterances_indexed[i]
+            index, speaker_id, utt, utt_org = utterances_indexed[i]
 
             # tokenization
             tokens = utt.split(' ')
             # tokens = tokenizer.tokenize(utt)
-            corpus[id][i] = (index, role, ' '.join(tokens))  # update
+            corpus[id][i] = (index, speaker_id, ' '.join(tokens))  # update
             if id not in corpus_org_mapped:
                 corpus_org_mapped[id] = {}
             corpus_org_mapped[id][' '.join(tokens)] = utt_org
@@ -83,7 +148,7 @@ def comm_det():
 
             # tagging
             tokens_tagged = [tuple[0] + '/' + (tuple[1] if tuple[0] not in string.punctuation else 'PUNCT') for tuple in tagger.tag(tokens)]
-            utterances_indexed_tagged.append((index, role, ' '.join(tokens_tagged)))
+            utterances_indexed_tagged.append((index, speaker_id, ' '.join(tokens_tagged)))
         corpus_tagged[id] = utterances_indexed_tagged
 
     # ######################
@@ -171,7 +236,7 @@ def comm_det():
             lists_of_terms = []
             utterances_remain = []
             for utterance_indexed in utterances_indexed:
-                index, role, utt = utterance_indexed
+                index, speaker_id, utt = utterance_indexed
                 utt_cleaned = utils.clean_text(
                     utt,
                     stopwords=stopwords,
@@ -183,7 +248,7 @@ def comm_det():
                 )
                 # remove utterances with less than min_words number of non-stopwords
                 if len(utt_cleaned) >= min_words:
-                    utterances_processed.append((index, role, ' '.join(utt_cleaned)))
+                    utterances_processed.append((index, speaker_id, ' '.join(utt_cleaned)))
                     lists_of_terms.append(utt_cleaned)
                     utterances_remain.append(utt)
                 else:
@@ -221,7 +286,7 @@ def comm_det():
             # (measure of average informativeness for each utterance)
             utt_scores = []
             for utterance in utterances_processed:
-                index, role, utt = utterance
+                index, speaker_id, utt = utterance
                 words = utt.split(' ')
                 utt_scores.append(round(sum([core_rank_scores[word] for word in words]) / float(len(words)), 2))
 
