@@ -3,3 +3,4 @@ scikit-learn==0.20.4
 pandas==0.24.2
 networkx==1.11
 python-igraph
+numpy==1.19.5
