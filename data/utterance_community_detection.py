@@ -55,7 +55,7 @@ def comm_det():
     # ### CORPUS LOADING ###
     # ######################
     corpus = {}
-    corpus_org = {}
+    corpus_org_mapped = {}
     for id in ids:
         path = f'data/meeting/ami/{id}.da'
         # filler words will be removed during corpus loading
@@ -70,12 +70,16 @@ def comm_det():
         utterances_indexed_tagged = []
         for i in range(len(utterances_indexed)):
             # print(utterances_indexed[i])
-            index, role, utt, urr_org = utterances_indexed[i]
+            index, role, utt, utt_org = utterances_indexed[i]
 
             # tokenization
             tokens = utt.split(' ')
             # tokens = tokenizer.tokenize(utt)
             corpus[id][i] = (index, role, ' '.join(tokens))  # update
+            if id not in corpus_org_mapped:
+                corpus_org_mapped[id] = {}
+            corpus_org_mapped[id][' '.join(tokens)] = utt_org
+                
 
             # tagging
             tokens_tagged = [tuple[0] + '/' + (tuple[1] if tuple[0] not in string.punctuation else 'PUNCT') for tuple in tagger.tag(tokens)]
@@ -257,10 +261,8 @@ def comm_det():
                 for label in std_comm_labels:
                     for my_label in [sent[0] for i, sent in enumerate(utterances_processed) if membership[i] == label]:
                         to_write = [elt[2] for elt in utterances_indexed if elt[0] == my_label][0]
-                        print('xxxxxxx')
-                        print(to_write)
                         # one utterance per line
-                        txtfile.write(f'{to_write}\n')
+                        txtfile.write(f'{corpus_org_mapped[id][to_write]}=>{to_write}\n')
                     # separate communities by white line
                     txtfile.write('\n')
 
