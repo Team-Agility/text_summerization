@@ -141,7 +141,7 @@ for i in range(len(params)):
 
 # save indexed parameter grid
 import csv
-keys = params[0].keys()
+keys = list(params[0])
 with open('data/' +  dataset_id + '_params_create_community.csv', 'w') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()

@@ -77,7 +77,7 @@ def terms_to_graph(lists_of_terms, window_size, overspanning):
         g.add_vertices(sorted(set([item for sublist in lists_of_terms for item in sublist])))
 
     # add edges, direction is preserved since the graph is directed
-    g.add_edges(list(from_to.keys()))
+    g.add_edges(list(list(from_to)))
 
     # set edge and vertice weights
     g.es['weight'] = list(from_to.values())  # based on co-occurence within sliding window

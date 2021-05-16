@@ -12,10 +12,8 @@ output (grid search csv):
 results/tixier_params_MSC_development.csv
 """
 import os
-import sys
 
 import time
-import string
 import re
 import gensim
 import takahe
@@ -51,22 +49,6 @@ if domain == 'meeting':
 if language == 'en':
     path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
     path_to_lm = 'resources/en-70k-0.2.lm'
-
-# Load Word2Vec (takes approx. 8G RAM)
-print("loading GoogleNews...")
-start = time.time()
-# vectors = Word2Vec(size=3e2, min_count=1)
-# vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
-# vectors.intersect_word2vec_format(path_to_wv, binary=True)
-wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
-# vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
-print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
-
-# Load language model (takes approx. 8G RAM)
-print("loading language model...")
-start = time.time()
-lm = LanguageModel(model_path=path_to_lm)
-print("finish loading language model, time_cost = %.2fs" % (time.time() - start))
 
 # ######################
 # ### PARAMETER GRID ###
@@ -112,7 +94,7 @@ for system_name in system_name_list:
 
     # save indexed parameter grid
     import csv
-    keys = params_new[0].keys()
+    keys = list(params_new[0])
     with open('results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
@@ -127,6 +109,22 @@ for system_name in system_name_list:
 # data/community_tagged/meeting/ami_2/
 # etc.
 corpus_id_range = range(0, 9)
+
+# Load Word2Vec (takes approx. 8G RAM)
+print("loading GoogleNews...")
+start = time.time()
+# vectors = Word2Vec(size=3e2, min_count=1)
+# vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
+# vectors.intersect_word2vec_format(path_to_wv, binary=True)
+wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
+# vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
+print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
+
+# Load language model (takes approx. 8G RAM)
+print("loading language model...")
+start = time.time()
+lm = LanguageModel(model_path=path_to_lm)
+print("finish loading language model, time_cost = %.2fs" % (time.time() - start))
 
 for corpus_id in corpus_id_range:
     start = time.time()

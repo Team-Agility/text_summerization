@@ -60,7 +60,7 @@ def worker(idx, submodularity_param):
             cut = '\n'.join(submodularity.sentence_extraction_submodularity(
                 summary_of_meeting[meeting_id],
                 summary_stemmed_of_meeting[meeting_id],
-                core_rank_scores_of_meeting[meeting_id].keys(),
+                list(core_rank_scores_of_meeting[meeting_id]),
                 # round up to avoid carrying many decimals (to improve efficiency)
                 np.round(np.array(core_rank_scores_of_meeting[meeting_id].values()) / sum(core_rank_scores_of_meeting[meeting_id].values()), 4),
                 to_stem=False,
@@ -203,7 +203,7 @@ for i in range(len(submodularity_params)):
     submodularity_params[i]['index'] = i
 
 # # save indexed parameter grid
-# keys = submodularity_params[0].keys()
+# keys = list(submodularity_params[0])
 # with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as output_file:
 #     dict_writer = csv.DictWriter(output_file, keys)
 #     dict_writer.writeheader()

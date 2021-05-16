@@ -50,7 +50,7 @@ def tfidf(documents):
     tfidf_documents = []
     for document in tokenized_documents:
         doc_tfidf = []
-        for term in idf.keys():
+        for term in list(idf):
             tf = sublinear_term_frequency(term, document)
             doc_tfidf.append(tf * idf[term])
         tfidf_documents.append(doc_tfidf)

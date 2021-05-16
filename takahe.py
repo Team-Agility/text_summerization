@@ -134,7 +134,7 @@ class word_graph:
 
             self.tfidf_dict = {
                 key: self.community_tf_dict[key] * self.meeting_idf_dict[key]
-                for key in self.community_tf_dict.keys()
+                for key in list(self.community_tf_dict)
             }
 
         # ################################
@@ -159,7 +159,7 @@ class word_graph:
 
             self.twidf_dict = {
                 key: self.community_tw_dict[key] * self.meeting_idf_dict[key]
-                for key in self.community_tw_dict.keys()
+                for key in list(self.community_tw_dict)
             }
 
         # ############################
@@ -1591,7 +1591,7 @@ class word_graph:
                         length >= self.nb_words and \
                         paired_parentheses == 0 and \
                         (quotation_mark_number%2) == 0 \
-                        and not sentence_container.has_key(raw_sentence):
+                        and raw_sentence not in sentence_container:
                         path = [node]
                         path.extend(shortestpath)
                         path.reverse()
@@ -1604,7 +1604,7 @@ class word_graph:
                 else:
 
                     # test if node has already been visited
-                    if visited.has_key(node):
+                    if node in visited:
                         visited[node] += 1
                     else:
                         visited[node] = 0
