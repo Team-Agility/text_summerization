@@ -281,7 +281,7 @@ class keyphrase_reranker:
                     for node_k in self.graph.neighbors_iter(node_j):
                         sum_wjk += self.graph[node_j][node_k]['weight']
 
-                    sum_Vj += ((wji * WSVj) / sum_wjk)
+                    sum_Vj += ((wji * WSVj) // sum_wjk)
 
                 # Modify node score
                 self.word_scores[node_i] = (1 - d) + (d * sum_Vj)
@@ -397,7 +397,7 @@ class keyphrase_reranker:
                 non_redundant_keyphrases.append(keyphrase)
 
         # Modify the keyphrase candidate dictionnaries according to the clusters
-        for keyphrase in self.keyphrase_candidates.keys():
+        for keyphrase in list(self.keyphrase_candidates):
 
             # Remove candidate if not in cluster
             if not keyphrase in non_redundant_keyphrases:
@@ -431,7 +431,7 @@ class keyphrase_reranker:
                 if keyphrase in compression.lower():
                     total_keyphrase_score += self.keyphrase_scores[keyphrase]
 
-            score = (cummulative_score / (len(path) * total_keyphrase_score))
+            score = (cummulative_score // (len(path) * total_keyphrase_score))
 
             bisect.insort(reranked_compressions,
                           (score, path))

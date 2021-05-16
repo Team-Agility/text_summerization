@@ -134,7 +134,7 @@ class word_graph:
 
             self.tfidf_dict = {
                 key: self.community_tf_dict[key] * self.meeting_idf_dict[key]
-                for key in self.community_tf_dict.keys()
+                for key in list(self.community_tf_dict)
             }
 
         # ################################
@@ -159,7 +159,7 @@ class word_graph:
 
             self.twidf_dict = {
                 key: self.community_tw_dict[key] * self.meeting_idf_dict[key]
-                for key in self.community_tw_dict.keys()
+                for key in list(self.community_tw_dict)
             }
 
         # ############################
@@ -213,7 +213,7 @@ class word_graph:
             # sentence might be empty (contains only stopwords) after strip_stopwords
             if tokenized_tagged_sentence == []:
                 self.tagged_community.remove(tagged_sentence)
-                print "drop:", tagged_sentence
+                print("drop:", tagged_sentence)
                 continue
 
             # Add the start token at the head of the container
@@ -695,7 +695,7 @@ class word_graph:
                 common_hyp_candidates = self.filter_cand_common_hyp(common_hyp_candidates, i)
                 entail_candidates     = self.filter_cand(entail_candidates, i)
 
-                #print node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates
+                #print(node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates)
 
                 #-------------------------------------------------------------------
                 # If there is no ambiguous node in the graph, add new node to graph
@@ -767,7 +767,7 @@ class word_graph:
                                 w = self.stemmer.stem(w)
                             self.twidf_dict.update({w: max_score})
 
-                        print node.split(self.sep)[0], ',', node_to_replace[0].split(self.sep)[0], "-> common_hyp: ", w
+                        print(node.split(self.sep)[0], ',', node_to_replace[0].split(self.sep)[0], "-> common_hyp: ", w)
                         continue
 
                 if entail_candidates != []:
@@ -1149,7 +1149,7 @@ class word_graph:
         try:
             score = self.tfidf_dict[token]
         except KeyError:
-            #print stemmed_token, "not in tfidf"
+            #print(stemmed_token, "not in tfidf")
             pass
         return score
 
@@ -1163,7 +1163,7 @@ class word_graph:
         try:
             score = self.twidf_dict[token]
         except KeyError:
-            #print stemmed_token, "not in twidf"
+            #print(stemmed_token, "not in twidf")
             pass
         return score
 
@@ -1346,7 +1346,7 @@ class word_graph:
 
         self.graph.remove_node(node_to_replace)
 
-        # print 'node_to_replace: ', self.graph.node[node_to_replace]
+        # print('node_to_replace: ', self.graph.node[node_to_replace])
         return
 
     #-T-----------------------------------------------------------------------T-
@@ -1475,9 +1475,9 @@ class word_graph:
         weight2 = freq2
 
         if self.twidf_coverage:
-            return (freq1 + freq2) / sum(diff)
+            return (freq1 + freq2) // sum(diff)
         else:
-            return ( (freq1 + freq2) / sum(diff) ) / (weight1 * weight2)
+            return ( (freq1 + freq2) // sum(diff) ) // (weight1 * weight2)
 
     def get_edge_weight_word_attract(self, node1, node2):
         # Based on case sensitive form
@@ -1490,7 +1490,7 @@ class word_graph:
         # In case of non-existing word in Word Embedding
         if distance is None:
             distance = 1.
-        # print node1, node2, distance
+        # print(node1, node2, distance)
         return self.get_edge_weight(node1, node2) * distance * distance
 
     def write_dot(self, dotfile):
@@ -1591,7 +1591,7 @@ class word_graph:
                         length >= self.nb_words and \
                         paired_parentheses == 0 and \
                         (quotation_mark_number%2) == 0 \
-                        and not sentence_container.has_key(raw_sentence):
+                        and raw_sentence not in sentence_container:
                         path = [node]
                         path.extend(shortestpath)
                         path.reverse()
@@ -1604,7 +1604,7 @@ class word_graph:
                 else:
 
                     # test if node has already been visited
-                    if visited.has_key(node):
+                    if node in visited:
                         visited[node] += 1
                     else:
                         visited[node] = 0
@@ -1663,7 +1663,7 @@ class word_graph:
 
         # Loop over the compression candidates
         for cummulative_score, path in nbest_compressions:
-            score = cummulative_score / len(path)
+            score = cummulative_score // len(path)
             bisect.insort(reranked_compressions, (score, path))
 
         return reranked_compressions
@@ -1704,9 +1704,9 @@ class word_graph:
                     size += 1
 
             if normalization:
-                all_scores.append(score / cumulative_score / size)
+                all_scores.append(score // cumulative_score // size)
             else:
-                all_scores.append(score / cumulative_score)
+                all_scores.append(score // cumulative_score)
         all_scores = np.array(all_scores)
         return all_scores
 
@@ -1731,9 +1731,9 @@ class word_graph:
                     size += 1
 
             if normalization:
-                all_scores.append(score / cumulative_score / size)
+                all_scores.append(score // cumulative_score // size)
             else:
-                all_scores.append(score / cumulative_score)
+                all_scores.append(score // cumulative_score)
         all_scores = np.array(all_scores)
         return all_scores
 
@@ -1755,7 +1755,7 @@ class word_graph:
                     cluster_counters[idx] = 1
 
             if normalization:
-                all_scores.append(np.sum(cluster_counters) / float(len(sentence)))
+                all_scores.append(np.sum(cluster_counters) // float(len(sentence)))
             else:
                 all_scores.append(np.sum(cluster_counters))
         all_scores = [i + 1e-5 for i in all_scores]  # smooth
@@ -1803,31 +1803,31 @@ class word_graph:
                 if self.tfidf_coverage:
                     fl_score = self.fluency_score(nbest_compressions, normalization=False)
                     for i, compression in enumerate(nbest_compressions):
-                        nbest_compressions[i] = (compression[0] / fl_score[i], compression[1])
+                        nbest_compressions[i] = (compression[0] // fl_score[i], compression[1])
 
                 # tixier
                 if self.twidf_coverage:
                     fl_score = self.fluency_score(nbest_compressions, normalization=True)
                     for i, compression in enumerate(nbest_compressions):
-                        nbest_compressions[i] = (compression[0] / fl_score[i], compression[1])
+                        nbest_compressions[i] = (compression[0] // fl_score[i], compression[1])
 
             # mehdad
             if self.tfidf_coverage:
                 tfidf_co_score = self.noun_tfidf_coverage_score(nbest_compressions, normalization=False)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / tfidf_co_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // tfidf_co_score[i], compression[1])
 
             # tixier
             if self.twidf_coverage:
                 twidf_co_score = self.twidf_coverage_score(nbest_compressions, normalization=True)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / twidf_co_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // twidf_co_score[i], compression[1])
 
             # tixier
             if self.diversity:
                 div_score = self.diversity_score(nbest_compressions, normalization=True)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / div_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // div_score[i], compression[1])
 
             sorted_by_score = sorted(nbest_compressions, key=lambda tup: tup[0])
 

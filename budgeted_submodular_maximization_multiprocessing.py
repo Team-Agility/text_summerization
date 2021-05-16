@@ -48,17 +48,17 @@ def worker(worker_id, submodularity_param):
     # ### LOOP OVER MEETINGS ###
     # ##########################
     for meeting_id in ids:
-        # print "\t\t\t worker:", worker_id, "meeting_id:", meeting_id
+        # print("\t\t\t worker:", worker_id, "meeting_id:", meeting_id)
 
         for summary_size in summary_size_range:
-            # print "\t\t\t\tsummary_size:", summary_size
+            # print("\t\t\t\tsummary_size:", summary_size)
 
             cut = '\n'.join(submodularity.sentence_extraction_submodularity(
                 summary_of_meeting[meeting_id],
                 summary_stemmed_of_meeting[meeting_id],
-                core_rank_scores_of_meeting[meeting_id].keys(),
+                list(core_rank_scores_of_meeting[meeting_id]),
                 # round up to avoid carrying many decimals (to improve efficiency)
-                np.round(np.array(core_rank_scores_of_meeting[meeting_id].values()) / sum(core_rank_scores_of_meeting[meeting_id].values()), 4),
+                np.round(np.array(list(core_rank_scores_of_meeting[meeting_id].values())) // sum(list(core_rank_scores_of_meeting[meeting_id].values())), 4),
                 to_stem=False,
                 budget=summary_size,
                 scaling_factor=submodularity_param['scaling_factor'],
@@ -109,7 +109,7 @@ def worker(worker_id, submodularity_param):
     overall_evaluation_score = np.mean(
         [scores[str(summary_size)]['Avg_F-Score'] for summary_size in summary_size_range])
 
-    print "\t\tsubmodularity_param id:", worker_id
+    print("\t\tsubmodularity_param id:", worker_id)
     return worker_id, overall_evaluation_score, scores
 
 
@@ -138,14 +138,14 @@ if language == 'en':
     path_to_wv = path_to_root + 'resources/GoogleNews-vectors-negative300.bin.gz'
 
 # Load Word2Vec (takes approx. 8G RAM)
-print "loading GoogleNews..."
+print("loading GoogleNews...")
 start = time.time()
 # vectors = Word2Vec(size=3e2, min_count=1)
 # vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
 # vectors.intersect_word2vec_format(path_to_wv, binary=True)
 wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
 # vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
-print "finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start)
+print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
 
 # #############
 # ### ROUGE ###
@@ -200,8 +200,8 @@ for i in range(len(submodularity_params)):
     submodularity_params[i]['index'] = i
 
 # save indexed parameter grid
-keys = submodularity_params[0].keys()
-with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as output_file:
+keys = list(submodularity_params[0])
+with open(path_to_root + 'results/' + 'params_submodularity.csv', 'w') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(submodularity_params)
@@ -210,7 +210,7 @@ with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as outpu
 # ### EVALUATION CSV ###
 # ######################
 for system_name in system_name_list:
-    with open(path_to_root + system_name + '_evaluation.csv', "wb") as f:
+    with open(path_to_root + system_name + '_evaluation.csv', "w") as f:
         f.write('index_step1,index_step2,index_step3,overall_score')
         for key in ['Avg_F-Score', 'Avg_Precision', 'Avg_Recall']:
             for summary_size in summary_size_range:
@@ -225,19 +225,19 @@ corpus_id_range = range(0, 9)
 for corpus_id in corpus_id_range:
     start = time.time()
 
-    print str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id)
+    print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
 
     # #########################
     # ### LOOP OVER SYSTEMS ###
     # #########################
     for system_name in system_name_list:
-        print system_name
+        print(system_name)
 
         # ################################
         # ### LOOP OVER MSC PARAMETERS ###
         # ################################
         for MSC_param_id in range(len(MSC_system_params_dict[system_name])):
-            print "\tMSC_param_id:", MSC_param_id
+            print("\tMSC_param_id:", MSC_param_id)
 
             # remove_stopwords     = True if MSC_system_params_dict[system_name][str(MSC_param_id)]['remove_stopwords'] == 'True' else False
             remove_stopwords     = True
@@ -318,7 +318,7 @@ for corpus_id in corpus_id_range:
 
             pool.close()
             pool.join()
-            print "time_cost = %.2fs" % (time.time() - start_submodularity)
+            print("time_cost = %.2fs" % (time.time() - start_submodularity))
 
             # get results from pool
             overall_evaluation_scores_of_submodularity_params = []
@@ -370,6 +370,6 @@ for corpus_id in corpus_id_range:
             #             f.write(str(best_scores[str(summary_size)][key]))
             #     f.write('\n')
 
-    print "time_cost = %.2fs" % (time.time() - start)
+    print("time_cost = %.2fs" % (time.time() - start))
 
 

@@ -31,5 +31,5 @@ def word_attraction_force(w1, w2, freq1, freq2, wv):
     d = euclidean_distance(w1, w2, wv)
     waf = None
     if d is not None:
-        waf = round((freq1 * freq2) / float(d * d), 5)
+        waf = round((freq1 * freq2) // float(d * d), 5)
     return waf

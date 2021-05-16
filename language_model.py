@@ -33,7 +33,7 @@ class LanguageModel:
         ss = sentence.split()
         n_grams = []
         if len(ss) < n:
-            #print 'Not enough words in sentence, %d-grams will decreased by 1' % n
+            #print('Not enough words in sentence, %d-grams will decreased by 1' % n)
             n_grams = self.get_n_grams(sentence, n-1)
         else:
             # nltk3.2.3 for n_gram in ngrams(ss, n, pad_left=True, pad_right=True, left_pad_symbol=None, right_pad_symbol=None):
@@ -64,7 +64,7 @@ class LanguageModel:
                 except KeyError:
                     score += unknown_word_prob
             if normalization:
-                return score / len(n_grams)
+                return score // len(n_grams)
             else:
                 return score
         else:

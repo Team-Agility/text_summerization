@@ -49,7 +49,7 @@ def worker(system_name, param):
     # ### LOOP OVER MEETINGS ###
     # ##########################
     for meeting_id in ids:
-        # print "\t\tmeeting_id:", meeting_id
+        # print("\t\tmeeting_id:", meeting_id)
 
         # #############################
         # ### IDFS (meeting level)  ###
@@ -75,7 +75,7 @@ def worker(system_name, param):
         meeting_summary = []
 
         for tagged_community in tagged_corpus[meeting_id]:
-            # print "\t\t\ttagged_community_id:", tagged_corpus[meeting_id].index(tagged_community)
+            # print("\t\t\ttagged_community_id:", tagged_corpus[meeting_id].index(tagged_community))
 
             compresser = takahe.word_graph(
                 system_name=system_name,
@@ -150,7 +150,7 @@ def worker(system_name, param):
         #     f.write(cut)
         #     f.close()
 
-    print '\t' + system_name, param_id
+    print('\t' + system_name, param_id)
 
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
@@ -179,20 +179,20 @@ if language == 'en':
     path_to_lm = path_to_root + 'resources/en-70k-0.2.lm'
 
 # Load Word2Vec (takes approx. 8G RAM)
-print "loading GoogleNews..."
+print("loading GoogleNews...")
 start = time.time()
 # vectors = Word2Vec(size=3e2, min_count=1)
 # vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
 # vectors.intersect_word2vec_format(path_to_wv, binary=True)
 wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
 # vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
-print "finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start)
+print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
 
 # Load language model (takes approx. 8G RAM)
-print "loading language model..."
+print("loading language model...")
 start = time.time()
 lm = LanguageModel(model_path=path_to_lm)
-print "finish loading language model, time_cost = %.2fs" % (time.time() - start)
+print("finish loading language model, time_cost = %.2fs" % (time.time() - start))
 
 # ######################
 # ### PARAMETER GRID ###
@@ -238,8 +238,8 @@ for system_name in system_name_list:
 
     # save indexed parameter grid
     import csv
-    keys = params_new[0].keys()
-    with open(path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'wb') as output_file:
+    keys = list(params_new[0])
+    with open(path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(params_new)
@@ -257,7 +257,7 @@ corpus_id_range = range(0, 9)
 for corpus_id in corpus_id_range:
     start = time.time()
 
-    print str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id)
+    print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
     if domain == 'meeting':
         path_to_tagged_corpus = path_to_root + 'data/community_tagged/meeting/' + dataset_id + '_' + str(corpus_id) + '/'
     elif domain == 'document':
@@ -300,4 +300,4 @@ for corpus_id in corpus_id_range:
     pool.close()
     pool.join()
 
-    print "time_cost = %.2fs" % (time.time() - start)
+    print("time_cost = %.2fs" % (time.time() - start))

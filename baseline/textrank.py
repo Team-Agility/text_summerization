@@ -54,7 +54,7 @@ for meeting_id in ids:
     output = re.sub(' +', ' ', output).strip().lower()
     output = summarizer.summarize(output, words=500)
     output = ''.join([l for l in output if l not in punctuations]).replace('\n', ' \n')
-    print len(output.split(' '))
+    print(len(output.split(' ')))
     for summary_size in range(50, 550, 50):
         f = open(path_to_root + 'results/' + domain + '/' + dataset_id + '/' + development_or_test + '/textrank/' + meeting_id + '_' +
                  'textrank' + '-' + str(summary_size) + '.txt', 'w')
