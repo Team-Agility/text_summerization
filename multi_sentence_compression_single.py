@@ -58,20 +58,20 @@ if language == 'en':
     path_to_lm = path_to_root + 'resources/en-70k-0.2.lm'
 
 # Load Word2Vec (takes approx. 8G RAM)
-print "loading GoogleNews..."
+print("loading GoogleNews...")
 start = time.time()
 # vectors = Word2Vec(size=3e2, min_count=1)
 # vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
 # vectors.intersect_word2vec_format(path_to_wv, binary=True)
 wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
 # vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
-print "finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start)
+print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start)))
 
 # Load language model (takes approx. 8G RAM)
-print "loading language model..."
+print("loading language model..."))
 start = time.time()
 lm = LanguageModel(model_path=path_to_lm)
-print "finish loading language model, time_cost = %.2fs" % (time.time() - start)
+print("finish loading language model, time_cost = %.2fs" % (time.time() - start))
 
 # ######################
 # ### PARAMETER GRID ###
@@ -136,7 +136,7 @@ corpus_id_range = range(0, 9)
 for corpus_id in corpus_id_range:
     start = time.time()
 
-    print str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id)
+    print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
     if domain == 'meeting':
         path_to_tagged_corpus = path_to_root + 'data/community_tagged/meeting/' + dataset_id + '_' + str(corpus_id) + '/'
     elif domain == 'document':
@@ -165,14 +165,14 @@ for corpus_id in corpus_id_range:
     # ### LOOP OVER SYSTEMS ###
     # #########################
     for system_name in system_name_list:
-        print system_name
+        print(system_name)
 
         # ############################
         # ### LOOP OVER PARAM_GRID ###
         # ############################
         for param in system_params_dict[system_name]:
             param_id = param['index']
-            # print "\tparam_id:", param_id
+            # print("\tparam_id:", param_id)
 
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # only run on best parameter found in UCD and MSC steps
@@ -215,7 +215,7 @@ for corpus_id in corpus_id_range:
             # ### LOOP OVER MEETINGS ###
             # ##########################
             for meeting_id in ids:
-                # print "\t\tmeeting_id:", meeting_id
+                # print("\t\tmeeting_id:", meeting_id)
 
                 # #############################
                 # ### IDFS (meeting level)  ###
@@ -241,7 +241,7 @@ for corpus_id in corpus_id_range:
                 meeting_summary = []
 
                 for tagged_community in tagged_corpus[meeting_id]:
-                    # print "\t\t\ttagged_community_id:", tagged_corpus[meeting_id].index(tagged_community)
+                    # print("\t\t\ttagged_community_id:", tagged_corpus[meeting_id].index(tagged_community))
 
                     compresser = takahe.word_graph(
                         system_name=system_name,
@@ -314,4 +314,4 @@ for corpus_id in corpus_id_range:
                 #     cut = ' '.join(output.split(' ')[:summary_size]).replace(' \n', '\n')
                 #     f.write(cut)
                 #     f.close()
-    print "time_cost = %.2fs" % (time.time() - start)
+    print("time_cost = %.2fs" % (time.time() - start))

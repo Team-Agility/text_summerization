@@ -213,7 +213,7 @@ class word_graph:
             # sentence might be empty (contains only stopwords) after strip_stopwords
             if tokenized_tagged_sentence == []:
                 self.tagged_community.remove(tagged_sentence)
-                print "drop:", tagged_sentence
+                print("drop:", tagged_sentence)
                 continue
 
             # Add the start token at the head of the container
@@ -695,7 +695,7 @@ class word_graph:
                 common_hyp_candidates = self.filter_cand_common_hyp(common_hyp_candidates, i)
                 entail_candidates     = self.filter_cand(entail_candidates, i)
 
-                #print node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates
+                #print(node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates)
 
                 #-------------------------------------------------------------------
                 # If there is no ambiguous node in the graph, add new node to graph
@@ -767,7 +767,7 @@ class word_graph:
                                 w = self.stemmer.stem(w)
                             self.twidf_dict.update({w: max_score})
 
-                        print node.split(self.sep)[0], ',', node_to_replace[0].split(self.sep)[0], "-> common_hyp: ", w
+                        print(node.split(self.sep)[0], ',', node_to_replace[0].split(self.sep)[0], "-> common_hyp: ", w)
                         continue
 
                 if entail_candidates != []:
@@ -1149,7 +1149,7 @@ class word_graph:
         try:
             score = self.tfidf_dict[token]
         except KeyError:
-            #print stemmed_token, "not in tfidf"
+            #print(stemmed_token, "not in tfidf")
             pass
         return score
 
@@ -1163,7 +1163,7 @@ class word_graph:
         try:
             score = self.twidf_dict[token]
         except KeyError:
-            #print stemmed_token, "not in twidf"
+            #print(stemmed_token, "not in twidf")
             pass
         return score
 
@@ -1346,7 +1346,7 @@ class word_graph:
 
         self.graph.remove_node(node_to_replace)
 
-        # print 'node_to_replace: ', self.graph.node[node_to_replace]
+        # print('node_to_replace: ', self.graph.node[node_to_replace])
         return
 
     #-T-----------------------------------------------------------------------T-
@@ -1490,7 +1490,7 @@ class word_graph:
         # In case of non-existing word in Word Embedding
         if distance is None:
             distance = 1.
-        # print node1, node2, distance
+        # print(node1, node2, distance)
         return self.get_edge_weight(node1, node2) * distance * distance
 
     def write_dot(self, dotfile):

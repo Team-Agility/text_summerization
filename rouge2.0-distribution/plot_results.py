@@ -132,7 +132,7 @@ for score in ['Avg_Precision', 'Avg_Recall', 'Avg_F-Score']:
                     ll.append(float(result[score]))
             l.append(np.array(ll).mean())
         axs[score].plot(sorted(list(set([result['Summarization Size'] for result in results])), key=int)[1:], l[1:], label=system, marker=choose_marker(system, markers.next()), linestyle=choose_linestyle(system))
-        print str(score)+','+str(system)+','+','.join(np.array(l).astype(str))
+        print(str(score)+','+str(system)+','+','.join(np.array(l).astype(str)))
 
 for score in ['Avg_Precision', 'Avg_Recall', 'Avg_F-Score']:    
     dataset_id ='AMI'

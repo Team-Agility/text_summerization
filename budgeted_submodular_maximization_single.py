@@ -52,10 +52,10 @@ def worker(idx, submodularity_param):
     # ### LOOP OVER MEETINGS ###
     # ##########################
     for meeting_id in ids:
-        # print "\t\t\t worker:", worker_id, "meeting_id:", meeting_id
+        # print("\t\t\t worker:", worker_id, "meeting_id:", meeting_id)
 
         for summary_size in summary_size_range:
-            # print "\t\t\t\tsummary_size:", summary_size
+            # print("\t\t\t\tsummary_size:", summary_size)
 
             cut = '\n'.join(submodularity.sentence_extraction_submodularity(
                 summary_of_meeting[meeting_id],
@@ -113,7 +113,7 @@ def worker(idx, submodularity_param):
     overall_evaluation_score = np.mean(
         [scores[str(summary_size)]['Avg_F-Score'] for summary_size in summary_size_range])
 
-    print "\t\tsubmodularity_param id:", submodularity_param['index']
+    print("\t\tsubmodularity_param id:", submodularity_param['index'])
     return overall_evaluation_score, scores
 
 
@@ -142,14 +142,14 @@ if language == 'en':
     path_to_wv = path_to_root + 'resources/GoogleNews-vectors-negative300.bin.gz'
 
 # Load Word2Vec (takes approx. 8G RAM)
-print "loading GoogleNews..."
+print("loading GoogleNews...")
 start = time.time()
 # vectors = Word2Vec(size=3e2, min_count=1)
 # vectors.build_vocab([item for sublist in lists_of_tokens.values() for item in sublist])
 # vectors.intersect_word2vec_format(path_to_wv, binary=True)
 wv = gensim.models.KeyedVectors.load_word2vec_format(path_to_wv, binary=True)
 # vectors = Word2Vec.load_word2vec_format(path_to_wv, binary=True)
-print "finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start)
+print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
 
 # #############
 # ### ROUGE ###
@@ -228,19 +228,19 @@ corpus_id_range = range(0, 9)
 for corpus_id in corpus_id_range:
     start = time.time()
 
-    print str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id)
+    print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
 
     # #########################
     # ### LOOP OVER SYSTEMS ###
     # #########################
     for system_name in system_name_list:
-        print system_name
+        print(system_name)
 
         # ################################
         # ### LOOP OVER MSC PARAMETERS ###
         # ################################
         for MSC_param_id in range(len(MSC_system_params_dict[system_name])):
-            print "\tMSC_param_id:", MSC_param_id
+            print("\tMSC_param_id:", MSC_param_id)
 
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # only run on best parameter found in UCD, MSC, BSM steps
@@ -357,7 +357,7 @@ for corpus_id in corpus_id_range:
 
             pool.close()
             pool.join()
-            print "time_cost = %.2fs" % (time.time() - start_submodularity)
+            print("time_cost = %.2fs" % (time.time() - start_submodularity))
 
             # get results from pool
             overall_evaluation_scores_of_submodularity_params = []
@@ -409,6 +409,6 @@ for corpus_id in corpus_id_range:
             #             f.write(str(best_scores[str(summary_size)][key]))
             #     f.write('\n')
 
-    print "time_cost = %.2fs" % (time.time() - start)
+    print("time_cost = %.2fs" % (time.time() - start))
 
 

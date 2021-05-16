@@ -41,7 +41,7 @@ for id in ids:
         content = ''.join(l for l in i.read() if l not in punctuations)
         content = re.sub(' +', ' ', content)
         content = content.lower()
-        print id, 'reference words count:', len(content.split())
+        print(id, 'reference words count:', len(content.split()))
         o.write(content)
 
         i.close()
@@ -54,7 +54,7 @@ for id in ids:
             content = ''.join(l for l in i.read() if l not in punctuations)
             content = re.sub(' +', ' ', content)
             content = content.lower()
-            print id, 'reference words count:', len(content.split())
+            print(id, 'reference words count:', len(content.split()))
             o.write(content)
 
             i.close()
@@ -67,7 +67,7 @@ for id in ids:
                 content = ''.join(l for l in i.read() if l not in punctuations)
                 content = re.sub(' +', ' ', content)
                 content = content.lower()
-                print id, key, 'reference words count:', len(content.split())
+                print(id, key, 'reference words count:', len(content.split()))
                 o.write(content)
 
                 i.close()

@@ -49,7 +49,7 @@ def concept_submodularity_objective(
     else:
         my_score_final = 0.
     # if sign == 'singleton' or sign == 'summary':
-    #     print sign, "coverage:", sum_my_scores_coverage, "diversity:", diversity_score, "final:", my_score_final, "size:", len(units)
+    #     print(sign, "coverage:", sum_my_scores_coverage, "diversity:", diversity_score, "final:", my_score_final, "size:", len(units))
     return my_score_final
 
 
@@ -136,7 +136,7 @@ def sentence_extraction_submodularity(
                 cost_l = len(U[i])
                 num = numerators_left[i] - concept_submodularity_objective_G
                 denom = cost_l ** scaling_factor
-                # print "num:", num, "cost_l:", cost_l
+                # print("num:", num, "cost_l:", cost_l)
                 ratios.append(round(num / denom, 4))
 
             # select unit associated with the max ratio
@@ -169,7 +169,7 @@ def sentence_extraction_submodularity(
                     # truncate element that had been selected and iterate
                     U[index_max] = U[index_max][0:(budget - summary_cost)]
                     units_splitted[index_max] = units_splitted[index_max][0:(budget - summary_cost)]
-                    # print "truncate"
+                    # print("truncate")
                     continue
 
             # update

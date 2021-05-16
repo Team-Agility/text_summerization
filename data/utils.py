@@ -123,7 +123,7 @@ def read_ami_icsi(path, filler_words):
     # remove duplicate utterances per speaker
     utterances = sorted(set(utterances), key=utterances.index)
 
-    utterances_indexed = zip(range(len(utterances)), zip(*utterances)[0], zip(*utterances)[1])
+    utterances_indexed = list(zip(range(len(utterances)), list(zip(*utterances))[0], list(zip(*utterances))[1]))
 
     return utterances_indexed
 
