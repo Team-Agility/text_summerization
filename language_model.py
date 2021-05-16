@@ -64,7 +64,7 @@ class LanguageModel:
                 except KeyError:
                     score += unknown_word_prob
             if normalization:
-                return score / len(n_grams)
+                return score // len(n_grams)
             else:
                 return score
         else:

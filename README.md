@@ -23,14 +23,14 @@ $ python utterance_community_detection.py
 (with the best combination of parameters)
 ```
 $ python multi_sentence_compression_single.py
-$ python rouge2.0-distribution/copy_ami_icsi_reference.py
+$ python copy_ami_icsi_reference.py
 $ python budgeted_submodular_maximization_single.py
 ```
 
 ### parameter tuning on development set:
 ```
 $ python multi_sentence_compression_multiprocessing.py
-$ python rouge2.0-distribution/copy_ami_icsi_reference.py
+$ python copy_ami_icsi_reference.py
 $ python budgeted_submodular_maximization_multiprocessing.py
 ```
 

@@ -58,7 +58,7 @@ def worker(worker_id, submodularity_param):
                 summary_stemmed_of_meeting[meeting_id],
                 list(core_rank_scores_of_meeting[meeting_id]),
                 # round up to avoid carrying many decimals (to improve efficiency)
-                np.round(np.array(core_rank_scores_of_meeting[meeting_id].values()) / sum(core_rank_scores_of_meeting[meeting_id].values()), 4),
+                np.round(np.array(list(core_rank_scores_of_meeting[meeting_id].values())) // sum(list(core_rank_scores_of_meeting[meeting_id].values())), 4),
                 to_stem=False,
                 budget=summary_size,
                 scaling_factor=submodularity_param['scaling_factor'],
@@ -201,7 +201,7 @@ for i in range(len(submodularity_params)):
 
 # save indexed parameter grid
 keys = list(submodularity_params[0])
-with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as output_file:
+with open(path_to_root + 'results/' + 'params_submodularity.csv', 'w') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(submodularity_params)
@@ -210,7 +210,7 @@ with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as outpu
 # ### EVALUATION CSV ###
 # ######################
 for system_name in system_name_list:
-    with open(path_to_root + system_name + '_evaluation.csv', "wb") as f:
+    with open(path_to_root + system_name + '_evaluation.csv', "w") as f:
         f.write('index_step1,index_step2,index_step3,overall_score')
         for key in ['Avg_F-Score', 'Avg_Precision', 'Avg_Recall']:
             for summary_size in summary_size_range:

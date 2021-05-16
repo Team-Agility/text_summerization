@@ -1475,9 +1475,9 @@ class word_graph:
         weight2 = freq2
 
         if self.twidf_coverage:
-            return (freq1 + freq2) / sum(diff)
+            return (freq1 + freq2) // sum(diff)
         else:
-            return ( (freq1 + freq2) / sum(diff) ) / (weight1 * weight2)
+            return ( (freq1 + freq2) // sum(diff) ) // (weight1 * weight2)
 
     def get_edge_weight_word_attract(self, node1, node2):
         # Based on case sensitive form
@@ -1663,7 +1663,7 @@ class word_graph:
 
         # Loop over the compression candidates
         for cummulative_score, path in nbest_compressions:
-            score = cummulative_score / len(path)
+            score = cummulative_score // len(path)
             bisect.insort(reranked_compressions, (score, path))
 
         return reranked_compressions
@@ -1704,9 +1704,9 @@ class word_graph:
                     size += 1
 
             if normalization:
-                all_scores.append(score / cumulative_score / size)
+                all_scores.append(score // cumulative_score // size)
             else:
-                all_scores.append(score / cumulative_score)
+                all_scores.append(score // cumulative_score)
         all_scores = np.array(all_scores)
         return all_scores
 
@@ -1731,9 +1731,9 @@ class word_graph:
                     size += 1
 
             if normalization:
-                all_scores.append(score / cumulative_score / size)
+                all_scores.append(score // cumulative_score // size)
             else:
-                all_scores.append(score / cumulative_score)
+                all_scores.append(score // cumulative_score)
         all_scores = np.array(all_scores)
         return all_scores
 
@@ -1755,7 +1755,7 @@ class word_graph:
                     cluster_counters[idx] = 1
 
             if normalization:
-                all_scores.append(np.sum(cluster_counters) / float(len(sentence)))
+                all_scores.append(np.sum(cluster_counters) // float(len(sentence)))
             else:
                 all_scores.append(np.sum(cluster_counters))
         all_scores = [i + 1e-5 for i in all_scores]  # smooth
@@ -1803,31 +1803,31 @@ class word_graph:
                 if self.tfidf_coverage:
                     fl_score = self.fluency_score(nbest_compressions, normalization=False)
                     for i, compression in enumerate(nbest_compressions):
-                        nbest_compressions[i] = (compression[0] / fl_score[i], compression[1])
+                        nbest_compressions[i] = (compression[0] // fl_score[i], compression[1])
 
                 # tixier
                 if self.twidf_coverage:
                     fl_score = self.fluency_score(nbest_compressions, normalization=True)
                     for i, compression in enumerate(nbest_compressions):
-                        nbest_compressions[i] = (compression[0] / fl_score[i], compression[1])
+                        nbest_compressions[i] = (compression[0] // fl_score[i], compression[1])
 
             # mehdad
             if self.tfidf_coverage:
                 tfidf_co_score = self.noun_tfidf_coverage_score(nbest_compressions, normalization=False)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / tfidf_co_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // tfidf_co_score[i], compression[1])
 
             # tixier
             if self.twidf_coverage:
                 twidf_co_score = self.twidf_coverage_score(nbest_compressions, normalization=True)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / twidf_co_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // twidf_co_score[i], compression[1])
 
             # tixier
             if self.diversity:
                 div_score = self.diversity_score(nbest_compressions, normalization=True)
                 for i, compression in enumerate(nbest_compressions):
-                    nbest_compressions[i] = (compression[0] / div_score[i], compression[1])
+                    nbest_compressions[i] = (compression[0] // div_score[i], compression[1])
 
             sorted_by_score = sorted(nbest_compressions, key=lambda tup: tup[0])
 

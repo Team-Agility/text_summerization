@@ -85,7 +85,7 @@ def cluster_utterances(
         # plt.savefig('singular values/' + str(meeting_id) + '.png')
         # plt.clf()
         #
-        # accumulative_singular_values_ratio = np.array(list(accumulate(singular_values))) / float(sum(np.array(singular_values)))
+        # accumulative_singular_values_ratio = np.array(list(accumulate(singular_values))) // float(sum(np.array(singular_values)))
         # plt.bar(range(len(singular_values)), accumulative_singular_values_ratio)
         # plt.xlabel('numbers of component')
         # plt.ylabel('accumulative singular values')
@@ -131,9 +131,9 @@ def cluster_utterances(
             speaker_list = [elt[1] for elt in utterances_processed]
             speaker_set = list(set(speaker_list))
             speaker_count = dict(Counter(speaker_list))
-            n_comms_speaker = {s: math.ceil((float(speaker_count[s]) / len(speaker_list)) * n_comms) for s in speaker_set}
+            n_comms_speaker = {s: math.ceil((float(speaker_count[s]) // len(speaker_list)) * n_comms) for s in speaker_set}
 
-            while sum(n_comms_speaker.values()) > n_comms:
+            while sum(list(n_comms_speaker.values())) > n_comms:
                 speaker = random.choice(speaker_set)
                 if n_comms_speaker[speaker] > 1:
                     n_comms_speaker[speaker] = n_comms_speaker[speaker] - 1
@@ -171,9 +171,9 @@ def cluster_utterances(
             speaker_list = [elt[1] for elt in utterances_processed]
             speaker_set = list(set(speaker_list))
             speaker_count = dict(Counter(speaker_list))
-            n_comms_speaker = {s : math.ceil((float(speaker_count[s]) / len(speaker_list)) * n_comms) for s in speaker_set}
+            n_comms_speaker = {s : math.ceil((float(speaker_count[s]) // len(speaker_list)) * n_comms) for s in speaker_set}
 
-            while sum(n_comms_speaker.values()) > n_comms:
+            while sum(list(n_comms_speaker.values())) > n_comms:
                 speaker = random.choice(speaker_set)
                 if n_comms_speaker[speaker] > 1:
                     n_comms_speaker[speaker] = n_comms_speaker[speaker] - 1

@@ -4,25 +4,18 @@ copy human-written abstract to rouge2.0-distribution/test-summarization/referenc
 import os
 import re
 import shutil
-import sys
-# path_to_root = '/data/gshang/acl2018_abssumm/'
-# path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
-path_to_root = '/root/project/text-summery/text_summerization/'
-# os.chdir(path_to_root)
-sys.path.append(path_to_root)
-
 import string
 from data.meeting import meeting_lists
 punctuations = string.punctuation
 
 dataset_id = 'ami'
 development_or_test = 'test'
-path_to_from = path_to_root + 'data/meeting/' + dataset_id + '/'
-path_to_to = path_to_root + 'rouge2.0-distribution/test-summarization/reference/'
+path_to_from = 'data/meeting/' + dataset_id + '/'
+path_to_to = 'rouge2.0-distribution/test-summarization/reference/'
 
 if os.path.exists(path_to_to):
     shutil.rmtree(path_to_to)
-os.mkdir(path_to_to)
+os.makedirs(path_to_to, exist_ok=True)
 
 if dataset_id == 'ami':
     ids = meeting_lists.ami_development_set \

@@ -239,7 +239,7 @@ for system_name in system_name_list:
     # save indexed parameter grid
     import csv
     keys = list(params_new[0])
-    with open(path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'wb') as output_file:
+    with open(path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(params_new)

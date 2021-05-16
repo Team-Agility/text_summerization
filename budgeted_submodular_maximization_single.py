@@ -14,10 +14,6 @@ tixier_evaluation.csv
 """
 import os
 import sys
-# path_to_root = '/data/gshang/acl2018_abssumm/'
-path_to_root = '/root/project/text-summery/text_summerization/'
-# os.chdir(path_to_root)
-sys.path.append(path_to_root)
 import time
 import csv
 import string
@@ -62,7 +58,7 @@ def worker(idx, submodularity_param):
                 summary_stemmed_of_meeting[meeting_id],
                 list(core_rank_scores_of_meeting[meeting_id]),
                 # round up to avoid carrying many decimals (to improve efficiency)
-                np.round(np.array(core_rank_scores_of_meeting[meeting_id].values()) / sum(core_rank_scores_of_meeting[meeting_id].values()), 4),
+                np.round(np.array(list(core_rank_scores_of_meeting[meeting_id].values())) // sum(list(core_rank_scores_of_meeting[meeting_id].values())), 4),
                 to_stem=False,
                 budget=summary_size,
                 scaling_factor=submodularity_param['scaling_factor'],
@@ -87,7 +83,6 @@ def worker(idx, submodularity_param):
     code = os.system('java -jar rouge2.0.jar > /dev/null')
     if code != 0:
         raise RuntimeError()
-    os.chdir(path_to_root)
 
     # read results.csv
     with open(path_to_results_csv_of_worker) as f:
@@ -126,7 +121,7 @@ development_or_test = 'test'  # development / test
 # ### RESOURCES LOADING ###
 # #########################
 if domain == 'meeting':
-    path_to_stopwords = path_to_root + 'resources/stopwords/meeting/stopwords.' + language + '.dat'
+    path_to_stopwords = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
     stopwords = utils.load_stopwords(path_to_stopwords)
 
     if dataset_id == 'ami':
@@ -139,7 +134,7 @@ if domain == 'meeting':
             else meeting_lists.icsi_test_set
 
 if language == 'en':
-    path_to_wv = path_to_root + 'resources/GoogleNews-vectors-negative300.bin.gz'
+    path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
 
 # Load Word2Vec (takes approx. 8G RAM)
 print("loading GoogleNews...")
@@ -154,7 +149,7 @@ print("finish loading GoogleNews, time_cost = %.2fs" % (time.time() - start))
 # #############
 # ### ROUGE ###
 # #############
-path_to_rouge = path_to_root + 'rouge2.0-distribution/'
+path_to_rouge = 'rouge2.0-distribution/'
 
 # clean existing system folder
 if os.path.exists(path_to_rouge + 'test-summarization/system/'):
@@ -174,7 +169,7 @@ if os.path.exists('/tmp/takahe/'):
 # #####################################
 # ### COMMUNITY CREATION PARAMETERS ###
 # #####################################
-path = path_to_root + 'data/' + dataset_id + '_params_create_community.csv'
+path = 'data/' + dataset_id + '_params_create_community.csv'
 with open(path) as f:
     corpus_params_dict = {row['index']: {k: v for k, v in row.items()} for row in csv.DictReader(f, skipinitialspace=True)}
 
@@ -185,7 +180,7 @@ system_name_list = ['filippova', 'boudin', 'mehdad', 'tixier']
 MSC_system_params_dict = {}
 
 for system_name in system_name_list:
-    path = path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv'
+    path = 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv'
     with open(path) as f:
         MSC_system_params_dict[system_name] = {row['index']: {k: v for k, v in row.items()} for row in csv.DictReader(f, skipinitialspace=True)}
 
@@ -204,7 +199,7 @@ for i in range(len(submodularity_params)):
 
 # # save indexed parameter grid
 # keys = list(submodularity_params[0])
-# with open(path_to_root + 'results/' + 'params_submodularity.csv', 'wb') as output_file:
+# with open('results/' + 'params_submodularity.csv', 'w') as output_file:
 #     dict_writer = csv.DictWriter(output_file, keys)
 #     dict_writer.writeheader()
 #     dict_writer.writerows(submodularity_params)
@@ -213,7 +208,7 @@ for i in range(len(submodularity_params)):
 # ### EVALUATION CSV ###
 # ######################
 for system_name in system_name_list:
-    with open(path_to_root + system_name + '_evaluation.csv', "wb") as f:
+    with open('results/' + system_name + '_evaluation.csv', "w") as f:
         f.write('index_step1,index_step2,index_step3,overall_score')
         for key in ['Avg_F-Score', 'Avg_Precision', 'Avg_Recall']:
             for summary_size in summary_size_range:
@@ -300,7 +295,7 @@ for corpus_id in corpus_id_range:
             kmeans_clusters_dict_of_meeting = {}
 
             for meeting_id in ids:
-                path = path_to_root + 'data/utterance/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' +\
+                path = 'data/utterance/' + domain + '/manual/' + dataset_id + '_' + str(corpus_id) + '/' +\
                        meeting_id + '_utterances.txt'
                 with open(path, 'r+') as f:
                     utterances = f.read().splitlines()
@@ -324,7 +319,7 @@ for corpus_id in corpus_id_range:
                 kmeans_clusters_dict_of_meeting[meeting_id] = kmeans_clusters_dict
                 # optimal_k_clusters(X, range(0, X.shape[0], 10)[1:], meeting_id, system_name[i])
 
-                path = path_to_root + 'results/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' + development_or_test + '/' \
+                path = 'results/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' + development_or_test + '/' \
                        + system_name + '/' + str(MSC_param_id) + '/' + meeting_id + '_' + system_name + '.txt'
                 with open(path, 'r+') as f:
                     summary = f.read().splitlines()
@@ -368,7 +363,7 @@ for corpus_id in corpus_id_range:
                 scores_of_submodularity_params.append(scores)
 
             # ---- Output all ----
-            with open(path_to_root + system_name + '_evaluation.csv', "a") as f:
+            with open(system_name + '_evaluation.csv', "a") as f:
                 for idx, submodularity_param in enumerate(submodularity_params_single):
                     f.write(
                         str(corpus_id) + ',' +
@@ -395,7 +390,7 @@ for corpus_id in corpus_id_range:
             # index_of_MSC_param = MSC_param_id
             # index_of_submodularity_param = index
             #
-            # with open(path_to_root + system_name + '_evaluation.csv', "a") as f:
+            # with open(system_name + '_evaluation.csv', "a") as f:
             #     f.write(
             #         str(index_of_community_creation_param) + ',' +
             #         str(index_of_MSC_param) + ',' +
