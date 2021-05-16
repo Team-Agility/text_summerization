@@ -142,7 +142,7 @@ for i in range(len(params)):
 # save indexed parameter grid
 import csv
 keys = params[0].keys()
-with open('data/' +  dataset_id + '_params_create_community.csv', 'wb') as output_file:
+with open('data/' +  dataset_id + '_params_create_community.csv', 'w') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(params)
@@ -235,7 +235,7 @@ for param in params:
             utt_scores.append(round(sum([core_rank_scores[word] for word in words]) / float(len(words)), 2))
 
         # remove communities with less than min_elt number of utterances
-        comm_labels = [k for k, v in c.iteritems() if v >= min_elt]
+        comm_labels = [k for k, v in c.items() if v >= min_elt]
 
         # assign score to each community as size-normolized cumulative informativeness scores of the utterances they contain
         # (measure of average informativeness for each community)
