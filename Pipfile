@@ -10,6 +10,8 @@ pandas = "==0.24.2"
 networkx = "==1.11"
 python-igraph = "*"
 numpy = "==1.19.5"
+gensim = "==3.8.0"
+pynlpl = "==1.2.9"
 
 [dev-packages]
 
