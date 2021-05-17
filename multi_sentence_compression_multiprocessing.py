@@ -12,17 +12,7 @@ output (grid search csv):
 results/tixier_params_MSC_development.csv
 """
 import os
-# path_to_root = '/data/gshang/acl2018_abssumm/'
-# os.chdir(path_to_root)
-import sys
-# path_to_root = '/data/gshang/acl2018_abssumm/'
-# path_to_root = 'C:/Project/FYP/Summerizing/CoreRank/'
-path_to_root = '/root/project/text-summery/text_summerization/'
-
-# os.chdir(path_to_root)
-sys.path.append(path_to_root)
 import time
-import string
 import re
 import gensim
 import takahe
@@ -127,7 +117,7 @@ def worker(system_name, param):
         # ######################
         # ### OUTPUT SUMMARY ###
         # ######################
-        output_path = path_to_root + 'results/' + domain + '/' + dataset_id + '_' + str(
+        output_path = 'results/' + domain + '/' + dataset_id + '_' + str(
             corpus_id) + '/' + development_or_test + '/' + system_name + '/' + str(param_id) + '/'
         if not os.path.exists(output_path):
             os.makedirs(output_path)
@@ -161,7 +151,7 @@ development_or_test = 'development'  # development / test
 # ### RESOURCES LOADING ###
 # #########################
 if domain == 'meeting':
-    path_to_stopwords = path_to_root + 'resources/stopwords/meeting/stopwords.' + language + '.dat'
+    path_to_stopwords = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
     stopwords = utils.load_stopwords(path_to_stopwords)
 
     if dataset_id == 'ami':
@@ -175,8 +165,8 @@ if domain == 'meeting':
 
 
 if language == 'en':
-    path_to_wv = path_to_root + 'resources/GoogleNews-vectors-negative300.bin.gz'
-    path_to_lm = path_to_root + 'resources/en-70k-0.2.lm'
+    path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
+    path_to_lm = 'resources/en-70k-0.2.lm'
 
 # Load Word2Vec (takes approx. 8G RAM)
 print("loading GoogleNews...")
@@ -239,7 +229,7 @@ for system_name in system_name_list:
     # save indexed parameter grid
     import csv
     keys = list(params_new[0])
-    with open(path_to_root + 'results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'w') as output_file:
+    with open('results/' + system_name + '_params_MSC_' + development_or_test + '.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(params_new)
@@ -259,9 +249,9 @@ for corpus_id in corpus_id_range:
 
     print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
     if domain == 'meeting':
-        path_to_tagged_corpus = path_to_root + 'data/community_tagged/meeting/' + dataset_id + '_' + str(corpus_id) + '/'
+        path_to_tagged_corpus = 'data/community_tagged/meeting/manual/' + dataset_id + '_' + str(corpus_id) + '/'
     elif domain == 'document':
-        path_to_tagged_corpus = path_to_root + 'data/community_tagged/document/' + dataset_id + '_' + str(corpus_id) + '/'
+        path_to_tagged_corpus = 'data/community_tagged/document/' + dataset_id + '_' + str(corpus_id) + '/'
 
     # #############################
     # ### TAGGED CORPUS LOADING ###
