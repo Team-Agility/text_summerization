@@ -232,7 +232,7 @@ for param in params:
         for utterance in utterances_processed:
             index, role, utt = utterance
             words = utt.split(' ')
-            utt_scores.append(round(sum([core_rank_scores[word] for word in words]) // float(len(words)), 2))
+            utt_scores.append(round(sum([core_rank_scores[word] for word in words]) / float(len(words)), 2))
 
         # remove communities with less than min_elt number of utterances
         comm_labels = [k for k, v in c.items() if v >= min_elt]
@@ -243,7 +243,7 @@ for param in params:
         for label in comm_labels:
             # get the index of all the utterances belonging to the comm
             utt_indexes = [idx for idx, value in enumerate(membership) if value == label]
-            comm_scores.append(round(sum([utt_scores[idx] for idx in utt_indexes]) // float(len(utt_indexes)), 2))
+            comm_scores.append(round(sum([utt_scores[idx] for idx in utt_indexes]) / float(len(utt_indexes)), 2))
 
         # sort communities according to the average score of the utterances they contain
         # get sorted index of elements of comm_scores
