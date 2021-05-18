@@ -39,10 +39,10 @@ def concept_submodularity_objective(
                 if u in kmeans_clusters_dict:
                     idx = kmeans_clusters_dict[u]
                     cluster_counters[idx] = 1
-            diversity_score = np.sum(cluster_counters) // float(len(cluster_counters))
+            diversity_score = np.sum(cluster_counters) / float(len(cluster_counters))
         else:
             # percentage of unique concepts covered
-            diversity_score = len(list(set(concepts) & set(units))) // float(len(concepts))
+            diversity_score = len(list(set(concepts) & set(units))) / float(len(concepts))
 
         my_score_final = sum_my_scores_coverage + lamda * diversity_score
 
@@ -137,7 +137,7 @@ def sentence_extraction_submodularity(
                 num = numerators_left[i] - concept_submodularity_objective_G
                 denom = cost_l ** scaling_factor
                 # print("num:", num, "cost_l:", cost_l)
-                ratios.append(round(num // denom, 4))
+                ratios.append(round(num / denom, 4))
 
             # select unit associated with the max ratio
 
