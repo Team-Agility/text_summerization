@@ -85,7 +85,7 @@ def cluster_utterances(
         # plt.savefig('singular values/' + str(meeting_id) + '.png')
         # plt.clf()
         #
-        # accumulative_singular_values_ratio = np.array(list(accumulate(singular_values))) // float(sum(np.array(singular_values)))
+        # accumulative_singular_values_ratio = np.array(list(accumulate(singular_values))) / float(sum(np.array(singular_values)))
         # plt.bar(range(len(singular_values)), accumulative_singular_values_ratio)
         # plt.xlabel('numbers of component')
         # plt.ylabel('accumulative singular values')
