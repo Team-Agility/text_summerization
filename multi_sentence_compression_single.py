@@ -33,22 +33,26 @@ development_or_test = 'test'  # development / test
 # #########################
 # ### RESOURCES LOADING ###
 # #########################
-if domain == 'meeting':
-    path_to_stopwords = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
-    stopwords = utils.load_stopwords(path_to_stopwords)
+print("------------ RESOURCES LOADING ------------")
+# meeting ids load - related development or test
+ids = meeting_lists.ami_development_set \
+    if development_or_test == 'development' \
+    else meeting_lists.ami_test_set
 
-    if dataset_id == 'ami':
-        ids = meeting_lists.ami_development_set \
-            if development_or_test == 'development' \
-            else meeting_lists.ami_test_set
-    elif dataset_id == 'icsi':
-        ids = meeting_lists.icsi_development_set \
-            if development_or_test == 'development' \
-            else meeting_lists.icsi_test_set
+# path - stopwords
+path_to_stopwords = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
+stopwords = utils.load_stopwords(path_to_stopwords)
+# path - GoogleNews
+path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
+# path - en-70k-0.2.lm
+path_to_lm = 'resources/en-70k-0.2.lm'
 
-if language == 'en':
-    path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
-    path_to_lm = 'resources/en-70k-0.2.lm'
+print("---------------------")
+print("development_or_test : ", development_or_test)
+print("IDs : ", ids)
+print("---------------------")
+
+
 
 # ######################
 # ### PARAMETER GRID ###
