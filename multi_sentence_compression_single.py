@@ -24,11 +24,16 @@ from language_model import LanguageModel
 from data.meeting import meeting_lists
 from sklearn.model_selection import ParameterGrid
 import nltk
+import json
 nltk.download('wordnet')
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
 language = 'en'     # en, fr
 development_or_test = 'test'  # development / test
+
+
+# open output file
+temp_file = open("logs/tempFile.txt", 'w+')
 
 # #########################
 # ### RESOURCES LOADING ###
@@ -47,10 +52,10 @@ path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
 # path - en-70k-0.2.lm
 path_to_lm = 'resources/en-70k-0.2.lm'
 
-print("---------------------")
-print("development_or_test : ", development_or_test)
-print("IDs : ", ids)
-print("---------------------")
+temp_file.write("\n---------------------\n")
+temp_file.write("development_or_test :  "+ development_or_test)
+temp_file.write("\n IDs : "+ str(ids))
+temp_file.write("\n---------------------\n")
 
 
 
@@ -134,14 +139,17 @@ for corpus_id in corpus_id_range:
     start = time.time()
 
     print(str(corpus_id_range.index(corpus_id)) + '/' + str(len(corpus_id_range) - 1), "corpus:", dataset_id + '_' + str(corpus_id))
-    if domain == 'meeting':
-        path_to_tagged_corpus = 'data/community_tagged/meeting/manual/' + dataset_id + '_' + str(corpus_id) + '/'
-    elif domain == 'document':
-        path_to_tagged_corpus = 'data/community_tagged/document/' + dataset_id + '_' + str(corpus_id) + '/'
+    # path - tagged corpus
+    # path_to_tagged_corpus = 'data/community_tagged/meeting/manual/' + dataset_id + '_' + str(corpus_id) + '/'
+    path_to_tagged_corpus = 'data/community_tagged/meeting/new/' + dataset_id + '_' + str(corpus_id) + '/'
 
     # #############################
     # ### TAGGED CORPUS LOADING ###
     # #############################
+
+    # tagged_corpus type dict
+    # tagged_corpus -> all meeting tagged corpus
+    
     pos_separator = '/'
     punct_tag = 'PUNCT'
 
@@ -158,17 +166,43 @@ for corpus_id in corpus_id_range:
                     tagged_community = []
         tagged_corpus[meeting_id] = tagged_meeting
 
+    temp_file.write("\n---------------------\n")
+    temp_file.write( type(tagged_corpus).__name__)
+    # as requested in comment
+    # tagged_corpus = {'tagged_corpus': tagged_corpus}
+    temp_file.write("\n ------- tagged_corpus ------- \n")
+    temp_file.write(json.dumps(tagged_corpus)) # use `json.loads` to do the reverse
+    temp_file.write("\n---------------------\n")
+    temp_file.write("\n ^^^^^^^^^^^^^^^^^^^ \n")
+
+    temp_file.write(json.dumps(tagged_corpus["ES2013c"])) # use `json.loads` to do the reverse
+
+    # sequences_tagged.write("meeting_no "+meeting_no)
+
     # #########################
     # ### LOOP OVER SYSTEMS ###
     # #########################
     for system_name in system_name_list:
         print(system_name)
+        temp_file.write("\n --------------------- \n")
+        temp_file.write("system_name : "+system_name)
+        temp_file.write("\n --------------------- \n")
+        temp_file.write("\n --------- system_params_dict ------------ \n")
+        temp_file.write(json.dumps(system_params_dict)) # use `json.loads` to do the reverse
+        temp_file.write("\n --------------------- \n")
 
         # ############################
         # ### LOOP OVER PARAM_GRID ###
         # ############################
         for param in system_params_dict[system_name]:
             param_id = param['index']
+
+            
+            temp_file.write("\n --------------------- \n")
+            temp_file.write("param_id : "+ str(param_id))
+            temp_file.write("\n corpus_id : "+ str(corpus_id))
+
+            temp_file.write("\n --------------------- \n")
             # print("\tparam_id:", param_id)
 
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -228,10 +262,22 @@ for corpus_id in corpus_id_range:
                         stemming=stemming, lower_case=True,
                         pos_separator=pos_separator, punct_tag=punct_tag
                     )
-                    cleaned_document = utils.remove_tags_from_text(cleaned_tagged_document)
-                    tokenized_document_list.append(cleaned_document.split(' '))
-                meeting_idf_dict = tf_idf.inverse_document_frequencies(tokenized_document_list)
 
+                    # removed tags from text
+                    cleaned_document = utils.remove_tags_from_text(cleaned_tagged_document)
+                    temp_file.write("\n --------------------- \n")
+                    temp_file.write("cleaned_document : "+ cleaned_document)
+                    temp_file.write("\n --------------------- \n")
+
+                    # spilt words using space
+                    tokenized_document_list.append(cleaned_document.split(' '))
+                    temp_file.write("\n --------------------- \n")
+                    temp_file.write("tokenized_document_list : "+ str(tokenized_document_list))
+                    temp_file.write("\n --------------------- \n")
+                meeting_idf_dict = tf_idf.inverse_document_frequencies(tokenized_document_list)
+                temp_file.write("\n --------------------- \n")
+                temp_file.write("meeting_idf_dict : "+ str(meeting_idf_dict))
+                temp_file.write("\n --------------------- \n")
                 # #############################
                 # ### LOOP OVER COMMUNITIES ###
                 # #############################
@@ -265,6 +311,10 @@ for corpus_id in corpus_id_range:
                         common_hyp_threshold_verb=0.9,
                         common_hyp_threshold_nonverb=0.3
                     )
+
+                    temp_file.write("\n --------------------- \n")
+                    temp_file.write("compresser : "+ str(compresser))
+                    temp_file.write("\n --------------------- \n")
 
                     # Write the word graph in the dot format
                     # compresser.write_dot('new.dot')
@@ -311,4 +361,7 @@ for corpus_id in corpus_id_range:
                 #     cut = ' '.join(output.split(' ')[:summary_size]).replace(' \n', '\n')
                 #     f.write(cut)
                 #     f.close()
+
     print("time_cost = %.2fs" % (time.time() - start))
+temp_file.close()
+

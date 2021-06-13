@@ -1623,6 +1623,8 @@ class word_graph:
 
     #-T-----------------------------------------------------------------------T-
     def get_compression(self, nb_candidates=50, loose_verb_constraint=False):
+        takahe_file = open("logs/takahe_file.txt", 'w+')
+
         """
         Searches all possible paths from **start** to **end** in the word graph,
         removes paths containing *no verb* or shorter than *n* words. Returns an
@@ -1638,6 +1640,10 @@ class word_graph:
             nb_candidates,
             loose_verb_constraint=loose_verb_constraint
         )
+        # takahe_file.write("\n --------------------- \n")
+        # takahe_file.write("type : self.paths : "+ type(self.paths))
+        # takahe_file.write("self.paths : "+ str(self.paths))
+        # takahe_file.write("\n --------------------- \n")
 
         # Initialize the fusion container
         fusions = []

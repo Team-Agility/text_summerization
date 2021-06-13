@@ -37,11 +37,20 @@ def augmented_term_frequency(term, tokenized_document):
     return (0.5 + ((0.5 * term_frequency(term, tokenized_document))//max_count))
 
 def inverse_document_frequencies(tokenized_documents):
+    temp_tf_idf_logs_file = open("logs/temp_tf_idf_logs_file.txt", 'w+')
     idf_values = {}
     all_tokens_set = set([item for sublist in tokenized_documents for item in sublist])
+    temp_tf_idf_logs_file.write("\n --------------------- \n")
+    temp_tf_idf_logs_file.write("all_tokens_set : "+ str(all_tokens_set))
+    temp_tf_idf_logs_file.write("\n --------------------- \n")
     for tkn in all_tokens_set:
         contains_token = map(lambda doc: tkn in doc, tokenized_documents)
         idf_values[tkn] = 1 + math.log(len(tokenized_documents)/float(sum(contains_token)))
+        temp_tf_idf_logs_file.write("\n --------------------- \n")
+        temp_tf_idf_logs_file.write("\n idf_values[tkn] : "+ str(idf_values[tkn]))
+        temp_tf_idf_logs_file.write("\n --------------------- \n")
+    temp_tf_idf_logs_file.close()
+    
     return idf_values
 
 def tfidf(documents):
