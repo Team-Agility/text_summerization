@@ -29,7 +29,7 @@ nltk.download('wordnet')
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
 language = 'en'     # en, fr
-development_or_test = 'test'  # development / test
+development_or_test = 'development'  # development / test
 
 
 # open output file
@@ -156,15 +156,33 @@ for corpus_id in corpus_id_range:
     tagged_corpus = {key: [] for key in ids}
     for meeting_id in ids:
         tagged_meeting = []
-        with open(path_to_tagged_corpus + meeting_id + '_comms_tagged.txt', 'r') as file:
-            tagged_community = []
-            for line in file.read().splitlines():
-                if line != '':
-                    tagged_community.append(line)
-                else:
+        with open(f'C:/Project/FYP/FYP/AMI-Corpus-JSON-Data-Manupulator/dataset/{meeting_id}/abstractive_summary.json') as f:
+            data = json.load(f)
+
+            abstract = data['abstract']
+            actions = data['actions']
+            decisions = data['decisions']
+            problems = data['problems']
+
+            for seq in abstract + actions + decisions + problems:
+                tagged_community = []
+                for act in seq['extract_summ']:
+                    act = act['act']
+                    tokernized_act = nltk.word_tokenize(act)
+                    pos_tagged_act = nltk.pos_tag(tokernized_act)
+                    tagged_community.append(' '.join(f'{tagged[0]}{pos_separator}{tagged[1]}' for tagged in pos_tagged_act))
+                if len(tagged_community) > 0:
                     tagged_meeting.append(tagged_community)
-                    tagged_community = []
+        # with open(path_to_tagged_corpus + meeting_id + '_comms_tagged.txt', 'r') as file:
+        #     tagged_community = []
+        #     for line in file.read().splitlines():
+        #         if line != '':
+        #             tagged_community.append(line)
+        #         else:
+        #             tagged_meeting.append(tagged_community)
+        #             tagged_community = []
         tagged_corpus[meeting_id] = tagged_meeting
+        print('aaa', tagged_corpus[meeting_id])
 
     temp_file.write("\n---------------------\n")
     temp_file.write( type(tagged_corpus).__name__)
