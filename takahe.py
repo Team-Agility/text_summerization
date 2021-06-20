@@ -7,6 +7,7 @@ https://github.com/boudinfl/takahe
 import re
 import copy
 import bisect
+import uuid
 import nltk
 import networkx as nx
 import numpy as np
@@ -17,13 +18,15 @@ import keyphrase_reranker
 import tf_idf
 from nltk.corpus import wordnet as wn
 from networkx.drawing.nx_agraph import write_dot
+import matplotlib.pyplot as plt
 
+plt.figure(figsize=(100,100))
 
 class word_graph:
     """
     The word_graph class constructs a word graph from the set of sentences given
     as input. The set of sentences is a list of strings, sentences are tokenized
-    and words are POS-tagged (e.g. ``"Saturn/NNP is/VBZ the/DT sixth/JJ 
+    and words are POS-tagged (e.g. ``"Saturn/NNP is/VBZ the/DT sixth/JJ
     planet/NN from/IN the/DT Sun/NNP in/IN the/DT Solar/NNP System/NNP"``).
     """
 
@@ -596,6 +599,20 @@ class word_graph:
                 edge_weight = self.get_edge_weight(node1, node2)
                 self.graph.add_edge(node1, node2, weight=edge_weight)
 
+        # self.graph.write_png('wordgraph.png')
+        # ---------------------------------------------
+        # fig = plt.figure(figsize=(12, 12))
+        # ax = plt.subplot(111)
+        # ax.set_title('Graph - Shapes', fontsize=10)
+        #
+        # pos = nx.spring_layout(G)
+        # nx.draw(self.graph, pos, node_size=1500, node_color='yellow', font_size=8, font_weight='bold')
+        #
+        # plt.tight_layout()
+        # plt.show()
+        nx.draw(self.graph, nx.spring_layout(self.graph), with_labels=True)
+        plt.savefig(f"graphs/{uuid.uuid4()}.png")
+        # ---------------------------------------------
 
     # ###################################
     # ### BUILD GRAPH (with word_net) ###
@@ -639,6 +656,9 @@ class word_graph:
         self.mapping = []
 
         for i in range(len(self.tagged_community)):
+            print("-----------------------------------")
+            print(self.tagged_community)
+            print("-----------------------------------")
 
             # Compute the sentence length
             sentence_len = len(self.tagged_community[i])
