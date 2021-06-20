@@ -26,10 +26,9 @@ def clean_tagged_text(
     stemmer = nltk.stem.PorterStemmer()
     cleaned_tagged_text = []
     for word_tag in list_of_word_tag:
-        # print(word_tag)
         word, tag = word_tag
         if remove_punctuations:
-            if tag in [',', '.']:
+            if tag == punct_tag:
                 continue
         if pos_filtering:
             # retain only nouns, adjectives, verbs
