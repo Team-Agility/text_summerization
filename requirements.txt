@@ -6,3 +6,4 @@ python-igraph
 numpy==1.19.5
 gensim==3.8.0
 PyNLPl==1.2.9
+matplotlib==2.0.0
