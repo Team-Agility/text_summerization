@@ -179,7 +179,6 @@ for corpus_id in corpus_id_range:
         #             tagged_meeting.append(tagged_community)
         #             tagged_community = []
         tagged_corpus[meeting_id] = tagged_meeting
-        print('aaa', tagged_corpus[meeting_id])
 
     temp_file.write("\n---------------------\n")
     temp_file.write( type(tagged_corpus).__name__)

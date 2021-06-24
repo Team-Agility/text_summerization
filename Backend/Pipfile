@@ -13,6 +13,10 @@ numpy = "==1.19.5"
 gensim = "==3.8.0"
 pynlpl = "==1.2.9"
 matplotlib = "==2.0.0"
+boto3 = "*"
+flask = "*"
+flask-swagger = "*"
+flask-cors = "*"
 
 [dev-packages]
 
