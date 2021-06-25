@@ -1,3 +1,4 @@
+from utils.s3 import S3Upload
 from utils.thread import StepsClass, startTraining
 from utils.db import getAllMeetingIDs, getData
 from utils.requests import ClientError, ResponseData, Success, convertToObj
@@ -8,6 +9,8 @@ import uuid
 import json
 import os
 import decimal
+import matplotlib
+matplotlib.use('Agg')
 
 # def _build_cors_prelight_response():
 #     response = make_response()
@@ -50,16 +53,32 @@ def createNewJob():
   if 'transcript' not in data:
     return ClientError('Paramater `transcript` Required')
 
+  if 'confidence' not in data:
+    return ClientError('Paramater `confidence` Required')
+
+  if 'sequences' not in data:
+    return ClientError('Paramater `sequences` Required')
+
   dataset_path = f'{DATASET_OUT_DIR}/{id}'
   if not os.path.exists(dataset_path):
     os.makedirs(dataset_path)
-  
-  with open(f'{dataset_path}/words_segmentation.json', 'w') as f:
-    f.write(json.dumps(data['transcript'], indent=4, sort_keys=True))  
 
-  startTraining(id, STEPS, data['transcript'], dataset_path)
+  input_json = {}
+  with open(f'{dataset_path}/transcript.json', 'w') as f:
+    f.write(json.dumps({'transcript' : data['transcript']}, indent=4, sort_keys=True))  
+  input_json['transcript'] = S3Upload(id, 'transcript.json')
 
-  return ResponseData(convertToObj(id, 1, STEPS, StepsClass(data['transcript'])))
+  with open(f'{dataset_path}/confidence.json', 'w') as f:
+    f.write(json.dumps(data['confidence'], indent=4, sort_keys=True))  
+  input_json['confidence'] = S3Upload(id, 'confidence.json')
+
+  with open(f'{dataset_path}/abstractive_summary.json', 'w') as f:
+    f.write(json.dumps(data['sequences'], indent=4, sort_keys=True)) 
+  input_json['sequences'] = S3Upload(id, 'abstractive_summary.json') 
+
+  startTraining(id, STEPS, data, dataset_path, input_json)
+
+  return ResponseData(convertToObj(id, 1, STEPS, StepsClass(input_json)))
 
 @app.route("/spec")
 def spec():

@@ -18,6 +18,7 @@ def get(pk, sk):
   # print('Adding Data to DB', item)
   try:
     response = table.get_item( Key={'pk': pk, 'sk': sk} )
+    # print(response)
   except ClientError as e:
       print(e.response['Error']['Message'])
   else:
@@ -44,7 +45,7 @@ def getData(meeting_id):
 
 def updateStatus(meeting_id, all_steps, steps, completed_steps, data):
   put({
-    'pk': '#SEQUENCE',
+    'pk': '#SUMMARY',
     'sk': meeting_id,
     'steps': steps,
     'all_steps': all_steps,
