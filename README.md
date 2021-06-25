@@ -2,7 +2,7 @@
 
 ### Tested on
 
-- Ubuntu 20.04
+- Windows 10
 - Python 3.7
 
 ### Install Requirements
