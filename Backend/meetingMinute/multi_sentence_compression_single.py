@@ -15,7 +15,7 @@ import time
 import re
 import gensim
 import meetingMinute.takahe as takahe
-import meetingMinute.tf_idf as takahe
+import meetingMinute.tf_idf as tf_idf
 import meetingMinute.utils as utils
 import copy
 import nltk
