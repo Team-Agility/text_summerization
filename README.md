@@ -5,26 +5,6 @@
 - Windows 10
 - Python 3.7
 
-### Install Requirements
-
-```
-$ cd Backend
-$ pip install -r requirements.txt 
-
-$ wget -c https://objectstorage.ap-mumbai-1.oraclecloud.com/p/8cK15SZ-mySY2t5kymeO8WVGyDxncLEthJqip4nJGKJXNJMgdDdWn6ohkxMlrxjH/n/bm7noglpf2jq/b/FYP-Data/o/en-70k-0.2.lm.gz -O resources/en-70k-0.2.lm.gz
-
-$ zcat resources/en-70k-0.2.lm.gz > resources/en-70k-0.2.lm
-
-$ wget -c https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz -O resources/GoogleNews-vectors-negative300.bin.gz
-```
-
-- Download nltk Requirements
-```
-$ python
-    import ntlk
-    nltk.download('punkt')
-    nltk.download('averaged_perceptron_tagger')
-```
 <hr/>
 
 ## Usage
@@ -40,8 +20,27 @@ $ python
         Default region name: ap-southeast-1
         Default output format: json
     ```
+2. Install Requirements
 
-2. Serve Backend Locally:
+    ```
+    $ cd Backend
+    $ pip install -r requirements.txt 
+
+    $ wget -c https://objectstorage.ap-mumbai-1.oraclecloud.com/p/8cK15SZ-mySY2t5kymeO8WVGyDxncLEthJqip4nJGKJXNJMgdDdWn6ohkxMlrxjH/n/bm7noglpf2jq/b/FYP-Data/o/en-70k-0.2.lm.gz -O resources/en-70k-0.2.lm.gz
+
+    $ zcat resources/en-70k-0.2.lm.gz > resources/en-70k-0.2.lm
+
+    $ wget -c https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz -O resources/GoogleNews-vectors-negative300.bin.gz
+    ```
+
+3. Download nltk Requirements
+    ```
+    $ python
+        import nltk
+        nltk.download('punkt')
+        nltk.download('averaged_perceptron_tagger')
+    ```
+4. Serve Backend Locally:
 
     ```
     $ cd Backend
@@ -53,7 +52,7 @@ $ python
 
     <br/>
 
-2. Serve Frontend Locally:
+5. Serve Frontend Locally:
 
     ```
     $ cd Frontend
