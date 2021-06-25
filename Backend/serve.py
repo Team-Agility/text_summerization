@@ -41,7 +41,7 @@ def send_static_files(path):
 @app.route('/<id>', methods=['GET'])
 def getResult(id):
   data = getData(id)
-  return ResponseData(convertToObj(data['pk'], data['completed_steps'], data['all_steps'], json.loads(data['data'])))
+  return ResponseData(convertToObj(data['sk'], data['completed_steps'], data['all_steps'], json.loads(data['data'])))
 
 @app.route('/', methods=['GET'])
 def getAllMeetings():
