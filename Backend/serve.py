@@ -1,8 +1,8 @@
 from utils.s3 import S3Upload
 from utils.thread import StepsClass, startTraining
 from utils.db import getAllMeetingIDs, getData
-from utils.requests import ClientError, ResponseData, Success, convertToObj
-from flask import Flask, request, make_response
+from utils.requests import ClientError, ResponseData, convertToObj
+from flask import Flask, request, send_from_directory
 from flask_swagger import swagger
 from flask_cors import CORS, cross_origin
 import uuid
@@ -30,9 +30,13 @@ class JSONEncoder(json.JSONEncoder):
 DATASET_OUT_DIR = 'dataset'
 STEPS = ["Input", "Feature Extraction" ,"Categorized Sequence", "Word Graph Building", "Path re-ranking", "Output"]
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='')
 CORS(app)
 app.json_encoder = JSONEncoder
+
+@app.route('/dataset/<path:path>')
+def send_static_files(path):
+    return send_from_directory('dataset', path)
 
 @app.route('/<id>', methods=['GET'])
 def getResult(id):

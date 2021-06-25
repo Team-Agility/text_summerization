@@ -21,6 +21,8 @@ from networkx.drawing.nx_agraph import write_dot
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+plt.switch_backend('agg')
+import os
 
 plt.figure(figsize=(100,100))
 
@@ -53,7 +55,8 @@ class word_graph:
             diversity_n_clusters,
             keyphrase_reranker_window_size,
             common_hyp_threshold_verb,
-            common_hyp_threshold_nonverb
+            common_hyp_threshold_nonverb,
+            meeting_id
     ):
         # ######################
         # ### SWITCH SYSTEM ####
@@ -119,6 +122,7 @@ class word_graph:
         # threshold for replacing two words by its common hypernym
         self.common_hyp_threshold_verb    = common_hyp_threshold_verb
         self.common_hyp_threshold_nonverb = common_hyp_threshold_nonverb
+        self.meeting_id = meeting_id
 
         # ###############################
         # ### TFIDF (community level) ###
@@ -613,7 +617,9 @@ class word_graph:
         # plt.tight_layout()
         # plt.show()
         nx.draw(self.graph, nx.spring_layout(self.graph), with_labels=True)
-        plt.savefig(f"graphs/{uuid.uuid4()}.png")
+        if not os.path.exists(f"dataset/{self.meeting_id}/graphs/"):
+            os.mkdir(f"dataset/{self.meeting_id}/graphs/")
+        plt.savefig(f"dataset/{self.meeting_id}/graphs/{uuid.uuid4()}.png")
         # ---------------------------------------------
 
     # ###################################

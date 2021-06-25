@@ -90,7 +90,8 @@ def worker(system_name, param):
 
                 keyphrase_reranker_window_size=0,
                 common_hyp_threshold_verb=0.9,
-                common_hyp_threshold_nonverb=0.3
+                common_hyp_threshold_nonverb=0.3,
+                meeting_id=meeting_id
             )
 
             # Write the word graph in the dot format

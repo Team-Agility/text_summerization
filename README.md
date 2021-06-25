@@ -17,6 +17,14 @@ $ zcat resources/en-70k-0.2.lm.gz > resources/en-70k-0.2.lm
 
 $ wget -c https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz -O resources/GoogleNews-vectors-negative300.bin.gz
 ```
+
+- Download nltk Requirements
+```
+$ python
+    import ntlk
+    nltk.download('punkt')
+    nltk.download('averaged_perceptron_tagger')
+```
 <hr/>
 
 ## Usage

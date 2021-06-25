@@ -325,7 +325,8 @@ def main(ids = meeting_lists.ami_development_set \
 
                             keyphrase_reranker_window_size=0,
                             common_hyp_threshold_verb=0.9,
-                            common_hyp_threshold_nonverb=0.3
+                            common_hyp_threshold_nonverb=0.3,
+                            meeting_id=meeting_id
                         )
 
                         temp_file.write("\n --------------------- \n")
@@ -356,7 +357,7 @@ def main(ids = meeting_lists.ami_development_set \
                     # ######################
                     # ### OUTPUT SUMMARY ###
                     # ######################
-                    output_path = 'meetingMinute/results/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' + development_or_test + '/' + system_name + '/' + str(param_id) + '/'
+                    output_path = 'dataset/' + meeting_id + '/'
                     if not os.path.exists(output_path):
                         os.makedirs(output_path)
 
@@ -365,7 +366,7 @@ def main(ids = meeting_lists.ami_development_set \
                     output = re.sub(' +', ' ', output).strip()  # .lower()
 
                     # write full summary
-                    file_path_name = output_path + meeting_id + '_' + system_name + '.txt'
+                    file_path_name = output_path + 'summary.txt'
                     f = open(file_path_name, 'w')
                     f.write(output)
                     f.close()
