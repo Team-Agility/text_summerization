@@ -174,5 +174,4 @@ data/community/
 data/community_tagged/
 data/utterance/
 
-results/
 rouge2.0-distribution/test-summarization/
