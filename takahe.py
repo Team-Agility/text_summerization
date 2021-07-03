@@ -610,8 +610,12 @@ class word_graph:
         #
         # plt.tight_layout()
         # plt.show()
-        nx.draw(self.graph, nx.spring_layout(self.graph), with_labels=True)
-        plt.savefig(f"graphs/{uuid.uuid4()}.png")
+
+        # **************************************************************************
+        # save wn - word-graph as png
+        # **************************************************************************
+        # nx.draw(self.graph, nx.spring_layout(self.graph), with_labels=True)
+        # plt.savefig(f"graphs/{uuid.uuid4()}.png")
         # ---------------------------------------------
 
     # ###################################
@@ -715,7 +719,11 @@ class word_graph:
                 common_hyp_candidates = self.filter_cand_common_hyp(common_hyp_candidates, i)
                 entail_candidates     = self.filter_cand(entail_candidates, i)
 
-                #print(node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates)
+                print("/n -------------------------------------------------- /n")
+                print(node, same_candidates, syn_candidates, hyp_candidates, common_hyp_candidates, entail_candidates)
+                print("/n -------------------------------------------------- /n")
+
+
 
                 #-------------------------------------------------------------------
                 # If there is no ambiguous node in the graph, add new node to graph
@@ -999,6 +1007,12 @@ class word_graph:
             for node1, node2 in self.graph.edges_iter():
                 edge_weight = self.get_edge_weight(node1, node2)
                 self.graph.add_edge(node1, node2, weight=edge_weight)
+
+        # **************************************************************************
+        # save wordNet - word-graph as png
+        # **************************************************************************
+        nx.draw(self.graph, nx.spring_layout(self.graph), with_labels=True)
+        plt.savefig(f"graphs/wn_{uuid.uuid4()}.png")
 
     def ambiguous_nodes(self, node):
         """

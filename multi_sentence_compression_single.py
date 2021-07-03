@@ -44,8 +44,10 @@ ids = meeting_lists.ami_development_set \
 # path - stopwords
 path_to_stopwords = 'resources/stopwords/meeting/stopwords.' + language + '.dat'
 stopwords = utils.load_stopwords(path_to_stopwords)
+
 # path - GoogleNews
 path_to_wv = 'resources/GoogleNews-vectors-negative300.bin.gz'
+
 # path - en-70k-0.2.lm
 path_to_lm = 'resources/en-70k-0.2.lm'
 
