@@ -8,21 +8,14 @@ function ConfidenceSequence({data}) {
     return (
         <div>
             {
-                data && data.map((seq,i)=>{
+                data && data.map((act,i)=>{
                     return(
-                        <div key={i}>
-                            Title : {seq.title}
-                            {
-                                seq && seq.acts.map((act, j)=>{
-                                    return(
-                                        <div>
-                                            <p>Act : {act.act}</p>
-                                            <p>Confident : {act.confidence}</p>
-                                        </div>
-                                    )
-                                })
-                            }
-                              <hr />
+                        <div key={act.id}>
+                            <p>ID : {act.id}</p>
+                            <p>Act : {act.act}</p>
+                            <p>Confident : {act.confidence}</p>
+                            <p>End Time : {act.end_time}</p>
+                            <hr />
                         </div>
                     )
                 })
