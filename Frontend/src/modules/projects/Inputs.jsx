@@ -11,16 +11,23 @@ import {
   Card,
   PageHeader,
   Spin,
-  Select
+  Select,
+  Upload
 } from "antd";
 import { makeField } from "../../Components/Common/Controls/MakeField";
 import { projectActions } from "./ducks";
 import Uploader from "../../Components/Common/Controls/Uploader";
+import UploadFileContent from "../../Components/Common/UploadFileContent";
+import { UploadOutlined } from '@ant-design/icons';
+import history from "../../_helpers/history";
 
 const FormItem = Form.Item;
 const AInputField = makeField(Input);
 const ASelectField = makeField(Select);
 const { Option } = Select;
+const { TextArea } = Input;
+const ATextAreaField = makeField(TextArea);
+
 
 const buttonItemLayout = null;
 
@@ -33,10 +40,16 @@ const layout = {
   },
 };
 
-const selectHandler = () => {
-    console.log("")
-  }
-  
+const uploaderProps = {
+  progress: {
+    strokeColor: {
+      '0%': '#108ee9',
+      '100%': '#87d068',
+    },
+    strokeWidth: 3,
+    format: percent => `${parseFloat(percent.toFixed(2))}%`,
+  },
+};
 
 class Inputs extends React.Component {
   constructor(props) {
@@ -47,6 +60,8 @@ class Inputs extends React.Component {
       newTitle: "",
       newDescription: "",
       newLevel: "",
+      progress:0,
+      loading:false,
       project:[
         {
           key: '1',
@@ -82,54 +97,75 @@ class Inputs extends React.Component {
 
 
   handleSubmit = (values) => {
-    const { productManagementActions } = this.props
-    const projectDto = {
-      jiraProjectName: values.jiraProjectName,
-      projectCode: values.projectCode,
-      projectName: values.projectName
+    const { projectActions } = this.props
+    const createJobDto = {
+      transcript: JSON.parse(values.transcript)
     }
     console.log("Inputs ~ values", values)
-    productManagementActions.Inputs({projectDto})
+    console.log("Inputs ~ createJobDto", createJobDto)
+
+    
+    projectActions.createJob({createJobDto})
   };
 
   render() {
-    const {handleSubmit,pristine, reset, submitting } = this.props;
+    const {handleSubmit, createJob, projectActions } = this.props;
+    const { loading } = this.state
     console.log("Inputs ~ render ~ this.props", this.props)
 
-    const options = this.state.project.map((project,i)=>{
-      return(
-        <Option value={project.jiraCode}>{project.projectName}</Option>
-      )
-    })
     return (
-      <div>
+      <Spin spinning={loading}>
         <Card>
           <PageHeader className="site-page-header" title="Meeting Minutes" />
-          <Spin spinning={this.state.dataLoading}>
+          <Spin spinning={createJob.pending}>
             <Form layout={layout} onFinish={handleSubmit(this.handleSubmit)}>
-                <FormItem {...layout} label="Transcript File " required>
-                    <Uploader isAudio={true} />
-                </FormItem>
-
-                <FormItem {...buttonItemLayout}>
-                    <Button
-                        type="submit"
-                        // disabled={pristine || submitting}
-                        htmlType="submit"
-                        style={{ marginRight: "10px" }}
-                    >
-                        <i className="fad fa-check-circle"></i>&nbsp;
-                        Confirm
+                <FormItem {...layout} label="Audio File " required>
+                  <Upload
+                    accept=".wav"
+                    showUploadList={true}
+                    beforeUpload={file => {
+                      this.setState({
+                        loading:true
+                      })
+                      console.log(file)
+                        // const reader = new FileReader();
+                        // reader.onload = e => {
+                        //     //debugger
+                        //     console.log(e.target.result);
+                        //     const audio = e.target.result;
+                        //     // new Blob([audio])
+                            fetch( "http://localhost:5000/", {
+                              method: 'POST',
+                              headers: {
+                                  'Content-Type': 'application/json'
+                              },
+                              body: new Blob([file],{type: file.type })
+                            })
+                            .then(response => {
+                              this.setState({
+                                loading:false
+                              })
+                              console.log(response)
+                              // if (response.status / 100 === 2) resolve({ message: 'Success' });
+                              // reject(response);
+                              setTimeout(function(){ 
+                                history.push("/output");
+                              }, 3000);
+                            });
+                       
+                        // Prevent upload
+                        return false;
+                    }}
+                >
+                      <Button icon={<UploadOutlined />}>
+                         Click to Upload
                     </Button>
-                    <Button disabled={pristine || submitting} onClick={reset}>
-                        <i className="fad fa-redo-alt"></i>&nbsp;
-                        Reset
-                    </Button>
+                </Upload>
                 </FormItem>
             </Form>
            </Spin>
          </Card>
-       </div>
+       </Spin>
     );
   }
 }
@@ -137,17 +173,8 @@ class Inputs extends React.Component {
 const validate = (values) => {
     const errors = {};
     
-    if (!values.sprint) {
-      errors.sprint = "Sprint is required";
-    }
-    if (!values.projectCode) {
-      errors.projectCode = "Project code is required";
-    }
-    if (!values.projectName) {
-      errors.projectName = "Project name is required";
-    }
-    if (!values.jiraProjectName) {
-      errors.jiraProjectName = "Project jira name is required";
+    if (!values.transcript) {
+      errors.transcript = "Transcript is required";
     }
     return errors;
   };
@@ -155,13 +182,13 @@ const validate = (values) => {
 
 const mapStateToProps = (state) => {
     return {
-      fieldValues: getFormValues("Inputs")(state)
+      createJob:state.Projects.createJob
     };
   };
   
   function mapDispatchToProps(dispatch) {
     return {
-      productManagementActions: bindActionCreators(projectActions,dispatch)
+      projectActions: bindActionCreators(projectActions,dispatch)
     };
   }
   

@@ -4,44 +4,12 @@ import actions from "./actions";
 import types from "./types";
 import endPoints from "../../../utils/EndPoints";
 import * as API from "../../../utils/HTTPClient";
+import { NotificationManager } from "react-notifications";
+import { reset } from "redux-form";
+import history from "../../../_helpers/history";
 
-const getAllProjects = createLogic({
-  type: types.GET_ALL_PROJECTS,
-  latest: true,
-  debounce: 1000,
-
-  process({ MockHTTPClient }, dispatch, done) {
-    let HTTPClient;
-    if (MockHTTPClient) {
-      HTTPClient = MockHTTPClient;
-    } else {
-      HTTPClient = API;
-    }
-    console.log("Running getAllProjects Service");
-    HTTPClient.Get(endPoints.GetAllProjects)
-      .then((resp) => resp.data)
-      .then((data) => {
-        dispatch(actions.getAllProjectsSuccess(data));
-      })
-      .catch((err) => {
-        console.log("getAllProjects -> err", err);
-        var errorMessage = "Failed to get regions";
-        if (err && err.code === "ECONNABORTED") {
-          errorMessage = "Please check your internet connection.";
-        }
-        dispatch(
-          actions.getAllProjectsFail({
-            title: "Error!",
-            message: errorMessage,
-          })
-        );
-      })
-      .then(() => done());
-  },
-});
-
-const createProject = createLogic({
-  type: types.CREATE_PROJECT,
+const createJob = createLogic({
+  type: types.CREATE_JOB,
   latest: true,
   debounce: 1000,
 
@@ -52,23 +20,29 @@ const createProject = createLogic({
     } else {
       HTTPClient = API;
     }
-
-    console.log("Running createProject Service");
-    console.log("paylaod : ", action.payload);
-
-    HTTPClient.Post(endPoints.project, action.payload.projectDto)
+    console.log("Running createJob Service");
+    HTTPClient.Post(endPoints.create_job, action.payload.createJobDto)
       .then((resp) => resp.data)
       .then((data) => {
-        dispatch(actions.createProjectSuccess(data));
+        dispatch(actions.createJobSuccess(data));
+        NotificationManager.success("successfull created job", "Success");
+        dispatch(reset("Inputs"));
+        dispatch(actions.resetAllMeetings());
+        setTimeout(function(){ 
+          history.push("/output");
+        }, 3000);
+
       })
       .catch((err) => {
-        console.log("createProject -> err", err);
+        console.log("createJob -> err", err);
         var errorMessage = "Failed to get regions";
         if (err && err.code === "ECONNABORTED") {
           errorMessage = "Please check your internet connection.";
         }
+        NotificationManager.error("Fail created job", "Fail");
+
         dispatch(
-          actions.createProjectFail({
+          actions.createJobFail({
             title: "Error!",
             message: errorMessage,
           })
@@ -78,9 +52,8 @@ const createProject = createLogic({
   },
 });
 
-
-const getProject = createLogic({
-  type: types.GET_PROJECT,
+const getAllMeetings = createLogic({
+  type: types.GET_ALL_MEETINGS,
   latest: true,
   debounce: 1000,
 
@@ -91,20 +64,22 @@ const getProject = createLogic({
     } else {
       HTTPClient = API;
     }
-    console.log("Running getProject Service");
-    HTTPClient.Get(endPoints.GetAllProjects)
+
+    console.log("Running getAllMeetings Service");
+
+    HTTPClient.Get(endPoints.get_all_meetings)
       .then((resp) => resp.data)
       .then((data) => {
-        dispatch(actions.getProjectSuccess(data));
+        dispatch(actions.getAllMeetingsSuccess(data));
       })
       .catch((err) => {
-        console.log("getProject -> err", err);
+        console.log("getAllMeetings -> err", err);
         var errorMessage = "Failed to get regions";
         if (err && err.code === "ECONNABORTED") {
           errorMessage = "Please check your internet connection.";
         }
         dispatch(
-          actions.getProjectFail({
+          actions.getAllMeetingsFail({
             title: "Error!",
             message: errorMessage,
           })
@@ -114,32 +89,33 @@ const getProject = createLogic({
   },
 });
 
-const updateProject = createLogic({
-  type: types.UPDATE_PROJECT,
+
+const getMeetingStatus = createLogic({
+  type: types.GET_MEETING_STATUS,
   latest: true,
   debounce: 1000,
 
-  process({ MockHTTPClient }, dispatch, done) {
+  process({ MockHTTPClient, action }, dispatch, done) {
     let HTTPClient;
     if (MockHTTPClient) {
       HTTPClient = MockHTTPClient;
     } else {
       HTTPClient = API;
     }
-    console.log("Running updateProject Service");
-    HTTPClient.Get(endPoints.GetAllProjects)
+    console.log("Running getMeetingStatus Service");
+    HTTPClient.Get(endPoints.get_meeting_status+`${action.payload.id}`)
       .then((resp) => resp.data)
       .then((data) => {
-        dispatch(actions.updateProjectSuccess(data));
+        dispatch(actions.getMeetingStatusSuccess(data));
       })
       .catch((err) => {
-        console.log("updateProject -> err", err);
+        console.log("getMeetingStatus -> err", err);
         var errorMessage = "Failed to get regions";
         if (err && err.code === "ECONNABORTED") {
           errorMessage = "Please check your internet connection.";
         }
         dispatch(
-          actions.updateProjectFail({
+          actions.getMeetingStatusFail({
             title: "Error!",
             message: errorMessage,
           })
@@ -149,39 +125,4 @@ const updateProject = createLogic({
   },
 });
 
-const deleteProject = createLogic({
-  type: types.DELETE_PROJECT,
-  latest: true,
-  debounce: 1000,
-
-  process({ MockHTTPClient }, dispatch, done) {
-    let HTTPClient;
-    if (MockHTTPClient) {
-      HTTPClient = MockHTTPClient;
-    } else {
-      HTTPClient = API;
-    }
-    console.log("Running deleteProject Service");
-    HTTPClient.Get(endPoints.GetAllProjects)
-      .then((resp) => resp.data)
-      .then((data) => {
-        dispatch(actions.deleteProjectSuccess(data));
-      })
-      .catch((err) => {
-        console.log("deleteProject -> err", err);
-        var errorMessage = "Failed to get regions";
-        if (err && err.code === "ECONNABORTED") {
-          errorMessage = "Please check your internet connection.";
-        }
-        dispatch(
-          actions.deleteProjectFail({
-            title: "Error!",
-            message: errorMessage,
-          })
-        );
-      })
-      .then(() => done());
-  },
-});
-
-export default [getAllProjects, createProject, getProject, updateProject, deleteProject];
+export default [createJob, getAllMeetings, getMeetingStatus];
