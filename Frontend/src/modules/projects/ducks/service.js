@@ -28,10 +28,9 @@ const createJob = createLogic({
         NotificationManager.success("successfull created job", "Success");
         dispatch(reset("Inputs"));
         dispatch(actions.resetAllMeetings());
-        setTimeout(function(){ 
+        setTimeout(function () {
           history.push("/output");
         }, 3000);
-
       })
       .catch((err) => {
         console.log("createJob -> err", err);
@@ -89,7 +88,6 @@ const getAllMeetings = createLogic({
   },
 });
 
-
 const getMeetingStatus = createLogic({
   type: types.GET_MEETING_STATUS,
   latest: true,
@@ -103,7 +101,7 @@ const getMeetingStatus = createLogic({
       HTTPClient = API;
     }
     console.log("Running getMeetingStatus Service");
-    HTTPClient.Get(endPoints.get_meeting_status+`${action.payload.id}`)
+    HTTPClient.Get(endPoints.get_meeting_status + `${action.payload.id}`)
       .then((resp) => resp.data)
       .then((data) => {
         dispatch(actions.getMeetingStatusSuccess(data));
