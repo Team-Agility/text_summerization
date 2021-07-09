@@ -92,14 +92,18 @@ class Inputs extends React.Component {
     };
   }
 
-  handleSubmit = (values) => {
+  submitHandler = (values) => {
     const { projectActions } = this.props;
+    const { transcript, confidence, sequences } = this.state;
     const createJobDto = {
-      transcript: JSON.parse(values.transcript),
+      transcript: JSON.parse(transcript),
+      confidence: JSON.parse(confidence),
+      sequences: JSON.parse(sequences),
     };
-    console.log("Inputs ~ values", values);
-    console.log("Inputs ~ createJobDto", createJobDto);
+    // console.log("Inputs ~ values", values);
+    // console.log("Inputs ~ createJobDto", createJobDto);
 
+    console.log("createJobDto : ", createJobDto);
     projectActions.createJob({ createJobDto });
   };
 
@@ -112,7 +116,7 @@ class Inputs extends React.Component {
         <Card>
           <PageHeader className="site-page-header" title="Meeting Minutes" />
           <Spin spinning={createJob.pending}>
-            <Form layout={layout} onFinish={handleSubmit(this.handleSubmit)}>
+            <Form layout={layout} onFinish={handleSubmit(this.submitHandler)}>
               <FormItem {...layout} label="Transcript File " required>
                 <Upload
                   accept=".json, .csv"
@@ -122,10 +126,7 @@ class Inputs extends React.Component {
                     reader.onload = (e) => {
                       // debugger
                       console.log(e.target.result);
-                      const createJobDto = {
-                        transcript: JSON.parse(e.target.result),
-                      };
-                      projectActions.createJob({ createJobDto });
+                      this.setState({ transcript: e.target.result });
                     };
                     reader.readAsText(file);
 
@@ -135,6 +136,60 @@ class Inputs extends React.Component {
                 >
                   <Button icon={<UploadOutlined />}>Click to Upload</Button>
                 </Upload>
+              </FormItem>
+
+              <FormItem {...layout} label="Confidence File " required>
+                <Upload
+                  accept=".json, .csv"
+                  showUploadList={true}
+                  beforeUpload={(file) => {
+                    const reader = new FileReader();
+                    reader.onload = (e) => {
+                      // debugger
+                      console.log(e.target.result);
+                      this.setState({ confidence: e.target.result });
+                    };
+                    reader.readAsText(file);
+
+                    // Prevent upload
+                    return false;
+                  }}
+                >
+                  <Button icon={<UploadOutlined />}>Click to Upload</Button>
+                </Upload>
+              </FormItem>
+
+              <FormItem {...layout} label="Sequences File " required>
+                <Upload
+                  accept=".json, .csv"
+                  showUploadList={true}
+                  beforeUpload={(file) => {
+                    const reader = new FileReader();
+                    reader.onload = (e) => {
+                      // debugger
+                      console.log(e.target.result);
+
+                      this.setState({ sequences: e.target.result });
+
+                      // projectActions.createJob({ createJobDto });
+                    };
+                    reader.readAsText(file);
+
+                    // Prevent upload
+                    return false;
+                  }}
+                >
+                  <Button icon={<UploadOutlined />}>Click to Upload</Button>
+                </Upload>
+              </FormItem>
+
+              <FormItem {...layout}>
+                <Button
+                  icon={<UploadOutlined />}
+                  onClick={() => this.submitHandler()}
+                >
+                  Submit
+                </Button>
               </FormItem>
             </Form>
           </Spin>
