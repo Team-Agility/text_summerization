@@ -17,7 +17,7 @@ import {
   notification,
   Modal,
 } from "antd";
-import { BulbOutlined } from "@ant-design/icons";
+import { BulbOutlined, FileTextOutlined } from "@ant-design/icons";
 
 const contentStyle = {
   height: "260px",
@@ -32,6 +32,7 @@ class DashBoard extends React.Component {
     super(props);
     this.state = {
       todaysTip: "",
+      description: "In this module generate the summary with agreed format",
       dataLoading: false,
       user: "",
       visibleConfirmation: false,
@@ -96,11 +97,13 @@ class DashBoard extends React.Component {
               <h3 style={contentStyle}>
                 <img
                   style={{ height: "400px", width: "100%" }}
-                  src={process.env.PUBLIC_URL + "/Images/learn_01.jpg"}
+                  src={
+                    process.env.PUBLIC_URL + "/Images/text-summarization.jpg"
+                  }
                 />
               </h3>
             </div>
-            <div>
+            {/* <div>
               <h3 style={contentStyle}>
                 <img
                   style={{ height: "350px", width: "100%" }}
@@ -123,13 +126,13 @@ class DashBoard extends React.Component {
                   src={process.env.PUBLIC_URL + "/Images/learn_04.jpg"}
                 />
               </h3>
-            </div>
+            </div> */}
           </Carousel>
 
           <Divider>
             {" "}
             <b>
-              <BulbOutlined /> Today's Tip
+              <FileTextOutlined /> Module 04 - Meeting Minutes Generation
             </b>
           </Divider>
           <div>
@@ -140,7 +143,7 @@ class DashBoard extends React.Component {
                 textAlign: "center",
               }}
             >
-              "{this.state.todaysTip}"
+              {/* {this.state.description} */}
             </span>
           </div>
         </Card>
